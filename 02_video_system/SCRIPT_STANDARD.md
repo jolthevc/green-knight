@@ -27,7 +27,7 @@ Use:
 - channel `VOICE.md`
 - channel `AUDIENCE.md`
 - channel `CONTENT.md`
-- current packaging direction
+- approved outline Promise Lock
 - pronunciation notes where relevant
 
 ---
@@ -43,7 +43,7 @@ The script should be:
 - recognizably in the channel's voice
 - efficient
 - visually producible
-- aligned with the packaging promise
+- aligned with the approved Promise Lock
 
 ---
 
@@ -69,7 +69,7 @@ Do not mistake conversational writing for casual filler.
 
 ## 5. Opening
 
-The opening should fulfill the packaging contract immediately.
+The opening should fulfill the approved Promise Lock immediately.
 
 It should establish:
 
@@ -206,11 +206,15 @@ If the channel uses calls to action, they should be governed separately and not 
 
 ---
 
-## 13. Source Integrity
+## 13. Source Integrity and Fact Gate
 
 Every consequential claim should remain traceable to the source log.
 
 Script polish must never sever factual traceability.
+
+Before the script receives `APPROVE`, apply the script fact gate in `FACT_CHECK_STANDARD.md`.
+
+Unsupported or materially over-strengthened claims should route to `REVISE` or `RESEARCH_MORE` rather than reaching narration and production.
 
 ---
 
@@ -285,5 +289,5 @@ The script passes when:
 2. the story still works when heard without seeing research notes
 3. important claims are supported
 4. the channel voice is recognizable
-5. the packaging promise is fulfilled
+5. the approved Promise Lock is fulfilled
 6. there are no obvious unresolved editorial decisions
