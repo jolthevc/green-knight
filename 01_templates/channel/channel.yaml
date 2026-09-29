@@ -4,7 +4,9 @@
 # This file is intentionally concise.
 # Rich strategic and creative context belongs in the Markdown files beside it.
 # n8n and other systems may use this file to identify the channel, locate
-# canonical context, select workflows, and apply channel-specific configuration.
+# canonical context, and apply channel-specific configuration.
+# Live channel status remains canonical in Google Sheets. Shared workflows remain
+# portfolio-wide rather than being selected per channel.
 #
 # Replace placeholder values when creating a real channel.
 # Do not add arbitrary fields without updating the canonical schema once one exists.
@@ -15,7 +17,6 @@ channel:
   id: "CH000"
   slug: "replace-me"
   name: "Replace Me"
-  status: "DRAFT"
   language: "en"
   primary_platform: "youtube"
 
@@ -49,16 +50,6 @@ production:
   thumbnail_pool: ""
   target_cost_per_video_usd: null
   ai_generated_visuals_allowed: null
-
-workflows:
-  channel_ideation: "shared"
-  video_ideation: "shared"
-  research: "shared"
-  outline: "shared"
-  script: "shared"
-  packaging: "shared"
-  production_packet: "shared"
-  performance_analysis: "shared"
 
 storage:
   drive_channel_folder_id: ""
