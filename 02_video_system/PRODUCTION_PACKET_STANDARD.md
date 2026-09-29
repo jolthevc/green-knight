@@ -23,6 +23,21 @@ It should ensure the editor spends judgment on execution rather than discovering
 
 ---
 
+## Portfolio-Wide Editor Standard
+
+Every production packet must be interpreted alongside:
+
+- `06_production_system/EDITOR_CREATIVE_STANDARD.md`
+- `06_production_system/VISUAL_QUALITY_STANDARD.md`
+
+The production packet defines the intended editorial and visual direction for a specific video.
+
+Those portfolio standards define the editor's creative discretion and the minimum visual quality threshold.
+
+Where a packet contains a weak `PREFERRED` treatment, the editor is expected to improve it rather than execute it mechanically.
+
+---
+
 ## 2. Required Inputs
 
 Before the packet is created, the system should have:
