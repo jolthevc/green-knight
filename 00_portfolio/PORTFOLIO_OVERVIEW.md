@@ -480,7 +480,6 @@ One primary workbook should hold the structured portfolio and video data.
 The intended high-level structure is:
 
 - a portfolio overview tab containing one row per channel
-- an automatically consolidated cross-channel video view where useful
 - one standardized tab for each launched channel
 - one row per video inside each channel tab
 
@@ -520,25 +519,28 @@ Each channel should have its own Drive folder.
 
 Within each channel, content should be separated at minimum into unpublished and published work.
 
-A conceptual structure is:
+The canonical storage pattern is intentionally shallow:
 
 ```
-Channel Name/
+CH001 - Channel Name/
   Unpublished/
-    Video Title/
-      Research/
-      Outline/
-      Script/
-      Packaging/
-      Production Packet/
+    CH001-V0001 - Working Video Title/
+      01_VIDEO_BRIEF
+      02_RESEARCH_PACKET
+      03_SOURCE_LOG
+      04_OUTLINE
+      05_SCRIPT
+      06_PACKAGING_PACKET
+      07_PRODUCTION_PACKET
+      08_QA_RECORD
+      09_POSTMORTEM
       Assets/
+      Production/
       Final/
   Published/
-    Video Title/
-      ...
 ```
 
-The exact folder standard will be defined later.
+The detailed standard lives in `04_storage_system/DRIVE_ARCHITECTURE.md`.
 
 Drive should hold materials such as:
 
@@ -1035,8 +1037,10 @@ The following principles should guide Green Knight until evidence supports chang
 
 ## 21. Current Next Step
 
-With this portfolio overview established, the next foundational artifact is the **canonical channel template**.
+The foundational operating system now exists across channel definition, video development, data, storage, AI workflows, and production quality.
 
-That template should define, in a standardized and context-rich way, everything that must be understood about a channel before Green Knight allows it to move into content production.
+The current priority is to instantiate the first real pilot channel and build only the n8n infrastructure required to operate it cleanly.
 
-The template will become the shared structure used by every future channel while allowing each channel's actual creative identity to remain distinct.
+The goal is not to automate every theoretical future process.
+
+The goal is to prove that one channel can move from idea to editor-ready video package using the shared Green Knight system, then let real operating experience determine what deserves further automation.
