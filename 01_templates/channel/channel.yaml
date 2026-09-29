@@ -1,0 +1,73 @@
+# Green Knight Holdings
+# Canonical machine-readable channel configuration template.
+#
+# This file is intentionally concise.
+# Rich strategic and creative context belongs in the Markdown files beside it.
+# n8n and other systems may use this file to identify the channel, locate
+# canonical context, select workflows, and apply channel-specific configuration.
+#
+# Replace placeholder values when creating a real channel.
+# Do not add arbitrary fields without updating the canonical schema once one exists.
+
+schema_version: "1.0"
+
+channel:
+  id: "CH000"
+  slug: "replace-me"
+  name: "Replace Me"
+  status: "DRAFT"
+  language: "en"
+  primary_platform: "youtube"
+
+format:
+  primary_format: "long_form"
+  target_runtime_minutes:
+    min: null
+    target: null
+    max: null
+  publishing_cadence:
+    videos_per_month: null
+
+content:
+  primary_pillars: []
+  recurring_formats: []
+  evergreen_bias: null
+
+audience:
+  primary_audience_label: ""
+  geography: []
+  sophistication: ""
+
+voice:
+  narrator_profile: ""
+  synthetic_voice_allowed: true
+  voice_profile_id: ""
+
+production:
+  production_tier: ""
+  editor_pool: ""
+  thumbnail_pool: ""
+  target_cost_per_video_usd: null
+  ai_generated_visuals_allowed: null
+
+workflows:
+  channel_ideation: "shared"
+  video_ideation: "shared"
+  research: "shared"
+  outline: "shared"
+  script: "shared"
+  packaging: "shared"
+  production_packet: "shared"
+  performance_analysis: "shared"
+
+storage:
+  drive_channel_folder_id: ""
+  sheet_tab_name: ""
+  github_channel_path: ""
+
+ownership:
+  channel_owned_by_green_knight: true
+  monetization_owned_by_green_knight: true
+  original_ip_owned_by_green_knight: true
+
+notes: ""
