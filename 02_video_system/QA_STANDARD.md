@@ -17,6 +17,19 @@ A video should not publish until significant issues are resolved.
 
 ---
 
+## Portfolio-Wide Visual Quality Gate
+
+QA must apply:
+
+- `06_production_system/EDITOR_CREATIVE_STANDARD.md`
+- `06_production_system/VISUAL_QUALITY_STANDARD.md`
+
+Technical correctness alone is not sufficient.
+
+A video may fail QA if the finished product is dominated by generic filler stock, weak typography, obvious AI artifacts, inconsistent visual language, poor thumbnail execution, or another persistent visual pattern that materially lowers perceived quality.
+
+---
+
 ## 2. QA Inputs
 
 Review:
