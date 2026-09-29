@@ -17,6 +17,18 @@ The production system should preserve room for editors to exercise taste while e
 
 ---
 
+## Portfolio Baseline
+
+This channel-specific visual system sits above the portfolio-wide `06_production_system/VISUAL_QUALITY_STANDARD.md`.
+
+The portfolio standard defines the floor.
+
+This document defines the channel's specific visual identity.
+
+A channel may set a higher or more specialized bar, but should not weaken the portfolio quality threshold without an explicit strategic reason.
+
+---
+
 ## 1. Visual Identity in One Paragraph
 
 Describe the desired viewing experience.
