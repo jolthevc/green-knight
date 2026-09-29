@@ -96,12 +96,13 @@ Clone the canonical template:
 into:
 
 ```
-03_channels/
+channels/
   CH001-channel-slug/
 ```
 
 The new folder should contain:
 
+- `CHANNEL_CORE.md`
 - `CHANNEL.md`
 - `AUDIENCE.md`
 - `CONTENT.md`
@@ -221,7 +222,14 @@ Seed with:
 
 The examples file should improve over time.
 
-### 4.9 `channel.yaml`
+### 4.9 `CHANNEL_CORE.md`
+After the deeper channel files are coherent, complete the concise channel core.
+
+This is the high-signal context loaded by essentially every channel-specific AI workflow.
+
+It should summarize the deeper files rather than create a second set of rules.
+
+### 4.10 `channel.yaml`
 Complete the machine-readable configuration.
 
 ---
@@ -327,8 +335,7 @@ Run the shared video ideation process.
 
 Load:
 
-- `CHANNEL.md`
-- `AUDIENCE.md`
+- `CHANNEL_CORE.md`
 - `CONTENT.md`
 - `EXAMPLES.md`
 - relevant portfolio learnings
@@ -439,7 +446,7 @@ Use:
 - `SOURCE_LOG_STANDARD.md`
 - `research.md` prompt
 
-Then run research review.
+Then run the research fact gate from `FACT_CHECK_STANDARD.md` as part of research review.
 
 Allowed outcomes:
 
@@ -466,7 +473,7 @@ Save:
 
 `04_OUTLINE_v1`
 
-Run outline review.
+Run outline review and approve the video's **Promise Lock** before scripting. The Promise Lock defines the core viewer promise, strongest truthful packaging claim, opening obligation, and important forbidden implications.
 
 If revision is required, preserve meaningful versions.
 
@@ -483,15 +490,15 @@ Create the script using:
 - source log
 - audience
 - voice
-- packaging context
+- approved Promise Lock
 
 Save:
 
 `05_SCRIPT_v1`
 
-Run script review.
+Run the script fact gate from `FACT_CHECK_STANDARD.md` as part of script review.
 
-The script must be recordable and source-supported.
+The script must be recordable, source-supported, and aligned with the approved Promise Lock.
 
 Do not send a script to production simply because it is polished prose.
 
@@ -519,7 +526,9 @@ Develop:
 - recommended package
 - opening alignment
 
-Select a working final package.
+Packaging outcome is `SELECT`, `RETURN_TO_SCRIPT`, or `KILL`. If the strongest truthful package requires a meaningful script/opening change, return to scripting rather than overstating the video.
+
+Select a working final package when the outcome is `SELECT`.
 
 The human editor or thumbnail specialist may improve execution later.
 
@@ -847,6 +856,10 @@ Do not solve persistent talent problems by creating increasingly exhaustive inst
 ---
 
 # PART IX: DECIDE THE CHANNEL'S FUTURE
+
+Use `00_portfolio/CHANNEL_TEST_STANDARD.md`.
+
+A new channel should have an initial test plan before launch. The default first formal checkpoint is after approximately five published videos unless the channel has a reason to differ.
 
 Once enough evidence exists, evaluate the channel.
 
