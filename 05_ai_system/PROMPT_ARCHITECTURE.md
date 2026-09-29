@@ -40,7 +40,7 @@ What artifact or decision is required.
 Only the relevant portfolio standards.
 
 ### D. Channel context
-Only the relevant channel files.
+Always load `CHANNEL_CORE.md` for an instantiated channel, then only the deeper channel files relevant to the stage.
 
 ### E. Video state
 Relevant structured fields from Sheets.
@@ -69,8 +69,7 @@ Examples:
 
 ### Video ideation should load
 - portfolio overview excerpt if needed
-- channel definition
-- audience
+- `CHANNEL_CORE.md`
 - content
 - examples
 - historical video performance / learnings
@@ -81,6 +80,7 @@ It usually does not need:
 - QA standard
 
 ### Script drafting should load
+- `CHANNEL_CORE.md`
 - audience
 - voice
 - approved outline
