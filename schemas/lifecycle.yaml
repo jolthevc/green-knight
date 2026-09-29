@@ -1,0 +1,170 @@
+# Green Knight Holdings
+# Canonical machine-readable video lifecycle.
+# Markdown explains the philosophy; this file defines legal states and transitions.
+
+schema_version: "1.0"
+
+states:
+  IDEA:
+    required_artifacts: []
+    transitions:
+      SELECT: SELECTED
+      KILL: KILLED
+
+  SELECTED:
+    required_artifacts: []
+    transitions:
+      BRIEF_COMPLETE: BRIEFED
+      KILL: KILLED
+
+  BRIEFED:
+    required_artifacts:
+      - "01_VIDEO_BRIEF"
+    transitions:
+      START_RESEARCH: RESEARCHING
+      KILL: KILLED
+
+  RESEARCHING:
+    required_artifacts: []
+    transitions:
+      RESEARCH_COMPLETE: RESEARCHED
+      KILL: KILLED
+
+  RESEARCHED:
+    required_artifacts:
+      - "02_RESEARCH_PACKET"
+      - "03_SOURCE_LOG"
+    transitions:
+      START_REVIEW: RESEARCH_REVIEW
+
+  RESEARCH_REVIEW:
+    required_checks:
+      - "research_fact_gate"
+    outcomes:
+      PROCEED: OUTLINING
+      RESEARCH_MORE: RESEARCHING
+      REFRAME: BRIEFED
+      KILL: KILLED
+
+  OUTLINING:
+    required_artifacts: []
+    transitions:
+      OUTLINE_COMPLETE: OUTLINED
+
+  OUTLINED:
+    required_artifacts:
+      - "04_OUTLINE"
+    transitions:
+      START_REVIEW: OUTLINE_REVIEW
+
+  OUTLINE_REVIEW:
+    required_checks:
+      - "promise_lock"
+    outcomes:
+      APPROVE: SCRIPTING
+      REVISE: OUTLINING
+      RESEARCH_MORE: RESEARCHING
+      REFRAME: BRIEFED
+      KILL: KILLED
+
+  SCRIPTING:
+    required_artifacts: []
+    transitions:
+      SCRIPT_COMPLETE: SCRIPTED
+
+  SCRIPTED:
+    required_artifacts:
+      - "05_SCRIPT"
+    transitions:
+      START_REVIEW: SCRIPT_REVIEW
+
+  SCRIPT_REVIEW:
+    required_checks:
+      - "script_fact_gate"
+      - "promise_lock_alignment"
+    outcomes:
+      APPROVE: PACKAGING
+      REVISE: SCRIPTING
+      RETURN_TO_OUTLINE: OUTLINING
+      RESEARCH_MORE: RESEARCHING
+      KILL: KILLED
+
+  PACKAGING:
+    required_artifacts: []
+    outcomes:
+      SELECT: PACKAGED
+      RETURN_TO_SCRIPT: SCRIPTING
+      KILL: KILLED
+
+  PACKAGED:
+    required_artifacts:
+      - "06_PACKAGING_PACKET"
+    transitions:
+      PRODUCTION_PACKET_COMPLETE: PRODUCTION_READY
+
+  PRODUCTION_READY:
+    required_artifacts:
+      - "07_PRODUCTION_PACKET"
+    transitions:
+      START_PRODUCTION: IN_PRODUCTION
+      KILL: KILLED
+
+  IN_PRODUCTION:
+    required_artifacts: []
+    transitions:
+      FIRST_CUT_COMPLETE: FIRST_CUT
+
+  FIRST_CUT:
+    required_artifacts: []
+    transitions:
+      REVISE: REVISION
+      START_QA: QA
+
+  REVISION:
+    required_artifacts: []
+    transitions:
+      START_QA: QA
+
+  QA:
+    required_artifacts:
+      - "08_QA_RECORD"
+    outcomes:
+      PASS: READY_TO_PUBLISH
+      PASS_WITH_MINOR_NOTES: READY_TO_PUBLISH
+      FAIL_REVISION_REQUIRED: REVISION
+      ESCALATE: QA
+
+  READY_TO_PUBLISH:
+    required_artifacts: []
+    transitions:
+      PUBLISH: PUBLISHED
+
+  PUBLISHED:
+    required_artifacts: []
+    transitions:
+      START_MEASUREMENT: MEASURING
+
+  MEASURING:
+    required_artifacts: []
+    transitions:
+      EVALUATE: EVALUATED
+
+  EVALUATED:
+    required_artifacts:
+      - "09_POSTMORTEM"
+    transitions: {}
+
+  KILLED:
+    required_artifacts: []
+    transitions: {}
+
+artifact_order:
+  - "01_VIDEO_BRIEF"
+  - "02_RESEARCH_PACKET"
+  - "03_SOURCE_LOG"
+  - "04_OUTLINE"
+  - "05_SCRIPT"
+  - "06_PACKAGING_PACKET"
+  - "07_PRODUCTION_PACKET"
+  - "08_QA_RECORD"
+  - "09_POSTMORTEM"
