@@ -54,6 +54,10 @@ The system should preserve enough context to answer later:
 
 ## 3. Canonical States
 
+The machine-readable source of truth for legal states and transitions is `schemas/lifecycle.yaml`.
+
+This document explains the lifecycle in human terms. If a transition described here ever conflicts with the YAML, fix the inconsistency rather than letting two lifecycle definitions persist.
+
 Every video should occupy one primary lifecycle state.
 
 ### IDEA
@@ -107,6 +111,7 @@ Permitted outcomes:
 
 - APPROVE
 - REVISE
+- RESEARCH_MORE
 - REFRAME
 - KILL
 
@@ -131,6 +136,14 @@ Permitted outcomes:
 
 ### PACKAGING
 Titles, thumbnails, and opening-promise alignment are being developed.
+
+Permitted outcomes:
+
+- SELECT
+- RETURN_TO_SCRIPT
+- KILL
+
+If the strongest truthful package requires a materially different opening or script promise, return to scripting rather than stretching the package beyond the video.
 
 ### PACKAGED
 An approved packaging direction exists.
@@ -204,6 +217,7 @@ RESEARCH_REVIEW
                          ↓
                   OUTLINE_REVIEW
                    ├── REVISE
+                   ├── RESEARCH_MORE
                    ├── REFRAME
                    ├── KILL
                    └── APPROVE
@@ -220,6 +234,9 @@ RESEARCH_REVIEW
               └── APPROVE
                          ↓
                     PACKAGING
+              ├── RETURN_TO_SCRIPT
+              ├── KILL
+              └── SELECT
                          ↓
                      PACKAGED
                          ↓
@@ -243,6 +260,15 @@ RESEARCH_REVIEW
                          ↓
                     EVALUATED
 ```
+
+Backward routes are explicit in `schemas/lifecycle.yaml`. In particular:
+
+- research `REFRAME` returns to `BRIEFED`
+- outline `RESEARCH_MORE` returns to `RESEARCHING`
+- outline `REFRAME` returns to `BRIEFED`
+- script `RETURN_TO_OUTLINE` returns to `OUTLINING`
+- script `RESEARCH_MORE` returns to `RESEARCHING`
+- packaging `RETURN_TO_SCRIPT` returns to `SCRIPTING`
 
 A workflow may revisit earlier stages whenever evidence changes the underlying premise.
 
@@ -338,12 +364,15 @@ Recommended naming:
 
 - `01_VIDEO_BRIEF_v1`
 - `02_RESEARCH_PACKET_v1`
-- `03_OUTLINE_v1`
-- `03_OUTLINE_v2`
-- `04_SCRIPT_v1`
-- `04_SCRIPT_v2`
-- `05_PACKAGING_PACKET_v1`
-- `06_PRODUCTION_PACKET_v1`
+- `03_SOURCE_LOG_v1`
+- `04_OUTLINE_v1`
+- `04_OUTLINE_v2`
+- `05_SCRIPT_v1`
+- `05_SCRIPT_v2`
+- `06_PACKAGING_PACKET_v1`
+- `07_PRODUCTION_PACKET_v1`
+- `08_QA_RECORD_v1`
+- `09_POSTMORTEM_v1`
 
 The exact Drive naming standard will be defined separately.
 
