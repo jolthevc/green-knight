@@ -14,7 +14,7 @@ You will receive:
 - channel audience
 - channel voice
 - Script Standard
-- current packaging promise
+- approved outline Promise Lock
 
 ## Objective
 
@@ -27,7 +27,7 @@ Produce a script that is:
 - efficient
 - clear
 - visually producible
-- aligned with the click promise
+- aligned with the approved Promise Lock
 
 Do not include internal notes or unresolved placeholders.
 
