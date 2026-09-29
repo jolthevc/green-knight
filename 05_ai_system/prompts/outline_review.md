@@ -26,6 +26,7 @@ You will receive:
 - channel fit
 - runtime
 - whether every major section earns its place
+- whether the proposed Promise Lock is attractive, truthful, and actually supported by the outline
 
 ## Allowed Decisions
 
@@ -34,6 +35,8 @@ You will receive:
 - REFRAME
 - RESEARCH_MORE
 - KILL
+
+If APPROVE, also return the approved Promise Lock: core viewer promise, strongest truthful packaging claim, opening obligation, and forbidden implications.
 
 Return specific structural feedback.
 
