@@ -15,6 +15,20 @@ It should not duplicate the broader visual philosophy in `VISUAL_STYLE.md` or li
 
 ---
 
+## Portfolio Baseline
+
+This channel-specific file extends, but does not replace:
+
+- `06_production_system/EDITOR_CREATIVE_STANDARD.md`
+- `06_production_system/VISUAL_QUALITY_STANDARD.md`
+- `06_production_system/EDITOR_BRIEF_TEMPLATE.md`
+
+The portfolio standards define the minimum quality bar and editor relationship.
+
+This file should define how this specific channel differs.
+
+---
+
 ## 1. Production Model
 
 Describe the channel's intended production model.
