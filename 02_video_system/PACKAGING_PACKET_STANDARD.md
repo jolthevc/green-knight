@@ -20,7 +20,8 @@ The packet should explore genuinely different ways to express the video's value,
 Use:
 
 - approved thesis
-- approved outline or script
+- approved script
+- approved outline Promise Lock
 - channel packaging standard
 - audience definition
 - relevant historical packaging performance
@@ -32,7 +33,7 @@ Use:
 ## 3. Required Sections
 
 ### Core Viewer Promise
-State what the package needs to communicate.
+Restate the approved Promise Lock and explain what the package needs to communicate.
 
 ### Core Curiosity
 What should the viewer want to know?
@@ -192,7 +193,21 @@ Avoid:
 
 ---
 
-## 11. Completion Gate
+## 11. Packaging Decision
+
+Allowed outcomes:
+
+- `SELECT` — choose the package and advance
+- `RETURN_TO_SCRIPT` — the strongest truthful package requires a meaningful script/opening change
+- `KILL` — the video cannot be packaged attractively without materially misrepresenting it
+
+Packaging may sharpen the expression of the Promise Lock.
+
+It may not silently expand the video's factual promise beyond what the approved story supports.
+
+---
+
+## 12. Completion Gate
 
 Packaging passes when the chosen package:
 
