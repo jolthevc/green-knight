@@ -13,7 +13,8 @@ You will receive:
 - source log
 - channel context
 - Script Standard
-- current packaging promise
+- approved outline Promise Lock
+- Fact Check Standard
 
 ## Evaluate
 
@@ -23,8 +24,9 @@ You will receive:
 - pacing
 - repetition
 - factual support
+- passage of the script fact gate for consequential claims
 - retention risk
-- package fulfillment
+- Promise Lock fulfillment
 - ending
 - spoken naturalness
 
