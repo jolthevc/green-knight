@@ -1,0 +1,48 @@
+# Green Knight Holdings
+# Canonical machine-readable portfolio configuration.
+#
+# Rich operating context lives in Markdown standards.
+# This file exists so automation can locate the live systems without hard-coded
+# IDs scattered through n8n workflows.
+
+schema_version: "1.0"
+
+portfolio:
+  name: "Green Knight Holdings"
+  slug: "green-knight"
+  primary_platform: "youtube"
+
+github:
+  repository: "jolthevc/green-knight"
+  portfolio_overview_path: "00_portfolio/PORTFOLIO_OVERVIEW.md"
+  channel_template_path: "01_templates/channel"
+  video_system_path: "02_video_system"
+  data_system_path: "03_data_system"
+  storage_system_path: "04_storage_system"
+
+google_sheets:
+  portfolio_database_title: "Green Knight - Portfolio Database"
+  spreadsheet_id: "1e8Tv07XtynGfE8PVnx-4PgkQYILqcIp54617ItnisSY"
+  channels_tab: "00_CHANNELS"
+  channel_template_tab: "CH_TEMPLATE"
+
+google_drive:
+  root_folder_name: "Green Knight Holdings"
+  root_folder_id: "1u6lMW7SXbPjWpfPfbu4lnRmbB531QI_f"
+  channels_folder_id: "1CwoedTXsnR7v9RiVUQ0M0aZ_BI1b_6gM"
+  channel_template_folder_id: "1qDC0pB2FGeNLIqkAMNxK8_nMDy6tq_jf"
+  channel_template_unpublished_folder_id: "1RiWLd3rZIkZR3CyHCu2bbYpVr-J3XamE"
+  channel_template_published_folder_id: "1qWoKQq2m6b9SUsE897RwwWfevZZO92t4"
+  video_template_folder_id: "1DgPhub9kBYUZnqtPq1CrYynDKs2QdGhe"
+
+identifiers:
+  channel_id_pattern: "CH###"
+  video_id_pattern: "CH###-V####"
+
+system_of_record:
+  governance: "github"
+  channel_definition: "github"
+  structured_operating_state: "google_sheets"
+  working_artifacts: "google_drive"
+  orchestration: "n8n"
+  distribution_and_source_analytics: "youtube"
