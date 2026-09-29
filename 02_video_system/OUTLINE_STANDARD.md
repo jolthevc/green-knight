@@ -40,7 +40,12 @@ Include:
 - target viewer question
 - expected runtime
 - intended payoff
-- current packaging promise if known
+- initial packaging territory if known
+- **Promise Lock** containing:
+  - core viewer promise
+  - strongest claim the eventual title may truthfully make
+  - what the first ~60 seconds must establish or deliver
+  - important implications the package must not create
 
 ---
 
@@ -170,7 +175,26 @@ Avoid generic summaries that simply repeat the video.
 
 ---
 
-## 11. Outline Critique
+## 11. Promise Lock
+
+Before an outline can receive `APPROVE`, the reviewer must approve a short Promise Lock.
+
+The Promise Lock is not the final title or thumbnail.
+
+It establishes the boundary within which the script and later packaging should operate.
+
+It should answer:
+
+- What is the central viewer promise?
+- What is the strongest truthful claim packaging may make?
+- What must the opening establish quickly enough that the viewer feels the click was justified?
+- What would be an overclaim or misleading implication?
+
+If the story cannot support an attractive truthful promise, the reviewer may REFRAME or KILL rather than hiding the problem until packaging.
+
+---
+
+## 12. Outline Critique
 
 A critic should evaluate:
 
@@ -192,7 +216,7 @@ The critic should identify structural problems, not merely rewrite sentences.
 
 ---
 
-## 12. Permitted Review Outcomes
+## 13. Permitted Review Outcomes
 
 - APPROVE
 - REVISE
@@ -202,7 +226,7 @@ The critic should identify structural problems, not merely rewrite sentences.
 
 ---
 
-## 13. Failure Modes
+## 14. Failure Modes
 
 Avoid:
 
@@ -219,7 +243,7 @@ Avoid:
 
 ---
 
-## 14. Depth
+## 15. Depth
 
 The outline should be detailed enough that the script is mostly an execution task rather than a structural invention task.
 
@@ -229,7 +253,7 @@ Do not optimize to a fixed word count.
 
 ---
 
-## 15. Completion Gate
+## 16. Completion Gate
 
 The outline passes when a reviewer can answer:
 
@@ -240,3 +264,4 @@ The outline passes when a reviewer can answer:
 5. Does every major section earn its runtime?
 6. Can the story be visualized?
 7. Does the evidence support the structure?
+8. Is the Promise Lock attractive, truthful, and supported by the outline?
