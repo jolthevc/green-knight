@@ -13,6 +13,8 @@ You will receive:
 - source log
 - channel context
 - Research Packet Standard
+- Source Log Standard
+- Fact Check Standard
 
 ## Evaluate
 
@@ -23,6 +25,7 @@ You will receive:
 - whether the subject is visually feasible
 - whether a better framing emerged
 - whether key gaps remain
+- whether the research fact gate passes for consequential claims and numbers
 
 ## Allowed Decisions
 
