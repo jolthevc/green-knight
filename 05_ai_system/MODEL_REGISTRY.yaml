@@ -1,0 +1,57 @@
+# Green Knight Holdings
+# Logical model-role registry.
+#
+# Workflows should reference aliases rather than hard-coded model names.
+# Provider/model identifiers are intentionally placeholders until implementation
+# so the best currently available models can be selected and changed centrally.
+
+schema_version: "1.0"
+
+roles:
+  premium_reasoning:
+    provider: ""
+    model: ""
+    use_for:
+      - channel_ideation
+      - video_ideation
+      - research_review
+      - outline
+      - outline_review
+      - packaging
+      - performance_analysis
+
+  premium_writing:
+    provider: ""
+    model: ""
+    use_for:
+      - script
+      - script_revision
+
+  research_model:
+    provider: ""
+    model: ""
+    use_for:
+      - source_grounded_research
+
+  premium_multimodal:
+    provider: ""
+    model: ""
+    use_for:
+      - qa
+      - thumbnail_review
+      - production_visual_review
+
+  fast_utility:
+    provider: ""
+    model: ""
+    use_for:
+      - extraction
+      - normalization
+      - metadata
+      - schema_repair
+
+policies:
+  hard_code_model_names_in_workflows: false
+  default_high_leverage_passes: 2
+  allow_critic_to_kill: true
+  prefer_code_for_deterministic_tasks: true
