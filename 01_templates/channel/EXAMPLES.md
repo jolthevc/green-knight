@@ -3,6 +3,8 @@
 **Status:** Canonical channel-template artifact  
 **Purpose:** Turn abstract standards into concrete creative judgment.
 
+> **Calibration, not verified research.** Specific factual examples in this file — named events, dates, mechanisms, or claimed rule changes — are illustrative concept seeds and calibration material until independently verified through the normal Green Knight research workflow. Do not treat a claim here as verified fact simply because it appears in this file.
+
 ---
 
 ## How to Use This File
