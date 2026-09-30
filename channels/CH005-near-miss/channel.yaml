@@ -1,0 +1,56 @@
+channel:
+  id: CH005
+  name: Near Miss
+  slug: near-miss
+  status: development
+  format: long-form documentary
+  aspect_ratio: '16:9'
+  language: en
+  runtime_minutes:
+    target: 18-24
+    allowed: 15-28
+  cadence_during_calibration: roughly 2-3 per month, revisit at five-video checkpoint
+  core_arc:
+    - normal day
+    - hidden flaw
+    - escalation
+    - decision
+    - save
+    - counterfactual
+  pillars:
+    launch_core:
+      - Aviation Saves
+      - Nuclear and Military Close Calls
+      - Flaws Caught in Time
+    test:
+      - Digital Near Misses
+      - Space and Planetary
+  evidence_tiers:
+    - established
+    - inference
+    - estimate
+    - disputed
+  signature_devices:
+    - the_clock
+    - counterfactual_treatment
+    - hero_diagram
+  palette:
+    ground: near-black and deep navy
+    text: off-white
+    flaw_accent: amber
+    decision_accent: red
+    counterfactual_mode: muted blue-grey
+  hard_rules:
+    - every story anchored in a primary record
+    - no events where deaths are the core of the story
+    - margin claims must be sourced
+    - every counterfactual claim names its evidence tier
+    - no photoreal AI of real events, real people, or disasters that never occurred
+    - no listicles, compilations, or open investigations
+  file_naming: CH005-V0001_[artifact]_v1
+  open_questions:
+    - name availability and trademark check
+    - whether the digital pillar retains the core audience
+    - formal minimum evidence standard for counterfactual claims
+    - medical near misses held pending privacy review
+    - default stance on retelling famous stories
