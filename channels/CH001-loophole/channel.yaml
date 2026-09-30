@@ -1,0 +1,81 @@
+channel:
+  id: CH001
+  name: Loophole
+  slug: loophole
+  status: development
+  one_line: "Faceless long-form stories of clever, technically legal exploits that forced sports to rewrite their rules."
+  format:
+    type: faceless_long_form
+    aspect_ratio: "16:9"
+    resolution_min: 1080p
+    runtime_minutes:
+      min: 11
+      target: 14
+      max: 18
+    calibration_cadence: "2 videos per month (proposed)"
+    narration: undecided
+  audience:
+    primary: "Strategy-minded sports fans who follow one or two sports and enjoy cross-sport stories"
+    anti_audience:
+      - live analysis or betting seekers
+      - officials wanting technical reference
+      - scandal exposé seekers
+      - highlight-footage viewers
+  arc:
+    - loophole
+    - exploit
+    - backlash
+    - rule_change
+    - adaptation
+  pillars:
+    - id: tactical_exploits
+      name: Tactical Exploits
+    - id: format_incentive_breaks
+      name: Format and Incentive Breaks
+    - id: engineering_the_gap
+      name: Engineering the Gap
+  formats:
+    - id: case_file
+      role: default
+      runtime_minutes: "12-16"
+    - id: rulebook_arc
+      role: occasional
+      runtime_minutes: "15-18"
+  visual:
+    signature_device: amendment
+    palette:
+      paper: off_white
+      ink: black
+      exploiter: flag_yellow
+      rule_change: amendment_red
+    typography:
+      rule_text: classic_serif
+      labels: grotesque_sans
+      scores: monospace_optional
+    ai_imagery:
+      allowed:
+        - textures
+        - stylized_period_backdrops
+        - illustrative_objects
+      forbidden:
+        - photoreal_real_people
+        - photoreal_events
+        - documents
+        - scoreboards
+  rights:
+    league_broadcast_footage: not_by_default
+    fair_use_clips: requires_rights_review
+    music: licensed_library_only
+  hard_rules:
+    - quote the actual rule before the exploit
+    - complete the full arc including adaptation
+    - no plain cheating topics
+    - no listicles or rankings
+    - no single-cause overclaims
+    - never call a legal move cheating
+  open_questions:
+    - portfolio rights posture for short fair-use archival clips
+    - synthetic vs human narration
+    - betting-adjacent sponsor policy
+    - esports timing
+    - supply depth beyond famous cases
