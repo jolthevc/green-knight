@@ -175,6 +175,10 @@ Explain what should be learned from each example.
 
 Do not copy another channel wholesale.
 
+### Examples are calibration, not verified research
+
+Specific factual examples produced during channel development — named events, dates, mechanisms, claimed rule changes, or other concrete claims, especially in `EXAMPLES.md` — are illustrative concept seeds and calibration material until independently verified through the normal Green Knight research workflow. Channel development is not factual research. Later workflows must not treat a claim as verified fact simply because it appears in a channel-development file; they must verify it before relying on it.
+
 ---
 
 ## Production and Visual Quality
