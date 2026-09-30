@@ -1,81 +1,56 @@
+schema_version: "1.0"
+
 channel:
-  id: CH001
-  name: Loophole
-  slug: loophole
-  status: development
-  one_line: "Faceless long-form stories of clever, technically legal exploits that forced sports to rewrite their rules."
-  format:
-    type: faceless_long_form
-    aspect_ratio: "16:9"
-    resolution_min: 1080p
-    runtime_minutes:
-      min: 11
-      target: 14
-      max: 18
-    calibration_cadence: "2 videos per month (proposed)"
-    narration: undecided
-  audience:
-    primary: "Strategy-minded sports fans who follow one or two sports and enjoy cross-sport stories"
-    anti_audience:
-      - live analysis or betting seekers
-      - officials wanting technical reference
-      - scandal exposé seekers
-      - highlight-footage viewers
-  arc:
-    - loophole
-    - exploit
-    - backlash
-    - rule_change
-    - adaptation
-  pillars:
-    - id: tactical_exploits
-      name: Tactical Exploits
-    - id: format_incentive_breaks
-      name: Format and Incentive Breaks
-    - id: engineering_the_gap
-      name: Engineering the Gap
-  formats:
-    - id: case_file
-      role: default
-      runtime_minutes: "12-16"
-    - id: rulebook_arc
-      role: occasional
-      runtime_minutes: "15-18"
-  visual:
-    signature_device: amendment
-    palette:
-      paper: off_white
-      ink: black
-      exploiter: flag_yellow
-      rule_change: amendment_red
-    typography:
-      rule_text: classic_serif
-      labels: grotesque_sans
-      scores: monospace_optional
-    ai_imagery:
-      allowed:
-        - textures
-        - stylized_period_backdrops
-        - illustrative_objects
-      forbidden:
-        - photoreal_real_people
-        - photoreal_events
-        - documents
-        - scoreboards
-  rights:
-    league_broadcast_footage: not_by_default
-    fair_use_clips: requires_rights_review
-    music: licensed_library_only
-  hard_rules:
-    - quote the actual rule before the exploit
-    - complete the full arc including adaptation
-    - no plain cheating topics
-    - no listicles or rankings
-    - no single-cause overclaims
-    - never call a legal move cheating
-  open_questions:
-    - portfolio rights posture for short fair-use archival clips
-    - synthetic vs human narration
-    - betting-adjacent sponsor policy
-    - esports timing
-    - supply depth beyond famous cases
+  id: "CH001"
+  slug: "loophole"
+  name: "Loophole"
+  language: "en"
+  primary_platform: "youtube"
+
+format:
+  primary_format: "long_form"
+  target_runtime_minutes:
+    min: 11
+    target: 14
+    max: 18
+  publishing_cadence:
+    videos_per_month: 2
+
+content:
+  primary_pillars:
+    - "Tactical Exploits"
+    - "Format and Incentive Breaks"
+    - "Engineering the Gap"
+  recurring_formats:
+    - "Case File"
+    - "Rulebook Arc"
+  evergreen_bias: true
+
+audience:
+  primary_audience_label: "Strategy-minded sports fans who follow one or two sports and enjoy cross-sport stories"
+  geography: []
+  sophistication: "Informed generalist"
+
+voice:
+  narrator_profile: ""
+  synthetic_voice_allowed: true
+  voice_profile_id: ""
+
+production:
+  production_tier: ""
+  editor_pool: ""
+  thumbnail_pool: ""
+  target_cost_per_video_usd: null
+  ai_generated_visuals_allowed: true
+
+storage:
+  drive_channel_folder_id: "1PO0dR7G5ZadzoqmE6K-LKt_04Q1RoKMo"
+  sheet_tab_name: "CH001 - Loophole"
+  github_channel_path: "channels/CH001-loophole/"
+
+ownership:
+  channel_owned_by_green_knight: true
+  monetization_owned_by_green_knight: true
+  original_ip_owned_by_green_knight: true
+
+notes: ""
