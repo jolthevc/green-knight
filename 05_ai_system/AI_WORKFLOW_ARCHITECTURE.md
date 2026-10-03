@@ -396,6 +396,7 @@ Do not build these until needed.
 
 Potential examples:
 
+- NARRATION_AUTOMATION, only if production volume later makes editor-led voice generation a material cost or bottleneck
 - CHANNEL_REVIEW
 - PORTFOLIO_REVIEW
 - SPONSORSHIP_MATCHING
@@ -494,6 +495,8 @@ Human work should enter at clearly defined points.
 
 Initial likely handoffs:
 
+- channel approval and one-time narrator voice selection
+- editor narration generation from the approved script using the locked channel voice
 - channel approval
 - strategic video selection where desired
 - high-stakes editorial ambiguity
@@ -502,6 +505,8 @@ Initial likely handoffs:
 - final QA
 
 As system quality improves, Green Knight can reduce manual gates.
+
+Narration generation is intentionally a production handoff rather than an automated TTS workflow at the initial scale. n8n should define and validate the narrator profile, not manufacture per-video audio unless scale later justifies the plumbing.
 
 Do not make human approval mandatory at every stage simply because a human exists.
 
