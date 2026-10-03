@@ -151,9 +151,11 @@ An approved packaging direction exists.
 Required artifact: `PACKAGING_PACKET`.
 
 ### PRODUCTION_READY
-All inputs required by human production are complete.
+All inputs required for the human production resource to begin are complete.
 
 Required artifact: `PRODUCTION_PACKET`.
+
+For synthetic-narration channels, the required channel narrator profile must be locked and the production resource must have access to the approved voice-generation environment. Finished narration audio may be created during `IN_PRODUCTION`; it is not itself a prerequisite for `PRODUCTION_READY`.
 
 The video should not enter production merely because a script exists.
 
@@ -469,6 +471,7 @@ A video is production ready only when:
 - outline is approved
 - script is approved
 - narration copy is final
+- required channel narrator profile is locked and accessible to the production resource where synthetic narration is used
 - packaging direction is sufficiently defined
 - the production packet is complete
 - pronunciation issues are resolved
