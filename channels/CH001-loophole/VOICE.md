@@ -88,3 +88,18 @@ This fails because it is all hype, superlatives, and no mechanism.
 - Put punchlines at the end of sentences.
 - Use line breaks for pauses before reveals.
 - The dry tone is delivery-dependent. If narration is synthetic, reject any take where understatement reads flat or the punchline timing is lost.
+
+## 15. Synthetic Narrator Profile: loophole_narrator_v1
+Machine-readable settings live in `narration.yaml`. The audition passage and scorecard live in `NARRATION_CALIBRATION.md`.
+
+The narrator sounds interested in clever exploitation, not emotionally hyped by the event.
+- Smart, dry, understated, slightly mischievous.
+- Conversational, with crisp diction.
+- Neutral American accent, medium vocal register.
+- Confident but not theatrical.
+- Not a sports-announcer voice. Not a movie-trailer voice.
+- Humor is underplayed.
+- Mechanisms are explained patiently.
+- Default pace roughly 145-155 spoken words per minute, as a guide rather than a hard rule.
+
+Video-specific pronunciation, pauses, emphasis and pacing go in the video's `NARRATION_NOTES` doc and never change this identity.
