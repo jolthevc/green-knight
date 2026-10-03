@@ -62,3 +62,19 @@ Fails on hype and a claim we cannot support.
 
 ## 15. Narration Notes
 Spell out acronyms on first use, write numbers as spoken, add phonetics for names like Arkhipov and Serpukhov, avoid parentheticals, mark the pause at the save with a line break.
+
+## 16. Synthetic Narrator Profile: near_miss_narrator_v1
+Machine-readable settings live in `narration.yaml`. The voice-design prompt, audition passage, scorecard and lock record live in `NARRATION_CALIBRATION.md`.
+
+The narrator is a calm investigator walking an intelligent friend through a timeline. Tension comes from precision, time and restraint, never from volume.
+- Calm, precise, controlled, credible.
+- Low-to-medium register; warm but unhurried.
+- Neutral, internationally clear accent; crisp on numbers, times and technical terms.
+- Gets slower and more exact as the stakes rise, not louder or faster.
+- Comfortable with silence, especially at the decision and the save.
+- Respectful toward everyone involved; no blame in the voice.
+- Evidence tiers (established, inference, estimate, disputed) are read plainly, without hedging in the tone.
+- Never breathless, never a trailer voice, never true-crime melodrama.
+- Default pace roughly 140-150 spoken words per minute, tightening slightly during escalation. Guidance, not a hard rule.
+
+Video-specific pronunciation (e.g. Arkhipov, Serpukhov), pauses, emphasis and pacing are carried in the production packet / editor handoff. They never change the locked narrator identity.
