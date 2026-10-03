@@ -72,7 +72,7 @@ The row should develop with the video from idea through evaluation.
 
 ## 3. 00_CHANNELS Schema
 
-The portfolio tab contains 22 columns.
+The portfolio tab contains 23 columns.
 
 ### 1. `channel_id`
 
@@ -213,6 +213,20 @@ Canonical GitHub path for the channel definition.
 ### 22. `drive_folder`
 
 Canonical Google Drive channel folder.
+
+### 23. `narration_status`
+
+Operational readiness of the channel narrator.
+
+Allowed values:
+
+- NEEDS_SELECTION
+- READY
+- NOT_REQUIRED
+
+This field records whether the channel's narrator setup is operationally complete. It does **not** store provider voice IDs, model IDs, settings, or secrets.
+
+The narrator definition and provider implementation belong in the channel's GitHub files.
 
 ---
 
