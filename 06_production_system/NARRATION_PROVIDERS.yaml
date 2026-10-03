@@ -1,0 +1,48 @@
+# Green Knight Holdings
+# Portfolio narration provider registry.
+#
+# Workflows refer to a logical narration provider by key (e.g. "elevenlabs").
+# Provider-specific request details live here and in one adapter inside
+# VIDEO_NARRATION, nowhere else.
+#
+# NO SECRETS IN THIS FILE. API keys live only in the n8n credential store.
+# Voice IDs and model IDs are channel configuration (channels/<channel>/narration.yaml),
+# not portfolio configuration and not secrets.
+
+schema_version: "1.0"
+
+default_provider: "elevenlabs"
+
+segmentation:
+  # Segments follow paragraph (story) boundaries in the approved script.
+  # These are soft targets; a paragraph is only split at sentence ends if it
+  # exceeds max_words or max_chars.
+  target_words: 170
+  min_words: 90
+  max_words: 300
+  max_chars: 4000
+
+files:
+  # <video_id>_narration_master.<ext>, <video_id>_narration_seg01.<ext>, ...
+  master_suffix: "narration_master"
+  segment_prefix: "narration_seg"
+  manifest_suffix: "narration_manifest.json"
+  location: "Production/Narration/"
+
+providers:
+  elevenlabs:
+    implemented: true
+    base_url: "https://api.elevenlabs.io"
+    # n8n credential (Simplified Custom Auth, header xi-api-key) attached to the
+    # provider nodes in VIDEO_NARRATION. Named here for operators only.
+    n8n_credential_name: "ElevenLabs API"
+    output_format: "mp3_44100_128"
+    file_extension: "mp3"
+    mime_type: "audio/mpeg"
+    max_chars_per_request: 4000
+    send_context_text: true
+    apply_text_normalization: "auto"
+    # Models for which SSML <break time="x.xs" /> pause tags are sent. Leave empty
+    # until verified against the locked model; unsent pauses go to the editor via
+    # the narration manifest.
+    break_tag_models: []
