@@ -58,6 +58,7 @@ The editor is responsible for:
 - sourcing strong usable visuals
 - selecting among visual options
 - visual assembly
+- narration generation and delivery using the locked channel voice when assigned
 - pacing
 - rhythm
 - transitions
@@ -390,6 +391,8 @@ A good editor should know when to:
 - use silence
 - simplify a visually dense passage
 
+For synthetic-narration channels, narration delivery is part of pacing judgment. The editor may regenerate approved passages, create pauses, and adjust delivery against picture while preserving the approved wording and channel narrator identity.
+
 The appropriate pacing should reflect:
 
 - channel identity
@@ -525,7 +528,7 @@ Editors should not materially alter:
 
 - thesis
 - factual meaning
-- narration
+- narration wording or channel voice identity
 - story structure
 - claims
 - statistics
