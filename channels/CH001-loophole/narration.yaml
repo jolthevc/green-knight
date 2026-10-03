@@ -1,0 +1,23 @@
+# CH001 Loophole - narrator identity (machine-readable).
+# Human-readable brief: VOICE.md section 15 and NARRATION_CALIBRATION.md.
+#
+# voice_id and model_id are configuration, not secrets. They stay null until a
+# voice is auditioned and locked. API keys never go here.
+
+schema_version: "1.0"
+
+narration:
+  required: true
+  provider: elevenlabs
+  voice_profile: loophole_narrator_v1
+  # candidate | locked. VIDEO_NARRATION refuses to generate until "locked".
+  profile_status: candidate
+  voice_id: null
+  model_id: null
+  # Optional provider voice settings, filled in at lock time from calibration.
+  # Example keys: stability, similarity_boost, style, speed, use_speaker_boost.
+  voice_settings: {}
+  # Optional integer for best-effort repeatable generations.
+  seed: null
+  # Guidance only, not enforced.
+  pace_wpm: "145-155"
