@@ -39,6 +39,8 @@ audience:
   geography: []
   sophistication: ""
 
+# voice_profile_id is Green Knight's internal narrator-profile identifier,
+# not a provider voice ID. Provider implementation lives in narration.yaml.
 voice:
   narrator_profile: ""
   synthetic_voice_allowed: true
