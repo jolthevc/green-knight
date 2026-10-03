@@ -21,6 +21,8 @@ channels/
     PRODUCTION.md
     EXAMPLES.md
     channel.yaml
+    narration.yaml              # when synthetic narration is used
+    NARRATION_CALIBRATION.md    # when synthetic narration is used
 ```
 
 The permanent `channel_id` anchors the folder.
