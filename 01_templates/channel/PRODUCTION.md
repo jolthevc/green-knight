@@ -65,7 +65,7 @@ List everything the production team should receive before editing begins.
 Typical inputs may include:
 
 - approved script
-- narration audio
+- locked narrator profile and provider access where synthetic narration is used
 - production packet
 - source log
 - visual references
@@ -109,6 +109,7 @@ Potential responsibilities include:
 
 - sourcing appropriate legal assets
 - assembling visuals
+- narration generation and delivery when assigned
 - pacing
 - music
 - sound design
@@ -129,7 +130,7 @@ Potential responsibilities include:
 - approved thesis
 - research
 - script
-- narration
+- narrator identity and approved voice access
 - brand standards
 - production packet
 - key source materials
@@ -243,7 +244,7 @@ Define how contractors receive:
 - feedback
 - deadlines
 
-Prefer revocable access over ownership transfer.
+Prefer revocable access over ownership transfer. For synthetic narration, use revocable provider workspace / seat access where supported; never share raw API keys with editors.
 
 ---
 
