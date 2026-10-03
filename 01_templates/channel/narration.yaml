@@ -1,0 +1,26 @@
+# Green Knight Holdings
+# Canonical machine-readable narration configuration template.
+#
+# This file defines the channel narrator implementation. It does not trigger
+# automated TTS generation. The human editor generates narration during production
+# using the locked voice and approved script.
+#
+# Provider voice IDs and model IDs are configuration, not secrets.
+# API keys never belong here.
+
+schema_version: "1.1"
+
+narration:
+  required: true
+  provider: elevenlabs
+  voice_profile: "replace-me_narrator_v1"
+  # candidate | locked
+  profile_status: candidate
+  voice_id: null
+  # Baseline model used during audition / calibration.
+  model_id: null
+  # Baseline provider settings. Editors may adjust delivery within channel rules.
+  voice_settings: {}
+  # Guidance only, not mechanically enforced.
+  pace_wpm: ""
+  generation_owner: editor
