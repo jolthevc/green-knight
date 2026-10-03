@@ -33,9 +33,9 @@ audience:
   sophistication: "Informed generalist"
 
 voice:
-  narrator_profile: ""
+  narrator_profile: "Calm, precise, controlled investigator; low-to-medium register; builds tension through detail and timing, never volume or sensationalism"
   synthetic_voice_allowed: true
-  voice_profile_id: ""
+  voice_profile_id: "near_miss_narrator_v1"
 
 production:
   production_tier: ""
