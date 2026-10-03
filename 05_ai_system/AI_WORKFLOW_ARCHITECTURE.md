@@ -496,9 +496,8 @@ Human work should enter at clearly defined points.
 Initial likely handoffs:
 
 - channel approval and one-time narrator voice selection
-- editor narration generation from the approved script using the locked channel voice
-- channel approval
 - strategic video selection where desired
+- editor narration generation from the approved script using the locked channel voice
 - high-stakes editorial ambiguity
 - final packaging selection
 - video editing
