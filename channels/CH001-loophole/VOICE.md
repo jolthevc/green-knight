@@ -102,4 +102,4 @@ The narrator sounds interested in clever exploitation, not emotionally hyped by 
 - Mechanisms are explained patiently.
 - Default pace roughly 145-155 spoken words per minute, as a guide rather than a hard rule.
 
-Video-specific pronunciation, pauses, emphasis and pacing go in the video's `NARRATION_NOTES` doc and never change this identity.
+Video-specific pronunciation, pauses, emphasis and pacing should be carried in the production packet / editor handoff as needed. They never change the locked narrator identity, and no dedicated narration-automation document is required.
