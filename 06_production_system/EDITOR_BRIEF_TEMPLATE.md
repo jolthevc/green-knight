@@ -14,7 +14,9 @@
 **Due Date:** [DATE]  
 **Production Packet:** [LINK]  
 **Script:** [LINK]  
-**Narration:** [LINK]  
+**Narrator Profile:** [PROFILE / LINK]  
+**Voice Platform Access:** [CONFIRMED / NOT REQUIRED]  
+**Pronunciation Notes:** [LINK / NONE]  
 **Assets:** [LINK]  
 **Channel Visual Standard:** [LINK]  
 **Reference Examples:** [LINK]
@@ -66,7 +68,19 @@ Improve it or flag it.
 
 ---
 
-## 4. Quality Bar
+## 4. Narration Production
+
+If synthetic narration is in scope, generate it from the approved script using the locked channel voice.
+
+You may regenerate passages and adjust delivery, pauses, spacing, and pacing to make the edit work naturally.
+
+Do not change script wording, factual meaning, or narrator identity without approval.
+
+Use the recorded channel model/settings as the baseline where applicable.
+
+---
+
+## 5. Quality Bar
 
 The video should feel:
 
@@ -91,7 +105,7 @@ Specific real visuals are strongly preferred where they add credibility.
 
 ---
 
-## 5. AI-Generated Imagery
+## 6. AI-Generated Imagery
 
 [ALLOWED / LIMITED / NOT ALLOWED]
 
@@ -105,7 +119,7 @@ Flag any realistic generated scene that could be mistaken for documentation of a
 
 ---
 
-## 6. Thumbnail Responsibility
+## 7. Thumbnail Responsibility
 
 [EDITOR / SEPARATE DESIGNER / NOT IN SCOPE]
 
@@ -117,7 +131,7 @@ Final approval remains with Green Knight.
 
 ---
 
-## 7. Deliverables
+## 8. Deliverables
 
 Expected:
 
@@ -126,11 +140,12 @@ Expected:
 - approved final master
 - thumbnail if assigned
 - relevant project/source files as specified
+- relevant narration exports when synthetic narration is generated in production
 - any missing-asset or rights flags
 
 ---
 
-## 8. Flag Before Assuming
+## 9. Flag Before Assuming
 
 Flag issues involving:
 
@@ -146,7 +161,7 @@ Do not silently solve editorial problems by changing the story.
 
 ---
 
-## 9. Final Reminder
+## 10. Final Reminder
 
 Green Knight wants creative editors, not robots.
 
