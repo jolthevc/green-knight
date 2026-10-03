@@ -235,10 +235,13 @@ Anti-examples are often more useful than additional adjectives.
 
 ## 15. Narration Considerations
 
-If using synthetic or human voiceover, note writing choices that improve spoken delivery.
+If using synthetic or human voiceover, define the audible narrator identity as well as writing choices that improve spoken delivery.
+
+For synthetic narration, this section should agree with `narration.yaml` and `NARRATION_CALIBRATION.md`. Green Knight selects and locks the narrator; the production editor generates and iterates delivery against picture.
 
 Consider:
 
+- narrator personality and audible register
 - punctuation
 - sentence length
 - pronunciation
@@ -248,6 +251,7 @@ Consider:
 - difficult proper nouns
 - rhythm
 - pauses
+- delivery qualities to avoid
 
 ---
 
