@@ -112,6 +112,8 @@ The new folder should contain:
 - `PRODUCTION.md`
 - `EXAMPLES.md`
 - `channel.yaml`
+- `narration.yaml` when synthetic narration is used
+- `NARRATION_CALIBRATION.md` when synthetic narration is used
 
 Do not delete template sections because they are difficult to answer.
 
@@ -232,6 +234,17 @@ It should summarize the deeper files rather than create a second set of rules.
 ### 4.10 `channel.yaml`
 Complete the machine-readable configuration.
 
+### 4.11 Narrator Definition
+For a synthetic-narration channel:
+
+- create `narration.yaml`
+- create `NARRATION_CALIBRATION.md`
+- define the narrator identity in `VOICE.md`
+- generate a channel-specific voice-design / search prompt and calibration passage
+- leave the provider voice as a candidate until a human chooses it
+
+Workflow creation defines what the narrator should sound like. Human taste selects the actual voice.
+
 ---
 
 ## Step 5: Review the Channel as a Whole
@@ -257,7 +270,27 @@ Fix contradictions before launch.
 
 # PART II: CREATE THE OPERATING INFRASTRUCTURE
 
-## Step 6: Create the Channel Tab in Google Sheets
+## Step 6: Select and Lock the Channel Narrator
+
+If the channel uses synthetic narration:
+
+1. open the channel's `NARRATION_CALIBRATION.md`
+2. audition or design candidate voices in the approved provider
+3. choose the voice that best fits the full channel, not merely the most impressive short demo
+4. save the winning voice under Green Knight's provider account/workspace
+5. record its provider `voice_id`, baseline model, and relevant settings in `narration.yaml`
+6. set `profile_status: locked`
+7. set `00_CHANNELS.narration_status = READY`
+
+This is a one-time human taste decision per narrator profile.
+
+Do not automate voice selection.
+
+If narration is not required, set `narration_status = NOT_REQUIRED`.
+
+---
+
+## Step 7: Create the Channel Tab in Google Sheets
 
 Duplicate:
 
@@ -277,7 +310,7 @@ Update the `00_CHANNELS` row with:
 
 ---
 
-## Step 7: Create the Google Drive Channel Folder
+## Step 8: Create the Google Drive Channel Folder
 
 Under:
 
@@ -307,7 +340,7 @@ Follow:
 
 ---
 
-## Step 8: Confirm Cross-System Identity
+## Step 9: Confirm Cross-System Identity
 
 Before video ideation, verify:
 
@@ -329,7 +362,7 @@ If these disagree, stop and fix them.
 
 # PART III: BUILD THE INITIAL CONTENT SLATE
 
-## Step 9: Generate a Broad Video Idea Pool
+## Step 10: Generate a Broad Video Idea Pool
 
 Run the shared video ideation process.
 
@@ -352,7 +385,7 @@ A new channel should normally begin with a broad pool of ideas rather than immed
 
 ---
 
-## Step 10: Curate the Initial Slate
+## Step 11: Curate the Initial Slate
 
 Select a smaller initial slate from the idea pool.
 
@@ -375,7 +408,7 @@ Write selected ideas to the channel Sheet.
 
 ---
 
-## Step 11: Assign Video IDs
+## Step 12: Assign Video IDs
 
 When an idea moves to `SELECTED`, assign:
 
@@ -393,7 +426,7 @@ Never reuse IDs from killed videos.
 
 # PART IV: DEVELOP EACH VIDEO
 
-## Step 12: Create the Video Drive Folder
+## Step 13: Create the Video Drive Folder
 
 When a video becomes `SELECTED`, create under:
 
@@ -414,7 +447,7 @@ Do not create empty editorial documents before they are needed.
 
 ---
 
-## Step 13: Create the Video Brief
+## Step 14: Create the Video Brief
 
 Use:
 
@@ -433,7 +466,7 @@ Update Sheet status to:
 
 ---
 
-## Step 14: Research
+## Step 15: Research
 
 Create:
 
@@ -459,7 +492,7 @@ Do not continue merely because research has already cost money.
 
 ---
 
-## Step 15: Outline
+## Step 16: Outline
 
 Create the outline using:
 
@@ -481,7 +514,7 @@ Do not script a structurally weak outline.
 
 ---
 
-## Step 16: Script
+## Step 17: Script
 
 Create the script using:
 
@@ -504,7 +537,7 @@ Do not send a script to production simply because it is polished prose.
 
 ---
 
-## Step 17: Packaging
+## Step 18: Packaging
 
 Create:
 
@@ -534,7 +567,7 @@ The human editor or thumbnail specialist may improve execution later.
 
 ---
 
-## Step 18: Create the Production Packet
+## Step 19: Create the Production Packet
 
 Create:
 
@@ -561,7 +594,7 @@ The editor should know exactly where they have creative freedom.
 
 # PART V: HAND OFF TO THE EDITOR
 
-## Step 19: Create the Editor Brief
+## Step 20: Create the Editor Brief
 
 Use:
 
@@ -573,7 +606,9 @@ The editor should receive access to the smallest useful set of material.
 
 - Editor Brief
 - approved script
-- narration / voiceover
+- locked narrator profile / voice reference
+- revocable access to the approved voice platform where synthetic narration is used
+- pronunciation guidance as needed
 - production packet
 - packaging packet or relevant packaging direction
 - source assets supplied by Green Knight
@@ -595,7 +630,7 @@ Give them the context required to make good creative decisions without drowning 
 
 ---
 
-## Step 20: Explicitly Explain the Editor's Creative Role
+## Step 21: Explicitly Explain the Editor's Creative Role
 
 The editor should understand:
 
@@ -603,6 +638,8 @@ The editor should understand:
 
 They may:
 
+- generate and regenerate approved narration with the locked channel voice
+- adjust narration pauses, emphasis, and pacing against picture
 - source better footage
 - improve visual treatments
 - adjust pacing
@@ -616,7 +653,7 @@ They may not silently alter:
 
 - thesis
 - facts
-- narration
+- narration wording or channel voice identity
 - story architecture
 - major claims
 - major packaging promise
@@ -628,7 +665,7 @@ Follow:
 
 ---
 
-## Step 21: First Cut
+## Step 22: First Cut
 
 Editor delivers the first cut into:
 
@@ -651,7 +688,7 @@ Do not wait until final export to identify fundamental visual problems.
 
 ---
 
-## Step 22: Revisions
+## Step 23: Revisions
 
 Send revision notes using:
 
@@ -670,7 +707,7 @@ Revision quality should improve over time as editor and channel become calibrate
 
 # PART VI: QA AND PUBLICATION
 
-## Step 23: Final QA
+## Step 24: Final QA
 
 Use:
 
@@ -695,7 +732,7 @@ Human final approval is appropriate initially.
 
 ---
 
-## Step 24: Final Assets
+## Step 25: Final Assets
 
 Place approved assets in:
 
@@ -716,7 +753,7 @@ Maintain one clearly approved master.
 
 ---
 
-## Step 25: Publish
+## Step 26: Publish
 
 Upload to YouTube.
 
@@ -743,7 +780,7 @@ Do not duplicate it.
 
 # PART VII: LEARN
 
-## Step 26: Capture Performance
+## Step 27: Capture Performance
 
 Initial standardized comparison window:
 
@@ -765,7 +802,7 @@ Including:
 
 ---
 
-## Step 27: Create the Postmortem
+## Step 28: Create the Postmortem
 
 Use:
 
@@ -786,7 +823,7 @@ Do not rewrite the original hypothesis using hindsight.
 
 ---
 
-## Step 28: Write Structured Learning Back to Sheets
+## Step 29: Write Structured Learning Back to Sheets
 
 Update:
 
@@ -801,7 +838,7 @@ Detailed analysis remains in the Drive postmortem.
 
 ---
 
-## Step 29: Update Channel Standards When Evidence Justifies It
+## Step 30: Update Channel Standards When Evidence Justifies It
 
 If repeated evidence reveals a durable channel-level rule, update the relevant GitHub file.
 
@@ -819,7 +856,7 @@ Do not turn one video's result into a permanent rule.
 
 # PART VIII: EARLY-CHANNEL CALIBRATION
 
-## Step 30: Treat the First 3 to 5 Videos as Calibration
+## Step 31: Treat the First 3 to 5 Videos as Calibration
 
 The first several videos deserve more active involvement.
 
@@ -839,7 +876,7 @@ Update the channel files as real evidence replaces initial assumptions.
 
 ---
 
-## Step 31: Evaluate the Editor Relationship
+## Step 32: Evaluate the Editor Relationship
 
 After several videos ask:
 
@@ -888,6 +925,8 @@ Before the first video enters production, confirm:
 - [ ] audience defined
 - [ ] content engine defined
 - [ ] voice defined
+- [ ] narrator profile selected / locked, or narration marked NOT_REQUIRED
+- [ ] editor voice-platform access path defined where synthetic narration is used
 - [ ] packaging defined
 - [ ] visual style defined
 - [ ] production model defined
