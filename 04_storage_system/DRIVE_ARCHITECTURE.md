@@ -249,7 +249,7 @@ Do not treat the existence of a file in `Assets/` as proof that it is licensed f
 
 Examples:
 
-- narration audio
+- narration audio generated during production when retained
 - editor project files
 - first cuts
 - review exports
