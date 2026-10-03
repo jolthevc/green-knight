@@ -1,6 +1,6 @@
 # Loophole Narration Calibration (loophole_narrator_v1)
 
-**Status:** Audition material. Not a video script and not for publication.
+**Status:** Audition material. Not a video script and not for publication.  
 **Purpose:** Compare candidate voices on the same passage before locking `loophole_narrator_v1`.
 
 ## 1. Narrator Brief
@@ -22,6 +22,7 @@ The narrator should sound interested in clever exploitation, not emotionally hyp
 - Use the same model, the same settings and the same output format for every candidate.
 - Prefer stable, production-quality voices you own or have saved to your library. Avoid temporary or default voices.
 - Listen on speakers and on headphones.
+- Select for full-episode durability, not the most impressive ten-second demo.
 
 ## 3. Calibration Passage
 
@@ -66,14 +67,30 @@ About 165 words: roughly 65-70 seconds at the target pace.
 
 When a winner is chosen, update `narration.yaml`:
 
-- `voice_id`: the winning voice's ID.
-- `model_id`: the model used in the audition.
-- `voice_settings`: the settings used in the audition, if any were changed from defaults.
+- `voice_id`: the winning provider voice ID.
+- `model_id`: the baseline model used in the audition.
+- `voice_settings`: the baseline settings used in the audition, if relevant.
 - `profile_status`: `locked`.
 
-Record the winner, the date and the runners-up below. A later voice change is a new profile (`loophole_narrator_v2`), not an edit to v1.
+Then set the channel's operational `narration_status` to `READY`.
 
-## 7. Audition Log
+The locked profile is the voice the production editor receives access to. The editor generates narration in-platform during the edit, using the approved script and this profile as the baseline.
+
+A later narrator-identity change is a new profile (`loophole_narrator_v2`), not a silent edit to v1.
+
+## 7. Production Handoff
+
+The editor should receive:
+
+- the approved script
+- access to the locked Loophole voice
+- the baseline model/settings recorded here
+- pronunciation notes
+- the Loophole voice and production standards
+
+The editor may iterate delivery against picture, but may not change script wording or substitute a different narrator without approval.
+
+## 8. Audition Log
 
 - Candidates: _not yet auditioned_
 - Winner: _none_
