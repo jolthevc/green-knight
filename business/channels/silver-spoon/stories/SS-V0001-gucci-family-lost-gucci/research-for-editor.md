@@ -1,28 +1,28 @@
-# Research references for the editor
+# Editor's factual references | Gucci v2
 
-Episode SS-V0001, `How the Gucci Family Lost Gucci`.
-**Script v1, SHA-256:** `6b56b1f852a7c268e62d4e170a5f95c404fc2adb2252611296963d298c7a7cde`
-**Research:** 2026-10-10. Source IDs correspond to internal `evidence.json` and `sources-and-claims.md`.
+**Episode:** SS-V0001, `How the Gucci Family Lost Gucci`.
+**Script:** v2; SHA-256 `1ce7d1cdf0fe9f9e8a9697151c0823b4ef54fcff2a176188e5c4c35639c56059`; research as of 2026-10-10.
 
-## What this episode is actually about
+## One-paragraph story
 
-The family exited the **equity ownership** of Gucci through a late-1980s first-half sale to Investcorp and the September 1993 sale of Maurizio Gucci's remaining half. A surname, a legally protected brand and an ownership stake are distinct. The mid-1990s creative recovery occurred after the family already sold. Avoid a false impression that Maurizio's 1995 killing prompted the sale.
+Gucci's founding-family shareholders sold the company in stages: Giorgio and Roberto were identified as sellers to an intermediary in April 1988; Investcorp emerged as buyer; a reported June 1988 attempt to obtain a board majority was blocked by court custodians overseeing Maurizio's challenged shares. Investcorp later acquired Maurizio's remaining half in September 1993, ending founding-family equity ownership. A later successful turnaround does not establish that the family's recovery under continued ownership was feasible.
 
-## Essential distinctions and references
+## Source/context guide
 
-| Topic | Primary/reference link | Support and accuracy limit |
+| Detail | Link | What it supports / limitation |
 |---|---|---|
-| Foundation | https://www.gucci.com/us/en/nst/history-of-gucci | Current Gucci history says 1921 in Florence. An older company filing gives 1923, so the current Gucci account governs the script. |
-| Family branches / 1988 trademark decision | https://law.justia.com/cases/federal/district-courts/FSupp/688/916/2134716/ | Court confirms Guccio's sons, Aldo's sons, Maurizio's inheritance and conditional restrictions on Paolo's name as a trademark. Do not depict loss of legal surname. |
-| First external half | https://www.sec.gov/Archives/edgar/data/1001576/000104746903025628/a2115580z20fr12b.htm | Company filing says 50% acquired by Investcorp in 1987–89; contemporary reporting described 47.8% at a 1988 announcement. |
-| September 1993 last-half sale | https://www.latimes.com/archives/la-xpm-1993-09-28-fi-39952-story.html | Report records completed sale, litigation, contradictory partner explanations and $150m–$200m **published estimate**, not individual net wealth. |
-| Early revival and IPO | https://www.sec.gov/Archives/edgar/data/1001576/000104746903025628/a2115580z20fr12b.htm | Post-family Ford/De Sole period 1994; 1995 IPO 48% at $22 per share; 1996 remainder 52% at $48; Gucci brand revenue exceeded $1bn in 1998. |
-| Family murder chronology | https://www.theguardian.com/fashion/2016/jul/24/the-gucci-wife-and-the-hitman-fashions-darkest-tale | Death occurred in 1995, after family sale in 1993. No speculative personal motivations. |
-| 1999 ownership contest | https://www.sec.gov/Archives/edgar/data/1001576/000095017204000996/gucci.htm | Later public corporate stakes and governance, **not** a Gucci family succession event. |
-| Later owner identity | https://www.kering.com/en/houses/fashion-and-leather-goods/gucci/ | Kering's corporate account lists Gucci as a group house; confirm any contemporary parent wording before upload. |
+| Official 1921 founding date | https://www.gucci.com/us/en/nst/history-of-gucci | Current Gucci company heritage; 2003 SEC retrospective instead states 1923 |
+| Family relationships and Paolo's commercial-name case | https://law.justia.com/cases/federal/district-courts/FSupp/688/916/2134716/ | 1988 U.S. court finds Paolo's limited ability to identify himself as designer under different mark, not global ban on legal surname; U.S. subsidiary facts require scope |
+| Giorgio + Roberto April 1988 sale | https://www.latimes.com/archives/la-xpm-1988-04-18-fi-948-story.html | Morgan Stanley holds 47.7%, 44.4% from two brothers, client **not publicly identified** in this account |
+| Reported June 1988 board attempt | https://www.latimes.com/archives/la-xpm-1988-06-10-fi-5194-story.html | Investcorp 4 of 8; blocked bid for fifth director; custodians overseeing claimed 50% Maurizio stake |
+| Family/management context in 1988 | https://www.latimes.com/archives/la-xpm-1988-10-23-fi-228-story.html | Giorgio's own retrospective reasons; family allegations and recollections not established motive as fact |
+| 1993 final buyout and July conflict | https://www.latimes.com/archives/la-xpm-1993-09-28-fi-39952-story.html | Maurizio last half, $150m–$200m contemporary reported estimate, disputed misconduct claims, stated advisory role and projected capital infusion |
+| 1987–89/1993 timeline, IPO and $1bn 1998 Gucci sales | https://www.sec.gov/Archives/edgar/data/1001576/000104746903025628/a2115580z20fr12b.htm | Corporate Form 20-F is core chronological source. These are **group stakes** and **revenues**, not personal net wealth |
+| Maurizio death 1995 | https://www.theguardian.com/fashion/2016/jul/24/the-gucci-wife-and-the-hitman-fashions-darkest-tale | Happened **after** 1993 sale and did not cause family ownership exit |
+| LVMH/PPR post-family | https://www.sec.gov/Archives/edgar/data/1001576/000104746903025628/a2115580z20fr12b.htm | Later corporate shareholder contest, different from 1993 family succession |
 
-## Accuracy constraints
+## Required accuracy guardrails
 
-Do not invent sale contracts, exact cash balances, family dialogue, motives, bank statements, or financial valuations. Do not depict offered share prices as company values or investment returns. Family relationships are evidence-backed; personal net wealth is not. Court findings in a U.S. trademark case apply to the described legal parties and jurisdiction, not to every global Gucci entity automatically.
+Never imply shareholding equals exercisable votes or board leadership. The April 1988 client was anonymous **at that announcement**; subsequent reports identified Investcorp. Court custodians are a documented governance impediment, not evidence that the court gave Investcorp a controlling interest. Do not invent board minutes, private conversations, emotional reactions, amounts received by individuals, motives, financial statements or genuine historical documents. Claims of mismanagement and craftsmanship conflicts were adversarial statements, not adjudicated facts. The period $150m–$200m range is reported estimate, not verified net proceeds.
 
-The references above are **factual research**, not licensed visual or audio source assets. The editor independently proposes treatment, obtains needed permissions and submits any factual reconstructions for checking. The exact spoken script is `script.txt`.
+Preserve the separation between **trademarks, civil surnames, economic equity, voting/control rights and executive roles**. The editor owns visual choices and production treatment. These URLs are fact references, **not** permissions to reproduce copyrighted media.
