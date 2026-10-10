@@ -1,6 +1,13 @@
 # QA and stage gating | FG-V0001
 
-**Canonical v1:** `ba4305e44011f488cb57b21d5082714a97e4ad388e8e88abe69b1d4672445e12` | **Status:** scripted | **Text verdict:** EDITORIALLY_READY after internal review.
+**Canonical v2:** `9c86e31841030a86c68cf943bf9e789e39af8dbc0df88725b8fa1ddf7399d496` | **Status:** scripted | **Text verdict:** EDITORIALLY_READY after internal review.
+
+## Review-specific V2 gating
+
+- [x] Verified exact v1 baseline and saved formal v1 REVIEW-only critique before owner-authorized edits.
+- [x] Rebuilt V2 with Simon security-director placement authority, one alleged $70k portion of a $500k award, observed FBI contest, and legally differentiated acquittals.
+- [x] Added S009 California appellate source, rebuilt all 27 paragraph claims, 9 content coverage groups and 14 voice cues.
+- [x] Saved version-specific change report and post-revision final text re-review. No known P0 or P1 remains; actual audio still untested.
 
 ## Completed
 
@@ -13,9 +20,9 @@
 - [x] Initial >$13m alleged face-value grand prizes distinguished from personal cash, annuity installments, and actual recovery.
 - [x] No invented private testimony, movie scene, security seal hack, victim or FBI dialogue.
 - [x] Full-body narration includes required non-spoken `TITLE: ...` first line and one blank separator.
-- [x] 29 paragraph claims, 10 contiguous scene/meaning coverage groups, and 13 exact-hash sparse voice cues.
-- [x] Original 1,544-word draft criticized for repetitive middle and excessive estimated runtime; revised to 1,343 words and re-reviewed.
-- [x] Assumed 150 WPM +10 intentional seconds = 547.2s, within 480–600s target **on estimate only**.
+- [x] 27 paragraph claims, 9 contiguous scene/meaning coverage groups, and 14 exact-hash sparse voice cues.
+- [x] Original 1,544-word pre-canonical draft revised into v1, followed by a formal critical review of v1 and owner-authorized v2. V2 re-reviewed after source-backed improvements.
+- [x] Assumed 150 WPM +12 intentional seconds = 522.0s, within 480–600s target **on estimate only**.
 - [x] Internal newcomer/informed-skeptic editorial verdict saved; no confirmed P0/P1 factual/text issues.
 - [x] Packaging, editorial research packet, narrator guide and editor-owned visual coverage/handoff saved.
 - [ ] Run complete local repo Python `tools/validate.py`; current connector supports GitHub content access and writes but does not provide local checkout. Cross-file structural validation done separately in connected session, not claimed as Python execution.
