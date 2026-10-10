@@ -773,6 +773,12 @@
           "status": "scripted",
           "note": "Complete v1 1,401-word spoken script, evidence map with 29 claims/10 scene groups, sparse cues, synthesis, internal editorial review, packaging, editor handoff and QA saved. Script SHA 6b56b1f852a7c268e62d4e170a5f95c404fc2adb2252611296963d298c7a7cde. JS structural checks passed; repository Python validator not run. Voice/style unapproved, no media produced.",
           "actor": "ChatGPT"
+        },
+        {
+          "date": "2026-10-10",
+          "status": "scripted",
+          "actor": "ChatGPT",
+          "note": "Revised canonical Gucci script to v2 (1,418 words, 30 paragraphs; SHA 1ce7d1cdf0fe9f9e8a9697151c0823b4ef54fcff2a176188e5c4c35639c56059). Implemented the five P1 findings from reviews/script-v1-review-2026-10-10.md: named first sellers, 1988 board seat dispute, clarified Maurizio 1993 conflict, shortened trademark/IPO digressions and sharpened closing. Rebuilt evidence (12 opened sources), delivery cues, research, editorial QA and handoff; saved v1-to-v2 comparison and final v2 review. Connector-side structural validation of 19 files found zero issues; full Python validate.py not executed. Stage remains scripted, no audio/visual pilot performed."
         }
       ]
     },
