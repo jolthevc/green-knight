@@ -1,4 +1,4 @@
-# Synthesis, beats and story-first review, Gucci v2
+# Synthesis, beats and story-first review, Gucci v3
 
 > **Title-header sync (2026-10-10):** canonical `script.txt` v3 starts with `TITLE: How the Gucci Family Lost Gucci` and a blank line. This header is not spoken; the 1,418-word narration and P001–P030 anchors remain identical to v2. Full-file SHA-256 is `6a63b009eee4db27dbfab6a5ec144a5c3e5ebe9dc082ba3c0ff0469253312cca`.
 
