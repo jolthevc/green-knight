@@ -40,7 +40,7 @@ Avoid unverified offer anecdotes, fabricated conversations, invented private tho
 
 Write for the ear with concrete examples and varied rhythm. Explain terms through the business situation. Keep amounts and names pronounceable while preserving exact underlying figures in the source map.
 
-script.txt contains only spoken words. Citations, headings, timestamps, visual descriptions and delivery tags belong in separate files. Paragraph-linked visuals should reveal what changed, not supply generic stock scenes.
+script.txt starts with the **non-spoken** `TITLE: <metadata.title>` and a blank line; after that, it contains only spoken words. Citations, other headings, timestamps, visual descriptions and delivery tags belong in separate files. Exclude the title from narration and word count. Paragraph-linked visuals should reveal what changed, not supply generic stock scenes.
 
 Use documentary evidence selectively and let the audience read important excerpts. Reconstructions and illustrative charts are labeled.
 
