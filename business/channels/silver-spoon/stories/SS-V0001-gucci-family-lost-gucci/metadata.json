@@ -5,7 +5,7 @@
   "channel": "silver-spoon",
   "title": "How the Gucci Family Lost Gucci",
   "status": "scripted",
-  "script_version": 1,
+  "script_version": 2,
   "created_at": "2026-10-10",
   "updated_at": "2026-10-10",
   "research_as_of": "2026-10-10",
@@ -13,11 +13,11 @@
   "runtime": {
     "target_min_seconds": 480,
     "target_max_seconds": 600,
-    "word_count": 1401,
+    "word_count": 1418,
     "assumed_or_observed_wpm": 150,
     "extra_pause_seconds": 11,
     "silent_hold_seconds": 0,
-    "estimated_seconds": 571.4,
+    "estimated_seconds": 578.2,
     "actual_video_seconds": null
   },
   "narration": {
@@ -50,6 +50,11 @@
       "date": "2026-10-10",
       "version": 1,
       "note": "First complete script drafted, condensed from overlong initial pass, 1921 date corrected against Gucci official history, internal critique completed."
+    },
+    {
+      "date": "2026-10-10",
+      "version": 2,
+      "note": "V1 cold review applied: explicit first sellers and blocked June 1988 control attempt, 1993 conflict, shorter trademark and IPO epilogue, revised 30-paragraph spoken draft."
     }
   ],
   "visual": {
@@ -58,12 +63,12 @@
     "reference_urls": [],
     "profile_version": 0
   },
-  "script_sha256": "6b56b1f852a7c268e62d4e170a5f95c404fc2adb2252611296963d298c7a7cde",
+  "script_sha256": "1ce7d1cdf0fe9f9e8a9697151c0823b4ef54fcff2a176188e5c4c35639c56059",
   "editorial": {
     "passed": true,
-    "reviewed_by": "ChatGPT internal editorial review",
+    "reviewed_by": "ChatGPT final v2 internal editorial review (not external independent)",
     "reviewed_at": "2026-10-10",
-    "reviewed_script_sha256": "6b56b1f852a7c268e62d4e170a5f95c404fc2adb2252611296963d298c7a7cde",
+    "reviewed_script_sha256": "1ce7d1cdf0fe9f9e8a9697151c0823b4ef54fcff2a176188e5c4c35639c56059",
     "blocking_issues": []
   },
   "production_review": {
