@@ -461,6 +461,146 @@
           "actor": "ChatGPT"
         }
       ]
+    },
+    {
+      "id": "FG-I0001",
+      "channel": "fools-gold",
+      "title": "The Missing Money at Wirecard",
+      "aliases": [
+        "Wirecard: The €1.9 Billion That Never Existed"
+      ],
+      "subject": "Wirecard's reported assets and verification",
+      "mechanism": "Discrepancies between reported financial claims and verifiable underlying evidence",
+      "viewer_promise": "Understand the apparent financial picture, verification failures and documented exposure.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-10",
+      "updated_at": "2026-10-10",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-10",
+          "status": "proposed",
+          "note": "Imported from earlier discussion as an unselected, unresearched sample concept. Earlier title retained as alias; implied amounts, rankings, responsibility and causal claims require verification. Research must establish evidence status and may change the framing. Date records import.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "FG-I0002",
+      "channel": "fools-gold",
+      "title": "The Loss Hidden Inside Barings",
+      "aliases": [
+        "How One Trader Hid a Fortune-Sized Hole and Sank a 233-Year-Old Bank"
+      ],
+      "subject": "Barings concealed trading losses",
+      "mechanism": "Trading records, control failures and loss concealment",
+      "viewer_promise": "Understand the documented concealment mechanism rather than a general bank-collapse biography.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-10",
+      "updated_at": "2026-10-10",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-10",
+          "status": "proposed",
+          "note": "Imported from earlier discussion as an unselected, unresearched sample concept. Earlier title retained as alias; implied amounts, rankings, responsibility and causal claims require verification. Research must establish evidence status and may change the framing. Date records import.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "FG-I0003",
+      "channel": "fools-gold",
+      "title": "The Salad Oil Scandal",
+      "aliases": [
+        "The Salad Oil Scandal That Nearly Took Down American Express"
+      ],
+      "subject": "Salad oil collateral scandal",
+      "mechanism": "Apparent inventory, collateral claims and verification gaps",
+      "viewer_promise": "Understand how apparent collateral differed from the underlying goods and how the gap was exposed.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-10",
+      "updated_at": "2026-10-10",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-10",
+          "status": "proposed",
+          "note": "Imported from earlier discussion as an unselected, unresearched sample concept. Earlier title retained as alias; implied amounts, rankings, responsibility and causal claims require verification. Research must establish evidence status and may change the framing. Date records import.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "FG-I0004",
+      "channel": "fools-gold",
+      "title": "The Counterfeit Wine Mystery",
+      "aliases": [
+        "The Man Who Faked the World's Rarest Wines"
+      ],
+      "subject": "Counterfeit rare wine",
+      "mechanism": "Manufactured provenance and authenticity signals",
+      "viewer_promise": "Understand the credibility mechanism and evidence that distinguished apparent provenance from reality.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-10",
+      "updated_at": "2026-10-10",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-10",
+          "status": "proposed",
+          "note": "Imported from earlier discussion as an unselected, unresearched sample concept. Earlier title retained as alias; implied amounts, rankings, responsibility and causal claims require verification. Research must establish evidence status and may change the framing. Date records import.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "FG-I0005",
+      "channel": "fools-gold",
+      "title": "How Fake Reviews Became a Business",
+      "aliases": [
+        "How Fake Reviews Became an Industry"
+      ],
+      "subject": "Manufactured online reviews",
+      "mechanism": "Artificial reputation signals and buyer trust",
+      "viewer_promise": "Understand a documented reputation-manufacturing mechanism, with specific evidence and scope.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-10",
+      "updated_at": "2026-10-10",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-10",
+          "status": "proposed",
+          "note": "Imported from earlier discussion as an unselected, unresearched sample concept. Earlier title retained as alias; implied amounts, rankings, responsibility and causal claims require verification. Research must establish evidence status and may change the framing. Date records import.",
+          "actor": "ChatGPT"
+        }
+      ]
     }
   ]
 }

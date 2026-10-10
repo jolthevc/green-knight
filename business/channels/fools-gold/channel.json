@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "workspace": "manual_business",
+  "id": "fools-gold",
+  "idea_prefix": "FG-I",
+  "story_prefix": "FG-V",
+  "name": "Fool’s Gold",
+  "language": "en",
+  "target_runtime_seconds": {
+    "min": 480,
+    "target": 540,
+    "max": 600
+  },
+  "publication_cadence": null,
+  "production_status": "setup",
+  "narration": {
+    "profile": "curious, precise, lightly wry, restrained, empathetic",
+    "provider": null,
+    "voice_id": null,
+    "calibrated_wpm": null
+  },
+  "visual_direction_status": "magician_inspired_direction_selected_details_proposed",
+  "automated_portfolio_registration": false
+}
