@@ -1,34 +1,43 @@
-# Narration guide | DH-V0002 Disney-Pixar
+# Narration guide | DH-V0002, Pixar/Disney v2
 
-**Exact canonical script:** [script.txt](script.txt) v1, SHA-256 `e3a67c6e7658393b89268213a0da67125bb54ca7f079d3791aa5d76e88009008`. The first `TITLE: How Steve Jobs Became Disney's Biggest Individual Shareholder` line and following blank separator are **non-spoken**. The 31 body paragraphs alone are narration. Cue instructions are non-spoken and must not be placed in an untested TTS request.
+**Script:** [script.txt](script.txt) v2, SHA-256 `b17e484fa6abc164c8ea7bc691d18e3cb05134844a51beb4ae074ee2d679e949`. First line `TITLE: How Steve Jobs Became Disney's Biggest Individual Shareholder` is **not spoken**, nor is the blank line. Only body P001–P031 supplies words for narration. Directions below and `delivery-cues.json` are non-spoken.
 
-## Overall read
+## Tone / cadence
 
-Curious financial storyteller, warm and confident, light sense of discovery. The listener should feel a business deal happening, not a Wikipedia lecture about Apple. Introduce the companies through films before ratio language. Read the 2004 rupture plainly, not as a personal vendetta between Jobs and Eisner. Give the share conversion a precise, audible beat with a short natural pause. End on the two ownership outcomes without triumphalism or a rising dramatic flourish.
+Conversational, precise, curious and animated by the true 2004–06 deal. Avoid true-crime or auctioneer hype. The hook is a concrete outcome, not a mystery box. Let the new film-rights discovery register before moving to the acquisition logic. Pixar created the characters, Disney controlled much of their exploitation under the old contract; give these company roles real emphasis, without suggesting Disney was the sole owner of every movie or that Pixar had no rights.
 
-**Voice profile:** `changing_hands_narrator` v0 unselected. No synthetic provider/model/voice ID or human performer approved, no audition heard. Assumed pace **150 WPM**, spoken 1366 words plus **13 seconds deliberate extra pauses**, silent holds 0: 559.4 seconds (~9:19). Neither narrator WPM nor actual cut duration observed.
+Story delivery contrasts: familiar Nemo/Toy Story discussion warm; contract turns exact but plain; January negotiations measured; 2.3 ratio slowed; closing on a larger entity holding smaller personal percentage reflective rather than triumphant. Avoid artificial crescendos or condescending finance lessons.
 
-## Paragraph cues
+**Voice profile:** changing_hands_narrator v0, unselected. No approved synthetic provider/performer/model/voice_id/recorded audition or measured voice speed. **Estimated only:** 1,353 spoken body words at assumed 150 WPM plus 13 explicit extra cue pause seconds and zero silent holds = **554.2 sec (~9:14)**. Ordinary punctuation already assumed within WPM. At 140 WPM ~593 sec, still within 10 minutes by a small margin; actual finished video controls.
 
-| ID / exact opening | Pace and feeling | Emphasis already in text | Extra silence after |
+## Paragraph-linked cues
+
+| Paragraph and source-exact opening | Pace/intent | Words with proposed emphasis | Additional pause |
 |---|---|---|---|
-| P001 “In May 2006, Steve Jobs became Disney's largest individual shareholder. Not” | slower / curious | “became Disney's largest individual shareholder” | 1 sec |
-| P007 “By 2004, their talks about extending the relationship had broken down. Disn” | slower / matter_of_fact | “By 2004” | 1 sec |
-| P011 “In 2005, Robert Iger became Disney's chief executive. Talks between the com” | natural / curious | “October twelfth” | 1 sec |
-| P015 “By January twelfth, 2006, the two sides had reached preliminary understandi” | slower / curious | “the exchange ratio” | 1 sec |
-| P016 “On January twenty-first, Jobs and Iger settled on a figure they were prepar” | slower / matter_of_fact | “two point three Disney shares” | 1 sec |
-| P017 “This was an all-stock acquisition. Disney did not give every Pixar sharehol” | slower / matter_of_fact | “twenty-three Disney shares” | 1 sec |
-| P019 “Now comes the twist that makes this deal different. Jobs was not just Pixar” | natural / curious | “just over half” | 0 sec |
-| P020 “He agreed to vote shares representing forty percent of Pixar's outstanding ” | slower / matter_of_fact | “forty percent” | 1 sec |
-| P022 “On May fifth, 2006, the deal actually closed. Disney issued roughly 278 mil” | slower / matter_of_fact | “On May fifth, 2006” | 1 sec |
-| P023 “Jobs' own filing gives the precise arithmetic. His 60 million and two Pixar” | slower / matter_of_fact | “138 million and seven shares” | 1 sec |
-| P024 “He had gone from holding a majority of Pixar to holding a minority of Disne” | natural / reflective | “stock-market value” | 1 sec |
-| P027 “Did Disney pay too much? The answer wasn't written into the contract. Pixar” | natural / skeptical | “Did Disney pay too much?” | 1 sec |
-| P029 “The deeper reason the deal is so interesting is that Disney wasn't merely p” | slower / reflective | “Disney empire” | 1 sec |
-| P030 “So the next time you see Toy Story under the Disney name, remember what els” | slower / reflective | “Disney got Pixar” | 1 sec |
+| P001: In May 2006, Steve Jobs became Disney's largest individual shareholder. He  | natural / curious | largest individual shareholder | 1s |
+| P004: The companies had partnered since before Toy Story in 1995. A 1997 agreemen | natural / matter_of_fact | exclusive rights | 0s |
+| P005: And there was a twist. If they disagreed about whether to make certain sequ | slower / curious | Disney's decision generally prevailed | 1s |
+| P006: Pixar was powerful but not entirely free. It couldn't simply take Woody, Bu | natural / reflective | Pixar was powerful but not entirely free | 1s |
+| P008: Negotiations broke down. Disney announced in January 2004 that talks about  | natural / matter_of_fact | Negotiations broke down | 1s |
+| P009: Jobs wasn't just Pixar's chief executive. He owned more than half its stock | natural / curious | more than half its stock | 0s |
+| P012: But in October, Iger put a different possibility on the table. Why keep ren | natural / curious | October twelfth | 1s |
+| P016: On January twelfth, 2006, executives reached preliminary understandings abo | natural / matter_of_fact | One enormous question remained open: the price | 1s |
+| P018: On January twenty-first, Jobs and Iger reached a ratio they were prepared t | slower / matter_of_fact | two point three Disney shares | 1s |
+| P019: Imagine holding ten Pixar shares. Under the deal, they would turn into twen | slower / matter_of_fact | twenty-three Disney shares | 1s |
+| P021: And Jobs had another piece of leverage. He owned just over half of Pixar. U | natural / matter_of_fact | forty percent | 1s |
+| P023: On May fifth, 2006, the transaction closed. Disney issued new stock to Pixa | slower / matter_of_fact | On May fifth, 2006 | 1s |
+| P024: For Jobs, the result was striking. Roughly sixty million Pixar shares becam | slower / reflective | six point three percent | 1s |
+| P028: Here's the unusual thing about what Disney bought. It already had major rig | natural / reflective | ability to keep inventing the next Toy Story | 1s |
+| P030: So next time the Disney name appears before a Pixar movie, remember the oth | slower / reflective | Disney bought the studio | 1s |
 
-**Pronunciations to audition** (no invented IPA or control tags): Pixar; Iger; Ed Catmull; John Lasseter; The Incredibles; Wall Street shorthand not in script. Use verified natural pronunciation of Iger's name (EYE-ger) only after audition; do not encode undocumented model syntax. `Cars` and `Toy Story` are film titles, not numerical values.
+## Producer pronunciation and numbers
 
-**Number delivery**: 1995; 1997; 2004; October 12, 2005; Jan 12, Jan 21 and Jan 24, 2006; May 5 close. Most crucial: **2.3 Disney shares per 1 Pixar share** and **10 Pixar shares become 23 Disney shares** are equivalent. Jobs owned >50% **Pixar**, pledged a distinct **40% of Pixar outstanding votes** in deal support, and later got **~6.3% Disney**. Pronounce 60,000,002 and 138,000,007 with a brief pause, because they are precise records rather than illustrative samples. **$7.4bn** is announced transaction equity valuation, **$6.3bn** after Pixar cash, **$3.9bn** a contemporary paper market value of Jobs' shares.
+Audition actual pronunciations of **Pixar**, **Robert/Bob Iger**, **Ed Catmull**, **John Lasseter**, **Ratatouille** only if later introduced, **The Incredibles**; verify from authentic sources and selected narrator reading, not unsupported IPA or SSML. The script currently does not require the precise odd-ending SEC share count in narration.
 
-**Production-specific checks still open:** compare full passage with approved audition; listen to first, middle and final sections as continuous audio; measure actual WPM and 480–600 sec video runtime; record takes, retakes and pronunciation results; confirm no title/cues are read aloud. No engine-specific settings assumed.
+**Spoken:** “Two point three Disney shares per Pixar share,” illustrative “ten Pixar becomes twenty-three Disney,” approximate announced aggregate **$7.4 billion** (not paid to Jobs), Jobs owned **more than half Pixar**, signed support for **40% of outstanding Pixar shares**, **about 138 million Disney shares**, **about 6.3% Disney**. If using precise on-screen numbers, the 13D reports Jobs' 60,000,002 Pixar shares → 138,000,004 newly received Disney + 3 pre-existing = 138,000,007 total. This precision should not be spoken unless the final audio comprehension test justifies it.
+
+**Separations to preserve:** same five-original-movie contract versus Pixar Corporation; pre-2006 old rights versus new future output; “Disney's decision generally prevailed” for certain derivatives versus Pixar's authorship; May 5 actual close versus Jan 24 announcement; director seat versus unilateral Disney control.
+
+## Production audit not done
+
+No voice generated, no full-length listening, no pronunciation retake, no provider-specific controls validated, no final mix or measured runtime. Use editor's feedback from a 30–45s audition and eventual full 8–10 minute recording before promoting stage.
