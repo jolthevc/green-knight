@@ -1,6 +1,8 @@
 # SS-V0001 | How the Gucci Family Lost Gucci
 
-**Selected:** 2026-10-10. **Channel:** Silver Spoon. **Idea:** SS-I0002. **Story:** SS-V0001. **Canonical spoken script:** v2, SHA-256 `1ce7d1cdf0fe9f9e8a9697151c0823b4ef54fcff2a176188e5c4c35639c56059`. **Stage:** scripted.
+> **Title-header sync (2026-10-10):** canonical `script.txt` v3 starts with `TITLE: How the Gucci Family Lost Gucci` and a blank line. This header is not spoken; the 1,418-word narration and P001–P030 anchors remain identical to v2. Full-file SHA-256 is `6a63b009eee4db27dbfab6a5ec144a5c3e5ebe9dc082ba3c0ff0469253312cca`.
+
+**Selected:** 2026-10-10. **Channel:** Silver Spoon. **Idea:** SS-I0002. **Story:** SS-V0001. **Canonical spoken script:** v2, SHA-256 `6a63b009eee4db27dbfab6a5ec144a5c3e5ebe9dc082ba3c0ff0469253312cca`. **Stage:** scripted.
 
 ## Question and audience promise
 
