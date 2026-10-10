@@ -40,7 +40,7 @@ Test the preferred explanation against resources, execution, outside competition
 
 Concrete, varied speech with names and numbers that a narrator can pronounce. Explain terms through their consequences. Keep exact underlying values and legal details in the source map.
 
-script.txt contains only spoken words. Headings, timestamps, citations and directions live in sidecars. Family/control diagrams must match the current wording and be legible without pausing the video.
+script.txt begins with the **non-spoken** `TITLE: <metadata.title>` and a blank line; the body alone contains spoken words. Other headings, timestamps, citations and directions live in sidecars. Exclude the title from runtime, captions and TTS. Family/control diagrams must match the current wording and be legible without pausing the video.
 
 ## Ending and CTA
 
