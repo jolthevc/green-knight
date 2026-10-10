@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "script_version": 0,
+  "instructions_are_non_spoken": true,
+  "assumed_or_observed_wpm": 150,
+  "silent_hold_seconds": 0,
+  "cues": []
+}

@@ -1,0 +1,136 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-10-10",
+  "ideas": [
+    {
+      "id": "PP-I0001",
+      "channel": "pretty-penny",
+      "title": "Where Your $6 Latte Actually Goes",
+      "aliases": [],
+      "subject": "Coffee shop pricing",
+      "mechanism": "Cost allocation and contribution margin",
+      "viewer_promise": "Understand which costs a coffee purchase funds and what the shop retains.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-10",
+      "updated_at": "2026-10-10",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-10",
+          "status": "proposed",
+          "note": "Imported from earlier discussion as a sample concept. Not selected or researched; title amounts, timelines and implied claims are provisional. Date records import, not original proposal.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "PP-I0002",
+      "channel": "pretty-penny",
+      "title": "The Invisible Giant Behind Your Glasses",
+      "aliases": [],
+      "subject": "Eyewear industry",
+      "mechanism": "Ownership, licensing and distribution economics",
+      "viewer_promise": "Understand how the structure of the eyewear industry influences prices and who gets paid.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-10",
+      "updated_at": "2026-10-10",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-10",
+          "status": "proposed",
+          "note": "Imported from earlier discussion as a sample concept. Not selected or researched; title amounts, timelines and implied claims are provisional. Date records import, not original proposal.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "PP-I0003",
+      "channel": "pretty-penny",
+      "title": "What Happens in the 45 Minutes Between Flights",
+      "aliases": [],
+      "subject": "Aircraft turnaround",
+      "mechanism": "Asset utilization, turnaround costs and airport services",
+      "viewer_promise": "Understand how time on the ground affects airline economics.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-10",
+      "updated_at": "2026-10-10",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-10",
+          "status": "proposed",
+          "note": "Imported from earlier discussion as a sample concept. Not selected or researched; title amounts, timelines and implied claims are provisional. Date records import, not original proposal.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "PP-I0004",
+      "channel": "pretty-penny",
+      "title": "How a $200 Concert Ticket Gets Split Up",
+      "aliases": [],
+      "subject": "Concert ticket economics",
+      "mechanism": "Ticket fees and revenue-sharing among participants",
+      "viewer_promise": "Understand who receives the ticket price and why the final charge differs from the advertised price.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-10",
+      "updated_at": "2026-10-10",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-10",
+          "status": "proposed",
+          "note": "Imported from earlier discussion as a sample concept. Not selected or researched; title amounts, timelines and implied claims are provisional. Date records import, not original proposal.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "PP-I0005",
+      "channel": "pretty-penny",
+      "title": "Your Credit Card Pays You to Use It. So Who's Paying?",
+      "aliases": [],
+      "subject": "Credit card rewards",
+      "mechanism": "Rewards funding and payment-network incentives",
+      "viewer_promise": "Understand who funds rewards and how the payment system distributes costs.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-10",
+      "updated_at": "2026-10-10",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-10",
+          "status": "proposed",
+          "note": "Imported from earlier discussion as a sample concept. Not selected or researched; title amounts, timelines and implied claims are provisional. Date records import, not original proposal.",
+          "actor": "ChatGPT"
+        }
+      ]
+    }
+  ]
+}

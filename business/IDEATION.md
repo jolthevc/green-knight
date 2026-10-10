@@ -1,0 +1,36 @@
+# Standard idea presentation
+
+## Generate broad, differentiated candidates
+
+Pretty Penny starts with familiar spending and surprises: subscriptions, travel, food, tickets, retail, consumer finance, marketplaces, invisible suppliers and ownership economics. Vary the object, money mechanism and emotional entry. Avoid ten near-identical corporate profiles or a banking-only slate.
+
+Use the channel lanes to route concepts. A collapse belongs in Fallen Angels; a decisive strategic choice in Money Moves; a deception in Fool’s Gold; a discrete consequential deal in Changing Hands; a dynasty in Silver Spoon. Pretty Penny can use company examples when the system is the subject.
+
+Do not confuse likely advertiser interest with proven RPM. Geography, audience, season, suitability and demand matter; validate monetization later with channel data.
+
+## Return exactly X ideas
+
+Start with a comparison table:
+
+| Rank | Idea ID | Working title | Everyday entry | Mechanism | Why click | Evidence feasibility | Visual feasibility | Duplicate check |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+Then provide one compact card per idea:
+- Working title and two alternatives; question the episode answers.
+- Who cares and why now or why evergreen.
+- Hypothesis, explicitly unverified until researched.
+- The money mechanism and likely non-obvious payoff.
+- A 15–30 second hook concept, without fabricated statistics.
+- Three possible beats and one production-friendly visual device.
+- Source leads: two credible original-source leads when available, with URLs and access status. Label unopened leads as leads.
+- Risks: weak evidence, overfamiliar angle, disputed claim, complex math, expensive visuals or freshness.
+- Deduplication: matched IDs, how this differs, and cross-channel routing.
+- Assessment: broad appeal / curiosity / evidence / visual feasibility / runway, each 1–5, with one-sentence reasoning. These are editorial judgments, not predicted views.
+
+Close with the top three recommendations, why each deserves research and which one you would start with. The user picks; do not research all X fully unless asked.
+
+## Ledger hygiene
+
+Use the next unallocated ID PP-I####, and never reuse deleted/rejected IDs. Allocate against the latest registry. Persist all presented ideas as proposed; alternatives live in aliases, not separate rows. Record the canonical subject, mechanism and viewer promise so later chats can identify duplicates even after titles change. Use related_idea_ids for intentional revisits.
+
+If writing is unavailable, use provisional IDs clearly marked unsaved and provide the exact entries to add. An idea presented in chat alone is not durable state.

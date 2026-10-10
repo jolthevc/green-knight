@@ -30,3 +30,7 @@ The permanent `channel_id` anchors the folder.
 Channel names and slugs may change.
 
 Do not create channel-specific copies of shared n8n workflows or portfolio-wide standards here.
+
+## Manual business workspace
+
+The owner's new chat-based business workflow begins with [Pretty Penny](../business/channels/pretty-penny/README.md). Its [scoped operating rules](../business/README.md) govern the GitHub idea ledger and story text in `business/`. It is not yet registered in this directory's automated portfolio.
