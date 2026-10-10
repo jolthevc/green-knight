@@ -720,6 +720,95 @@
           "note": "Proposed in business/ideas/2026-10-10-changing-hands-proposals.md after reading main at 6f2ef9903bc022596d8204d74f0d10e8aee8cb03 and all 23 global ledger entries. Card records hypothesis, source feasibility, assessment and cross-channel/topic/mechanism deduplication. Primary-source feasibility checked; not fully researched or selected."
         }
       ]
+    },
+    {
+      "id": "SS-I0002",
+      "channel": "silver-spoon",
+      "title": "How the Gucci Family Lost Gucci",
+      "aliases": [
+        "The Gucci Family Doesn't Own Gucci",
+        "The Family That Lost Its Own Name"
+      ],
+      "subject": "Gucci family equity sell-down to Investcorp, 1987-1993",
+      "mechanism": "Fragmented family ownership and succession dispute followed by two-stage share sales that ended family ownership",
+      "viewer_promise": "How the descendants of Gucci's founder went from owning the fashion house to owning none of it, and why shares rather than surname determined the result.",
+      "status": "proposed",
+      "related_idea_ids": [
+        "SS-I0001"
+      ],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-10",
+      "updated_at": "2026-10-10",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-10",
+          "status": "proposed",
+          "note": "Created in three-idea Silver Spoon ideation batch; initial primary-source leads identified but full episode research and selection not yet completed.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "SS-I0003",
+      "channel": "silver-spoon",
+      "title": "The Family That Gave Away Patagonia",
+      "aliases": [
+        "Why Patagonia's Owners Gave the Company Away",
+        "Who Really Controls Patagonia Now?"
+      ],
+      "subject": "Chouinard family transfer of Patagonia ownership in 2022",
+      "mechanism": "Separation of voting rights in Patagonia Purpose Trust from economic rights in Holdfast Collective, with a continuing family governance role",
+      "viewer_promise": "How the Chouinard family transferred its ownership to two entities, what it changed about money and control, and how the structure is supposed to outlast the founder.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-10",
+      "updated_at": "2026-10-10",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-10",
+          "status": "proposed",
+          "note": "Created in three-idea Silver Spoon ideation batch; initial primary-source leads identified but full episode research and selection not yet completed.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "SS-I0004",
+      "channel": "silver-spoon",
+      "title": "Why Walmart Is Still a Family Fortune",
+      "aliases": [
+        "How the Walton Family Kept Its Walmart Stake",
+        "The Family That Still Owns So Much of Walmart"
+      ],
+      "subject": "Walton family shareholding and multi-generation governance at Walmart, 1970-2026",
+      "mechanism": "Family ownership through Walton Enterprises and family trust arrangements, including delegated voting rights and next-generation governance",
+      "viewer_promise": "Why a publicly traded retailer still has a large family voting block, and how inherited shares, trusts, voting authority and professional management differ.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-10",
+      "updated_at": "2026-10-10",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-10",
+          "status": "proposed",
+          "note": "Created in three-idea Silver Spoon ideation batch; initial primary-source leads identified but full episode research and selection not yet completed.",
+          "actor": "ChatGPT"
+        }
+      ]
     }
   ]
 }
