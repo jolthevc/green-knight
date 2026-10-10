@@ -1,8 +1,8 @@
-# Narration guide | SS-V0001 v2
+# Narration guide | SS-V0001 v3
 
 > **Title-header sync (2026-10-10):** canonical `script.txt` v3 starts with `TITLE: How the Gucci Family Lost Gucci` and a blank line. This header is not spoken; the 1,418-word narration and P001–P030 anchors remain identical to v2. Full-file SHA-256 is `6a63b009eee4db27dbfab6a5ec144a5c3e5ebe9dc082ba3c0ff0469253312cca`.
 
-**Canonical spoken script:** `script.txt`, version **2**, SHA-256 `6a63b009eee4db27dbfab6a5ec144a5c3e5ebe9dc082ba3c0ff0469253312cca`. Directions here are **non-spoken**; no SSML or provider-specific tags selected.
+**Canonical spoken script:** `script.txt`, version **3**, SHA-256 `6a63b009eee4db27dbfab6a5ec144a5c3e5ebe9dc082ba3c0ff0469253312cca`. Directions here are **non-spoken**; no SSML or provider-specific tags selected.
 
 **Voice:** Warm, observant, exact, quietly engaged by the family predicament. A clear human business story, not a true-crime performance or a professor reading a financial memo. Distinguish the selling cousins, disputed heir, investor and corporate brand through concrete verbs and gentle role reminders.
 
