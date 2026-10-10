@@ -1,9 +1,9 @@
-# Editor handoff | Silver Spoon SS-V0001, Gucci v2
+# Editor handoff | Silver Spoon SS-V0001, Gucci v3
 
 > **Script file format (2026-10-10):** canonical `script.txt` is now **v3** with non-spoken first line `TITLE: How the Gucci Family Lost Gucci`, a blank separator, and the **same** 1,418 narrated words as v2. Hash above/below identifies the entire current file; no audio, cues or paragraph wording changed.
 
 **Episode title:** How the Gucci Family Lost Gucci  
-**Canonical script:** v2, SHA-256 `6a63b009eee4db27dbfab6a5ec144a5c3e5ebe9dc082ba3c0ff0469253312cca`  
+**Canonical script:** v3, SHA-256 `6a63b009eee4db27dbfab6a5ec144a5c3e5ebe9dc082ba3c0ff0469253312cca`  
 **Target final runtime:** 480–600 seconds, including closing. Current 1418 words at **assumed** 150 WPM with 11 explicit extra pause seconds yields **578.2 seconds**, not measured.
 
 ## Editor inputs only
