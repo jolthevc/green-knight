@@ -1,16 +1,7 @@
-# Voice-production record: SS-V0001
+# Voice production | Gucci SS-V0001 v2
 
-**Status:** Not in production as of 2026-10-10. Script v1, SHA-256 `6b56b1f852a7c268e62d4e170a5f95c404fc2adb2252611296963d298c7a7cde`.
+**Script version:** 2. **SHA-256:** `1ce7d1cdf0fe9f9e8a9697151c0823b4ef54fcff2a176188e5c4c35639c56059`. **Date:** 2026-10-10.
 
-- Canonical narrator profile: `silver_spoon_narrator` version 0, status **unselected**.
-- Provider/model/voice/performer/settings: none selected; no SSML or unsupported tags inserted.
-- Audition URL and approval: none.
-- Actual measured WPM: unknown; `metadata.runtime.assumed_or_observed_wpm=150` is **assumed**.
-- Takes, paragraph ranges, filenames/audio URLs: none generated.
-- Pronunciation tests: not performed. Candidate names in `narration-guide.md`.
-- Full narration listened at normal speed: **no**.
-- Beginning, middle, end checks and retake joins: **not applicable**.
-- Final timing, audio mix and device listening: **not performed**.
-- Recorded revisions: none. Any future text change must increment script version, regenerate SHA/cue/evidence anchors and clear prior editorial approval before re-review.
+Narrator profile silver_spoon_narrator v0 remains **unselected**. No model/performer/provider/voice settings, pronunciation auditions or reference track approved. Measured voice WPM unavailable; planning assumption is 150 WPM plus 11 seconds extra editorial pauses, estimate 578.2 seconds.
 
-On production, record take IDs, selected reference, settings, full listening reviewer, actual duration and URLs before advancing from scripted.
+**No audio generated. No full narration listened to. No retake joins inspected. No final video reviewed. No licensed audio/visual assets cleared. No measured final runtime.** Producer must record actual take URLs, provider settings, pronunciations of Guccio/Giorgio/Roberto/Maurizio/Paolo/De Sole, complete normal-speed listen, joins and phone mix checks before later stage change. Any text edit increments version and invalidates prior hash references.
