@@ -1,0 +1,154 @@
+{
+  "schema_version": 2,
+  "script_version": 1,
+  "instructions_are_non_spoken": true,
+  "assumed_or_observed_wpm": 150,
+  "silent_hold_seconds": 0,
+  "cues": [
+    {
+      "paragraph_id": "P001",
+      "anchor": "By 1993, Gucci had achieved something almost impossible. Its name",
+      "pace": "slower",
+      "intent": "curious",
+      "emphasis": [
+        "owned none of the company"
+      ],
+      "pause_after_seconds": 1,
+      "pronunciation_notes": [],
+      "inflection": "settled"
+    },
+    {
+      "paragraph_id": "P003",
+      "anchor": "That sounds like the ending. It is actually the puzzle. How does ",
+      "pace": "natural",
+      "intent": "curious",
+      "emphasis": [
+        "two halves of a company"
+      ],
+      "pause_after_seconds": 0,
+      "pronunciation_notes": [],
+      "inflection": "question"
+    },
+    {
+      "paragraph_id": "P006",
+      "anchor": "You only need to remember two branches. Rodolfo had a son, Mauriz",
+      "pace": "slower",
+      "intent": "matter_of_fact",
+      "emphasis": [
+        "Maurizio inherited his father's half"
+      ],
+      "pause_after_seconds": 1,
+      "pronunciation_notes": [],
+      "inflection": "settled"
+    },
+    {
+      "paragraph_id": "P009",
+      "anchor": "A federal judge in 1988 recognized Paolo's work as a designer. Bu",
+      "pace": "slower",
+      "intent": "matter_of_fact",
+      "emphasis": [
+        "independent trademark"
+      ],
+      "pause_after_seconds": 1,
+      "pronunciation_notes": [],
+      "inflection": "settled"
+    },
+    {
+      "paragraph_id": "P011",
+      "anchor": "Then came the first sale. During the late 1980s, members of Aldo'",
+      "pace": "natural",
+      "intent": "curious",
+      "emphasis": [
+        "fifty percent"
+      ],
+      "pause_after_seconds": 0,
+      "pronunciation_notes": [],
+      "inflection": "settled"
+    },
+    {
+      "paragraph_id": "P015",
+      "anchor": "The partners disagreed over how things were going. Contemporary r",
+      "pace": "natural",
+      "intent": "skeptical",
+      "emphasis": [
+        "competing claims"
+      ],
+      "pause_after_seconds": 1,
+      "pronunciation_notes": [],
+      "inflection": "settled"
+    },
+    {
+      "paragraph_id": "P017",
+      "anchor": "In September, the stalemate ended. Investcorp bought Maurizio's r",
+      "pace": "slower",
+      "intent": "matter_of_fact",
+      "emphasis": [
+        "reported transaction estimate"
+      ],
+      "pause_after_seconds": 1,
+      "pronunciation_notes": [],
+      "inflection": "settled"
+    },
+    {
+      "paragraph_id": "P020",
+      "anchor": "There is another important timing detail. Maurizio Gucci was kill",
+      "pace": "slower",
+      "intent": "matter_of_fact",
+      "emphasis": [
+        "already happened in 1993"
+      ],
+      "pause_after_seconds": 1,
+      "pronunciation_notes": [],
+      "inflection": "settled"
+    },
+    {
+      "paragraph_id": "P022",
+      "anchor": "Then Investcorp began selling its own shares. In October 1995, it",
+      "pace": "natural",
+      "intent": "matter_of_fact",
+      "emphasis": [
+        "remaining fifty-two percent"
+      ],
+      "pause_after_seconds": 1,
+      "pronunciation_notes": [],
+      "inflection": "settled"
+    },
+    {
+      "paragraph_id": "P023",
+      "anchor": "The share prices in those offerings were different: twenty-two do",
+      "pace": "natural",
+      "intent": "skeptical",
+      "emphasis": [
+        "not a clean calculation"
+      ],
+      "pause_after_seconds": 1,
+      "pronunciation_notes": [],
+      "inflection": "settled"
+    },
+    {
+      "paragraph_id": "P025",
+      "anchor": "That distinction matters. A successful turnaround after a sale do",
+      "pace": "slower",
+      "intent": "reflective",
+      "emphasis": [
+        "cannot rerun the company"
+      ],
+      "pause_after_seconds": 1,
+      "pronunciation_notes": [],
+      "inflection": "settled"
+    },
+    {
+      "paragraph_id": "P028",
+      "anchor": "The story began with a name on a handbag. Now that name tells us ",
+      "pace": "slower",
+      "intent": "reflective",
+      "emphasis": [
+        "ownership is not inherited through a logo"
+      ],
+      "pause_after_seconds": 2,
+      "pronunciation_notes": [],
+      "inflection": "settled"
+    }
+  ],
+  "script_sha256": "6b56b1f852a7c268e62d4e170a5f95c404fc2adb2252611296963d298c7a7cde"
+}
