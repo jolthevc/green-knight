@@ -34,3 +34,5 @@ Keep large media, source PDFs, recordings and editable project files in external
 All six channel workspaces are built. Voice selection, integrated visual pilots, editor scope/pricing and publication schedules remain pilot-stage decisions. Changing Hands remains a working name. Start with idea selection and a reviewable pilot before purchasing repeat batches.
 
 [Latest six-channel audit](AUDIT_2026-10-10.md) records gaps fixed, validation and decisions that require real pilots.
+
+[Story-first engagement](ENGAGEMENT_STANDARD.md) defines the broad-audience learning experience, six story engines and internal newcomer/skeptic review. Use it for ideation, outlines, scripts, production and learning.

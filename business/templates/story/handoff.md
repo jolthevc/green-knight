@@ -21,3 +21,7 @@ Use the selected channel's STYLE.md and the actual approved visual reference; re
 Review cut; agreed asset formats/resolution; clean voice track and completed voice-production.md; metadata; thumbnail; captions/project files if commissioned; revision rounds and dates as agreed. Actual finished runtime must be 480–600 seconds.
 
 Listen to the full narration and inspect the exact final cut. Check script fidelity, no spoken directions, pronunciation, clear voice/music balance, factual labels, readable visuals and package alignment. Substantive script/fact changes return to editorial. Final publication remains a separate owner action unless expressly delegated.
+
+## Engagement in the edit
+
+Use ENGAGEMENT_STANDARD.md and the outline's discovery map. Preserve the first useful payoff and causal handoffs. Keep explanatory visuals synchronized with the relevant words, show diagram changes clearly, and leave enough time for meaningful numbers/documents. Invite specific fixes for confusing or weak passages; substantive script changes return to editorial/evidence review. Motion, music and sound effects should support understanding and emotional variation.

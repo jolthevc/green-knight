@@ -57,3 +57,9 @@ Complete the shared package with appearance/reality map, verification-gap analys
 ## Readiness and spoken clarity
 
 Apply [EDITORIAL_REVIEW.md](../../EDITORIAL_REVIEW.md) and [NARRATION_STANDARD.md](../../NARRATION_STANDARD.md). Evidence, cues and scenes must reference the exact script hash/version. Narration directions cannot fix an overloaded sentence: simplify the prose first, preserve numerical meaning, then add sparse cues. A text review is not a completed audio listening test.
+
+## Broad-audience discovery
+
+Apply [ENGAGEMENT_STANDARD.md](../../ENGAGEMENT_STANDARD.md). This channel's story engine is an appearance-versus-reality mystery. Establish the legitimate baseline, then reveal a specific discrepancy and verification gap. Return to an initially credible object or record after evidence changes its meaning. Keep allegation and established fact distinct; no staged accusation or forced magician reveal.
+
+Use the newcomer and informed-skeptic lenses. Record each beat's changed understanding and why the next follows. Choose an earned first payoff and a specific final insight. Aim for substantial learning delivered through the story, with warmth and room to follow, rather than a list of business frameworks.

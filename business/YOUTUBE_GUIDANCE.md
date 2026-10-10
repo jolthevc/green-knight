@@ -28,3 +28,11 @@ Supply three accurate title options, two materially different thumbnail concepts
 [YouTube monetization guidance](https://support.google.com/youtube/answer/1311392?hl=en), checked 2026-10-10: original, authentic substance matters; generic, repetitive or mass-produced content is a problem. Reusable identity does not justify interchangeable scripts or minimally varied videos. Our implementation is distinct research, explanation and scenes for each story, including across channels. AI use or handmade assets alone do not guarantee eligibility.
 
 [YouTube's synthetic-content disclosure guidance](https://support.google.com/youtube/answer/14328491?hl=en), checked 2026-10-10, distinguishes unrealistic/minor assistance from realistic or meaningfully altered content requiring disclosure. Review the actual narration, imagery and music at upload; its examples include AI-generated music. Do not assume that illustrated scenes remove disclosure requirements for every other asset. Record the upload decision and reason in packaging.md using current policy.
+
+## Satisfaction and broader audience discovery
+
+[YouTube performance FAQ](https://support.google.com/youtube/answer/141805?hl=en), checked 2026-10-10 UTC: discovery aims at long-term viewer satisfaction; Home considers how videos interest and satisfy similar viewers. Recommendations use multiple audience signals. Our implementation is a clear promise, useful discoveries, satisfying resolution and relevant next watch, with CTR and retention interpreted in audience context. Do not equate longer viewing with proven satisfaction.
+
+The official titles guidance distinguishes searchable titles from intriguing titles that can attract people not already seeking the subject. Our implementation is to consider a broad curiosity-led package alongside a clear topic-led alternative, while keeping both accurate. Do not assume search keyword optimization alone establishes broad reach.
+
+ENGAGEMENT_STANDARD.md supplies our creative hypotheses, including prediction/reveal, progressive visual objects, causal transitions, cognitive-load reduction and earned callbacks. They are not official YouTube ranking rules. Audience-retention guidance also supports comparing new and returning viewers when available; record this segmentation in performance.md rather than treating every dip as a script failure.

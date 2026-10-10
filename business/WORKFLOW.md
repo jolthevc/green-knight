@@ -55,3 +55,7 @@ Each material stage saves the story files, registry status and dated history eve
 At roughly 48 hours, 7 days and 28 days after publication, record available impressions, CTR by traffic source, 30-second retention, average view duration/percentage viewed, significant dips/spikes and end-screen clicks. These are review windows, not automated jobs. Record missing data as unavailable.
 
 Use the first several comparable episodes to establish channel baselines. Do not chase a universal CTR/retention target or treat a small sample as proof. Write one testable change per follow-up episode and retain the explanation in performance.md. Promote only supported repeated lessons into channel rules.
+
+## Engagement throughout the workflow
+
+Read ENGAGEMENT_STANDARD.md at context loading. Add the broad-audience entry and changed-understanding promise to candidate cards. During outlining, map each beat's viewer belief before/after, concrete reveal and reason to continue; choose the honest hook and locate the first useful payoff. During internal review, apply the newcomer and informed-skeptic lenses and repair the weakest middle stretch. During production, preserve breathing room and intelligible visual/audio handoffs. Record actual pilot feedback and later scene-level analytics separately from editorial predictions.

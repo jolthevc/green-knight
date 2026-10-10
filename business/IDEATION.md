@@ -50,3 +50,7 @@ If writing is unavailable, use provisional IDs clearly marked unsaved and provid
 Score familiarity, curiosity, stakes and explanation feasibility separately. Prefer a concrete audience puzzle over an abstract sector label. Show a plausible evidence path and sustainable visual approach before recommending research. A fashionable finance keyword is not evidence of either broad appeal or RPM.
 
 Before selecting a revisit, write the prior episode's answer and the proposed answer side by side. If the payoff is materially the same, reject the duplicate even when the title or channel differs. A reframe that changes lanes preserves history using the LANE_ROUTING.md protocol.
+
+## Story-first candidate card additions
+
+Apply ENGAGEMENT_STANDARD.md. In each existing card include the recognizable situation or human stakes, the expected changed understanding, and the deeper question after the first payoff. State why a person without business training would care. Do not add a narrow prerequisite audience just to target finance advertisers. These are hypotheses until research; reject an angle that offers only trivia, generic lessons or a long chronology.

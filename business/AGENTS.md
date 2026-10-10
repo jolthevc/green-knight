@@ -37,3 +37,7 @@ Ideation: cards and deduplication recorded.
 Scripted: research, source/claim map, synthesis, complete clean script, directions and editorial QA saved.
 Production ready: owner-selected voice audition, final script, production handoff and no blocking editorial gaps.
 Published: verified public URL and publication date recorded.
+
+## Engagement is substantive
+
+Read ENGAGEMENT_STANDARD.md before ideation, outlining, scripting or reviewing. Use a familiar entry, earned early value and discoveries that change understanding. Apply its newcomer and informed-skeptic lenses before marking scripted; record the results in synthesis-and-outline.md and qa.md. These are internal editorial judgments unless real participants were consulted. Never substitute suspense or visual activity for missing explanation.

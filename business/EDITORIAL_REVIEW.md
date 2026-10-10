@@ -47,3 +47,7 @@ Source IDs use S001, claim IDs C001 and scene IDs SC001.
 - Scene: id, paragraphs (an array of paragraph_id/anchor objects), purpose, evidence_type, source_ids. A scene can cover several paragraphs; multiple scenes can cover a paragraph.
 
 At scripted, all claim and scene references must match real paragraphs. Source URL formatting is checked, but source existence and meaning still require opening and reviewing the document.
+
+## Story-first audience review
+
+Apply ENGAGEMENT_STANDARD.md during the existing internal editorial review, not as another owner approval gate. Inspect the lead, first payoff, beat-by-beat changed understanding, the weakest middle stretch and the earned final insight. Record newcomer comprehension risks and informed-skeptic objections with fixes in synthesis-and-outline.md and qa.md. Structural validation cannot establish engagement; no viewing results are claimed before a real pilot or publication.

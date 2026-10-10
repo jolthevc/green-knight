@@ -43,3 +43,18 @@ Evidence of checks:
 Next action:
 
 A script estimate cannot satisfy the measured-runtime checkbox. “Not yet produced” is a valid production status.
+
+## Engagement judgment
+- [ ] Chosen hook/lead gives a newcomer the subject, stakes and accurate promise.
+- [ ] First useful payoff is identified; curiosity deepens through learning.
+- [ ] Beat before/after map shows real discoveries and causal transitions.
+- [ ] Terms, names and numbers arrive only when needed and are comprehensible.
+- [ ] Newcomer and informed-skeptic objections are recorded and addressed.
+- [ ] Weakest middle stretch was reviewed and revised where needed.
+- [ ] Ending delivers a specific earned insight and resolves the opening.
+
+Internal editorial findings / fixes:
+Actual pilot participant feedback, if obtained (otherwise not conducted):
+Final-cut comprehension and momentum findings, once inspected:
+
+Do not check actual-viewing items from text review alone.

@@ -27,3 +27,26 @@ First useful reveal; likely confusion; likely repetition; complexity relieved by
 
 ## Internal decision
 Proceed / revise / research more. No additional owner gate is required for routine outlining.
+
+## Discovery and comprehension map
+
+Apply ENGAGEMENT_STANDARD.md; these are editorial judgments, not observed audience results.
+
+| Beat / paragraph references once scripted | Viewer belief before | Concrete reveal / evidence | Changed understanding after | Why the next beat follows | Complexity / fix |
+| --- | --- | --- | --- | --- | --- |
+
+## Opening selection
+- Distinct hook approaches considered and evidence limits:
+- Chosen hook and why it beats the alternatives:
+- Lead: subject, stakes and exact package promise:
+- First useful payoff and estimated placement:
+- Deeper question it creates:
+
+## Two editorial lenses
+- Curious newcomer: prerequisites, confusion, cast/term/number load and fixes:
+- Informed skeptic: original insight, competing explanation and fixes:
+- Weakest middle stretch and revision:
+- Opening object or question revisited at the ending, if useful:
+- Specific final insight the viewer should be able to explain:
+
+A read-aloud or simulated lens does not count as actual audience testing or completed audio review.
