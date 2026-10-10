@@ -1,0 +1,730 @@
+{
+  "schema_version": 1,
+  "script_version": 1,
+  "script_sha256": "e3a67c6e7658393b89268213a0da67125bb54ca7f079d3791aa5d76e88009008",
+  "sources": [
+    {
+      "id": "S001",
+      "publisher": "The Walt Disney Company",
+      "title": "Disney to Acquire Pixar, January 24, 2006",
+      "url": "https://thewaltdisneycompany.com/press-releases/disney-to-acquire-pixar/",
+      "accessed_at": "2026-10-10",
+      "access_status": "opened",
+      "locator": "Exchange 2.3; transaction $7.4b ($6.3b after cash); Jobs 50.6% Pixar and 40% voting pledge; Catmull/Lasseter; cultural objectives",
+      "limitations": "Source supports documented transaction terms/attributed public positions; not private motivation, certain synergies, or net realized personal proceeds."
+    },
+    {
+      "id": "S002",
+      "publisher": "Pixar / SEC",
+      "title": "Pixar 2005 Form 10-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1002114/000119312505054111/d10k.htm",
+      "accessed_at": "2026-10-10",
+      "access_status": "opened",
+      "locator": "Business, Distribution of Our Films: film history, 1997 co-production and cost/fee waterfall; independent distribution options",
+      "limitations": "Source supports documented transaction terms/attributed public positions; not private motivation, certain synergies, or net realized personal proceeds."
+    },
+    {
+      "id": "S003",
+      "publisher": "Disney and Pixar / SEC",
+      "title": "Joint S-4/A merger proxy/prospectus",
+      "url": "https://www.sec.gov/Archives/edgar/data/1001039/000119312506071978/ds4a.htm",
+      "accessed_at": "2026-10-10",
+      "access_status": "opened",
+      "locator": "The Merger, Background pp46-49; Reasons pp50-51; Jan 12 and Jan 21 negotiations, merger risks and ratio",
+      "limitations": "Source supports documented transaction terms/attributed public positions; not private motivation, certain synergies, or net realized personal proceeds."
+    },
+    {
+      "id": "S004",
+      "publisher": "The Walt Disney Company",
+      "title": "Disney and Pixar End Talks, 2004",
+      "url": "https://thewaltdisneycompany.com/press-releases/disney-and-pixar-end-talks/",
+      "accessed_at": "2026-10-10",
+      "access_status": "opened",
+      "locator": "Jan 29 2004 announcement; negotiations stopped; CFO's attributed opposition to proposed terms",
+      "limitations": "Source supports documented transaction terms/attributed public positions; not private motivation, certain synergies, or net realized personal proceeds."
+    },
+    {
+      "id": "S005",
+      "publisher": "Pixar / SEC",
+      "title": "Pixar 2005 quarterly report",
+      "url": "https://www.sec.gov/Archives/edgar/data/1002114/000119312505105414/d10q.htm",
+      "accessed_at": "2026-10-10",
+      "access_status": "opened",
+      "locator": "Preliminary discussions with alternate studio distributors; not binding offers",
+      "limitations": "Source supports documented transaction terms/attributed public positions; not private motivation, certain synergies, or net realized personal proceeds."
+    },
+    {
+      "id": "S006",
+      "publisher": "Disney / SEC",
+      "title": "Disney May 2006 completion Form 8-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1001039/000119312506103659/d8k.htm",
+      "accessed_at": "2026-10-10",
+      "access_status": "opened",
+      "locator": "Item 2.01: May 5 close, 277.9m issued Disney shares, Pixar wholly owned; Jobs board Item 5.02",
+      "limitations": "Source supports documented transaction terms/attributed public positions; not private motivation, certain synergies, or net realized personal proceeds."
+    },
+    {
+      "id": "S007",
+      "publisher": "Steve Jobs / SEC",
+      "title": "Jobs Schedule 13D, May 8, 2006",
+      "url": "https://www.sec.gov/Archives/edgar/data/1001039/000119312506103741/dsc13d.htm",
+      "accessed_at": "2026-10-10",
+      "access_status": "opened",
+      "locator": "Items 3/5: 60,000,002 Pixar into 138,000,004 Disney + 3 previously owned => 138,000,007, ~6.3%",
+      "limitations": "Source supports documented transaction terms/attributed public positions; not private motivation, certain synergies, or net realized personal proceeds."
+    },
+    {
+      "id": "S008",
+      "publisher": "Associated Press / Seattle Post-Intelligencer",
+      "title": "Business Briefing, May 8, 2006",
+      "url": "https://www.seattlepi.com/business/article/business-briefing-1203003.php",
+      "accessed_at": "2026-10-10",
+      "access_status": "opened",
+      "locator": "Contemporary identification as largest individual Disney shareholder, roughly $3.9b mark; not cash",
+      "limitations": "Source supports documented transaction terms/attributed public positions; not private motivation, certain synergies, or net realized personal proceeds."
+    },
+    {
+      "id": "S009",
+      "publisher": "The Walt Disney Company",
+      "title": "Disney Completes Pixar Acquisition, May 5 2006",
+      "url": "https://thewaltdisneycompany.com/press-releases/disney-completes-pixar-acquisition/",
+      "accessed_at": "2026-10-10",
+      "access_status": "opened",
+      "locator": "Disney completion and director and creative-leadership roles",
+      "limitations": "Source supports documented transaction terms/attributed public positions; not private motivation, certain synergies, or net realized personal proceeds."
+    },
+    {
+      "id": "S010",
+      "publisher": "Disney and Pixar / SEC",
+      "title": "January 24 merger presentation Form 425",
+      "url": "https://www.sec.gov/Archives/edgar/data/1002114/000119312506011004/d425.htm",
+      "accessed_at": "2026-10-10",
+      "access_status": "opened",
+      "locator": "Presentation page transaction overview, fully diluted $7.4b/$6.3b, 2.3 shares and 40% pledge",
+      "limitations": "Source supports documented transaction terms/attributed public positions; not private motivation, certain synergies, or net realized personal proceeds."
+    },
+    {
+      "id": "S011",
+      "publisher": "Pixar / SEC",
+      "title": "Pixar January 2006 Form 8-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1002114/000119312506012630/d8k.htm",
+      "accessed_at": "2026-10-10",
+      "access_status": "opened",
+      "locator": "Contract approved in January, subject to conditions, not closed yet",
+      "limitations": "Source supports documented transaction terms/attributed public positions; not private motivation, certain synergies, or net realized personal proceeds."
+    },
+    {
+      "id": "S012",
+      "publisher": "Disney / SEC",
+      "title": "Iger and Jobs CNBC interview filed on Form 425",
+      "url": "https://www.sec.gov/Archives/edgar/data/1001039/000119312506012078/d425.htm",
+      "accessed_at": "2026-10-10",
+      "access_status": "opened",
+      "locator": "Contemporaneous statement: multiple partnership choices before acquisition; not used for imagined dialog",
+      "limitations": "Source supports documented transaction terms/attributed public positions; not private motivation, certain synergies, or net realized personal proceeds."
+    }
+  ],
+  "claims": [
+    {
+      "id": "C001",
+      "paragraph_id": "P001",
+      "anchor": "In May 2006, Steve Jobs became Disney's largest individual shareholder. Not",
+      "claim": "Jobs became Disney's largest individual shareholder, ~138 million shares at close",
+      "status": "verified",
+      "source_ids": [
+        "S006",
+        "S007",
+        "S008"
+      ],
+      "basis": "Inspected issuer primary filing or dated reporting; date, actor and financial scope retained."
+    },
+    {
+      "id": "C002",
+      "paragraph_id": "P002",
+      "anchor": "Most people know Steve Jobs as the man behind Apple. But there was another ",
+      "claim": "Jobs majority Pixar position turned into Disney shares rather than cash buyout",
+      "status": "verified",
+      "source_ids": [
+        "S001",
+        "S007"
+      ],
+      "basis": "Inspected issuer primary filing or dated reporting; date, actor and financial scope retained."
+    },
+    {
+      "id": "C003",
+      "paragraph_id": "P003",
+      "anchor": "Imagine two companies making a hit movie together. One makes the film. The ",
+      "claim": "Simplified production/distribution partnership analogy",
+      "status": "illustrative",
+      "source_ids": [],
+      "basis": "Nonfactual teaching analogy or CTA."
+    },
+    {
+      "id": "C004",
+      "paragraph_id": "P004",
+      "anchor": "Disney and Pixar had worked together since the early days of computer anima",
+      "claim": "Pixar/Disney history and major films to 2004",
+      "status": "verified",
+      "source_ids": [
+        "S001",
+        "S002"
+      ],
+      "basis": "Inspected issuer primary filing or dated reporting; date, actor and financial scope retained."
+    },
+    {
+      "id": "C005",
+      "paragraph_id": "P005",
+      "anchor": "Under their 1997 agreement, Pixar made the films. Disney marketed and distr",
+      "claim": "1997 co-production, Disney distribution, costs/fees before split of profits",
+      "status": "verified",
+      "source_ids": [
+        "S002",
+        "S003"
+      ],
+      "basis": "Inspected issuer primary filing or dated reporting; date, actor and financial scope retained."
+    },
+    {
+      "id": "C006",
+      "paragraph_id": "P006",
+      "anchor": "That arrangement was powerful. Pixar could concentrate on making films, whi",
+      "claim": "Partnership success contributed to tensions over terms and rights",
+      "status": "inference",
+      "source_ids": [
+        "S002"
+      ],
+      "basis": "Reasonable interpretation of documented rights or alternatives, not private fact."
+    },
+    {
+      "id": "C007",
+      "paragraph_id": "P007",
+      "anchor": "By 2004, their talks about extending the relationship had broken down. Disn",
+      "claim": "2004 announcement of terminated talks and attributed Disney CFO claim",
+      "status": "verified",
+      "source_ids": [
+        "S004"
+      ],
+      "basis": "Inspected issuer primary filing or dated reporting; date, actor and financial scope retained."
+    },
+    {
+      "id": "C008",
+      "paragraph_id": "P008",
+      "anchor": "Pixar wasn't announcing that Toy Story and its other films would disappear ",
+      "claim": "Existing deals remained, talks concerned future post-contract films",
+      "status": "verified",
+      "source_ids": [
+        "S002",
+        "S004"
+      ],
+      "basis": "Inspected issuer primary filing or dated reporting; date, actor and financial scope retained."
+    },
+    {
+      "id": "C009",
+      "paragraph_id": "P009",
+      "anchor": "It did explore that possibility. Pixar's own securities filings say it held",
+      "claim": "Pixar's preliminary alternate-distributor exploration and constraints",
+      "status": "verified",
+      "source_ids": [
+        "S002",
+        "S005",
+        "S003"
+      ],
+      "basis": "Inspected issuer primary filing or dated reporting; date, actor and financial scope retained."
+    },
+    {
+      "id": "C010",
+      "paragraph_id": "P010",
+      "anchor": "Disney had more than movie theaters in mind. A character could become a toy",
+      "claim": "Characters have value beyond theaters and Disney sought broader franchise opportunities",
+      "status": "inference",
+      "source_ids": [
+        "S001",
+        "S003"
+      ],
+      "basis": "Reasonable interpretation of documented rights or alternatives, not private fact."
+    },
+    {
+      "id": "C011",
+      "paragraph_id": "P011",
+      "anchor": "In 2005, Robert Iger became Disney's chief executive. Talks between the com",
+      "claim": "June 2005 discussions, new CEO Iger and Oct 12 merger approach",
+      "status": "verified",
+      "source_ids": [
+        "S003"
+      ],
+      "basis": "Inspected issuer primary filing or dated reporting; date, actor and financial scope retained."
+    },
+    {
+      "id": "C012",
+      "paragraph_id": "P012",
+      "anchor": "That changed the stakes. Pixar could remain independent and find a distribu",
+      "claim": "Alternatives included Pixar independence, distribution and Disney standalone plans",
+      "status": "verified",
+      "source_ids": [
+        "S003"
+      ],
+      "basis": "Inspected issuer primary filing or dated reporting; date, actor and financial scope retained."
+    },
+    {
+      "id": "C013",
+      "paragraph_id": "P013",
+      "anchor": "But a purchase carried risk. If Disney absorbed Pixar and damaged the creat",
+      "claim": "Integration could undermine Pixar talent/culture, central governance constraint",
+      "status": "inference",
+      "source_ids": [
+        "S003"
+      ],
+      "basis": "Reasonable interpretation of documented rights or alternatives, not private fact."
+    },
+    {
+      "id": "C014",
+      "paragraph_id": "P014",
+      "anchor": "The merger filing records the talks. In December, executives debated leader",
+      "claim": "December 2005 negotiation and boards considered alternatives",
+      "status": "verified",
+      "source_ids": [
+        "S003"
+      ],
+      "basis": "Inspected issuer primary filing or dated reporting; date, actor and financial scope retained."
+    },
+    {
+      "id": "C015",
+      "paragraph_id": "P015",
+      "anchor": "By January twelfth, 2006, the two sides had reached preliminary understandi",
+      "claim": "January 12 tentative operating design but no final exchange ratio",
+      "status": "verified",
+      "source_ids": [
+        "S003"
+      ],
+      "basis": "Inspected issuer primary filing or dated reporting; date, actor and financial scope retained."
+    },
+    {
+      "id": "C016",
+      "paragraph_id": "P016",
+      "anchor": "On January twenty-first, Jobs and Iger settled on a figure they were prepar",
+      "claim": "January 21 2.3 ratio and January 24 signed announcement",
+      "status": "verified",
+      "source_ids": [
+        "S003"
+      ],
+      "basis": "Inspected issuer primary filing or dated reporting; date, actor and financial scope retained."
+    },
+    {
+      "id": "C017",
+      "paragraph_id": "P017",
+      "anchor": "This was an all-stock acquisition. Disney did not give every Pixar sharehol",
+      "claim": "Disney exchanged 2.3 shares per Pixar share, illustrated 10 to 23",
+      "status": "verified",
+      "source_ids": [
+        "S001",
+        "S003",
+        "S011"
+      ],
+      "basis": "Inspected issuer primary filing or dated reporting; date, actor and financial scope retained."
+    },
+    {
+      "id": "C018",
+      "paragraph_id": "P018",
+      "anchor": "Disney announced a transaction value of seven point four billion dollars, b",
+      "claim": "Announced $7.4bn value and $6.3bn after Pixar cash, not Jobs cash",
+      "status": "verified",
+      "source_ids": [
+        "S001",
+        "S010"
+      ],
+      "basis": "Inspected issuer primary filing or dated reporting; date, actor and financial scope retained."
+    },
+    {
+      "id": "C019",
+      "paragraph_id": "P019",
+      "anchor": "Now comes the twist that makes this deal different. Jobs was not just Pixar",
+      "claim": "Jobs just above half of outstanding Pixar equity",
+      "status": "verified",
+      "source_ids": [
+        "S001",
+        "S007"
+      ],
+      "basis": "Inspected issuer primary filing or dated reporting; date, actor and financial scope retained."
+    },
+    {
+      "id": "C020",
+      "paragraph_id": "P020",
+      "anchor": "He agreed to vote shares representing forty percent of Pixar's outstanding ",
+      "claim": "Jobs pledged 40% outstanding Pixar vote, approvals still necessary",
+      "status": "verified",
+      "source_ids": [
+        "S001",
+        "S003"
+      ],
+      "basis": "Inspected issuer primary filing or dated reporting; date, actor and financial scope retained."
+    },
+    {
+      "id": "C021",
+      "paragraph_id": "P021",
+      "anchor": "And Jobs was not the only person whose role mattered. Pixar president Ed Ca",
+      "claim": "Catmull and Lasseter creative positions and Pixar cultural protection objectives",
+      "status": "verified",
+      "source_ids": [
+        "S001",
+        "S009"
+      ],
+      "basis": "Inspected issuer primary filing or dated reporting; date, actor and financial scope retained."
+    },
+    {
+      "id": "C022",
+      "paragraph_id": "P022",
+      "anchor": "On May fifth, 2006, the deal actually closed. Disney issued roughly 278 mil",
+      "claim": "May 5 2006 completion, Pixar subsidiary and 277.9m Disney shares issued",
+      "status": "verified",
+      "source_ids": [
+        "S006",
+        "S009"
+      ],
+      "basis": "Inspected issuer primary filing or dated reporting; date, actor and financial scope retained."
+    },
+    {
+      "id": "C023",
+      "paragraph_id": "P023",
+      "anchor": "Jobs' own filing gives the precise arithmetic. His 60 million and two Pixar",
+      "claim": "Jobs 60,000,002 Pixar shares -> 138,000,004 Disney plus 3 = 138,000,007, 6.3%",
+      "status": "verified",
+      "source_ids": [
+        "S007"
+      ],
+      "basis": "Inspected issuer primary filing or dated reporting; date, actor and financial scope retained."
+    },
+    {
+      "id": "C024",
+      "paragraph_id": "P024",
+      "anchor": "He had gone from holding a majority of Pixar to holding a minority of Disne",
+      "claim": "Jobs Disney minority position, largest individual owner and ~$3.9bn mark",
+      "status": "verified",
+      "source_ids": [
+        "S007",
+        "S008"
+      ],
+      "basis": "Inspected issuer primary filing or dated reporting; date, actor and financial scope retained."
+    },
+    {
+      "id": "C025",
+      "paragraph_id": "P025",
+      "anchor": "Consider the trade on both sides. Jobs surrendered his direct ownership pos",
+      "claim": "Share issuance diluted existing holders and converted Jobs' separate-company stake",
+      "status": "inference",
+      "source_ids": [
+        "S006",
+        "S007"
+      ],
+      "basis": "Reasonable interpretation of documented rights or alternatives, not private fact."
+    },
+    {
+      "id": "C026",
+      "paragraph_id": "P026",
+      "anchor": "Jobs also joined Disney's board. That gave him a voice in oversight, not th",
+      "claim": "Jobs director but not Disney executive; rights differ from Pixar managers",
+      "status": "verified",
+      "source_ids": [
+        "S001",
+        "S006",
+        "S007",
+        "S009"
+      ],
+      "basis": "Inspected issuer primary filing or dated reporting; date, actor and financial scope retained."
+    },
+    {
+      "id": "C027",
+      "paragraph_id": "P027",
+      "anchor": "Did Disney pay too much? The answer wasn't written into the contract. Pixar",
+      "claim": "Boards disclosed integration, fixed-ratio exposure, culture and dilution risks",
+      "status": "verified",
+      "source_ids": [
+        "S003"
+      ],
+      "basis": "Inspected issuer primary filing or dated reporting; date, actor and financial scope retained."
+    },
+    {
+      "id": "C028",
+      "paragraph_id": "P028",
+      "anchor": "Pixar had another possibility: remain independent, negotiate a better distr",
+      "claim": "Independent distributor option and Disney fallback not knowable in hindsight",
+      "status": "verified",
+      "source_ids": [
+        "S003",
+        "S005"
+      ],
+      "basis": "Inspected issuer primary filing or dated reporting; date, actor and financial scope retained."
+    },
+    {
+      "id": "C029",
+      "paragraph_id": "P029",
+      "anchor": "The deeper reason the deal is so interesting is that Disney wasn't merely p",
+      "claim": "Broader entertainment portfolio ownership against Pixar business control",
+      "status": "inference",
+      "source_ids": [
+        "S001",
+        "S003"
+      ],
+      "basis": "Reasonable interpretation of documented rights or alternatives, not private fact."
+    },
+    {
+      "id": "C030",
+      "paragraph_id": "P030",
+      "anchor": "So the next time you see Toy Story under the Disney name, remember what els",
+      "claim": "Closing contrasts franchise label with actual ownership ledger",
+      "status": "inference",
+      "source_ids": [
+        "S006",
+        "S007"
+      ],
+      "basis": "Reasonable interpretation of documented rights or alternatives, not private fact."
+    },
+    {
+      "id": "C031",
+      "paragraph_id": "P031",
+      "anchor": "For more stories about the deals that changed who owns what, subscribe to C",
+      "claim": "Channel signoff",
+      "status": "illustrative",
+      "source_ids": [],
+      "basis": "Nonfactual teaching analogy or CTA."
+    }
+  ],
+  "scenes": [
+    {
+      "id": "SC001",
+      "purpose": "Jobs' new ownership paradox",
+      "evidence_type": "document",
+      "source_ids": [
+        "S006",
+        "S007",
+        "S008"
+      ],
+      "paragraphs": [
+        {
+          "paragraph_id": "P001",
+          "anchor": "In May 2006, Steve Jobs became Disney's largest individual shareholder. Not"
+        },
+        {
+          "paragraph_id": "P002",
+          "anchor": "Most people know Steve Jobs as the man behind Apple. But there was another "
+        },
+        {
+          "paragraph_id": "P003",
+          "anchor": "Imagine two companies making a hit movie together. One makes the film. The "
+        }
+      ]
+    },
+    {
+      "id": "SC002",
+      "purpose": "Shared Disney/Pixar business rights and contract economics",
+      "evidence_type": "document",
+      "source_ids": [
+        "S001",
+        "S002"
+      ],
+      "paragraphs": [
+        {
+          "paragraph_id": "P004",
+          "anchor": "Disney and Pixar had worked together since the early days of computer anima"
+        },
+        {
+          "paragraph_id": "P005",
+          "anchor": "Under their 1997 agreement, Pixar made the films. Disney marketed and distr"
+        },
+        {
+          "paragraph_id": "P006",
+          "anchor": "That arrangement was powerful. Pixar could concentrate on making films, whi"
+        }
+      ]
+    },
+    {
+      "id": "SC003",
+      "purpose": "2004 split and Pixar's realistic distribution alternative",
+      "evidence_type": "document",
+      "source_ids": [
+        "S002",
+        "S004",
+        "S005"
+      ],
+      "paragraphs": [
+        {
+          "paragraph_id": "P007",
+          "anchor": "By 2004, their talks about extending the relationship had broken down. Disn"
+        },
+        {
+          "paragraph_id": "P008",
+          "anchor": "Pixar wasn't announcing that Toy Story and its other films would disappear "
+        },
+        {
+          "paragraph_id": "P009",
+          "anchor": "It did explore that possibility. Pixar's own securities filings say it held"
+        }
+      ]
+    },
+    {
+      "id": "SC004",
+      "purpose": "Disney and Pixar options, Iger's October overture",
+      "evidence_type": "reconstruction",
+      "source_ids": [
+        "S001",
+        "S003"
+      ],
+      "paragraphs": [
+        {
+          "paragraph_id": "P010",
+          "anchor": "Disney had more than movie theaters in mind. A character could become a toy"
+        },
+        {
+          "paragraph_id": "P011",
+          "anchor": "In 2005, Robert Iger became Disney's chief executive. Talks between the com"
+        },
+        {
+          "paragraph_id": "P012",
+          "anchor": "That changed the stakes. Pixar could remain independent and find a distribu"
+        }
+      ]
+    },
+    {
+      "id": "SC005",
+      "purpose": "Culture, board discussions and unresolved share ratio",
+      "evidence_type": "document",
+      "source_ids": [
+        "S003"
+      ],
+      "paragraphs": [
+        {
+          "paragraph_id": "P013",
+          "anchor": "But a purchase carried risk. If Disney absorbed Pixar and damaged the creat"
+        },
+        {
+          "paragraph_id": "P014",
+          "anchor": "The merger filing records the talks. In December, executives debated leader"
+        },
+        {
+          "paragraph_id": "P015",
+          "anchor": "By January twelfth, 2006, the two sides had reached preliminary understandi"
+        }
+      ]
+    },
+    {
+      "id": "SC006",
+      "purpose": "Fixed stock consideration and announced deal value",
+      "evidence_type": "data",
+      "source_ids": [
+        "S001",
+        "S003",
+        "S010"
+      ],
+      "paragraphs": [
+        {
+          "paragraph_id": "P016",
+          "anchor": "On January twenty-first, Jobs and Iger settled on a figure they were prepar"
+        },
+        {
+          "paragraph_id": "P017",
+          "anchor": "This was an all-stock acquisition. Disney did not give every Pixar sharehol"
+        },
+        {
+          "paragraph_id": "P018",
+          "anchor": "Disney announced a transaction value of seven point four billion dollars, b"
+        }
+      ]
+    },
+    {
+      "id": "SC007",
+      "purpose": "Jobs voting leverage and creative commitments",
+      "evidence_type": "document",
+      "source_ids": [
+        "S001",
+        "S003"
+      ],
+      "paragraphs": [
+        {
+          "paragraph_id": "P019",
+          "anchor": "Now comes the twist that makes this deal different. Jobs was not just Pixar"
+        },
+        {
+          "paragraph_id": "P020",
+          "anchor": "He agreed to vote shares representing forty percent of Pixar's outstanding "
+        },
+        {
+          "paragraph_id": "P021",
+          "anchor": "And Jobs was not the only person whose role mattered. Pixar president Ed Ca"
+        }
+      ]
+    },
+    {
+      "id": "SC008",
+      "purpose": "Completed merger and Jobs' precise 6.3% block",
+      "evidence_type": "data",
+      "source_ids": [
+        "S006",
+        "S007",
+        "S008"
+      ],
+      "paragraphs": [
+        {
+          "paragraph_id": "P022",
+          "anchor": "On May fifth, 2006, the deal actually closed. Disney issued roughly 278 mil"
+        },
+        {
+          "paragraph_id": "P023",
+          "anchor": "Jobs' own filing gives the precise arithmetic. His 60 million and two Pixar"
+        },
+        {
+          "paragraph_id": "P024",
+          "anchor": "He had gone from holding a majority of Pixar to holding a minority of Disne"
+        }
+      ]
+    },
+    {
+      "id": "SC009",
+      "purpose": "Ownership versus governance and revealed risks",
+      "evidence_type": "reconstruction",
+      "source_ids": [
+        "S003",
+        "S006",
+        "S007"
+      ],
+      "paragraphs": [
+        {
+          "paragraph_id": "P025",
+          "anchor": "Consider the trade on both sides. Jobs surrendered his direct ownership pos"
+        },
+        {
+          "paragraph_id": "P026",
+          "anchor": "Jobs also joined Disney's board. That gave him a voice in oversight, not th"
+        },
+        {
+          "paragraph_id": "P027",
+          "anchor": "Did Disney pay too much? The answer wasn't written into the contract. Pixar"
+        }
+      ]
+    },
+    {
+      "id": "SC010",
+      "purpose": "Alternatives and earned shareholder ending",
+      "evidence_type": "illustration",
+      "source_ids": [
+        "S003",
+        "S007"
+      ],
+      "paragraphs": [
+        {
+          "paragraph_id": "P028",
+          "anchor": "Pixar had another possibility: remain independent, negotiate a better distr"
+        },
+        {
+          "paragraph_id": "P029",
+          "anchor": "The deeper reason the deal is so interesting is that Disney wasn't merely p"
+        },
+        {
+          "paragraph_id": "P030",
+          "anchor": "So the next time you see Toy Story under the Disney name, remember what els"
+        },
+        {
+          "paragraph_id": "P031",
+          "anchor": "For more stories about the deals that changed who owns what, subscribe to C"
+        }
+      ]
+    }
+  ]
+}
