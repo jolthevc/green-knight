@@ -31,6 +31,10 @@ This workspace implements the owner's manual ChatGPT process. Its local GitHub l
 - Do not send messages to editors or publish videos unless instructed.
 - End with the saved story/idea IDs, links, exact stage reached and any real unresolved gap. Avoid em dashes in prose.
 
+## Standalone script review and revision
+
+For a user-requested cold review, review-only audit, or review-plus-revision of a completed draft, read and follow SCRIPT_REVIEW.md. Its review-only mode must not alter the canonical script or stage; revision requires user authorization and a fresh script-version/hash consistency check. Save version-specific review reports under the story's reviews/ directory when repository writing is available. The script stays the single spoken source; all reviewer observations remain internal. The scripted stage's existing internal editorial gate still applies; a separate review does not replace source checks or actual production listening.
+
 ## Completion means
 
 Ideation: cards and deduplication recorded.
