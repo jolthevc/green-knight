@@ -1,6 +1,8 @@
 # Editor-owned visual treatment record | SS-V0001 v2
 
-**Version:** script v2; hash `1ce7d1cdf0fe9f9e8a9697151c0823b4ef54fcff2a176188e5c4c35639c56059`. **Status:** Awaiting editor visual proposal / owner pilot review. This is an internal factual-coverage record, **not** a storyboard, shot list, art brief, image-generation prompt or prescribed visual execution.
+> **Script file format (2026-10-10):** canonical `script.txt` is now **v3** with non-spoken first line `TITLE: How the Gucci Family Lost Gucci`, a blank separator, and the **same** 1,418 narrated words as v2. Hash above/below identifies the entire current file; no audio, cues or paragraph wording changed.
+
+**Version:** script v2; hash `6a63b009eee4db27dbfab6a5ec144a5c3e5ebe9dc082ba3c0ff0469253312cca`. **Status:** Awaiting editor visual proposal / owner pilot review. This is an internal factual-coverage record, **not** a storyboard, shot list, art brief, image-generation prompt or prescribed visual execution.
 
 `evidence.json` records **10** thematic content-coverage groups covering all **30** paragraphs, with current script anchors and sources. These groups permit production verification only.
 
