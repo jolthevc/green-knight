@@ -131,6 +131,58 @@
           "actor": "ChatGPT"
         }
       ]
+    },
+    {
+      "id": "MM-I0001",
+      "channel": "money-moves",
+      "title": "How IKEA Got You to Build Its Furniture",
+      "aliases": [],
+      "subject": "IKEA customer assembly",
+      "mechanism": "Transferring assembly to customers as a strategic choice",
+      "viewer_promise": "Understand the trade-offs behind making customer assembly part of the offering.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-10",
+      "updated_at": "2026-10-10",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-10",
+          "status": "proposed",
+          "note": "Imported from earlier discussion as a sample concept. Unselected and unresearched. Title framing and implied causality require verification; research must identify a defensible decision or sequence. Date records import, not original proposal.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "MM-I0002",
+      "channel": "money-moves",
+      "title": "How Emirates Made a Desert Airport the Center of the World",
+      "aliases": [],
+      "subject": "Emirates hub strategy",
+      "mechanism": "Network positioning and hub development as strategic choices",
+      "viewer_promise": "Understand the constraints, choices and execution behind a global airline hub strategy.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-10",
+      "updated_at": "2026-10-10",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-10",
+          "status": "proposed",
+          "note": "Imported from earlier discussion as a sample concept. Unselected and unresearched. Title framing and implied causality require verification; research must identify a defensible decision or sequence. Date records import, not original proposal.",
+          "actor": "ChatGPT"
+        }
+      ]
     }
   ]
 }

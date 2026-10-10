@@ -2,7 +2,7 @@
   "schema_version": 1,
   "idea_id": null,
   "story_id": null,
-  "channel": "pretty-penny",
+  "channel": null,
   "title": null,
   "status": "selected",
   "script_version": 0,
@@ -36,5 +36,10 @@
   },
   "published_url": null,
   "published_at": null,
-  "revision_history": []
+  "revision_history": [],
+  "visual": {
+    "direction": null,
+    "approved": false,
+    "reference_urls": []
+  }
 }

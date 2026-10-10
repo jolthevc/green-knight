@@ -2,7 +2,7 @@
 
 ## Read before doing work
 
-Read README.md, WORKFLOW.md, IDEATION.md, YOUTUBE_GUIDANCE.md, ideas/README.md and ideas/registry.json. For Pretty Penny also read channels/pretty-penny/{README,CHANNEL,STYLE,VOICE,SCRIPT_STANDARD}.md and channel.json. Follow the story templates when creating an episode.
+Read README.md, WORKFLOW.md, IDEATION.md, YOUTUBE_GUIDANCE.md, ideas/README.md and ideas/registry.json. For the selected channel also read channels/<slug>/{README,CHANNEL,STYLE,VOICE,SCRIPT_STANDARD}.md and channel.json. Read the configured idea/story prefixes; Pretty Penny uses PP, Money Moves uses MM. Follow the story templates when creating an episode.
 
 This workspace implements the owner's manual ChatGPT process. Its local GitHub ledger and story artifacts are canonical here, even though the older portfolio system stores working artifacts elsewhere. Never imply that Sheets, Drive, n8n or YouTube were updated unless actually verified.
 
@@ -14,6 +14,7 @@ This workspace implements the owner's manual ChatGPT process. Its local GitHub l
 - Once a topic is selected, reserve its idea and story IDs, research deeply, develop a defensible thesis and internal outline, write the complete spoken draft in one go, review it, then add voice/visual directions.
 - Do not require approvals for research, outline, each paragraph or routine revisions. Ask only when an unresolved decision materially changes the selected concept, budget or editorial premise.
 - Browse original sources for research. Never fabricate facts, quotes, URLs, footage, analytics or source access. If browsing is unavailable, mark research blocked and explain what is missing.
+- Money Moves research must establish the constraint, alternatives, information available at the time, execution, causal mechanism and competing explanations. Do not invent decisions, dialogue or hindsight certainty.
 - Financial mechanisms must distinguish revenue, cash flow, gross profit and net profit; dates, geography and units must travel with numbers. Label illustrative models.
 - Write for the ear, keep engagement purposeful, deliver the title promise and finish within 8–10 minutes. Use actual audio duration for final approval.
 - script.txt contains spoken words only. Delivery directions and citations go in separate files. No voice provider or unsupported control syntax is preselected.

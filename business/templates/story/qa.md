@@ -17,6 +17,7 @@ Template: unchecked items are not passed checks.
 
 ## Production
 - [ ] Owner-selected voice audition/settings recorded.
+- [ ] Owner-approved visual pilot/reference and direction recorded.
 - [ ] No stage directions or citation IDs spoken.
 - [ ] Numbers, names, pronunciation and pacing checked.
 - [ ] Illustrations/documents/chart labels accurately represent evidence.

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "workspace": "manual_business",
+  "id": "money-moves",
+  "idea_prefix": "MM-I",
+  "story_prefix": "MM-V",
+  "name": "Money Moves",
+  "language": "en",
+  "target_runtime_seconds": {
+    "min": 480,
+    "target": 540,
+    "max": 600
+  },
+  "publication_cadence": null,
+  "production_status": "setup",
+  "narration": {
+    "profile": "curious, direct, lightly witty, measured confidence",
+    "provider": null,
+    "voice_id": null,
+    "calibrated_wpm": null
+  },
+  "visual_direction_status": "stick_character_direction_selected_details_proposed",
+  "automated_portfolio_registration": false
+}

@@ -24,6 +24,22 @@ def validate():
     ideas = ledger.get("ideas")
     if not isinstance(ideas, list):
         return ["Registry ideas must be an array"]
+    configs = {}
+    for config_path in (BUSINESS / "channels").glob("*/channel.json"):
+        config = json.loads(config_path.read_text())
+        slug = config_path.parent.name
+        configs[slug] = config
+        if config.get("id") != slug:
+            errors.append(f"Channel ID/directory mismatch: {slug}")
+        if config.get("target_runtime_seconds") != {"min": 480, "target": 540, "max": 600}:
+            errors.append(f"Channel runtime must be 8–10 minutes: {slug}")
+        for key, suffix in (("idea_prefix", "-I"), ("story_prefix", "-V")):
+            if not re.fullmatch(r"[A-Z]{2,4}" + suffix, config.get(key, "")):
+                errors.append(f"Invalid {key}: {slug}")
+    for field in ("idea_prefix", "story_prefix"):
+        prefixes = [c.get(field) for c in configs.values()]
+        if len(prefixes) != len(set(prefixes)):
+            errors.append(f"Channel {field} values must be unique")
     ids, stories = set(), set()
     for item in ideas:
         ident = item.get("id", "")
@@ -32,8 +48,11 @@ def validate():
         ids.add(ident)
         if item.get("channel") not in CHANNELS:
             errors.append(f"Unknown channel: {ident}")
-        if item.get("channel") == "pretty-penny" and not ident.startswith("PP-I"):
-            errors.append(f"Wrong Pretty Penny idea prefix: {ident}")
+        channel_config = configs.get(item.get("channel"))
+        if channel_config is None:
+            errors.append(f"Channel not configured: {ident}")
+        elif not re.fullmatch(re.escape(channel_config["idea_prefix"]) + r"\d{4,}", ident):
+            errors.append(f"Wrong channel idea prefix: {ident}")
         if item.get("status") not in STATUSES:
             errors.append(f"Unknown status: {ident}")
         for field in ("title", "subject", "mechanism", "viewer_promise", "created_at", "updated_at"):
@@ -65,8 +84,8 @@ def validate():
             if sid in stories or not re.fullmatch(r"[A-Z]{2,4}-V\d{4,}", sid):
                 errors.append(f"Duplicate or invalid story ID: {sid}")
             stories.add(sid)
-            if item.get("channel") == "pretty-penny" and not sid.startswith("PP-V"):
-                errors.append(f"Wrong Pretty Penny story prefix: {sid}")
+            if channel_config and not re.fullmatch(re.escape(channel_config["story_prefix"]) + r"\d{4,}", sid):
+                errors.append(f"Wrong channel story prefix: {sid}")
             path = (ROOT / relative).resolve()
             allowed = (BUSINESS / "channels" / item["channel"] / "stories").resolve()
             if not path.is_relative_to(allowed) or not path.name.startswith(sid + "-"):
@@ -95,6 +114,8 @@ def validate():
             if item["status"] in {"production_ready", "in_production", "published"}:
                 if meta.get("narration", {}).get("audition_approved") is not True:
                     errors.append(f"Voice audition not approved: {ident}")
+                if meta.get("visual", {}).get("approved") is not True:
+                    errors.append(f"Visual pilot not approved: {ident}")
             if item["status"] == "published":
                 actual = meta.get("runtime", {}).get("actual_video_seconds")
                 if not isinstance(actual, (int, float)) or isinstance(actual, bool) or not 480 <= actual <= 600:
@@ -106,9 +127,6 @@ def validate():
         for related in item.get("related_idea_ids", []):
             if related not in ids or related == item.get("id"):
                 errors.append(f"Invalid related idea: {item.get('id')} -> {related}")
-    config = json.loads((BUSINESS / "channels/pretty-penny/channel.json").read_text())
-    if config.get("target_runtime_seconds") != {"min": 480, "target": 540, "max": 600}:
-        errors.append("Pretty Penny runtime must be 8–10 minutes")
     for p in BUSINESS.rglob("*.json"):
         json.loads(p.read_text())
     for p in BUSINESS.rglob("*.md"):
