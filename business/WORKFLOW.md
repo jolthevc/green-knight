@@ -30,7 +30,7 @@ Create the internal beat outline and two or three hook alternatives. Choose the 
 
 Produce the full spoken draft in one pass using the channel script standard. Do not stop after the hook or deliver an outline as a script. Inspect it for speech, then revise for factual accuracy, comprehensibility, momentum, repetition and payoff. Script length follows the timed delivery, not an arbitrary word quota.
 
-Narration lives only in script.txt. After the wording stabilizes, number its blank-line-separated paragraphs P001, P002, etc. Store cue anchors in delivery-cues.json and paragraph references in evidence.json and sources-and-claims.md. If any wording or formatting changes, increment script_version and regenerate affected references. Record SHA-256 of exact script.txt bytes in metadata, cues and evidence.json; opening anchors alone do not detect all revisions.
+In all six channels, `script.txt` begins with exactly `TITLE: <metadata.title>` on its first line, followed by a blank line and then narration. This is the **one permitted non-spoken line**. Narration lives only in the body of `script.txt`; strip the title header before recording, TTS, word counts or estimating runtime. After the wording stabilizes, number only the body's blank-line-separated paragraphs P001, P002, etc. Store cue anchors in delivery-cues.json and paragraph references in evidence.json and sources-and-claims.md. If the title, wording or formatting changes, increment script_version and regenerate affected references. Record SHA-256 of the **full exact script.txt bytes including title** in metadata, cues and evidence.json; opening anchors alone do not detect all revisions.
 
 ## Optional standalone script review and revision
 
