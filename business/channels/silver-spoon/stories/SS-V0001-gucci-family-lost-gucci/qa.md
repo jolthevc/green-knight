@@ -1,8 +1,8 @@
-# QA | Gucci SS-V0001 v2
+# QA | Gucci SS-V0001 v3
 
 > **Script file format (2026-10-10):** canonical `script.txt` is now **v3** with non-spoken first line `TITLE: How the Gucci Family Lost Gucci`, a blank separator, and the **same** 1,418 narrated words as v2. Hash above/below identifies the entire current file; no audio, cues or paragraph wording changed.
 
-**Script version 2, SHA-256:** `6a63b009eee4db27dbfab6a5ec144a5c3e5ebe9dc082ba3c0ff0469253312cca`. **Editorial:** internal revision and final text review passed on 2026-10-10. **Stage:** scripted, not production-ready.
+**Script version 3, SHA-256:** `6a63b009eee4db27dbfab6a5ec144a5c3e5ebe9dc082ba3c0ff0469253312cca`. **Editorial:** internal revision and final text review passed on 2026-10-10. **Stage:** scripted, not production-ready.
 
 ## Text/editorial checks
 - [x] Family-ownership title delivered; completed 1993 exit established early.
