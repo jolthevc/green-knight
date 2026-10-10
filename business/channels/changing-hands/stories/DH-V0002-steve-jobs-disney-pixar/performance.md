@@ -1,7 +1,7 @@
-# Performance and distribution | DH-V0002
+# Performance and publication | DH-V0002
 
-**Scripted but unpublished** as of 2026-10-10. Canonical script SHA-256 `e3a67c6e7658393b89268213a0da67125bb54ca7f079d3791aa5d76e88009008`. No YouTube upload, views, impressions, CTR, audience retention, AVD, end-screen clicks, RPM, comments or real qualitative pilot test to report.
+**Unpublished** as of 2026-10-10. Canonical script **v2**, SHA-256 `b17e484fa6abc164c8ea7bc691d18e3cb05134844a51beb4ae074ee2d679e949`. No published URL/date, views, CTR, audience, impressions, retention, AVD, RPM or audience survey available. Do not invent an algorithm score.
 
-**Baseline/test hypothesis (not analytics):** A recognizable *Toy Story* / Steve Jobs ownership paradox can make a fixed all-stock exchange comprehensible to a broad viewer; distinct claims about 2004 partnership and 2006 purchase need to survive first-listen evaluation. Test after producing a **real** pilot against observed 30-second comprehension/retention, midpoint explanation dips and finishing clarity, rather than assuming good metrics.
+**Hypotheses for future real tests:** Jobs unexpectedly becoming Disney shareholder is a broad-appeal hook; the specific Disney old-film-rights versus Pixar future-creator discovery should make the story less generic. Inspect 30-second comprehension/retention and dips around Disney's film contract, Jan 2006 price mechanism and shareholder conversion after a verified release.
 
-At 48h/7d/28d after a verified publication, record only observed values and source/small-sample context. Do not invent projections or “passed” channel targets. No publishing schedule set.
+At ~48 hours/7 days/28 days after publication, record only actual YouTube Analytics measurements and denominator/traffic sources. Final cut and full listening have not occurred. No automation is established.
