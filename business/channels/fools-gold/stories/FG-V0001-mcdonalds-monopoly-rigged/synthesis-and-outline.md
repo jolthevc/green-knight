@@ -1,46 +1,35 @@
-# Synthesis / outline | FG-V0001, Fool's Gold
+# Synthesis and spoken narrative architecture | FG-V0001 v2
 
-**Script v1** SHA-256 `ba4305e44011f488cb57b21d5082714a97e4ad388e8e88abe69b1d4672445e12`. Theme is **real prize, false provenance**. Originality comes from treating this as a control-design and verification investigation rather than a retelling of `McMillions` people and antics.
+**Full script hash:** `9c86e31841030a86c68cf943bf9e789e39af8dbc0df88725b8fa1ddf7399d496` | **Body:** 1,275 spoken words / 27 paragraphs | **Estimate:** 8:42 at 150 assumed WPM and 12 deliberate additional pause seconds. No real audio measured.
 
-## Story thesis in one sentence
+## Central answer
 
-McDonald's winning pieces were authentic, but a trusted contractor's security insider diverted scarce top prizes before intended random distribution; prize claimants could pass authenticity checks, while only a tip and investigation into relationships behind the winners exposed the missing chain-of-custody proof.
+The ticket was real. The person responsible for distributing scarce tickets was trusted to seed winners into the promotion, and he secretly diverted them to chosen people. A prize can be authentic yet have arrived through a fraudulent custody path. Separately, authentic stolen prizes do not prove each downstream claimant knew about the theft.
 
-**Broad everyday entry:** peeling fast-food stickers for prizes. **First payoff:** no counterfeit ticket required. **Deeper question:** which verification step failed, and why did genuine tickets and official payout create confidence?
+## Promise and channel identity
 
-## Candidate hooks and selection
+**Familiar hook:** peeling a Monopoly McDonald's sticker. **First payoff:** winning pieces genuine but chosen upstream. **More surprising fact:** Jacobson as director of security was responsible for putting the high-value pieces into circulation; the legitimate role enabled theft. **Money discovery:** one alleged $500k award sent $70k toward Jacobson; annuity awards not instant cash. **Exposing evidence:** tip to Jacksonville FBI, monitoring a live 2001 game, Texas claimant and recruiters. **Legal counterpoint:** 2004 separate acquittals after his guilty plea. **Earned ending:** the fairness loss happened before the customer played.
 
-1. **Chosen, familiar-object contradiction:** ordinary customer finds a rare sticker, but the biggest tickets already intercepted. Immediate subject, clear unfairness and physical mechanism.
-2. **Alternative, official payout paradox:** A real claimant presented a real million-dollar piece, and the prize was paid, but the public story of luck was false. Strong but less familiar until game introduced.
-3. **Alternative, investigative surprise:** FBI sees links behind rare winners, not false printed cards. Best middle reveal, not as broad as sticker object.
+## Structure and question transitions
 
-## Changed-understanding beats / 29 paragraphs
-
-| Body P range | Viewer model before → new evidence → model after | Question that follows |
+| Beat | Narration | Belief before → event/evidence → understanding afterward |
 |---|---|---|
-| P001–P003 | Game of chance → authentic high-value pieces diverted before random distribution | How were top pieces handled? |
-| P004–P006 | McDonald's alone controls random giveaway → contractor Simon responsible, insider access at secure stage | Could a real ticket appear as a win? |
-| P007–P010 | Prize verification guarantees legitimate win → real piece moves through recruiters and public winners, official issuer pays, potential installment splits | Why did nobody notice? |
-| P011–P014 | Winners unusual but normal → disconnected identities can hide common network, 2001 allegations $13m face value distinct from profit | What uncovered network? |
-| P015–P018 | Any holder must know fraud → legal transfer/knowledge distinction; 2000 tip links winners, 2001 FBI-supervised contest | What could agents observe? |
-| P019–P021 | Only rumor of fraud → 2001 Texas grand-prize claim followed by August arrests, McDonald's cooperation | What was proved? |
-| P022–P025 | Every name arrested is guilty → Jacobson 2003 plea; appellate acquittals for four others in 2004 | Which claims can fairly be said? |
-| P026–P029 | Newspaper total = fraudster profit → figures differ; genuine winning ticket/false path remains core lesson and CTA | Satisfying ending |
+| Hook and credible appearance | P001–P003 | Genuine sticker means genuine chance → high prizes diverted while small prizes real → how? |
+| Legitimate custody and violation | P004–P007 | Secure contractor administers prize pieces → director controls rare distribution and admits theft → authentic doesn't prove fair route |
+| Flow of prizes and money | P008–P011 | Different winners apparently unconnected → recruiters and official prize checks, one $500k split, prize annuities → who benefited? |
+| Early breadth, plausible rarity | P012–P014 | One aberration → multi-year games, early Dodge Viper and million-dollar winners → how did officials spot the pattern? |
+| Investigative turn | P015–P018 | Nobody could know private ticket routes → anonymous tip, customer/company cooperation, observed 2001 contest and Texas claim → case becomes provable |
+| Action and accountability | P019–P021 | Suspicions → eight arrests, McDonald's reaction, Jacobson's plea and sentence → were all claimants equally culpable? |
+| Court challenge and earned insight | P022–P027 | Anyone holding a diverted piece was conspirator → deliberate compartmentalization, separate court acquittals, end on failed guaranteed randomness → genuine object not complete truth |
 
-## Apparent-versus-real financial flow
+**Weakest passage to audio-test:** P010–P012 has two money explanations near one another; each does different work (one pay split, one timing/aggregate distinction) but may require a straightforward narrator, not ominous pauses. Film clip licensing and audience reaction are not inferred.
 
-Legitimate: ordinary promotion event -> scarce winning piece embedded in customer-facing packaging/news ad -> actual customer -> redemption -> issuer pays advertised award.
+## Competing interpretation test
 
-Disputed/established scheme: genuine high-value piece -> Jacobson insider diversion (**later admitted**) -> recruiter(s) -> purported customer winner -> issuer payout -> recruiters / Jacobson receive portions (**DOJ 2001 allegation**, with some later adjudications); *not* counterfeit printing and *not* proven that McDonald's intentionally fixed promotions.
+1. A real winning ticket isn't forged; the deceptive step is unauthorized distribution.
+2. Initial DOJ charge records do not prove every individual claimant guilty; a four-appellant acquittal is documented.
+3. McDonald's itself was not established to have intentionally manipulated the game, and federal officials described cooperation by its staff.
+4. A $13m headline of allegedly diverted **prize value** is not personal proceeds.
+5. The 2007 insurer dispute concerns a different claimed total, not a correction to the 2001 allegations.
 
-Economics: $1m prize nominal is not immediately equivalent to $1m cash deposited for fraudster; some installments reported and splits alleged. The $13m investigation figure is an allegation of total top-prize face values as of Aug 2001, not exact company loss, cash raised, fraudster net gain or total recovery.
-
-## Newcomer versus informed skeptic
-
-Newcomer must grasp only **ticket genuine / route falsified**, with no operational jargon or big character cast. Explaining all 2001 arrest names would destroy first-listen clarity. Allow early payoff within first minute and discovery at ~3m and ~6m. The strongest filmable objects are recognizable stickers/real winner confirmation but treatment belongs to editor.
-
-Skeptic insists on **1995 alleged scheme versus 1989 admissions**, **2001 accusations versus 2003 guilty plea**, and **four 2004 appellate acquittals** not blanket guilty assumption. Sources do not prove every prize in every game was compromised or specify every security control. Preserve the informed objection and fair treatment of some claimants.
-
-## Internal editorial verdict
-
-Original 1,544-word cold text was accurate in broad mechanics but ran beyond 10m and lingered on repeated authenticity explanations. Revised 1,343 words focuses the two-question verification distinction, a real investigative turn and the legal-status complication. 150 assumed WPM +10s intentional pauses gives **547.2s (~9:07)**, not an audio measurement. Script v1 passes internal review for scripted stage; human pilot and original full repository Python validation remain open.
+**Newcomer:** 27 short/medium paragraphs and one simple 500k-to-70k example, fewer names, actual FBI plot earlier. **Informed skeptic:** source scopes, legality, innocence and allegation distinctions intact. **Editor:** own visual treatment; internal scene coverage in evidence.json / visual-plan.md.
