@@ -4,34 +4,34 @@
   "story_id": "DH-V0001",
   "channel": "changing-hands",
   "title": "The Team That Made Millions Without Playing in the NBA",
-  "status": "selected",
-  "script_version": 0,
+  "status": "scripted",
+  "script_version": 2,
   "created_at": "2026-10-10",
   "updated_at": "2026-10-10",
-  "research_as_of": null,
+  "research_as_of": "2026-10-10",
   "repository_context_commit": "8ad6f6e887fece796c220991663ed24f6c5bf209",
   "runtime": {
     "target_min_seconds": 480,
     "target_max_seconds": 600,
-    "word_count": null,
+    "word_count": 1334,
     "assumed_or_observed_wpm": 150,
-    "extra_pause_seconds": 0,
-    "silent_hold_seconds": 0,
-    "estimated_seconds": null,
+    "extra_pause_seconds": 7.5,
+    "silent_hold_seconds": 6,
+    "estimated_seconds": 547.1,
     "actual_video_seconds": null
   },
   "narration": {
     "provider": null,
     "voice_id": null,
-    "settings": null,
+    "settings": {},
     "audition_approved": false,
     "pronunciations": [],
-    "profile_id": null,
-    "profile_version": null,
+    "profile_id": "changing_hands_narrator",
+    "profile_version": 0,
     "kind": null,
     "model_id": null,
     "performer_name": null,
-    "locale": null,
+    "locale": "en",
     "accent": null,
     "reference_audio_url": null,
     "observed_wpm": null
@@ -45,19 +45,34 @@
   },
   "published_url": null,
   "published_at": null,
-  "revision_history": [],
+  "revision_history": [
+    {
+      "version": 1,
+      "date": "2026-10-10",
+      "actor": "ChatGPT",
+      "script_sha256": "eb831e4ab0cb711bfa082cd8c92ff6b6019c7bab4121843e713ba5d2984151e5",
+      "note": "Complete first spoken draft after research/synthesis; 1353 words. Archived in revisions/script-v001.txt."
+    },
+    {
+      "version": 2,
+      "date": "2026-10-10",
+      "actor": "ChatGPT",
+      "script_sha256": "c95ad571754a1802b377e509e678cc6cbee9999667b3d6b7f25634b2a5326e73",
+      "note": "Internal evidence/logic and story/voice revisions: simplify number, forum and financing wording; bound borrowing implication to announced design. Full final re-review passed; 1334 words."
+    }
+  ],
   "visual": {
-    "direction": null,
+    "direction": "Proposed midnight-blue cut-paper transaction board, channel STYLE.md; no approved pilot.",
     "approved": false,
     "reference_urls": [],
-    "profile_version": null
+    "profile_version": 0
   },
-  "script_sha256": null,
+  "script_sha256": "c95ad571754a1802b377e509e678cc6cbee9999667b3d6b7f25634b2a5326e73",
   "editorial": {
-    "passed": false,
-    "reviewed_by": null,
-    "reviewed_at": null,
-    "reviewed_script_sha256": null,
+    "passed": true,
+    "reviewed_by": "ChatGPT (internal self-review)",
+    "reviewed_at": "2026-10-10",
+    "reviewed_script_sha256": "c95ad571754a1802b377e509e678cc6cbee9999667b3d6b7f25634b2a5326e73",
     "blocking_issues": []
   },
   "production_review": {
@@ -68,5 +83,6 @@
     "audio_url": null,
     "final_cut_url": null,
     "full_audio_listened": false
-  }
+  },
+  "reservation_commit": "1a1add0a1fe79e6efad94476888f11ef71e917f9"
 }

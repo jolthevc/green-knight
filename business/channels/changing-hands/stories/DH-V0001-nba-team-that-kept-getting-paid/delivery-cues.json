@@ -1,0 +1,223 @@
+{
+  "schema_version": 2,
+  "script_version": 2,
+  "script_sha256": "c95ad571754a1802b377e509e678cc6cbee9999667b3d6b7f25634b2a5326e73",
+  "instructions_are_non_spoken": true,
+  "assumed_or_observed_wpm": 150,
+  "silent_hold_seconds": 6,
+  "silent_holds": [
+    {
+      "after_paragraph_id": "P008",
+      "seconds": 2,
+      "reason": "Read illustrative total"
+    },
+    {
+      "after_paragraph_id": "P026",
+      "seconds": 2,
+      "reason": "Absorb ownership change"
+    },
+    {
+      "after_paragraph_id": "P036",
+      "seconds": 2,
+      "reason": "End-card tail"
+    }
+  ],
+  "cues": [
+    {
+      "paragraph_id": "P001",
+      "anchor": "The Spirits of St. Louis never played a game",
+      "pace": "natural",
+      "intent": "curious",
+      "emphasis": [
+        "never played a game in the NBA"
+      ],
+      "pause_after_seconds": 0.6,
+      "inflection": "neutral",
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P004",
+      "anchor": "The ABA was a separate league. By 1976, it",
+      "pace": "natural",
+      "intent": "matter_of_fact",
+      "emphasis": [],
+      "pause_after_seconds": 0,
+      "inflection": "neutral",
+      "pronunciation_notes": [
+        "NBA and ABA are spoken as letters."
+      ]
+    },
+    {
+      "paragraph_id": "P007",
+      "anchor": "Here's the part to keep straight. The basic deal",
+      "pace": "slower",
+      "intent": "matter_of_fact",
+      "emphasis": [
+        "each of those four teams' television shares"
+      ],
+      "pause_after_seconds": 0.8,
+      "inflection": "neutral",
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P008",
+      "anchor": "Let's use invented numbers to make that visible. Suppose",
+      "pace": "slower",
+      "intent": "matter_of_fact",
+      "emphasis": [
+        "invented numbers"
+      ],
+      "pause_after_seconds": 0,
+      "inflection": "neutral",
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P010",
+      "anchor": "And it was a share of revenue. If an",
+      "pace": "slower",
+      "intent": "matter_of_fact",
+      "emphasis": [
+        "revenue"
+      ],
+      "pause_after_seconds": 0.5,
+      "inflection": "neutral",
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P011",
+      "anchor": "There was also no ordinary expiration date. A later",
+      "pace": "natural",
+      "intent": "reflective",
+      "emphasis": [
+        "for as long as the NBA existed"
+      ],
+      "pause_after_seconds": 0.7,
+      "inflection": "settled",
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P014",
+      "anchor": "The contrast became much clearer as the years passed.",
+      "pace": "slower",
+      "intent": "matter_of_fact",
+      "emphasis": [],
+      "pause_after_seconds": 0.7,
+      "inflection": "neutral",
+      "pronunciation_notes": [
+        "1987–88: nineteen eighty-seven to eighty-eight. 2010–11: twenty ten to eleven."
+      ]
+    },
+    {
+      "paragraph_id": "P016",
+      "anchor": "Even expansion had been anticipated. Usually, adding more teams",
+      "pace": "slower",
+      "intent": "matter_of_fact",
+      "emphasis": [
+        "twenty-eight teams"
+      ],
+      "pause_after_seconds": 0.6,
+      "inflection": "neutral",
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P018",
+      "anchor": "That made the wording around the pot especially important.",
+      "pace": "natural",
+      "intent": "curious",
+      "emphasis": [],
+      "pause_after_seconds": 0.7,
+      "inflection": "question",
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P021",
+      "anchor": "The New York courts said the dispute belonged in",
+      "pace": "natural",
+      "intent": "matter_of_fact",
+      "emphasis": [],
+      "pause_after_seconds": 0,
+      "inflection": "neutral",
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P023",
+      "anchor": "By 2014, the parties had a new arrangement to",
+      "pace": "natural",
+      "intent": "matter_of_fact",
+      "emphasis": [
+        "reporting"
+      ],
+      "pause_after_seconds": 0.6,
+      "inflection": "neutral",
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P024",
+      "anchor": "But the most revealing part is in the NBA's",
+      "pace": "slower",
+      "intent": "matter_of_fact",
+      "emphasis": [
+        "controlling ownership interest"
+      ],
+      "pause_after_seconds": 0,
+      "inflection": "neutral",
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P026",
+      "anchor": "Now look at the arrangement from both sides. The",
+      "pace": "slower",
+      "intent": "curious",
+      "emphasis": [
+        "ownership of the recipient changed"
+      ],
+      "pause_after_seconds": 0,
+      "inflection": "settled",
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P029",
+      "anchor": "Why would the brothers agree after holding on for",
+      "pace": "natural",
+      "intent": "reflective",
+      "emphasis": [],
+      "pause_after_seconds": 0.8,
+      "inflection": "neutral",
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P031",
+      "anchor": "It's tempting to turn the whole episode into a",
+      "pace": "natural",
+      "intent": "skeptical",
+      "emphasis": [
+        "hadn't foreseen the scale"
+      ],
+      "pause_after_seconds": 0.5,
+      "inflection": "settled",
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P035",
+      "anchor": "The team disappeared. The asset that mattered was still",
+      "pace": "slower",
+      "intent": "reflective",
+      "emphasis": [
+        "asset that mattered"
+      ],
+      "pause_after_seconds": 1,
+      "inflection": "settled",
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P036",
+      "anchor": "For more stories about the deals behind the money,",
+      "pace": "natural",
+      "intent": "matter_of_fact",
+      "emphasis": [],
+      "pause_after_seconds": 0,
+      "inflection": "settled",
+      "pronunciation_notes": []
+    }
+  ]
+}

@@ -643,7 +643,7 @@
       "viewer_promise": "Understand how a defunct basketball team retained media-income rights and how the paying teams sought to buy control of that obligation.",
       "related_idea_ids": [],
       "channel": "changing-hands",
-      "status": "selected",
+      "status": "scripted",
       "story_id": "DH-V0001",
       "story_path": "business/channels/changing-hands/stories/DH-V0001-nba-team-that-kept-getting-paid",
       "created_at": "2026-10-10",
@@ -663,6 +663,24 @@
           "status": "selected",
           "note": "Owner selected DH-I0006 and authorized research through full script and editor handoff without intermediate approvals. Title sharpened around NBA connection while preserving that the Spirits were an ABA team. Reserved DH-V0001.",
           "actor": "ChatGPT"
+        },
+        {
+          "date": "2026-10-10",
+          "status": "researching",
+          "actor": "ChatGPT",
+          "note": "Opened original judicial opinions, NBA announcement and participant reporting; reconstructed positions, obligations and financing."
+        },
+        {
+          "date": "2026-10-10",
+          "status": "researched",
+          "actor": "ChatGPT",
+          "note": "Research and synthesis completed; 10-source ledger, 34 claim records, competing explanation and disclosure limits saved in DH-V0001."
+        },
+        {
+          "date": "2026-10-10",
+          "status": "scripted",
+          "actor": "ChatGPT",
+          "note": "Full 1334-word script v2 internally reviewed; separate cues, 21-scene visual plan, packaging and editor handoff saved. Estimated 547.1 seconds, not measured. Narrator/visual profiles unselected/proposed; no production or publication."
         }
       ]
     },

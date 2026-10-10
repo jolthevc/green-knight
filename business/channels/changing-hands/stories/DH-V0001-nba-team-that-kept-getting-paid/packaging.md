@@ -1,0 +1,73 @@
+# Packaging: DH-V0001
+
+## Title options
+
+1. **The Team That Made Millions Without Playing in the NBA**. Recommended and used in metadata. Clear NBA connection, accurate exclusion, immediately understandable paradox. It does not claim the Spirits never played basketball.
+2. The Basketball Team That Disappeared but Kept Getting Paid. Emphasizes survival of the right; less explicit NBA recognition.
+3. How Four NBA Teams Bought Into Their Own Obligation. Focuses on the transaction insight, but asks more of a newcomer.
+
+## Thumbnail concepts
+
+**A, recommended: STILL GETTING PAID.** An empty cut-paper basketball court occupies the left half; a single ivory contract tile and incoming brass payment arrows occupy the right. A faded "1976" sits on the closed court, not on a fake payment record. Three-word headline in large Barlow Condensed. Midnight/ivory/brass. Editorial illustration, not a historical check or verified contract image. Keep the contract generic with a plain "TV RIGHTS" label.
+
+**B: THEY BOUGHT IN.** Four club tiles move into an ownership bracket around the Spirits rights entity, with a lone basketball on the edge. Use one bold bracket and a clear ownership arrow; remove tiny team names in the phone-size version. Midnight/ivory/teal with brass highlight. More unusual, but the ownership puzzle needs the title for context. All objects illustrative.
+
+Select A. Review both as 160px-wide previews during production; no thumbnail images have been generated or tested. Avoid a $500m thumbnail because attribution and transaction scope cannot fit clearly in that small frame.
+
+## Selected pair and opening alignment
+
+Title 1 plus A. P001 delivers the paradox: no NBA games, operations stopped, checks continued. P002 identifies the retained claim. P007-P008 deliver the fraction after the ABA/NBA distinction. P024-P028 explain the less familiar control transfer; the ending returns to the vanished team and surviving asset. No promise of a secret crime, risk-free profit or current payment arrangement.
+
+## Description draft
+
+The Spirits of St. Louis shut down in 1976. Their right to NBA television income survived.
+
+This Changing Hands episode follows the Silna brothers, the fraction behind a famous basketball deal, and the 2014 arrangement in which the paying teams sought control of the business receiving the money. What exactly remained valuable after the team disappeared?
+
+Historical reporting and court opinions support the story. The reported $500 million settlement is distinguished from the NBA's publicly announced transaction structure. The dollar example explaining the fraction is illustrative, not an actual payment.
+
+Selected sources:
+- U.S. Court of Appeals, Eighth Circuit; hosted by Justia: [Weltman v. Silna, 879 F.2d 425](https://law.justia.com/cases/federal/appellate-courts/F2/879/425/438606/)
+- New York Supreme Court, New York County; hosted by Justia: [Spirits v. Denver Nuggets, 2009 NY Slip Op 52343(U)](https://law.justia.com/cases/new-york/other-courts/2009/2009-52343.html)
+- New York Appellate Division, First Department; hosted by Justia: [Spirits v. Denver Nuggets, 2011 NY Slip Op 03715](https://law.justia.com/cases/new-york/appellate-division-first-department/2011/2011-03715.html)
+- NBA Communications: [Former ABA teams, NBA and Spirits of St. Louis announce conditional settlement](https://pr.nba.com/nba-aba-spirits-settlement/)
+- The Malibu Times: [Silna Settles Longtime NBA Dispute for $500M](https://malibutimes.com/article_7a49933a-c573-11e3-95ee-001a4bcf887a)
+- Forbes; Monte Burke: [Revisiting 'The Greatest Sports Deal Of All Time'](https://www.forbes.com/sites/monteburke/2011/05/12/revisiting-the-greatest-sports-deal-of-all-time/)
+- Hoops Analyst; Harlan Schreiber: [The NBA and the Spirits](https://hoopsanalyst.com/the-nba-and-the-spirits/)
+
+Subscribe to Changing Hands for more stories about the deals behind the money.
+
+Production credits will be added only for people and assets actually used. No music, footage, narration provider or finished visual credits are claimed.
+
+## Provisional chapters
+
+From script v2 at 150 WPM plus planned pauses/holds. Replace with measured cut times before uploading.
+
+| Estimated start | Chapter |
+| --- | --- |
+| 0:00 | The team disappeared. The checks did not |
+| 0:35 | The NBA door closes |
+| 1:42 | One-seventh of what? |
+| 3:33 | Growth and the 28-team safeguard |
+| 4:39 | What counts as television? |
+| 5:41 | The reported $500 million settlement |
+| 5:56 | Buying control of the recipient |
+| 7:14 | Why settle now? |
+| 8:18 | The asset that survived |
+
+## Tags
+
+Spirits of St. Louis, Silna brothers, NBA ABA merger, NBA television rights, Changing Hands, sports business.
+
+## CTA and end screen
+
+Only spoken CTA is P036, after the payoff: subscribe to Changing Hands. Launch-safe channel invitation; no verified adjacent published episode is available. Plan the final approximately 10 seconds across P036 and its 2-second tail for the subscribe element. Exact timing follows the rendered cut. Do not invent a watch-next URL.
+
+## Final upload and actual asset review
+
+Editorial alignment passed for script v2, hash c95ad571754a1802b377e509e678cc6cbee9999667b3d6b7f25634b2a5326e73. Title, proposed thumbnail, opening and ending tell the same story. Source links were opened during research; SI is explicitly partial in the evidence map and omitted from selected description links.
+
+Upload not performed. Narrator, imagery, music and licenses: not selected/produced. Disclosure decision: pending actual assets and current policy check at upload, not a claim that disclosure is or is not required. No simulated historical voice, real-person impersonation or fake evidence is planned. Chapters, final links, credits and phone-size readability remain final-cut checks.
+
+Original contribution: connecting the four-share denominator, dilution protection, contested media scope and announced equity/debt restructuring, rather than reproducing the familiar "best deal ever" anecdote.
+
