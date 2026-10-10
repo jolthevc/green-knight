@@ -27,7 +27,7 @@ Read the draft as an informed skeptic. Check the strongest contrary evidence, mi
 
 ## Revise coherently
 
-Any spoken wording change increments script_version and changes its SHA-256. Revisit cue/claim/scene anchors, timing, title promise and pronunciation. Update all affected files together. A punctuation/line-break change also changes the byte hash; review the impact rather than pretending the old audio automatically matches.
+Any spoken wording **or script title header** change increments script_version and changes the full-file SHA-256. The `TITLE: <metadata.title>` first line is non-spoken; paragraph and cue numbering begins with narration after its blank separator. Revisit cue/claim/scene anchors, timing, title promise and pronunciation. Update all affected files together. A punctuation/line-break change also changes the byte hash; review the impact rather than pretending the old audio automatically matches.
 
 Clear editorial.passed and reviewed_script_sha256 until the revision is reviewed. Clear production review if the approved cut/audio is affected. Preserve revision history and the reason. Recheck freshness-sensitive claims immediately before production/upload.
 
