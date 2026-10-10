@@ -6,6 +6,8 @@ Pretty Penny starts with familiar spending and surprises: subscriptions, travel,
 
 Money Moves starts with recognizable products and consequential strategic choices. Vary pivots, pricing, distribution, constraints, reinvention and rival responses. Its cards must identify the decision, constraint, plausible alternatives and what evidence could establish the outcome. Do not make the hypothesis true just by calling a move brilliant.
 
+Fallen Angels starts with a recognizable rise-to-loss contrast. Vary lost advantages, failed launches, slow deterioration, financing crises and unsuccessful rescues. Identify what failed, the suspected mechanism and which familiar explanation needs testing. Hypotheses remain unverified until research.
+
 Use the channel lanes to route concepts. A collapse belongs in Fallen Angels; a decisive strategic choice in Money Moves; a deception in Fool’s Gold; a discrete consequential deal in Changing Hands; a dynasty in Silver Spoon. Pretty Penny can use company examples when the system is the subject.
 
 Do not confuse likely advertiser interest with proven RPM. Geography, audience, season, suitability and demand matter; validate monetization later with channel data.
@@ -21,7 +23,7 @@ Then provide one compact card per idea:
 - Working title and two alternatives; question the episode answers.
 - Who cares and why now or why evergreen.
 - Hypothesis, explicitly unverified until researched.
-- The economic or strategic mechanism and likely non-obvious payoff. For Money Moves, include the decision and real alternatives to investigate.
+- The economic or strategic mechanism and likely non-obvious payoff. For Money Moves, include the decision and real alternatives to investigate. For Fallen Angels, define the failure and suspected cause versus trigger.
 - A 15–30 second hook concept, without fabricated statistics.
 - Three possible beats and one production-friendly visual device.
 - Source leads: two credible original-source leads when available, with URLs and access status. Label unopened leads as leads.
@@ -33,6 +35,6 @@ Close with the top three recommendations, why each deserves research and which o
 
 ## Ledger hygiene
 
-Read the selected channel.json and use its idea_prefix: PP-I#### for Pretty Penny, MM-I#### for Money Moves. Use the next unallocated ID and never reuse deleted/rejected IDs. Allocate against the latest registry. Persist all presented ideas as proposed; alternatives live in aliases, not separate rows. Record the canonical subject, mechanism and viewer promise so later chats can identify duplicates even after titles change. Use related_idea_ids for intentional revisits.
+Read the selected channel.json and use its idea_prefix: PP-I#### for Pretty Penny, MM-I#### for Money Moves, FA-I#### for Fallen Angels. Use the next unallocated ID and never reuse deleted/rejected IDs. Allocate against the latest registry. Persist all presented ideas as proposed; alternatives live in aliases, not separate rows. Record the canonical subject, mechanism and viewer promise so later chats can identify duplicates even after titles change. Use related_idea_ids for intentional revisits.
 
 If writing is unavailable, use provisional IDs clearly marked unsaved and provide the exact entries to add. An idea presented in chat alone is not durable state.

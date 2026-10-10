@@ -183,6 +183,144 @@
           "actor": "ChatGPT"
         }
       ]
+    },
+    {
+      "id": "FA-I0001",
+      "channel": "fallen-angels",
+      "title": "What Went Wrong at Kodak?",
+      "aliases": [
+        "Kodak Invented the Digital Camera. Then It Died of It."
+      ],
+      "subject": "Kodak's loss of advantage",
+      "mechanism": "Legacy economics and adaptation under technological change",
+      "viewer_promise": "Understand which pressures and responses explain Kodak's loss of advantage, while testing the familiar digital-camera story.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-10",
+      "updated_at": "2026-10-10",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-10",
+          "status": "proposed",
+          "note": "Imported from earlier discussion as a sample concept. Unselected and unresearched. Earlier titles retained as aliases where changed; implied facts, figures and causal claims are not verified. Research may overturn the suspected mechanism. Date records import, not original proposal.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "FA-I0002",
+      "channel": "fallen-angels",
+      "title": "Why Quibi Failed",
+      "aliases": [
+        "Quibi: How to Lose $1.75 Billion in Six Months"
+      ],
+      "subject": "Quibi's failed launch",
+      "mechanism": "Product demand, positioning and operating model viability",
+      "viewer_promise": "Understand why the launch failed and which popular explanations the evidence supports.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-10",
+      "updated_at": "2026-10-10",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-10",
+          "status": "proposed",
+          "note": "Imported from earlier discussion as a sample concept. Unselected and unresearched. Earlier titles retained as aliases where changed; implied facts, figures and causal claims are not verified. Research may overturn the suspected mechanism. Date records import, not original proposal.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "FA-I0003",
+      "channel": "fallen-angels",
+      "title": "What Brought Down Toys R Us?",
+      "aliases": [
+        "Toys R Us Didn't Die From Amazon"
+      ],
+      "subject": "Toys R Us operating and financing crisis",
+      "mechanism": "Retail competitiveness, operating performance and financing pressure",
+      "viewer_promise": "Understand the interacting causes of the crisis, distinguishing structural weaknesses from triggers.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-10",
+      "updated_at": "2026-10-10",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-10",
+          "status": "proposed",
+          "note": "Imported from earlier discussion as a sample concept. Unselected and unresearched. Earlier titles retained as aliases where changed; implied facts, figures and causal claims are not verified. Research may overturn the suspected mechanism. Date records import, not original proposal.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "FA-I0004",
+      "channel": "fallen-angels",
+      "title": "How Nokia Lost Its Phone Advantage",
+      "aliases": [
+        "How Nokia Lost the Phone It Owned"
+      ],
+      "subject": "Nokia's loss of mobile-phone leadership",
+      "mechanism": "Competitive adaptation and execution under platform change",
+      "viewer_promise": "Understand how an established advantage deteriorated and which responses mattered.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-10",
+      "updated_at": "2026-10-10",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-10",
+          "status": "proposed",
+          "note": "Imported from earlier discussion as a sample concept. Unselected and unresearched. Earlier titles retained as aliases where changed; implied facts, figures and causal claims are not verified. Research may overturn the suspected mechanism. Date records import, not original proposal.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "FA-I0005",
+      "channel": "fallen-angels",
+      "title": "The Last Days of Pan Am",
+      "aliases": [],
+      "subject": "Pan Am's business decline",
+      "mechanism": "Operating economics, competitive pressure and financial resilience",
+      "viewer_promise": "Understand the sequence and mechanism of decline without attributing it to a single untested cause.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-10",
+      "updated_at": "2026-10-10",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-10",
+          "status": "proposed",
+          "note": "Imported from earlier discussion as a sample concept. Unselected and unresearched. Earlier titles retained as aliases where changed; implied facts, figures and causal claims are not verified. Research may overturn the suspected mechanism. Date records import, not original proposal.",
+          "actor": "ChatGPT"
+        }
+      ]
     }
   ]
 }

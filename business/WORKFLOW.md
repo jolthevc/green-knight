@@ -8,7 +8,7 @@ Read the business instructions, selected channel rules and full registry. Fetch 
 
 Use IDEATION.md. Search for exact and near duplicates across all six lanes. A new title for the same explanation is a duplicate. A genuinely new mechanism, audience question or updated fact pattern can justify a revisit; explicitly reference the earlier ID and explain the difference.
 
-Persist proposed ideas with stable IDs. The user chooses unless selection is delegated. On selection read the chosen channel.json, allocate the next ID using its story_prefix, copy templates/story/ to channels/<slug>/stories/<story-id>-short-slug/, set metadata.channel and the actual identifiers, fill metadata.json, and update the registry to selected. Pretty Penny uses PP-V####; Money Moves uses MM-V####. No stock script or completed pilot is seeded.
+Persist proposed ideas with stable IDs. The user chooses unless selection is delegated. On selection read the chosen channel.json, allocate the next ID using its story_prefix, copy templates/story/ to channels/<slug>/stories/<story-id>-short-slug/, set metadata.channel and the actual identifiers, fill metadata.json, and update the registry to selected. Pretty Penny uses PP-V####; Money Moves uses MM-V####; Fallen Angels uses FA-V####. No stock script or completed pilot is seeded.
 
 ## 3. Research deeply
 
@@ -16,7 +16,7 @@ Start with the central question and an unproven hypothesis. Search primary docum
 
 Build research.md and sources-and-claims.md. For every consequential claim record source ID, URL, publisher, publication and access dates, period/geography, supporting section/page, reliability, caveats and whether it is verified, inferred or illustrative. Trace script claims to exact paragraph anchors. Quotes stay short and accurate.
 
-Check the strongest counterargument, competing explanations, historical changes and incentives on each side. Reconstruct the money mechanism: who pays whom, why, cost drivers, margins, timing, risk and where value accumulates. Build a unit-economics table when the question needs one. For Money Moves, additionally document the constraint, available alternatives, information known then, decision/execution timeline and competing causes of the outcome. Do not use a company's total net income as a product margin.
+Check the strongest counterargument, competing explanations, historical changes and incentives on each side. Reconstruct the money mechanism: who pays whom, why, cost drivers, margins, timing, risk and where value accumulates. Build a unit-economics table when the question needs one. For Money Moves, additionally document the constraint, available alternatives, information known then, decision/execution timeline and competing causes of the outcome. For Fallen Angels, define what failed and build the failure timeline, warning/response sequence, fragility-versus-trigger analysis and competing explanations. Do not use a company's total net income as a product margin.
 
 Depth ends when the central mechanism and necessary claims are supported, credible counterevidence has been examined, and additional searching is unlikely to change the view. There is no mandatory source count. If a crucial claim is unresolved, research further, reframe honestly or mark blocked. Update to researched only once the research and synthesis are defensible.
 

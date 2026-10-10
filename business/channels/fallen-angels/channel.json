@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "workspace": "manual_business",
+  "id": "fallen-angels",
+  "idea_prefix": "FA-I",
+  "story_prefix": "FA-V",
+  "name": "Fallen Angels",
+  "language": "en",
+  "target_runtime_seconds": {
+    "min": 480,
+    "target": 540,
+    "max": 600
+  },
+  "publication_cadence": null,
+  "production_status": "setup",
+  "narration": {
+    "profile": "calm, investigative, engaging, humane, restrained",
+    "provider": null,
+    "voice_id": null,
+    "calibrated_wpm": null
+  },
+  "visual_direction_status": "illustrated_case_file_direction_selected_details_proposed",
+  "automated_portfolio_registration": false
+}
