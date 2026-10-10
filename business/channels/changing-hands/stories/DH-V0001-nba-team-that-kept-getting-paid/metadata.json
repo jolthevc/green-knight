@@ -5,7 +5,7 @@
   "channel": "changing-hands",
   "title": "The Team That Made Millions Without Playing in the NBA",
   "status": "scripted",
-  "script_version": 3,
+  "script_version": 4,
   "created_at": "2026-10-10",
   "updated_at": "2026-10-10",
   "research_as_of": "2026-10-10",
@@ -66,6 +66,11 @@
       "actor": "ChatGPT",
       "script_sha256": "7d5945bf807fe9dad826173cd5d5cc860602c16a4bf379acf0224cc1ed2ac067",
       "note": "Owner-authorized cold review and revision. Frontloaded reported annual payout, established Colonels cash alternative and struggling Spirits, simplified math/legal/financing, preserved settlement qualifications, sharpened final payoff; re-reviewed full script. No real narration played."
+    },
+    {
+      "date": "2026-10-10",
+      "version": 4,
+      "note": "Formatting-only: required non-spoken TITLE: <metadata.title> header inserted at start of script.txt. The original narrated wording, paragraph IDs, cues, sources and estimated spoken runtime are unchanged; full-file SHA updated."
     }
   ],
   "visual": {
@@ -74,12 +79,12 @@
     "reference_urls": [],
     "profile_version": 0
   },
-  "script_sha256": "7d5945bf807fe9dad826173cd5d5cc860602c16a4bf379acf0224cc1ed2ac067",
+  "script_sha256": "a98e376cf96c5d7fcbc7434326afb143b71c8741fd879dfdb4f49cf375d69266",
   "editorial": {
     "passed": true,
-    "reviewed_by": "ChatGPT (same-model cold critique and independent-style final text re-review)",
+    "reviewed_by": "ChatGPT (same-model cold critique and independent-style final text re-review); title-only format synchronization, narration unchanged",
     "reviewed_at": "2026-10-10",
-    "reviewed_script_sha256": "7d5945bf807fe9dad826173cd5d5cc860602c16a4bf379acf0224cc1ed2ac067",
+    "reviewed_script_sha256": "a98e376cf96c5d7fcbc7434326afb143b71c8741fd879dfdb4f49cf375d69266",
     "blocking_issues": []
   },
   "production_review": {
