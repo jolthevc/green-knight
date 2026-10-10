@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "script_version": 2,
-  "script_sha256": "1ce7d1cdf0fe9f9e8a9697151c0823b4ef54fcff2a176188e5c4c35639c56059",
+  "script_version": 3,
+  "script_sha256": "6a63b009eee4db27dbfab6a5ec144a5c3e5ebe9dc082ba3c0ff0469253312cca",
   "sources": [
     {
       "id": "S001",
