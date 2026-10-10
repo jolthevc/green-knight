@@ -1,6 +1,8 @@
 # Research packet: SS-V0001 v2
 
-**Research as of:** 2026-10-10. **Script hash:** `1ce7d1cdf0fe9f9e8a9697151c0823b4ef54fcff2a176188e5c4c35639c56059`. **Judgment:** PROCEED to internally reviewed scripted package. This packet includes 12 opened source records. Do not conflate archival factual access with permission to reproduce media.
+> **Title-header sync (2026-10-10):** canonical `script.txt` v3 starts with `TITLE: How the Gucci Family Lost Gucci` and a blank line. This header is not spoken; the 1,418-word narration and P001–P030 anchors remain identical to v2. Full-file SHA-256 is `6a63b009eee4db27dbfab6a5ec144a5c3e5ebe9dc082ba3c0ff0469253312cca`.
+
+**Research as of:** 2026-10-10. **Script hash:** `6a63b009eee4db27dbfab6a5ec144a5c3e5ebe9dc082ba3c0ff0469253312cca`. **Judgment:** PROCEED to internally reviewed scripted package. This packet includes 12 opened source records. Do not conflate archival factual access with permission to reproduce media.
 
 ## Executive conclusion
 
