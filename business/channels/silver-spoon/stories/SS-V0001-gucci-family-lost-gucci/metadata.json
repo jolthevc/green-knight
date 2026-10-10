@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "idea_id": "SS-I0002",
+  "story_id": "SS-V0001",
+  "channel": "silver-spoon",
+  "title": "How the Gucci Family Lost Gucci",
+  "status": "scripted",
+  "script_version": 1,
+  "created_at": "2026-10-10",
+  "updated_at": "2026-10-10",
+  "research_as_of": "2026-10-10",
+  "repository_context_commit": "0703634f1d91f52cd2c651a940d2f79b49422902",
+  "runtime": {
+    "target_min_seconds": 480,
+    "target_max_seconds": 600,
+    "word_count": 1401,
+    "assumed_or_observed_wpm": 150,
+    "extra_pause_seconds": 11,
+    "silent_hold_seconds": 0,
+    "estimated_seconds": 571.4,
+    "actual_video_seconds": null
+  },
+  "narration": {
+    "provider": null,
+    "voice_id": null,
+    "settings": {},
+    "audition_approved": false,
+    "pronunciations": [],
+    "profile_id": "silver_spoon_narrator",
+    "profile_version": 0,
+    "kind": null,
+    "model_id": null,
+    "performer_name": null,
+    "locale": "en",
+    "accent": null,
+    "reference_audio_url": null,
+    "observed_wpm": null
+  },
+  "assets": {
+    "review_video_url": null,
+    "final_video_url": null,
+    "audio_url": null,
+    "thumbnail_url": null,
+    "project_url": null
+  },
+  "published_url": null,
+  "published_at": null,
+  "revision_history": [
+    {
+      "date": "2026-10-10",
+      "version": 1,
+      "note": "First complete script drafted, condensed from overlong initial pass, 1921 date corrected against Gucci official history, internal critique completed."
+    }
+  ],
+  "visual": {
+    "direction": "editor_owned_treatment_awaiting_pilot",
+    "approved": false,
+    "reference_urls": [],
+    "profile_version": 0
+  },
+  "script_sha256": "6b56b1f852a7c268e62d4e170a5f95c404fc2adb2252611296963d298c7a7cde",
+  "editorial": {
+    "passed": true,
+    "reviewed_by": "ChatGPT internal editorial review",
+    "reviewed_at": "2026-10-10",
+    "reviewed_script_sha256": "6b56b1f852a7c268e62d4e170a5f95c404fc2adb2252611296963d298c7a7cde",
+    "blocking_issues": []
+  },
+  "production_review": {
+    "passed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "reviewed_script_sha256": null,
+    "audio_url": null,
+    "final_cut_url": null,
+    "full_audio_listened": false
+  }
+}
