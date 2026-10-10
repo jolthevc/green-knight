@@ -65,13 +65,11 @@
   },
   "script_sha256": "9c86e31841030a86c68cf943bf9e789e39af8dbc0df88725b8fa1ddf7399d496",
   "editorial": {
-    "passed": false,
-    "reviewed_by": null,
-    "reviewed_at": null,
-    "reviewed_script_sha256": null,
-    "blocking_issues": [
-      "Pending complete V2 final cold-style text review."
-    ]
+    "passed": true,
+    "reviewed_by": "ChatGPT formal full-script critical V2 text re-review (not independent human or real audio)",
+    "reviewed_at": "2026-10-10",
+    "reviewed_script_sha256": "9c86e31841030a86c68cf943bf9e789e39af8dbc0df88725b8fa1ddf7399d496",
+    "blocking_issues": []
   },
   "production_review": {
     "passed": false,
