@@ -1,12 +1,11 @@
-# Voice-production state | DH-V0002
+# Voice production state | DH-V0002 v2
 
-Research package and script **v1 SHA-256 `e3a67c6e7658393b89268213a0da67125bb54ca7f079d3791aa5d76e88009008`**, 2026-10-10. Channel profile: `changing_hands_narrator` v0, **unselected**.
+**Canonical script:** v2 `b17e484fa6abc164c8ea7bc691d18e3cb05134844a51beb4ae074ee2d679e949`, 1,353 spoken words, 31 paragraphs. First `TITLE:` line never spoken. **Status:** unproduced.
 
-- Provider: not selected. Kind, voice ID, model ID, performer, settings, approved reference: **none**.
-- Pronunciation: Iger, Catmull, Lasseter to be tested; no audition completed or audio evidence heard.
-- Planned spoken count: **1366** excluding title. Intended default rate **150 WPM**, not measured.
-- Extra purposeful pauses 13s; silent video holds 0s; estimated runtime **559.4s**, not an audio measurement.
-- Recorded takes or retakes: **none**. Provider syntax verified: **none**. No `tts-input.txt` produced.
-- Full audio listened: **false**. Background-music mix/phone checks: **not done**. Asset/audio/video/caption URLs: **unknown**.
-- Final visual proposal and owner approval: **none**. Final video duration: **unknown**.
-- Once production starts, record selected channel snapshot and approval, actual provider/mix, passage retakes, full-listen notes, confirmed pronunciation, actual cut length and content-factual review. Editing spoken words invalidates current script hash and reopens linked evidence/cue checks.
+Narration profile `changing_hands_narrator` version 0, **unselected**. Provider, kind, model, performer, voice ID, preset, locale/accent beyond English, reference audio, approved pronouncing lexicon and settings are unavailable. No provider/model-specific voice markup should be invented.
+
+**Planning only:** 150 WPM assumed, 13 extra pause seconds, 0 silent holds =554.2 seconds. At slower 140 WPM =592.9s; final full video must fall 480–600 sec. Do not rush because of a spreadsheet estimate. Names to audition: Iger, Catmull, Lasseter, Pixar; films Toy Story, Finding Nemo, Cars and The Incredibles.
+
+**No audio generated, no 30–45s audition, no full narration listened, no corrections/retakes, no joined-edit mix, no headphones/phone check, no measured video duration, no approved visual reference, no external editor contact.**
+
+The separate `narration-guide.md` and current `delivery-cues.json` provide non-spoken sparse intentions. Preserve any changed script/voice artifact as a versioned record and recheck 2004–2006 timeline and critical numerical distinctions on actual audio.
