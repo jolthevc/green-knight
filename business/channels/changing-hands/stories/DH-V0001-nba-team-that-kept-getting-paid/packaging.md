@@ -16,7 +16,7 @@ Select A. Review both as 160px-wide previews during production; no thumbnail ima
 
 ## Selected pair and opening alignment
 
-Title 1 plus A. P001 delivers the paradox: no NBA games, operations stopped, checks continued. P002 identifies the retained claim. P007-P008 deliver the fraction after the ABA/NBA distinction. P024-P028 explain the less familiar control transfer; the ending returns to the vanished team and surviving asset. No promise of a secret crime, risk-free profit or current payment arrangement.
+Title 1 plus A. P001 delivers the paradox with the contemporary reported $17.5 million 2010-11 amount; P002 clarifies the paying clubs and sets up the later control question. P002 identifies the retained claim. P007-P008 deliver the fraction after the ABA/NBA distinction. P024-P028 explain the less familiar control transfer; the ending returns to the vanished team and surviving asset. No promise of a secret crime, risk-free profit or current payment arrangement.
 
 ## Description draft
 
@@ -41,19 +41,20 @@ Production credits will be added only for people and assets actually used. No mu
 
 ## Provisional chapters
 
-From script v2 at 150 WPM plus planned pauses/holds. Replace with measured cut times before uploading.
+At 150 assumed WPM with extra pauses; estimates only. Recalculate from final cut.
 
-| Estimated start | Chapter |
+| Start estimate | Chapter |
 | --- | --- |
-| 0:00 | The team disappeared. The checks did not |
-| 0:35 | The NBA door closes |
-| 1:42 | One-seventh of what? |
-| 3:33 | Growth and the 28-team safeguard |
-| 4:39 | What counts as television? |
-| 5:41 | The reported $500 million settlement |
-| 5:56 | Buying control of the recipient |
-| 7:14 | Why settle now? |
-| 8:18 | The asset that survived |
+| 0:00 | A vanished team's reported millions |
+| 0:43 | Two brothers wanted the NBA |
+| 2:00 | One-seventh of four shares |
+| 3:35 | What the rights paid |
+| 4:10 | A protection against expansion |
+| 4:42 | The new fight over television |
+| 5:46 | The reported settlement |
+| 6:36 | Who controls the payee? |
+| 7:36 | Why sell now? |
+| 8:33 | The contract that survived |
 
 ## Tags
 
@@ -65,7 +66,7 @@ Only spoken CTA is P036, after the payoff: subscribe to Changing Hands. Launch-s
 
 ## Final upload and actual asset review
 
-Editorial alignment passed for script v2, hash c95ad571754a1802b377e509e678cc6cbee9999667b3d6b7f25634b2a5326e73. Title, proposed thumbnail, opening and ending tell the same story. Source links were opened during research; SI is explicitly partial in the evidence map and omitted from selected description links.
+Editorial alignment passed for script v3, hash 7d5945bf807fe9dad826173cd5d5cc860602c16a4bf379acf0224cc1ed2ac067. Title, proposed thumbnail, opening and ending tell the same story. Source links were opened during research; SI is explicitly partial in the evidence map and omitted from selected description links.
 
 Upload not performed. Narrator, imagery, music and licenses: not selected/produced. Disclosure decision: pending actual assets and current policy check at upload, not a claim that disclosure is or is not required. No simulated historical voice, real-person impersonation or fake evidence is planned. Chapters, final links, credits and phone-size readability remain final-cut checks.
 

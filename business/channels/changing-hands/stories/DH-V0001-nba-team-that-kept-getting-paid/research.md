@@ -72,3 +72,7 @@ Production gaps: actual narrator, pronunciation audition, approved visual pilot,
 
 ## Research judgment
 PROCEED. Ten inspected sources, including four primary court/party records and two direct-interview reports, support the bounded account. This is a historical transaction explanation with clearly labeled inference and illustration, not legal advice. The central open question is resolved sufficiently to script; further private financing detail would deepen an appendix but is not necessary for the promised answer.
+
+## Script v3 review addendum: 2026-10-10
+
+The inspected Forbes 2011 original participant interview (S006) supports the Kentucky Colonels taking a one-time settlement and Dan's retrospective statement that the Spirits sold only 600 season tickets. Both add a genuine 1976 alternative and operating stakes, not fictional negotiations. S005 reports 2010-11 $17.5m and the 2014 $500m settlement; S001 documents 1987-88 about $1.35m. Entity versus individual profit remains uncomputed. S004's conditional plan is explicitly distinct from confirmed settlement reporting. S002/S003 settle forum, not media payment merits. No new source was treated as accessed beyond the actual opened passages.

@@ -1,6 +1,6 @@
 # Publication and learning
 
-DH-V0001, script version 2. Not published. Verified upload URL/date: none.
+DH-V0001, script version 3. Not published. Verified upload URL/date: none.
 Packaging: title and concept A selected editorially on 2026-10-10; no image test or subsequent change.
 
 | Window | Impressions | CTR by source | 30s retention | Average duration / viewed | End-screen clicks | Caveats |

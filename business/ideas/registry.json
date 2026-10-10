@@ -681,6 +681,12 @@
           "status": "scripted",
           "actor": "ChatGPT",
           "note": "Full 1334-word script v2 internally reviewed; separate cues, 21-scene visual plan, packaging and editor handoff saved. Estimated 547.1 seconds, not measured. Narrator/visual profiles unselected/proposed; no production or publication."
+        },
+        {
+          "date": "2026-10-10",
+          "status": "scripted",
+          "actor": "ChatGPT",
+          "note": "Stand-alone SCRIPT_REVIEW.md cold critique and owner-authorized v3 rewrite, linked claim/cue/editor package sync, final text re-review saved. No audio or production published."
         }
       ]
     },

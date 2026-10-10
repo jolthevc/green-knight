@@ -1,23 +1,13 @@
 # The Team That Made Millions Without Playing in the NBA
 
-Changing Hands · DH-I0006 / DH-V0001 · **Scripted** · 2026-10-10
+Changing Hands / DH-I0006 / DH-V0001 | **scripted** | 2026-10-10
 
-A vanished ABA team retained a claim on NBA television income. Follow that right through growing receipts, contested media definitions and the announced 2014 change in control of its recipient.
+The surviving 1976 TV-revenue entitlement, four teams' payment shares and 2014 announced potential control of their income recipient are explained for a broad listener. The $17.5m season and $500m settlement are attributed reporting, not after-cost individual profit; the $7m math model is invented.
 
-**[Read the full script](script.txt)**: version 2, 1,334 words, estimated 9:07 at 150 WPM including planned pauses/holds. Actual audio/video timing is not measured.
+[Read clean spoken script](script.txt): v3, 1357 words, 9:16 estimated at 150 WPM including added pauses and holds. SHA-256 `7d5945bf807fe9dad826173cd5d5cc860602c16a4bf379acf0224cc1ed2ac067`.
 
-| Part | Files |
-| --- | --- |
-| Research and argument | [Research](research.md), [synthesis/outline](synthesis-and-outline.md), [original brief](brief.md) |
-| Fact and paragraph mapping | [Source/claim audit](sources-and-claims.md), [structured evidence](evidence.json) |
-| Voice and visuals | [Separate cues](delivery-cues.json), [voice record](voice-production.md), [21-scene visual plan](visual-plan.md) |
-| Packaging and production | [Packaging](packaging.md), [editor handoff](handoff.md) |
-| Review and history | [Internal QA](qa.md), [metadata](metadata.json), [draft v1](revisions/script-v001.txt), [performance](performance.md) |
+Editorial record: [v2 cold review](reviews/script-v002-cold-review-2026-10-10.md), [v3 change report](reviews/script-v003-revision-report-2026-10-10.md), [final text re-review](reviews/script-v003-final-review-2026-10-10.md), [archived v2 text](revisions/script-v002.txt). Supporting records: [metadata](metadata.json), [evidence](evidence.json), [source claims](sources-and-claims.md), [QA](qa.md), [validation](validation.md), [research](research.md), [synthesis](synthesis-and-outline.md).
 
-Internal editorial review complete. The $500m figure is attributed reporting; financing is bounded to the NBA's announced framework. No private closing terms claimed.
+Editor package: [handoff](handoff.md), [narration guidance](narration-guide.md), [editor research](research-for-editor.md), optional [delivery cues](delivery-cues.json). Editor owns visual treatment; internal [visual-plan.md](visual-plan.md) simply records that work is pending.
 
-Voice/visual profiles remain unselected/proposed version 0. Auditions, asset permissions, full listening and measured runtime remain production steps. No audio/video generated, editor contacted or publication performed.
-
-Canonical SHA-256: `c95ad571754a1802b377e509e678cc6cbee9999667b3d6b7f25634b2a5326e73`.
-
-Owner instruction, 2026-10-10: visual treatment belongs to the editor. Internal outline, packaging and QA are not default handoff attachments. Spoken script v2 is unchanged.
+Production, real narration audition/listening, final cut and publication remain uncompleted. Canonical Python validator still needs a checkout run before production.

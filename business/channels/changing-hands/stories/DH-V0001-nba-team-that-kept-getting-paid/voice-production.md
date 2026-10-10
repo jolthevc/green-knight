@@ -1,6 +1,6 @@
 # Voice production record
 
-DH-V0001, script v2, SHA-256 `c95ad571754a1802b377e509e678cc6cbee9999667b3d6b7f25634b2a5326e73`.
+DH-V0001, script v3, SHA-256 `7d5945bf807fe9dad826173cd5d5cc860602c16a4bf379acf0224cc1ed2ac067`.
 
 ## Channel profile snapshot
 
@@ -36,12 +36,11 @@ No takes generated or commissioned; no selected audio. When production begins, r
 
 ## Full listening and mix
 
-Reviewer/date: not performed. Exact audio/cut URLs: none. Canonical script hash: c95ad571754a1802b377e509e678cc6cbee9999667b3d6b7f25634b2a5326e73.
+Reviewer/date: not performed. Exact audio/cut URLs: none. Canonical script hash: 7d5945bf807fe9dad826173cd5d5cc860602c16a4bf379acf0224cc1ed2ac067.
 Normal-speed full listening: not performed. Beginning/middle/end comparison: not performed.
 Omissions/repeats/additions/pronunciations: text checked only, audio untested.
 Joins/noise/clipping/level drift: not tested. Headphone/phone-speaker mix: not tested.
 Actual narration and video duration: unknown. Corrections/replacements: none.
 Outcome: not yet produced.
 
-Planning: 1,334 words / 150 WPM + 7.5 seconds extra pauses + 6 seconds silent holds = 547.1 seconds, approximately 9:07. At 140-160 WPM: approximately 9:45 to 8:34. Natural punctuation is included in the rate assumption. Measure actual delivery; do not rush the mechanism to force a target.
-
+Planning: 1357 words / 150 WPM + 7.5 seconds added pause + 6 seconds holds = 556.3 seconds, about 9:16. At 140-160 WPM, about 9:55 to 8:42. This is not observed speech. Measure actual narration before accepting an 8-10 minute cut.

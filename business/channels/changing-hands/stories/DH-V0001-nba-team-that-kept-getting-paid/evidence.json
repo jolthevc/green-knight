@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "script_version": 2,
-  "script_sha256": "c95ad571754a1802b377e509e678cc6cbee9999667b3d6b7f25634b2a5326e73",
+  "script_version": 3,
+  "script_sha256": "7d5945bf807fe9dad826173cd5d5cc860602c16a4bf379acf0224cc1ed2ac067",
   "sources": [
     {
       "id": "S001",
@@ -128,73 +128,74 @@
     {
       "id": "C001",
       "paragraph_id": "P001",
-      "anchor": "The Spirits of St. Louis never played a game",
-      "claim": "Spirits ceased operations in 1976, did not join NBA, and later received NBA television-related income.",
+      "anchor": "The Spirits of St. Louis never played a game in",
+      "claim": "Spirits did not play in NBA, folded in 1976, and $17.5m 2010-11 annual receipt was reported.",
       "source_ids": [
         "S001",
         "S003",
+        "S005",
         "S008"
       ],
       "status": "verified",
-      "basis": "Judicial background and league-entry history; title refers to NBA games, not all basketball.",
+      "basis": "Attribution to reporting; partnership receipts, not individuals' personal net profit.",
       "period_scope": "United States; historical 1974-2014 unless explicitly illustrative"
     },
     {
       "id": "C002",
       "paragraph_id": "P002",
-      "anchor": "That right belonged to the partnership behind the Spirits,",
-      "claim": "Contractual receipt belonged to the Spirits partnership; Silna brothers were principal protagonists; later ownership restructuring announced.",
+      "anchor": "That is the puzzle. The Spirits were gone, but four",
+      "claim": "Four teams paid qualifying television shares; 2014 plan contemplated control of recipient entity.",
       "source_ids": [
-        "S001",
+        "S003",
         "S004"
       ],
       "status": "verified",
-      "basis": "Partnership is legal recipient; do not allocate all gross dollars personally to brothers.",
+      "basis": "Conditional proposed control, not proven executed transaction.",
       "period_scope": "United States; historical 1974-2014 unless explicitly illustrative"
     },
     {
       "id": "C003",
       "paragraph_id": "P003",
-      "anchor": "To see how they got it, go back to",
-      "claim": "Dan's retrospective account describes unsuccessful Pistons attempt followed by ABA purchase and relocation.",
+      "anchor": "The story begins with two brothers who actually wanted to",
+      "claim": "Dan recalls the failed Pistons bid and purchasing/moving ABA team.",
       "source_ids": [
         "S006"
       ],
       "status": "verified",
-      "basis": "Narration explicitly attributes account; no acquisition-price or motive beyond stated ambition.",
+      "basis": "Retrospective source.",
       "period_scope": "United States; historical 1974-2014 unless explicitly illustrative"
     },
     {
       "id": "C004",
       "paragraph_id": "P004",
-      "anchor": "The ABA was a separate league. By 1976, it",
-      "claim": "Four ABA teams entered NBA in 1976 while Spirits were excluded.",
+      "anchor": "The ABA was a separate professional basketball league. By 1976,",
+      "claim": "Four 1976 NBA entrants, Spirits excluded, and Dan recalled just 600 season tickets.",
       "source_ids": [
+        "S006",
         "S008",
         "S010"
       ],
       "status": "verified",
-      "basis": "Use New York Nets for 1976 labels; no modern Brooklyn logo in historical admission board.",
+      "basis": "Attendance is expressly participant recollection.",
       "period_scope": "United States; historical 1974-2014 unless explicitly illustrative"
     },
     {
       "id": "C005",
       "paragraph_id": "P005",
-      "anchor": "For the brothers, this was the door closing on",
-      "claim": "Settlement of claims and desire for NBA entry gave parties different negotiating needs.",
+      "anchor": "Another team left out of the deal, the Kentucky Colonels,",
+      "claim": "Kentucky Colonels took a one-time payment; Spirits sought different future compensation; entrant teams sought settled claims.",
       "source_ids": [
-        "S008",
-        "S010",
-        "S006"
+        "S006",
+        "S008"
       ],
       "status": "inference",
-      "basis": "Economic reading of reported negotiations and claims release; no absolute unilateral veto asserted.",
+      "basis": "Cash alternative reported; bargaining explanation inferred, no unilateral veto alleged.",
       "period_scope": "United States; historical 1974-2014 unless explicitly illustrative"
     },
     {
       "id": "C006",
       "paragraph_id": "P006",
-      "anchor": "The eventual settlement included cash for player contracts and",
+      "anchor": "The eventual settlement included cash for player contracts and something",
       "claim": "Settlement included cash for player contracts and future television participation; Schupak was partner/counsel.",
       "source_ids": [
         "S001",
@@ -207,21 +208,21 @@
     {
       "id": "C007",
       "paragraph_id": "P007",
-      "anchor": "Here's the part to keep straight. The basic deal",
-      "claim": "Basic share was one-seventh of each of four allocations; clubs directed NBA to pay Spirits.",
+      "anchor": "Here's what the Spirits got. Each of the four incoming",
+      "claim": "One-seventh of each of four club qualifying TV allocations, not whole league.",
       "source_ids": [
+        "S003",
         "S006",
-        "S007",
-        "S003"
+        "S007"
       ],
       "status": "verified",
-      "basis": "Original fixed-league-size explanation; later cap adjustment explained at P016-P017.",
+      "basis": "Direct payment arrangement and fraction.",
       "period_scope": "United States; historical 1974-2014 unless explicitly illustrative"
     },
     {
       "id": "C008",
       "paragraph_id": "P008",
-      "anchor": "Let's use invented numbers to make that visible. Suppose",
+      "anchor": "Use invented numbers for a moment. Say each of the",
       "claim": "Illustration: four $7m eligible allocations each yield $1m, total $4m.",
       "source_ids": [],
       "status": "illustrative",
@@ -231,7 +232,7 @@
     {
       "id": "C009",
       "paragraph_id": "P009",
-      "anchor": "The Spirits weren't getting a seventh of everything the",
+      "anchor": "This was not a seventh of everything the NBA earned.",
       "claim": "Entitlement concerned a defined television-income pool, independent of fielding the Spirits.",
       "source_ids": [
         "S001",
@@ -245,20 +246,20 @@
     {
       "id": "C010",
       "paragraph_id": "P010",
-      "anchor": "And it was a share of revenue. If an",
-      "claim": "Revenue-linked entitlement was not contingent on a club's remaining operating profit.",
+      "anchor": "It was revenue, not profit. Even if a paying club",
+      "claim": "Revenue share not dependent on clubs' after-expense profit.",
       "source_ids": [
         "S003",
         "S007"
       ],
       "status": "inference",
-      "basis": "Contract reported as revenue share rather than profit share; hypothetical spending example, no real club loss asserted.",
+      "basis": "Club loss is hypothetical.",
       "period_scope": "United States; historical 1974-2014 unless explicitly illustrative"
     },
     {
       "id": "C011",
       "paragraph_id": "P011",
-      "anchor": "There was also no ordinary expiration date. A later",
+      "anchor": "There was also no ordinary expiration date. A later court",
       "claim": "Court describes payments for as long as NBA existed.",
       "source_ids": [
         "S003"
@@ -270,20 +271,20 @@
     {
       "id": "C012",
       "paragraph_id": "P012",
-      "anchor": "Imagine accepting compensation for a business you have to",
-      "claim": "An income right can grow with its covered industry's receipts after business closure.",
+      "anchor": "They failed to enter the NBA, but held a right",
+      "claim": "TV-linked contractual right survived nonadmission and closure.",
       "source_ids": [
         "S001",
         "S003"
       ],
       "status": "inference",
-      "basis": "Narrative thought experiment based on revenue participation, not guaranteed investment returns.",
+      "basis": "Could grow, not a guaranteed amount.",
       "period_scope": "United States; historical 1974-2014 unless explicitly illustrative"
     },
     {
       "id": "C013",
       "paragraph_id": "P013",
-      "anchor": "Of course, in 1976, the future size of that",
+      "anchor": "In 1976, no one knew how valuable NBA television would",
       "claim": "Immediate merger constraints and unknown future growth qualify hindsight judgments.",
       "source_ids": [
         "S008",
@@ -296,7 +297,7 @@
     {
       "id": "C014",
       "paragraph_id": "P014",
-      "anchor": "The contrast became much clearer as the years passed.",
+      "anchor": "The first checks were not the fortune this story has",
       "claim": "1987-88 payments about $1.35m; 2010-11 annual amount about $17.5m in contemporary reporting.",
       "source_ids": [
         "S001",
@@ -309,20 +310,20 @@
     {
       "id": "C015",
       "paragraph_id": "P015",
-      "anchor": "Those are receipts, not a calculation of the brothers'",
-      "claim": "Amounts are receipts rather than proved personal profits; partnership recipient remains distinct.",
+      "anchor": "Those were payments to the partnership, not a proven tally",
+      "claim": "Receipts differ from partnership net profit and individuals' take-home returns.",
       "source_ids": [
         "S001",
         "S003"
       ],
       "status": "inference",
-      "basis": "Accounting boundary and scope correction; costs/allocations unavailable.",
+      "basis": "Partnership interests and claims documented; no total after-cost calculation.",
       "period_scope": "United States; historical 1974-2014 unless explicitly illustrative"
     },
     {
       "id": "C016",
       "paragraph_id": "P016",
-      "anchor": "Even expansion had been anticipated. Usually, adding more teams",
+      "anchor": "The agreement also anticipated a problem: the NBA might add",
       "claim": "Expansion protection caps denominator at 28 teams for this contractual calculation.",
       "source_ids": [
         "S006",
@@ -335,31 +336,32 @@
     {
       "id": "C017",
       "paragraph_id": "P017",
-      "anchor": "Picture more chairs being pulled up to the table.",
-      "claim": "Chair illustration shows dilution limiting, not a fixed guaranteed dollar payment.",
+      "anchor": "That protection did not guarantee a dollar amount. The covered",
+      "claim": "Denominator protection is not a fixed payout dollar guarantee.",
       "source_ids": [
+        "S006",
         "S007"
       ],
-      "status": "illustrative",
-      "basis": "Qualitative teaching metaphor; no inference that all other distributions always exactly equal.",
+      "status": "inference",
+      "basis": "Underlying media-income pool changes.",
       "period_scope": "United States; historical 1974-2014 unless explicitly illustrative"
     },
     {
       "id": "C018",
       "paragraph_id": "P019",
-      "anchor": "The agreements used the broader term “visual media broadcasts.”",
-      "claim": "Agreements described the covered rights as visual media broadcasts; new categories prompted scope questions.",
+      "anchor": "The agreement covered “visual media broadcasts.” But did that include",
+      "claim": "Agreement described 'visual media broadcasts'; changing distribution spurred scope dispute.",
       "source_ids": [
         "S002"
       ],
       "status": "verified",
-      "basis": "Three quoted words only; not quotation of full signed contract.",
+      "basis": "Legal accounts and claim allegations; no judicial coverage finding.",
       "period_scope": "United States; historical 1974-2014 unless explicitly illustrative"
     },
     {
       "id": "C019",
       "paragraph_id": "P020",
-      "anchor": "The Spirits argued that they were missing income from",
+      "anchor": "The Spirits argued that they were missing income from international",
       "claim": "Spirits alleged missing international/NBA TV/other income and sought records.",
       "source_ids": [
         "S002",
@@ -372,107 +374,107 @@
     {
       "id": "C020",
       "paragraph_id": "P021",
-      "anchor": "The New York courts said the dispute belonged in",
-      "claim": "State courts required federal forum; dispute continued federally.",
+      "anchor": "The New York courts did not decide that the Spirits",
+      "claim": "State courts sent scope dispute to federal forum without awarding challenged payment.",
       "source_ids": [
         "S002",
-        "S003",
-        "S010"
+        "S003"
       ],
       "status": "verified",
-      "basis": "2009 dismissal/2011 affirmance procedural; November 2011 reporting documents federal reopening.",
+      "basis": "Forum ruling only.",
       "period_scope": "United States; historical 1974-2014 unless explicitly illustrative"
     },
     {
       "id": "C021",
       "paragraph_id": "P022",
-      "anchor": "Still, the economic problem is easy to see. For",
-      "claim": "Different views of eligible revenue create opposing valuation stakes.",
+      "anchor": "If more kinds of broadcast income counted, the Spirits might",
+      "claim": "Scope disagreement changes possible payment obligation and recipient value.",
       "source_ids": [
         "S002",
         "S004"
       ],
       "status": "inference",
-      "basis": "Causal analysis of a percentage claim; no undisclosed valuation model represented as fact.",
+      "basis": "Reasoned economic mechanism, not finding.",
       "period_scope": "United States; historical 1974-2014 unless explicitly illustrative"
     },
     {
       "id": "C022",
       "paragraph_id": "P023",
-      "anchor": "By 2014, the parties had a new arrangement to",
-      "claim": "2014 settlement reported at $500m; April report includes Ozzie's confirmation.",
+      "anchor": "In 2014, reporting placed a settlement at five hundred million",
+      "claim": "$500m settlement reported in 2014; Ozzie confirmed settlement, but no public payout breakdown.",
       "source_ids": [
+        "S004",
         "S005"
       ],
       "status": "verified",
-      "basis": "Amount reported; exact executed financial terms and completion day not independently inspected.",
+      "basis": "Published amount reported, not itemized individual cash or net profit.",
       "period_scope": "United States; historical 1974-2014 unless explicitly illustrative"
     },
     {
       "id": "C023",
       "paragraph_id": "P024",
-      "anchor": "But the most revealing part is in the NBA's",
-      "claim": "January NBA announcement contemplated four teams acquiring controlling interest, with old owners retaining equity.",
+      "anchor": "In January, the league said the four former ABA teams",
+      "claim": "NBA announcement described former ABA clubs' proposed control of recipient's common equity, old owners retaining remaining stake.",
       "source_ids": [
         "S004"
       ],
       "status": "verified",
-      "basis": "Announced terms, not a claim to possess final closing documents.",
+      "basis": "Conditional, not executed final cap table.",
       "period_scope": "United States; historical 1974-2014 unless explicitly illustrative"
     },
     {
       "id": "C024",
       "paragraph_id": "P025",
-      "anchor": "The plan also called for the Spirits entity to",
-      "claim": "Plan called for new Spirits debt and distribution of some proceeds; full loan terms undisclosed in release.",
+      "anchor": "There was a second piece. Under the announced plan, the",
+      "claim": "NBA announced proposed debt and partial loan-proceeds distribution; exact terms not disclosed.",
       "source_ids": [
         "S004"
       ],
       "status": "verified",
-      "basis": "No interest rate, maturity, collateral, advance rate or total debt assumption.",
+      "basis": "No invented credit terms.",
       "period_scope": "United States; historical 1974-2014 unless explicitly illustrative"
     },
     {
       "id": "C025",
       "paragraph_id": "P026",
-      "anchor": "Now look at the arrangement from both sides. The",
-      "claim": "Announced structure puts paying clubs in control of income recipient while right continues.",
+      "anchor": "Follow the money one more time. Before the proposed change,",
+      "claim": "Announced framework would put same four clubs on payer and recipient-ownership sides.",
       "source_ids": [
-        "S003",
         "S004"
       ],
       "status": "inference",
-      "basis": "Economic explanation of announced ownership bridge; no cashless-cancellation claim.",
+      "basis": "Conditional before-after control description.",
       "period_scope": "United States; historical 1974-2014 unless explicitly illustrative"
     },
     {
       "id": "C026",
       "paragraph_id": "P027",
-      "anchor": "In that design, borrowing would supply cash sooner, instead",
-      "claim": "Debt can advance cash but adds repayment obligations; not profit creation.",
+      "anchor": "Borrowing could also turn some expected future income into cash",
+      "claim": "Borrowing can advance cash but is repayable and not newly earned profit.",
       "source_ids": [
         "S004"
       ],
       "status": "inference",
-      "basis": "General financing implication, not a claim about exact realized waterfall or collateral.",
+      "basis": "General debt logic, final waterfall unknown.",
       "period_scope": "United States; historical 1974-2014 unless explicitly illustrative"
     },
     {
       "id": "C027",
       "paragraph_id": "P028",
-      "anchor": "This helps explain why the story can't end with",
-      "claim": "Announced proposal preserved income right and outside equity rather than simply deleting every payment right.",
+      "anchor": "The league called that framework conditional. Ozzie later confirmed a",
+      "claim": "2014 announced framework conditional and later settlement confirmed; closed terms not established.",
       "source_ids": [
-        "S004"
+        "S004",
+        "S005"
       ],
       "status": "inference",
-      "basis": "Scope limited to disclosed framework; avoid present-tense post-2014 ownership assertions.",
+      "basis": "Do not infer entire transaction completed as originally announced.",
       "period_scope": "United States; historical 1974-2014 unless explicitly illustrative"
     },
     {
       "id": "C028",
       "paragraph_id": "P029",
-      "anchor": "Why would the brothers agree after holding on for",
+      "anchor": "Why would the brothers agree after holding on for so",
       "claim": "Ozzie explained age as a reason to settle in direct April interview; short quotation.",
       "source_ids": [
         "S005"
@@ -484,19 +486,19 @@
     {
       "id": "C029",
       "paragraph_id": "P030",
-      "anchor": "A right can last longer than the person who",
-      "claim": "Owner time horizon can change preference for cash now versus uncertain future receipts.",
+      "anchor": "One owner was eighty-one. A stream that might pay for",
+      "claim": "Ozzie's age may make cash today preferable to decades of uncertain payment.",
       "source_ids": [
         "S005"
       ],
       "status": "inference",
-      "basis": "Interpretation of age explanation, not an optimal-price estimate.",
+      "basis": "Human explanation not asserted sole valuation cause.",
       "period_scope": "United States; historical 1974-2014 unless explicitly illustrative"
     },
     {
       "id": "C030",
       "paragraph_id": "P031",
-      "anchor": "It's tempting to turn the whole episode into a",
+      "anchor": "It's tempting to turn the whole episode into a story",
       "claim": "Dan acknowledged actual television growth exceeded what they had imagined.",
       "source_ids": [
         "S006"
@@ -508,7 +510,7 @@
     {
       "id": "C031",
       "paragraph_id": "P032",
-      "anchor": "They also originally wanted an NBA franchise. We can't",
+      "anchor": "They also originally wanted an NBA franchise. We can't prove",
       "claim": "Franchise ambition does not establish better counterfactual financial outcome.",
       "source_ids": [
         "S006"
@@ -520,41 +522,40 @@
     {
       "id": "C032",
       "paragraph_id": "P033",
-      "anchor": "What we can see is the asset they actually",
-      "claim": "Operating a team and holding contractual revenue participation require different activities and rights.",
+      "anchor": "What survived was a contract to receive part of defined",
+      "claim": "Surviving claim was specified television revenue right rather than a playing franchise.",
       "source_ids": [
         "S001",
         "S003"
       ],
       "status": "inference",
-      "basis": "Synthesis; no assertion income holder has zero risk/cost or can stop enforcing rights.",
+      "basis": "Summative interpretation.",
       "period_scope": "United States; historical 1974-2014 unless explicitly illustrative"
     },
     {
       "id": "C033",
       "paragraph_id": "P034",
-      "anchor": "The Spirits lost their place on the court. Their",
-      "claim": "Owners preserved a financial connection and paying teams later sought control of the recipient.",
+      "anchor": "By 2014, that value was significant enough for the paying",
+      "claim": "Paying clubs proposed controlling the income recipient rather than basketball franchise.",
       "source_ids": [
-        "S001",
         "S004"
       ],
       "status": "inference",
-      "basis": "Specific causal conclusion bounded at 2014 announcement/settlement.",
+      "basis": "Proposed, not verified finished recapitalization.",
       "period_scope": "United States; historical 1974-2014 unless explicitly illustrative"
     },
     {
       "id": "C034",
       "paragraph_id": "P035",
-      "anchor": "The team disappeared. The asset that mattered was still",
-      "claim": "The surviving contractual asset is the episode's concluding interpretation.",
+      "anchor": "The Spirits never made it into the NBA. Their contract",
+      "claim": "Contractual asset survived team and remained subject of negotiation.",
       "source_ids": [
         "S001",
         "S003",
         "S004"
       ],
       "status": "inference",
-      "basis": "Conclusion from preceding mapped evidence, not a new financial statistic.",
+      "basis": "Figurative closing line.",
       "period_scope": "United States; historical 1974-2014 unless explicitly illustrative"
     }
   ],
@@ -564,14 +565,14 @@
       "paragraphs": [
         {
           "paragraph_id": "P001",
-          "anchor": "The Spirits of St. Louis never played a game"
+          "anchor": "The Spirits of St. Louis never played a game in"
         },
         {
           "paragraph_id": "P002",
-          "anchor": "That right belonged to the partnership behind the Spirits,"
+          "anchor": "That is the puzzle. The Spirits were gone, but four"
         }
       ],
-      "purpose": "Team operations cease but the contractual income right survives",
+      "purpose": "Opening paradox, large documented reported receipt, payer and recipient",
       "evidence_type": "illustration",
       "source_ids": [],
       "production_status": "awaiting_editor_treatment"
@@ -581,14 +582,14 @@
       "paragraphs": [
         {
           "paragraph_id": "P003",
-          "anchor": "To see how they got it, go back to"
+          "anchor": "The story begins with two brothers who actually wanted to"
         },
         {
           "paragraph_id": "P004",
-          "anchor": "The ABA was a separate league. By 1976, it"
+          "anchor": "The ABA was a separate professional basketball league. By 1976,"
         }
       ],
-      "purpose": "NBA ambition and four admissions",
+      "purpose": "NBA ambition, ABA exclusion and ticket business struggle",
       "evidence_type": "illustration",
       "source_ids": [],
       "production_status": "awaiting_editor_treatment"
@@ -598,14 +599,14 @@
       "paragraphs": [
         {
           "paragraph_id": "P005",
-          "anchor": "For the brothers, this was the door closing on"
+          "anchor": "Another team left out of the deal, the Kentucky Colonels,"
         },
         {
           "paragraph_id": "P006",
-          "anchor": "The eventual settlement included cash for player contracts and"
+          "anchor": "The eventual settlement included cash for player contracts and something"
         }
       ],
-      "purpose": "Negotiation and compensation",
+      "purpose": "One-time cash alternative and choice of future payments",
       "evidence_type": "illustration",
       "source_ids": [],
       "production_status": "awaiting_editor_treatment"
@@ -615,7 +616,7 @@
       "paragraphs": [
         {
           "paragraph_id": "P007",
-          "anchor": "Here's the part to keep straight. The basic deal"
+          "anchor": "Here's what the Spirits got. Each of the four incoming"
         }
       ],
       "purpose": "Who pays whom",
@@ -628,7 +629,7 @@
       "paragraphs": [
         {
           "paragraph_id": "P008",
-          "anchor": "Let's use invented numbers to make that visible. Suppose"
+          "anchor": "Use invented numbers for a moment. Say each of the"
         }
       ],
       "purpose": "Teach the fraction",
@@ -641,11 +642,11 @@
       "paragraphs": [
         {
           "paragraph_id": "P009",
-          "anchor": "The Spirits weren't getting a seventh of everything the"
+          "anchor": "This was not a seventh of everything the NBA earned."
         },
         {
           "paragraph_id": "P010",
-          "anchor": "And it was a share of revenue. If an"
+          "anchor": "It was revenue, not profit. Even if a paying club"
         }
       ],
       "purpose": "Revenue is different from club profit",
@@ -658,11 +659,11 @@
       "paragraphs": [
         {
           "paragraph_id": "P011",
-          "anchor": "There was also no ordinary expiration date. A later"
+          "anchor": "There was also no ordinary expiration date. A later court"
         },
         {
           "paragraph_id": "P012",
-          "anchor": "Imagine accepting compensation for a business you have to"
+          "anchor": "They failed to enter the NBA, but held a right"
         }
       ],
       "purpose": "Duration outlives operations",
@@ -677,7 +678,7 @@
       "paragraphs": [
         {
           "paragraph_id": "P013",
-          "anchor": "Of course, in 1976, the future size of that"
+          "anchor": "In 1976, no one knew how valuable NBA television would"
         }
       ],
       "purpose": "Uncertain future and immediate decision",
@@ -690,11 +691,11 @@
       "paragraphs": [
         {
           "paragraph_id": "P014",
-          "anchor": "The contrast became much clearer as the years passed."
+          "anchor": "The first checks were not the fortune this story has"
         },
         {
           "paragraph_id": "P015",
-          "anchor": "Those are receipts, not a calculation of the brothers'"
+          "anchor": "Those were payments to the partnership, not a proven tally"
         }
       ],
       "purpose": "Two documented annual snapshots",
@@ -710,11 +711,11 @@
       "paragraphs": [
         {
           "paragraph_id": "P016",
-          "anchor": "Even expansion had been anticipated. Usually, adding more teams"
+          "anchor": "The agreement also anticipated a problem: the NBA might add"
         },
         {
           "paragraph_id": "P017",
-          "anchor": "Picture more chairs being pulled up to the table."
+          "anchor": "That protection did not guarantee a dollar amount. The covered"
         }
       ],
       "purpose": "Expansion dilution protection",
@@ -727,11 +728,11 @@
       "paragraphs": [
         {
           "paragraph_id": "P018",
-          "anchor": "That made the wording around the pot especially important."
+          "anchor": "And television was changing. As the league found new ways"
         },
         {
           "paragraph_id": "P019",
-          "anchor": "The agreements used the broader term “visual media broadcasts.”"
+          "anchor": "The agreement covered “visual media broadcasts.” But did that include"
         }
       ],
       "purpose": "The definition becomes the issue",
@@ -746,11 +747,11 @@
       "paragraphs": [
         {
           "paragraph_id": "P020",
-          "anchor": "The Spirits argued that they were missing income from"
+          "anchor": "The Spirits argued that they were missing income from international"
         },
         {
           "paragraph_id": "P021",
-          "anchor": "The New York courts said the dispute belonged in"
+          "anchor": "The New York courts did not decide that the Spirits"
         }
       ],
       "purpose": "Dispute and procedural outcome",
@@ -767,7 +768,7 @@
       "paragraphs": [
         {
           "paragraph_id": "P022",
-          "anchor": "Still, the economic problem is easy to see. For"
+          "anchor": "If more kinds of broadcast income counted, the Spirits might"
         }
       ],
       "purpose": "Opposing valuations",
@@ -780,7 +781,7 @@
       "paragraphs": [
         {
           "paragraph_id": "P023",
-          "anchor": "By 2014, the parties had a new arrangement to"
+          "anchor": "In 2014, reporting placed a settlement at five hundred million"
         }
       ],
       "purpose": "Settlement reported",
@@ -795,11 +796,11 @@
       "paragraphs": [
         {
           "paragraph_id": "P024",
-          "anchor": "But the most revealing part is in the NBA's"
+          "anchor": "In January, the league said the four former ABA teams"
         },
         {
           "paragraph_id": "P025",
-          "anchor": "The plan also called for the Spirits entity to"
+          "anchor": "There was a second piece. Under the announced plan, the"
         }
       ],
       "purpose": "Announced ownership and financing",
@@ -814,11 +815,11 @@
       "paragraphs": [
         {
           "paragraph_id": "P026",
-          "anchor": "Now look at the arrangement from both sides. The"
+          "anchor": "Follow the money one more time. Before the proposed change,"
         },
         {
           "paragraph_id": "P027",
-          "anchor": "In that design, borrowing would supply cash sooner, instead"
+          "anchor": "Borrowing could also turn some expected future income into cash"
         }
       ],
       "purpose": "Understand both sides",
@@ -831,7 +832,7 @@
       "paragraphs": [
         {
           "paragraph_id": "P028",
-          "anchor": "This helps explain why the story can't end with"
+          "anchor": "The league called that framework conditional. Ozzie later confirmed a"
         }
       ],
       "purpose": "Retained right and residual interest",
@@ -844,11 +845,11 @@
       "paragraphs": [
         {
           "paragraph_id": "P029",
-          "anchor": "Why would the brothers agree after holding on for"
+          "anchor": "Why would the brothers agree after holding on for so"
         },
         {
           "paragraph_id": "P030",
-          "anchor": "A right can last longer than the person who"
+          "anchor": "One owner was eighty-one. A stream that might pay for"
         }
       ],
       "purpose": "Time horizon becomes human",
@@ -861,11 +862,11 @@
       "paragraphs": [
         {
           "paragraph_id": "P031",
-          "anchor": "It's tempting to turn the whole episode into a"
+          "anchor": "It's tempting to turn the whole episode into a story"
         },
         {
           "paragraph_id": "P032",
-          "anchor": "They also originally wanted an NBA franchise. We can't"
+          "anchor": "They also originally wanted an NBA franchise. We can't prove"
         }
       ],
       "purpose": "Correct hindsight",
@@ -878,15 +879,15 @@
       "paragraphs": [
         {
           "paragraph_id": "P033",
-          "anchor": "What we can see is the asset they actually"
+          "anchor": "What survived was a contract to receive part of defined"
         },
         {
           "paragraph_id": "P034",
-          "anchor": "The Spirits lost their place on the court. Their"
+          "anchor": "By 2014, that value was significant enough for the paying"
         },
         {
           "paragraph_id": "P035",
-          "anchor": "The team disappeared. The asset that mattered was still"
+          "anchor": "The Spirits never made it into the NBA. Their contract"
         }
       ],
       "purpose": "Earned callback",
@@ -899,7 +900,7 @@
       "paragraphs": [
         {
           "paragraph_id": "P036",
-          "anchor": "For more stories about the deals behind the money,"
+          "anchor": "For more stories about the deals behind the money, subscribe"
         }
       ],
       "purpose": "Launch-safe end card",

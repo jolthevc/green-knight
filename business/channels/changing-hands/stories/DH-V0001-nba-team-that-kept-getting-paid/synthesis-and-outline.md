@@ -56,20 +56,24 @@ Weakest anticipated middle: the 28-team cap and visual-media litigation could tu
 ## Internal decision
 Proceed to full draft in one pass. Then conduct separate evidence/logic and story/voice reviews against the exact saved version. These are internal editorial passes by ChatGPT, not independent reviewers, external audience testing or audio listening. Final paragraph anchors and review fixes will be appended after the draft is stable.
 
-## Final script map and internal review
+## Script v3 current synthesis and beat map
 
-Script v2, SHA-256 c95ad571754a1802b377e509e678cc6cbee9999667b3d6b7f25634b2a5326e73.
+Script SHA-256 `7d5945bf807fe9dad826173cd5d5cc860602c16a4bf379acf0224cc1ed2ac067`. This supersedes the v2 beat table in the historical Git version; the research thesis remains bounded to the 1976 settlement and 2014 publicly announced and reported terms.
 
-| Beat | Final paragraphs | Outcome |
-| --- | --- | --- |
-| Hook/right | P001-P002 | Useful first answer by approximately 35 seconds |
-| Exclusion/settlement | P003-P006 | NBA ambition creates stakes; separate ABA explained |
-| Fraction/duration | P007-P013 | Four allocations, revenue versus profit, continuing right, uncertainty |
-| Growth/protection | P014-P017 | Documented receipts and 28-team cap |
-| Media scope/dispute | P018-P022 | Covered pool becomes contested; forum is not merits |
-| Settlement/control | P023-P028 | Reported amount, announced equity/debt, recipient ownership changes |
-| Human horizon/payoff | P029-P036 | Age, imperfect foresight, surviving asset, one CTA |
+**One-sentence story:** A team that failed to enter the NBA bargained for a defined continuing claim on four future NBA teams' TV allocations; that share grew, became contested, and eventually led its paying clubs to propose taking control of the recipient through an equity-and-debt structure.
 
-Final internal newcomer lens: clear NBA/ABA distinction, concrete invented fraction and repeated payer/recipient roles. Final informed-skeptic lens: receipts are not personal profit, allegations are not rulings, public announcement is not private closing documentation, and no optimal counterfactual is established. These are ChatGPT editorial judgments, not participant feedback.
+| Estimated stretch | Paragraphs | What happens | Change in understanding | Next question |
+| --- | --- | --- | --- | --- |
+| 0:00-0:43 | P001-P002 | Paradox: million-dollar receipts to extinct team | Contract rights can survive operations | How acquired? |
+| 0:43-2:00 | P003-P006 | NBA ownership ambition and Colonels alternative | Departure settlement was a choice | What compensation? |
+| 2:00-3:35 | P007-P013 | Four shares, illustration, revenue vs profit and duration | Fraction, defined base, ongoing entitlement | Could it grow? |
+| 3:35-4:42 | P014-P017 | Historic payments and cap | Scale rose, fraction partly protected | What counts? |
+| 4:42-5:46 | P018-P022 | Changing media categories, court dispute | Covered revenue itself is contested | How get to a deal? |
+| 5:46-7:36 | P023-P028 | Reported settlement and conditional equity/debt plan | Payers might control payee entity | Why settle? |
+| 7:36-9:16 | P029-P036 | Age and imperfect foresight, earned final contrast | People can give up a team but own a claim | Promise resolved |
 
-Weakest middle was the cap followed by litigation. P021 now compresses forum history, retaining its qualification; the visual transition links denominator to covered pot. P025-P027 simplify financing while keeping it conditional to the announced design. Final P014 figure reads naturally. No substantive factual gap blocks the chosen premise. See qa.md for the actual revision record and separate production checks.
+**Newcomer lens (internal):** P001 gives tangible value, P004 defines league difference and shows a failing operation, P005 adds Kentucky's one-time cash choice, and P007-P010 defines which four payments and why revenue differs from profit. P026 explicitly identifies sides of the transaction.
+
+**Informed-skeptic lens (internal):** Hindsight is checked at P013/P031, $17.5m and $500m are reported rather than audited net profits, extra broadcast revenue is alleged rather than awarded, and the NBA's conditional 2014 arrangement is not confused with final private closing mechanics. NBA franchise ownership counterfactual remains unknown.
+
+The cap/legal middle P016-P022 is still the most cognitively demanding but now advances from percentage dilution to what counts inside the pot without the extra chair analogy. Actual human listening remains pending.

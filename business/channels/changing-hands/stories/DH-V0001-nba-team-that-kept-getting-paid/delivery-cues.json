@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "script_version": 2,
-  "script_sha256": "c95ad571754a1802b377e509e678cc6cbee9999667b3d6b7f25634b2a5326e73",
+  "script_version": 3,
+  "script_sha256": "7d5945bf807fe9dad826173cd5d5cc860602c16a4bf379acf0224cc1ed2ac067",
   "instructions_are_non_spoken": true,
   "assumed_or_observed_wpm": 150,
   "silent_hold_seconds": 6,
@@ -25,11 +25,11 @@
   "cues": [
     {
       "paragraph_id": "P001",
-      "anchor": "The Spirits of St. Louis never played a game",
+      "anchor": "The Spirits of St. Louis never played a game in",
       "pace": "natural",
       "intent": "curious",
       "emphasis": [
-        "never played a game in the NBA"
+        "seventeen and a half million dollars"
       ],
       "pause_after_seconds": 0.6,
       "inflection": "neutral",
@@ -37,7 +37,7 @@
     },
     {
       "paragraph_id": "P004",
-      "anchor": "The ABA was a separate league. By 1976, it",
+      "anchor": "The ABA was a separate professional basketball league. By 1976,",
       "pace": "natural",
       "intent": "matter_of_fact",
       "emphasis": [],
@@ -49,11 +49,11 @@
     },
     {
       "paragraph_id": "P007",
-      "anchor": "Here's the part to keep straight. The basic deal",
+      "anchor": "Here's what the Spirits got. Each of the four incoming",
       "pace": "slower",
       "intent": "matter_of_fact",
       "emphasis": [
-        "each of those four teams' television shares"
+        "one-seventh of its qualifying NBA television share"
       ],
       "pause_after_seconds": 0.8,
       "inflection": "neutral",
@@ -61,7 +61,7 @@
     },
     {
       "paragraph_id": "P008",
-      "anchor": "Let's use invented numbers to make that visible. Suppose",
+      "anchor": "Use invented numbers for a moment. Say each of the",
       "pace": "slower",
       "intent": "matter_of_fact",
       "emphasis": [
@@ -73,7 +73,7 @@
     },
     {
       "paragraph_id": "P010",
-      "anchor": "And it was a share of revenue. If an",
+      "anchor": "It was revenue, not profit. Even if a paying club",
       "pace": "slower",
       "intent": "matter_of_fact",
       "emphasis": [
@@ -85,7 +85,7 @@
     },
     {
       "paragraph_id": "P011",
-      "anchor": "There was also no ordinary expiration date. A later",
+      "anchor": "There was also no ordinary expiration date. A later court",
       "pace": "natural",
       "intent": "reflective",
       "emphasis": [
@@ -97,10 +97,12 @@
     },
     {
       "paragraph_id": "P014",
-      "anchor": "The contrast became much clearer as the years passed.",
+      "anchor": "The first checks were not the fortune this story has",
       "pace": "slower",
       "intent": "matter_of_fact",
-      "emphasis": [],
+      "emphasis": [
+        "seventeen and a half million dollars"
+      ],
       "pause_after_seconds": 0.7,
       "inflection": "neutral",
       "pronunciation_notes": [
@@ -109,7 +111,7 @@
     },
     {
       "paragraph_id": "P016",
-      "anchor": "Even expansion had been anticipated. Usually, adding more teams",
+      "anchor": "The agreement also anticipated a problem: the NBA might add",
       "pace": "slower",
       "intent": "matter_of_fact",
       "emphasis": [
@@ -121,7 +123,7 @@
     },
     {
       "paragraph_id": "P018",
-      "anchor": "That made the wording around the pot especially important.",
+      "anchor": "And television was changing. As the league found new ways",
       "pace": "natural",
       "intent": "curious",
       "emphasis": [],
@@ -131,7 +133,7 @@
     },
     {
       "paragraph_id": "P021",
-      "anchor": "The New York courts said the dispute belonged in",
+      "anchor": "The New York courts did not decide that the Spirits",
       "pace": "natural",
       "intent": "matter_of_fact",
       "emphasis": [],
@@ -141,11 +143,11 @@
     },
     {
       "paragraph_id": "P023",
-      "anchor": "By 2014, the parties had a new arrangement to",
+      "anchor": "In 2014, reporting placed a settlement at five hundred million",
       "pace": "natural",
       "intent": "matter_of_fact",
       "emphasis": [
-        "reporting"
+        "five hundred million dollars"
       ],
       "pause_after_seconds": 0.6,
       "inflection": "neutral",
@@ -153,11 +155,11 @@
     },
     {
       "paragraph_id": "P024",
-      "anchor": "But the most revealing part is in the NBA's",
+      "anchor": "In January, the league said the four former ABA teams",
       "pace": "slower",
       "intent": "matter_of_fact",
       "emphasis": [
-        "controlling ownership interest"
+        "controlling owners of its common equity"
       ],
       "pause_after_seconds": 0,
       "inflection": "neutral",
@@ -165,11 +167,11 @@
     },
     {
       "paragraph_id": "P026",
-      "anchor": "Now look at the arrangement from both sides. The",
+      "anchor": "Follow the money one more time. Before the proposed change,",
       "pace": "slower",
       "intent": "curious",
       "emphasis": [
-        "ownership of the recipient changed"
+        "owning the business collecting it"
       ],
       "pause_after_seconds": 0,
       "inflection": "settled",
@@ -177,7 +179,7 @@
     },
     {
       "paragraph_id": "P029",
-      "anchor": "Why would the brothers agree after holding on for",
+      "anchor": "Why would the brothers agree after holding on for so",
       "pace": "natural",
       "intent": "reflective",
       "emphasis": [],
@@ -187,7 +189,7 @@
     },
     {
       "paragraph_id": "P031",
-      "anchor": "It's tempting to turn the whole episode into a",
+      "anchor": "It's tempting to turn the whole episode into a story",
       "pace": "natural",
       "intent": "skeptical",
       "emphasis": [
@@ -199,11 +201,11 @@
     },
     {
       "paragraph_id": "P035",
-      "anchor": "The team disappeared. The asset that mattered was still",
+      "anchor": "The Spirits never made it into the NBA. Their contract",
       "pace": "slower",
       "intent": "reflective",
       "emphasis": [
-        "asset that mattered"
+        "Their contract did"
       ],
       "pause_after_seconds": 1,
       "inflection": "settled",
@@ -211,7 +213,7 @@
     },
     {
       "paragraph_id": "P036",
-      "anchor": "For more stories about the deals behind the money,",
+      "anchor": "For more stories about the deals behind the money, subscribe",
       "pace": "natural",
       "intent": "matter_of_fact",
       "emphasis": [],
