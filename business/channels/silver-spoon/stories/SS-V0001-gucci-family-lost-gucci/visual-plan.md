@@ -1,20 +1,11 @@
-# Internal visual record: editor-owned treatment
+# Editor-owned visual treatment record | SS-V0001 v2
 
-**Episode:** SS-V0001, script v1, SHA-256 `6b56b1f852a7c268e62d4e170a5f95c404fc2adb2252611296963d298c7a7cde`.
+**Version:** script v2; hash `1ce7d1cdf0fe9f9e8a9697151c0823b4ef54fcff2a176188e5c4c35639c56059`. **Status:** Awaiting editor visual proposal / owner pilot review. This is an internal factual-coverage record, **not** a storyboard, shot list, art brief, image-generation prompt or prescribed visual execution.
 
-**Treatment status:** Awaiting editor proposal and the owner's channel visual pilot. No shot list, scene descriptions, image prompts, typography, palette, mock historical documents, motion plan or graphics execution directions are being prescribed by editorial.
+`evidence.json` records **10** thematic content-coverage groups covering all **30** paragraphs, with current script anchors and sources. These groups permit production verification only.
 
-**Content coverage:** Ten conceptual evidence clusters recorded in `evidence.json` (SC001–SC010) together cover all 29 spoken paragraphs. They identify factual scope and sources, not execution requirements.
+**Facts requiring review if depicted:** 1921 current-house founding date versus 1923 older SEC date; April 1988 47.7% intermediary block and Giorgio/Roberto sellers versus 1987–89 completed first 50%; Morgan Stanley role and time of client identification; June 1988 four of eight directors plus blocked proposed fifth; distinction between contested Italian share custody and U.S. Gucci Shops case; Maurizio September 1993 final half; estimated transaction consideration; 1995 death *after* sale; and 1998 **revenue** rather than profit.
 
-**Verification duties when a treatment exists:**
-- If a family-ownership chart is proposed, show only the specific entity/date for each ownership figure; distinguish ancestry from equity, votes and executive roles.
-- Preserve 1921 vs older 1923 founding-date disagreement without presenting the older date as undisputed.
-- Do not use the 1988 court decision as proof of every worldwide Gucci trademark position.
-- Mark the 1993 half-stake consideration as contemporary reported estimates, not an audited sale price or Maurizio's net worth.
-- Do not imply the murder in 1995 preceded or caused the final 1993 sale.
-- Do not imply $22/$48 historical offer share prices are comparable enterprise valuations or Investcorp's net returns.
-- Obtain appropriate permissions for photographs, trademark usage, archive pages, footage, music and any other production assets.
+**Treatment references:** none proposed. **Owner approval:** none. **Actual imagery/music/media inspected:** none. **Assets cleared:** none. **Editor contacted:** no. **Final audiovisual QA:** not performed.
 
-**Editor proposal/reference:** Not supplied. **Owner approval:** Not supplied. **Actual review/date:** Not performed. **Production state:** No assets or final cut provided.
-
-The required default editor inputs are the clean script, audio guidance and compact factual references; this internal record is not a storyboard or compulsory handoff attachment.
+No visual creative direction is included in default external handoff; `handoff.md`, `script.txt`, `narration-guide.md` and `research-for-editor.md` are editor-facing inputs.
