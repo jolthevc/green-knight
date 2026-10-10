@@ -1,58 +1,61 @@
-# Sources and claims | FG-V0001 v1
+# Paragraph-level evidence ledger | FG-V0001 v2
 
-**Canonical script SHA-256:** `ba4305e44011f488cb57b21d5082714a97e4ad388e8e88abe69b1d4672445e12`. Master mapping: [evidence.json](evidence.json). Claims are linked to narration-only P001–P029; TITLE header is excluded.
+**Exact canonical script:** `9c86e31841030a86c68cf943bf9e789e39af8dbc0df88725b8fa1ddf7399d496`. 27 **spoken** paragraphs P001–P027; non-spoken `TITLE:` header excluded. Master reference `evidence.json`.
 
-## Source index
+## Opened dated sources
 
-| ID | Dated source, clickable | Supporting locator and limitation |
+| ID | Document | Relevant text and limits |
 |---|---|---|
-| S001 | [August 2001 Federal Prize Contest Arrest Announcement](https://www.justice.gov/archive/opa/pr/2001/August/422ag.htm), DOJ, 2001-08-21 | 2001 allegations, Simon, Jacobson, recruiter/winner payment trail, $13m, arrest and no proved McDonald's employee involvement; Contemporaneous arrest or charge reporting, identify as allegation, not verdict. |
-| S002 | [Eight Arrested Over McDonald's Promotions](https://archives.fbi.gov/archives/news/pressrel/press-releases/eight-arrested-for-defrauding-mcdonalds-corp.-and-its-customers-in), FBI, 2001-08-21 | Operation Final Answer, 2001 agency statement largely duplicating DOJ; Contemporaneous arrest or charge reporting, identify as allegation, not verdict. |
-| S003 | [McDonald's Games Milked for $13 Million](https://www.washingtonpost.com/archive/politics/2001/08/22/mcdonalds-games-milked-for-13-million/c9af8cea-f286-47cb-809a-d19ad39cc953/), Washington Post, 2001-08-22 | FBI anonymous tip, 2001 live contest, agency cooperation, ticket custody and annuity payments; Contemporaneous report; financial payouts/total must remain period and source scoped. |
-| S004 | [McDonald's Scam Mastermind Sentenced](https://www.latimes.com/archives/la-xpm-2003-jan-11-fi-rup11.6-story.html), Reuters via Los Angeles Times, 2003-01-11 | Jacobson guilty plea and 37 month sentence; case beyond initial allegations; Contemporaneous report; financial payouts/total must remain period and source scoped. |
-| S005 | [United States v. Chandler 388 F.3d 796](https://law.justia.com/cases/federal/appellate-courts/F3/388/796/569839/), US Court of Appeals Eleventh Circuit, 2004-10-19 | Court's substituted opinion, four distinct defendants' convictions vacated, acquittal required due failure to prove knowing conspiracy; Applies to four appellants, not to Jacobson's plea or every ticket holder. |
-| S006 | [Eight Arrested in Plot to Steal Game Prizes](https://www.latimes.com/archives/la-xpm-2001-aug-22-mn-36845-story.html), Los Angeles Times, 2001-08-22 | Early contemporaneous FBI attribution, false winners and prize control; Contemporaneous arrest or charge reporting, identify as allegation, not verdict. |
-| S007 | [Twenty-One Indicted in McDonald's Prize Case](https://www.upi.com/Archives/2001/09/10/21-indicted-in-McDonalds-scam/6191000094400/), UPI, 2001-09-10 | Anonymous Jacksonville tip, grand-jury developments and lack of McDonald's implicated employees; Contemporaneous arrest or charge reporting, identify as allegation, not verdict. |
-| S008 | [McDonald's Game Scammer Gets Sentenced](https://www.mrt.com/news/article/McDonald-s-Game-Scammer-Gets-Sentenced-7779607.php), AP via Midland Reporter-Telegram, 2003-01-08 | Jacobson admission, 37 months, claimed restitution, history beginning 1989; distinguish from 2001 accusation period; Contemporaneous report; financial payouts/total must remain period and source scoped. |
+| S001 | [DOJ: August 2001 Federal Prize Contest Arrest Announcement](https://www.justice.gov/archive/opa/pr/2001/August/422ag.htm) | 2001 allegations, Simon, Jacobson, recruiter/winner payment trail, $13m, arrest and no proved McDonald's employee involvement. Contemporaneous arrest or charge reporting, identify as allegation, not verdict. |
+| S002 | [FBI: Eight Arrested Over McDonald's Promotions](https://archives.fbi.gov/archives/news/pressrel/press-releases/eight-arrested-for-defrauding-mcdonalds-corp.-and-its-customers-in) | Operation Final Answer, 2001 agency statement largely duplicating DOJ. Contemporaneous arrest or charge reporting, identify as allegation, not verdict. |
+| S003 | [Washington Post: McDonald's Games Milked for $13 Million](https://www.washingtonpost.com/archive/politics/2001/08/22/mcdonalds-games-milked-for-13-million/c9af8cea-f286-47cb-809a-d19ad39cc953/) | FBI anonymous tip, 2001 live contest, agency cooperation, ticket custody and annuity payments. Contemporaneous report; financial payouts/total must remain period and source scoped. |
+| S004 | [Reuters via Los Angeles Times: McDonald's Scam Mastermind Sentenced](https://www.latimes.com/archives/la-xpm-2003-jan-11-fi-rup11.6-story.html) | Jacobson guilty plea and 37 month sentence; case beyond initial allegations. Contemporaneous report; financial payouts/total must remain period and source scoped. |
+| S005 | [US Court of Appeals Eleventh Circuit: United States v. Chandler 388 F.3d 796](https://law.justia.com/cases/federal/appellate-courts/F3/388/796/569839/) | Court's substituted opinion, four distinct defendants' convictions vacated, acquittal required due failure to prove knowing conspiracy. Applies to four appellants, not to Jacobson's plea or every ticket holder. |
+| S006 | [Los Angeles Times: Eight Arrested in Plot to Steal Game Prizes](https://www.latimes.com/archives/la-xpm-2001-aug-22-mn-36845-story.html) | Early contemporaneous FBI attribution, false winners and prize control. Contemporaneous arrest or charge reporting, identify as allegation, not verdict. |
+| S007 | [UPI: Twenty-One Indicted in McDonald's Prize Case](https://www.upi.com/Archives/2001/09/10/21-indicted-in-McDonalds-scam/6191000094400/) | Anonymous Jacksonville tip, grand-jury developments and lack of McDonald's implicated employees. Contemporaneous arrest or charge reporting, identify as allegation, not verdict. |
+| S008 | [AP via Midland Reporter-Telegram: McDonald's Game Scammer Gets Sentenced](https://www.mrt.com/news/article/McDonald-s-Game-Scammer-Gets-Sentenced-7779607.php) | Jacobson admission, 37 months, claimed restitution, history beginning 1989; distinguish from 2001 accusation period. Contemporaneous report; financial payouts/total must remain period and source scoped. |
+| S009 | [California Court of Appeal, Second District: Simon Marketing v. Gulf Insurance Co., B188740 (2007)](https://www.casemine.com/judgement/us/59146ecdadd7b0493433d242) | FACTS: Jacobson was Simon director of security responsible for nationwide seeding of high-value McDonald's game pieces; distinct ~ $21m redemption-value claim asserted by Simon in insurance litigation.. Insurance coverage appellate opinion; Simon's $21m value not 2001 DOJ $13m initial allegation, Jacobson's personal proceeds or final restitution. |
 
-## Every narrated paragraph
+## Each spoken paragraph (exact opening anchor)
 
-| Claim ID | P and opening anchor | Claim / inference | Source IDs | Evidence status |
+| Claim | Paragraph | Evidence proposition | Source | Status |
 |---|---|---|---|---|
-| C001 | P001: Imagine peeling a Monopoly sticker from a McDonald's drink. You might be on | Scarce winning Monopoly pieces diverted before normal customers | S001, S003 | **verified** |
-| C002 | P002: McDonald's could verify a genuine winning piece and pay someone who seemed  | Genuine winning tokens could be redeemed under misleading receipt story | S001, S003 | **verified** |
-| C003 | P003: McDonald's issued game pieces on food packaging and in newspaper ads. Most  | Legitimate prize game packaging and rare versus ordinary pieces | S001, S007 | **verified** |
-| C004 | P004: The high-value pieces needed special handling: printing, security and distr | Simon outsourced prize custody and distribution | S001, S003 | **verified** |
-| C005 | P005: One of the people entrusted with that process was Jerome Jacobson, a securi | Jacobson security role and admission | S001, S004, S008 | **verified** |
-| C006 | P006: This wasn't a restaurant cashier slipping a winning cup to a friend. It hap | Physical prize stolen before packaging/randomness | S001, S003 | **verified** |
-| C007 | P007: There are two different questions. Is the winning sticker genuine? And did  | Authenticity is not the same as provenance | S001, S005 | **inference** |
-| C008 | P008: In the government's account, Jacobson passed these pieces to people he knew | Recruiters gave winning pieces to apparent claimants | S001, S003 | **verified** |
-| C009 | P009: The winners weren't just names in a fake ledger. Real prize claims were mad | Payments from issuer to claimants to recruiters/insider according to complaint | S001, S003 | **verified** |
-| C010 | P010: There was no need to forge a ticket. The game's authentication system could | Real checks and installment prize payments but fabricated claimant provenance | S003 | **verified** |
-| C011 | P011: The biggest prizes were so rare that almost nobody expected to know a winne | Unusually rare prizes make faraway winners plausible | S003 | **inference** |
-| C012 | P012: Federal prosecutors said the arrangement had been operating by at least 199 | 2001 federal initial allegations exceeded $13m across McDonald's games | S001, S006 | **verified** |
-| C013 | P013: That was the alleged face value of implicated prizes at the time, not how m | Prize face value distinct from actual net profits | S001, S003 | **inference** |
-| C014 | P014: Why wasn't it discovered sooner? Security was outsourced to a specialist. T | Security outsourcing and genuine pieces masked provenance weakness | S001, S003 | **inference** |
-| C015 | P015: And not everyone who possessed one of those pieces necessarily understood h | Legal distinction between receiving transferred ticket and knowing stolen origin | S005 | **verified** |
-| C016 | P016: Eventually, someone told the FBI to look more closely. Contemporary reporti | Anonymous informant tipped Jacksonville FBI by 2000 | S003, S007 | **verified** |
-| C017 | P017: One genuine million-dollar winner proves little. Different winners connecti | FBI traced connected winners to recruiter network | S003 | **verified** |
-| C018 | P018: McDonald's was notified during the investigation and cooperated with the FB | McDonald's cooperated and 2001 contest ran under observation | S001, S003 | **verified** |
-| C019 | P019: In that summer's game, investigators alleged that a million-dollar Monopoly | FBI traced 2001 Texas grand-prize claim through alleged recruiters | S001, S003 | **verified** |
-| C020 | P020: On August twenty-first, 2001, the Justice Department announced eight arrest | Operation Final Answer August 21 arrests in multiple states | S001, S002 | **verified** |
-| C021 | P021: McDonald's said it had cooperated and was itself a victim, alongside custom | McDonald's action and lack of employee accusation | S001, S003, S007 | **verified** |
-| C022 | P022: For the customer, the promise was not simply 'this sticker is genuine.' It  | Random advertised participation undermined | S001, S003 | **inference** |
-| C023 | P023: The criminal case developed beyond the initial announcement. In 2003, Jacob | Jacobson later pleaded guilty and sentenced 37 months | S004, S008 | **verified** |
-| C024 | P024: But the prosecution had an important limit. Four other men's convictions in | 2004 Chandler reversal of four appellants' convictions for absent knowledge proof | S005 | **verified** |
-| C025 | P025: The ruling did not erase Jacobson's admitted theft. It showed that a stolen | Appellate acquittals limited to those four, not Jacobson | S005 | **verified** |
-| C026 | P026: The public records also have limits on the total money. The initial thirtee | 2001 alleged $13m grand prize value contrasted with personal profits | S001, S003 | **inference** |
-| C027 | P027: Back at that Monopoly sticker, the printing and security marks might all be | Real ticket could be diverted despite appearing authentic | S001, S003 | **inference** |
-| C028 | P028: The visible safeguards checked authenticity and redemption. The breach was  | Supply-chain control gap at custody stage | S001, S003 | **inference** |
-| C029 | P029: For more investigations into the difference between what business records a | Closing CTA | n/a | **illustrative** |
+| C001 | P001: Imagine peeling a Monopoly sticker from a McDonald's drink. You might be on | Rare authentic Monopoly top-prize pieces were stolen by insider before intended placement | S001, S003 | verified |
+| C002 | P002: Here is what makes this case strange. A winner could hand over a real McDon | Real winning ticket presented to issuer was not sufficient to establish legitimate provenance | S001, S005 | inference |
+| C003 | P003: Most Monopoly pieces offered a small instant prize or an easy-to-find prope | Most ordinary promotion pieces versus rare valuable top prizes, intended fair distribution | S001, S005 | verified |
+| C004 | P004: Getting those rare tickets onto cups and into newspaper inserts required sp | Simon Marketing third-party promotion administration, custody of rare winning pieces | S001, S003, S009 | verified |
+| C005 | P005: Jerome Jacobson was Simon's director of security. His job included distribu | Jacobson director of security responsible for disseminating high value pieces nationally | S005, S009 | verified |
+| C006 | P006: And that gave him an extraordinary opportunity. Jacobson stole valuable pie | Jacobson admitted theft and diversion of authentic rare game pieces | S004, S005, S009 | verified |
+| C007 | P007: Two things can be true at once. A ticket can be an authentic winner, and th | Prize object authentication and legitimate distribution route are distinct | S001, S005 | inference |
+| C008 | P008: According to federal investigators, Jacobson gave pieces to friends and ass | Initial charges describe recruiters and claimants spread geographically | S001, S005 | verified |
+| C009 | P009: When McDonald's or Simon paid the prize, the government alleged that money  | Prosecutors described portions of prize payouts going claimant-to-recruiter-to-Jacobson | S001, S003 | verified |
+| C010 | P010: One example from court papers, reported in August 2001, shows the incentive | Contemporaneous court-paper example alleged Jacobson earmarked $70k from one $500k award | S003 | verified |
+| C011 | P011: Some million-dollar awards were paid over many years, rather than arriving  | Some million-dollar awards paid over time in $50k annual installments | S003 | verified |
+| C012 | P012: The first public accusation covered far more than one winner. Prosecutors a | Initial 2001 DOJ allegation of >$13m top prize face values since at least 1995 across games | S001 | verified |
+| C013 | P013: One early example showed what those networks could deliver. In a 1995 claim | Contemporaneous reporting of 1995 Dodge Viper claim and at least 13 million-dollar tickets | S003 | verified |
+| C014 | P014: And yet a million-dollar winner in another state was not, by itself, suspic | Rare far-flung winners are plausible individually but shared network could indicate diversion | S003, S005 | inference |
+| C015 | P015: By 2000, an anonymous tip had reached the FBI's Jacksonville office. Contem | Anonymous tip to Jacksonville FBI by 2000, initially met skeptically | S003, S007 | verified |
+| C016 | P016: That difference matters. A genuine game piece alone couldn't reveal who had | Tracing claimant and recruiter connections addresses otherwise hidden upstream custody | S003, S005 | inference |
+| C017 | P017: McDonald's learned of the investigation in May 2000 and cooperated with fed | McDonald's knew by May 2000, cooperated with monitored 2001 contest | S001, S003 | verified |
+| C018 | P018: The 2001 game ran that summer. According to the FBI's account, a million-do | FBI/DOJ alleged John Davis 2001 million-dollar Monopoly ticket came via recruiters | S001, S003 | verified |
+| C019 | P019: On August twenty-first, the Justice Department announced eight arrests acro | Aug 21 2001 eight arrests Operation Final Answer including Jacobson | S001, S002 | verified |
+| C020 | P020: McDonald's said it was a victim alongside its customers, and authorities sa | No McDonald's employees implicated, Simon contract severed and another giveaway promised | S001, S003, S007 | verified |
+| C021 | P021: The case kept developing after that announcement. Jacobson pleaded guilty a | Jacobson guilty plea and January 2003 sentence of 37 months | S004, S008, S009 | verified |
+| C022 | P022: But that didn't establish that everyone further down the chain knew the pie | 2004 Chandler appellate vacatur and acquittal of four other defendants for lack of knowledge | S005 | verified |
+| C023 | P023: At trial, Jacobson testified that he had used ten recruiters and had kept t | Jacobson testified to 10 recruiters kept ignorant of others/underlying theft, per court | S005 | verified |
+| C024 | P024: The court noted that people sometimes transferred legitimate Monopoly piece | Game stamp transfers tolerated; game-rule violation alone not proof charged knowing conspiracy | S005 | verified |
+| C025 | P025: It's an unusual legal ending to a straightforward theft. A stolen winning p | Stolen authenticity and individual criminal knowledge differ | S005 | inference |
+| C026 | P026: Now return to that sticker on a McDonald's cup. The problem wasn't that the | Trusted placement authority broke random prize path before customer participation | S005, S009 | inference |
+| C027 | P027: For more stories about what looked legitimate and what was happening undern | CTA | n/a | illustrative |
 
-## Financial and legal corrections for editor
+## Guardrails
 
-- Initial DOJ 2001 figure **>$13m prize values** as alleged; not total cash kept by Jacobson. Later estimates of lifetime prizes and actual restitution are different metrics/periods.
-- Jacobson's April 2002 guilty plea / January 2003 37-month sentence **established**, unlike 2001 accusations about specific recruiters at announcement.
-- 11th Circuit `Chandler` 2004 **vacated convictions and ordered acquittals for four other defendants**. No inference that those four knowingly joined the stolen-piece conspiracy. Do not call every winner a convicted scammer.
-- Prize authentication is not proof of distribution legitimacy; don't confuse prize sequence for a forged game document.
-- Source text and brand archival materials are not licensed by citing them. Use only grounded/sourced facts, and clear actual footage separately.
+**Court/judicial:** Jacobson admitted stealing game pieces and received 37 months. Four **other** individuals prevailed on appeal in 2004 for lack of proven agreement/knowledge. Do not imply every claimant or recruiter knew about theft.
+
+**Money:** $500,000 example with an **alleged** $70,000 Jacobson portion is one case in contemporary court papers (S003). $13m at Aug 2001 is a face-value allegation, not Jacobson profit. $21m in S009 is an **insurance litigant's asserted aggregate** with different scope, not a new cash/profit baseline.
+
+**Control:** Director-of-security role and `seeding` described in court records (S005 / S009). Avoid fabricated insider techniques or exact control/audit steps the original records don't establish.
+
+**Identity:** Simon Marketing was an outside contractor; FBI/DOJ said McDonald's cooperated, no McDonald's employee was implicated in their 2001 investigation.
+
+**Assets:** citations are not licenses for McDonald's, Hasbro, press, film footage or soundtrack.
