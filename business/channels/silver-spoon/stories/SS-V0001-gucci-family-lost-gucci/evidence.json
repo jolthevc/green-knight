@@ -1,0 +1,654 @@
+{
+  "schema_version": 1,
+  "script_version": 1,
+  "script_sha256": "6b56b1f852a7c268e62d4e170a5f95c404fc2adb2252611296963d298c7a7cde",
+  "sources": [
+    {
+      "id": "S001",
+      "publisher": "Gucci",
+      "title": "History of Gucci",
+      "url": "https://www.gucci.com/us/en/nst/history-of-gucci",
+      "accessed_at": "2026-10-10",
+      "locator": "1921 origin, company heritage; live branded retrospective",
+      "access_status": "opened",
+      "limitations": "Company statement: first boutique opened in Florence in 1921. Retrospective, not neutral forensic history."
+    },
+    {
+      "id": "S002",
+      "publisher": "Gucci Group N.V. / SEC",
+      "title": "2003 Form 20-F, history and ownership",
+      "url": "https://www.sec.gov/Archives/edgar/data/1001576/000104746903025628/a2115580z20fr12b.htm",
+      "accessed_at": "2026-10-10",
+      "locator": "Item 4.A Significant Historical Events, lines 691-723; Item 4 settlement, lines 1648-1667",
+      "access_status": "opened",
+      "limitations": "Primary company chronology: 1987–89 half sold, 1993 remaining half, IPO 1995, second sale 1996, revenue 1998, LVMH/PPR 1999. Filing dates founder 1923, contrary to company's current 1921 history."
+    },
+    {
+      "id": "S003",
+      "publisher": "U.S. District Court S.D.N.Y.",
+      "title": "Paolo Gucci v. Gucci Shops, Inc., 688 F.Supp. 916 (1988)",
+      "url": "https://law.justia.com/cases/federal/district-courts/FSupp/688/916/2134716/",
+      "accessed_at": "2026-10-10",
+      "locator": "Decision Background and court findings, especially lines 77-109",
+      "access_status": "opened",
+      "limitations": "Court record covers family branches, Rodolfo's 1983 death, 50% ownership at case time and Paolo's right to describe design work but not use Gucci as brand."
+    },
+    {
+      "id": "S004",
+      "publisher": "TIME",
+      "title": "Family Feuds: Gucci's Empire Splits a Seam (June 20, 1988)",
+      "url": "https://time.com/archive/6712547/family-feuds-guccis-empire-splits-a-seam/",
+      "accessed_at": "2026-10-10",
+      "locator": "Article opening, announcement of 47.8% stake sale",
+      "access_status": "opened",
+      "limitations": "Contemporary estimate/initial announcement, stake size may differ from later completed 50% over 1987-89."
+    },
+    {
+      "id": "S005",
+      "publisher": "Los Angeles Times",
+      "title": "Bahrain Bank Buys Out Gucci, Puts an End to Legal Wrangle (Sept. 28, 1993)",
+      "url": "https://www.latimes.com/archives/la-xpm-1993-09-28-fi-39952-story.html",
+      "accessed_at": "2026-10-10",
+      "locator": "Article body lines 235-255",
+      "access_status": "opened",
+      "limitations": "Contemporaneous completion report; sale estimated $150m–$200m in published reports, not audited consideration; records claims of mismanagement and dispute."
+    },
+    {
+      "id": "S006",
+      "publisher": "The Guardian",
+      "title": "The Gucci wife and the hitman (July 24, 2016)",
+      "url": "https://www.theguardian.com/fashion/2016/jul/24/the-gucci-wife-and-the-hitman-fashions-darkest-tale",
+      "accessed_at": "2026-10-10",
+      "locator": "Family recollections, brand licensing discussion and 1995 murder",
+      "access_status": "opened",
+      "limitations": "Retrospective, includes interviewee claims and potentially subjective assessments; corroboration needed before precise causal attribution."
+    },
+    {
+      "id": "S007",
+      "publisher": "Kering",
+      "title": "Gucci house information and timeline",
+      "url": "https://www.kering.com/en/houses/fashion-and-leather-goods/gucci/",
+      "accessed_at": "2026-10-10",
+      "locator": "History; 1921 foundation; 1994 Tom Ford; 1999 Gucci joins group",
+      "access_status": "opened",
+      "limitations": "Current owner-branded account supports 1921 and the later corporate affiliation; ownership terms better supported by SEC."
+    },
+    {
+      "id": "S008",
+      "publisher": "Gucci Group N.V. / SEC",
+      "title": "2004 Schedule 14D-9, 2004 PPR offer",
+      "url": "https://www.sec.gov/Archives/edgar/data/1001576/000095017204000996/gucci.htm",
+      "accessed_at": "2026-10-10",
+      "locator": "2004 offer introduction; PPR 66.83% voting power; transaction chronology",
+      "access_status": "opened",
+      "limitations": "Primary filing for later PPR voting stake, not evidence of 1993 family sale."
+    },
+    {
+      "id": "S009",
+      "publisher": "The Guardian",
+      "title": "The battle for Gucci turns personal (March 9, 2001)",
+      "url": "https://www.theguardian.com/business/2001/mar/09/14",
+      "accessed_at": "2026-10-10",
+      "locator": "LVMH purchase and PPR response",
+      "access_status": "opened",
+      "limitations": "Contemporary interpretation. Business contest occurs after the family had exited."
+    }
+  ],
+  "claims": [
+    {
+      "id": "C001",
+      "paragraph_id": "P001",
+      "anchor": "By 1993, Gucci had achieved something almost impossible. Its name",
+      "claim": "1993 final exit of Gucci family; 100% Investcorp",
+      "source_ids": [
+        "S002",
+        "S005"
+      ],
+      "status": "verified",
+      "basis": "Directly supported by stated source passage(s); date/scope caveats in research.md"
+    },
+    {
+      "id": "C002",
+      "paragraph_id": "P002",
+      "anchor": "Not a small stake. Not a minority interest with no voting power. ",
+      "claim": "100% of shares acquired by Investcorp in 1993",
+      "source_ids": [
+        "S002"
+      ],
+      "status": "verified",
+      "basis": "Directly supported by stated source passage(s); date/scope caveats in research.md"
+    },
+    {
+      "id": "C003",
+      "paragraph_id": "P003",
+      "anchor": "That sounds like the ending. It is actually the puzzle. How does ",
+      "claim": "Family division, litigation and outsider stake are linked causal threads; not a single established proximate cause",
+      "source_ids": [
+        "S002",
+        "S003",
+        "S005"
+      ],
+      "status": "inference",
+      "basis": "Constrained interpretation of cited records; alternative causes and private data acknowledged"
+    },
+    {
+      "id": "C004",
+      "paragraph_id": "P004",
+      "anchor": "Go back to Florence. In 1921, Guccio Gucci opened his first shop.",
+      "claim": "Founding 1921 Florence and international growth",
+      "source_ids": [
+        "S001",
+        "S007"
+      ],
+      "status": "verified",
+      "basis": "Directly supported by stated source passage(s); date/scope caveats in research.md"
+    },
+    {
+      "id": "C005",
+      "paragraph_id": "P005",
+      "anchor": "After Guccio died in 1953, his sons Aldo, Rodolfo and Vasco carri",
+      "claim": "1953 succession, three sons, operational responsibilities",
+      "source_ids": [
+        "S003"
+      ],
+      "status": "verified",
+      "basis": "Directly supported by stated source passage(s); date/scope caveats in research.md"
+    },
+    {
+      "id": "C006",
+      "paragraph_id": "P006",
+      "anchor": "You only need to remember two branches. Rodolfo had a son, Mauriz",
+      "claim": "Rodolfo/Maurizio and Aldo/three sons, 1983 inheritance, approximate half shares",
+      "source_ids": [
+        "S003"
+      ],
+      "status": "verified",
+      "basis": "Directly supported by stated source passage(s); date/scope caveats in research.md"
+    },
+    {
+      "id": "C007",
+      "paragraph_id": "P007",
+      "anchor": "Think about what that means. A half-owner can have enormous influ",
+      "claim": "Equal interests do not establish agreement; illustrative governance distinction",
+      "source_ids": [
+        "S003"
+      ],
+      "status": "inference",
+      "basis": "Constrained interpretation of cited records; alternative causes and private data acknowledged"
+    },
+    {
+      "id": "C008",
+      "paragraph_id": "P008",
+      "anchor": "One of the clearest windows into this world is not a fashion phot",
+      "claim": "Paolo's claim to independent label and trademark dispute",
+      "source_ids": [
+        "S003"
+      ],
+      "status": "verified",
+      "basis": "Directly supported by stated source passage(s); date/scope caveats in research.md"
+    },
+    {
+      "id": "C009",
+      "paragraph_id": "P009",
+      "anchor": "A federal judge in 1988 recognized Paolo's work as a designer. Bu",
+      "claim": "1988 judgment: designer credit allowed in specified form; Gucci trademark refused",
+      "source_ids": [
+        "S003"
+      ],
+      "status": "verified",
+      "basis": "Directly supported by stated source passage(s); date/scope caveats in research.md"
+    },
+    {
+      "id": "C010",
+      "paragraph_id": "P010",
+      "anchor": "That is our first answer. A family member can possess the name by",
+      "claim": "Personal surname not equal transferable business trademark rights; company held U.S. registered marks",
+      "source_ids": [
+        "S003"
+      ],
+      "status": "inference",
+      "basis": "Constrained interpretation of cited records; alternative causes and private data acknowledged"
+    },
+    {
+      "id": "C011",
+      "paragraph_id": "P011",
+      "anchor": "Then came the first sale. During the late 1980s, members of Aldo'",
+      "claim": "Investcorp bought family branch stake during 1987–89; early contemporary 47.8% estimate",
+      "source_ids": [
+        "S002",
+        "S004"
+      ],
+      "status": "verified",
+      "basis": "Directly supported by stated source passage(s); date/scope caveats in research.md"
+    },
+    {
+      "id": "C012",
+      "paragraph_id": "P012",
+      "anchor": "The family had not disappeared yet. Maurizio still held the other",
+      "claim": "1993 ownership map became Maurizio 50% versus Investcorp 50%",
+      "source_ids": [
+        "S002"
+      ],
+      "status": "verified",
+      "basis": "Directly supported by stated source passage(s); date/scope caveats in research.md"
+    },
+    {
+      "id": "C013",
+      "paragraph_id": "P013",
+      "anchor": "And Gucci was not an easy business to inherit. Its name was power",
+      "claim": "Licensing/prestige tensions presented as reported interpretation, not quantified causal proof",
+      "source_ids": [
+        "S006",
+        "S005"
+      ],
+      "status": "inference",
+      "basis": "Constrained interpretation of cited records; alternative causes and private data acknowledged"
+    },
+    {
+      "id": "C014",
+      "paragraph_id": "P014",
+      "anchor": "Maurizio wanted to restore the luxury image. That ambition had a ",
+      "claim": "Maurizio repositioning ambitions and financing trade-off",
+      "source_ids": [
+        "S005",
+        "S006"
+      ],
+      "status": "inference",
+      "basis": "Constrained interpretation of cited records; alternative causes and private data acknowledged"
+    },
+    {
+      "id": "C015",
+      "paragraph_id": "P015",
+      "anchor": "The partners disagreed over how things were going. Contemporary r",
+      "claim": "Contemporaneous opposed claims between Investcorp and Maurizio",
+      "source_ids": [
+        "S005"
+      ],
+      "status": "verified",
+      "basis": "Directly supported by stated source passage(s); date/scope caveats in research.md"
+    },
+    {
+      "id": "C016",
+      "paragraph_id": "P016",
+      "anchor": "By 1993, the disagreement had spilled into litigation. Gucci had ",
+      "claim": "Losses, litigation and disputes all plausible pressures; causal weights not established",
+      "source_ids": [
+        "S005"
+      ],
+      "status": "inference",
+      "basis": "Constrained interpretation of cited records; alternative causes and private data acknowledged"
+    },
+    {
+      "id": "C017",
+      "paragraph_id": "P017",
+      "anchor": "In September, the stalemate ended. Investcorp bought Maurizio's r",
+      "claim": "September 1993 remaining 50% bought; contemporary reported $150m–$200m price range",
+      "source_ids": [
+        "S002",
+        "S005"
+      ],
+      "status": "verified",
+      "basis": "Directly supported by stated source passage(s); date/scope caveats in research.md"
+    },
+    {
+      "id": "C018",
+      "paragraph_id": "P018",
+      "anchor": "For the first time, the entire business belonged to an owner outs",
+      "claim": "Maurizio left executive position and publicly favored single ownership",
+      "source_ids": [
+        "S005"
+      ],
+      "status": "verified",
+      "basis": "Directly supported by stated source passage(s); date/scope caveats in research.md"
+    },
+    {
+      "id": "C019",
+      "paragraph_id": "P019",
+      "anchor": "Notice what did not happen. Investcorp did not have to erase the ",
+      "claim": "Commercial trademark/brand business remained while ownership changed",
+      "source_ids": [
+        "S002",
+        "S003"
+      ],
+      "status": "inference",
+      "basis": "Constrained interpretation of cited records; alternative causes and private data acknowledged"
+    },
+    {
+      "id": "C020",
+      "paragraph_id": "P020",
+      "anchor": "There is another important timing detail. Maurizio Gucci was kill",
+      "claim": "Maurizio died in 1995 after ownership transfer in 1993",
+      "source_ids": [
+        "S006",
+        "S002"
+      ],
+      "status": "verified",
+      "basis": "Directly supported by stated source passage(s); date/scope caveats in research.md"
+    },
+    {
+      "id": "C021",
+      "paragraph_id": "P021",
+      "anchor": "What followed makes the story even stranger. Gucci's official his",
+      "claim": "1994 turnaround begins, De Sole and Ford",
+      "source_ids": [
+        "S002",
+        "S007"
+      ],
+      "status": "verified",
+      "basis": "Directly supported by stated source passage(s); date/scope caveats in research.md"
+    },
+    {
+      "id": "C022",
+      "paragraph_id": "P022",
+      "anchor": "Then Investcorp began selling its own shares. In October 1995, it",
+      "claim": "Investcorp sale of 48% in October 1995 and remaining 52% in March 1996",
+      "source_ids": [
+        "S002"
+      ],
+      "status": "verified",
+      "basis": "Directly supported by stated source passage(s); date/scope caveats in research.md"
+    },
+    {
+      "id": "C023",
+      "paragraph_id": "P023",
+      "anchor": "The share prices in those offerings were different: twenty-two do",
+      "claim": "IPO share prices $22 and subsequent $48; no ROI implied",
+      "source_ids": [
+        "S002"
+      ],
+      "status": "verified",
+      "basis": "Directly supported by stated source passage(s); date/scope caveats in research.md"
+    },
+    {
+      "id": "C024",
+      "paragraph_id": "P024",
+      "anchor": "By 1998, Gucci brand revenue exceeded one billion dollars, accord",
+      "claim": "Gucci brand sales >$1bn by 1998; hindsight not proof of 1993 alternatives",
+      "source_ids": [
+        "S002"
+      ],
+      "status": "verified",
+      "basis": "Directly supported by stated source passage(s); date/scope caveats in research.md"
+    },
+    {
+      "id": "C025",
+      "paragraph_id": "P025",
+      "anchor": "That distinction matters. A successful turnaround after a sale do",
+      "claim": "No observable counterfactual proving cause or investment return",
+      "source_ids": [
+        "S002",
+        "S005"
+      ],
+      "status": "inference",
+      "basis": "Constrained interpretation of cited records; alternative causes and private data acknowledged"
+    },
+    {
+      "id": "C026",
+      "paragraph_id": "P026",
+      "anchor": "And the name kept traveling. In 1999, luxury giant LVMH accumulat",
+      "claim": "1999 LVMH stake and PPR alliance; later corporate ownership contest",
+      "source_ids": [
+        "S002",
+        "S008",
+        "S009"
+      ],
+      "status": "verified",
+      "basis": "Directly supported by stated source passage(s); date/scope caveats in research.md"
+    },
+    {
+      "id": "C027",
+      "paragraph_id": "P027",
+      "anchor": "The family did not lose its surname. And selling shares did not m",
+      "claim": "Company exit does not establish family's personal net wealth",
+      "source_ids": [
+        "S002",
+        "S005"
+      ],
+      "status": "inference",
+      "basis": "Constrained interpretation of cited records; alternative causes and private data acknowledged"
+    },
+    {
+      "id": "C028",
+      "paragraph_id": "P028",
+      "anchor": "The story began with a name on a handbag. Now that name tells us ",
+      "claim": "Shares and brand rights distinguished from personal surname",
+      "source_ids": [
+        "S002",
+        "S003"
+      ],
+      "status": "inference",
+      "basis": "Constrained interpretation of cited records; alternative causes and private data acknowledged"
+    },
+    {
+      "id": "C029",
+      "paragraph_id": "P029",
+      "anchor": "This is Silver Spoon. For more stories about the fortunes familie",
+      "claim": "Launch-safe channel CTA, not factual claim",
+      "source_ids": [],
+      "status": "illustrative",
+      "basis": "Editorial invitation; not factual content"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "SC001",
+      "paragraphs": [
+        {
+          "paragraph_id": "P001",
+          "anchor": "By 1993, Gucci had achieved something almost impossible. Its name"
+        },
+        {
+          "paragraph_id": "P002",
+          "anchor": "Not a small stake. Not a minority interest with no voting power. "
+        },
+        {
+          "paragraph_id": "P003",
+          "anchor": "That sounds like the ending. It is actually the puzzle. How does "
+        }
+      ],
+      "purpose": "Establish completed ownership outcome and question",
+      "evidence_type": "document",
+      "source_ids": [
+        "S002"
+      ]
+    },
+    {
+      "id": "SC002",
+      "paragraphs": [
+        {
+          "paragraph_id": "P004",
+          "anchor": "Go back to Florence. In 1921, Guccio Gucci opened his first shop."
+        },
+        {
+          "paragraph_id": "P005",
+          "anchor": "After Guccio died in 1953, his sons Aldo, Rodolfo and Vasco carri"
+        },
+        {
+          "paragraph_id": "P006",
+          "anchor": "You only need to remember two branches. Rodolfo had a son, Mauriz"
+        },
+        {
+          "paragraph_id": "P007",
+          "anchor": "Think about what that means. A half-owner can have enormous influ"
+        }
+      ],
+      "purpose": "Document founding and relevant family/ownership split",
+      "evidence_type": "reconstruction",
+      "source_ids": [
+        "S001",
+        "S003"
+      ]
+    },
+    {
+      "id": "SC003",
+      "paragraphs": [
+        {
+          "paragraph_id": "P008",
+          "anchor": "One of the clearest windows into this world is not a fashion phot"
+        },
+        {
+          "paragraph_id": "P009",
+          "anchor": "A federal judge in 1988 recognized Paolo's work as a designer. Bu"
+        },
+        {
+          "paragraph_id": "P010",
+          "anchor": "That is our first answer. A family member can possess the name by"
+        }
+      ],
+      "purpose": "Clarify commercial name rights versus family surname",
+      "evidence_type": "document",
+      "source_ids": [
+        "S003"
+      ]
+    },
+    {
+      "id": "SC004",
+      "paragraphs": [
+        {
+          "paragraph_id": "P011",
+          "anchor": "Then came the first sale. During the late 1980s, members of Aldo'"
+        },
+        {
+          "paragraph_id": "P012",
+          "anchor": "The family had not disappeared yet. Maurizio still held the other"
+        },
+        {
+          "paragraph_id": "P013",
+          "anchor": "And Gucci was not an easy business to inherit. Its name was power"
+        }
+      ],
+      "purpose": "Track first stake transfer to outside investor",
+      "evidence_type": "data",
+      "source_ids": [
+        "S002",
+        "S004"
+      ]
+    },
+    {
+      "id": "SC005",
+      "paragraphs": [
+        {
+          "paragraph_id": "P014",
+          "anchor": "Maurizio wanted to restore the luxury image. That ambition had a "
+        },
+        {
+          "paragraph_id": "P015",
+          "anchor": "The partners disagreed over how things were going. Contemporary r"
+        },
+        {
+          "paragraph_id": "P016",
+          "anchor": "By 1993, the disagreement had spilled into litigation. Gucci had "
+        }
+      ],
+      "purpose": "Explain business pressure and competing accounts",
+      "evidence_type": "reconstruction",
+      "source_ids": [
+        "S005",
+        "S006"
+      ]
+    },
+    {
+      "id": "SC006",
+      "paragraphs": [
+        {
+          "paragraph_id": "P017",
+          "anchor": "In September, the stalemate ended. Investcorp bought Maurizio's r"
+        },
+        {
+          "paragraph_id": "P018",
+          "anchor": "For the first time, the entire business belonged to an owner outs"
+        },
+        {
+          "paragraph_id": "P019",
+          "anchor": "Notice what did not happen. Investcorp did not have to erase the "
+        }
+      ],
+      "purpose": "Resolve 1993 exit and its price uncertainty",
+      "evidence_type": "document",
+      "source_ids": [
+        "S002",
+        "S005"
+      ]
+    },
+    {
+      "id": "SC007",
+      "paragraphs": [
+        {
+          "paragraph_id": "P020",
+          "anchor": "There is another important timing detail. Maurizio Gucci was kill"
+        },
+        {
+          "paragraph_id": "P021",
+          "anchor": "What followed makes the story even stranger. Gucci's official his"
+        }
+      ],
+      "purpose": "Separate later tragedy from takeover; date turnaround",
+      "evidence_type": "document",
+      "source_ids": [
+        "S002",
+        "S006"
+      ]
+    },
+    {
+      "id": "SC008",
+      "paragraphs": [
+        {
+          "paragraph_id": "P022",
+          "anchor": "Then Investcorp began selling its own shares. In October 1995, it"
+        },
+        {
+          "paragraph_id": "P023",
+          "anchor": "The share prices in those offerings were different: twenty-two do"
+        },
+        {
+          "paragraph_id": "P024",
+          "anchor": "By 1998, Gucci brand revenue exceeded one billion dollars, accord"
+        }
+      ],
+      "purpose": "Differentiate public offering shares, prices and company sales",
+      "evidence_type": "data",
+      "source_ids": [
+        "S002"
+      ]
+    },
+    {
+      "id": "SC009",
+      "paragraphs": [
+        {
+          "paragraph_id": "P025",
+          "anchor": "That distinction matters. A successful turnaround after a sale do"
+        },
+        {
+          "paragraph_id": "P026",
+          "anchor": "And the name kept traveling. In 1999, luxury giant LVMH accumulat"
+        },
+        {
+          "paragraph_id": "P027",
+          "anchor": "The family did not lose its surname. And selling shares did not m"
+        }
+      ],
+      "purpose": "Test hindsight story; document next corporate ownership contest",
+      "evidence_type": "reconstruction",
+      "source_ids": [
+        "S002",
+        "S008"
+      ]
+    },
+    {
+      "id": "SC010",
+      "paragraphs": [
+        {
+          "paragraph_id": "P028",
+          "anchor": "The story began with a name on a handbag. Now that name tells us "
+        },
+        {
+          "paragraph_id": "P029",
+          "anchor": "This is Silver Spoon. For more stories about the fortunes familie"
+        }
+      ],
+      "purpose": "Conclude personal versus legal ownership distinction",
+      "evidence_type": "illustration",
+      "source_ids": []
+    }
+  ]
+}
