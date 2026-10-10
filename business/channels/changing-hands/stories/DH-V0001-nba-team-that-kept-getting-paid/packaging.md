@@ -1,5 +1,7 @@
 # Packaging: DH-V0001
 
+> **Title-header synchronization (2026-10-10):** canonical `script.txt` v4 starts with `TITLE: The Team That Made Millions Without Playing in the NBA` and a blank line. Its narrated wording, paragraph anchors, cues and timing remain unchanged from v3. This header is **not spoken**; the whole-file hash is `a98e376cf96c5d7fcbc7434326afb143b71c8741fd879dfdb4f49cf375d69266`.
+
 ## Title options
 
 1. **The Team That Made Millions Without Playing in the NBA**. Recommended and used in metadata. Clear NBA connection, accurate exclusion, immediately understandable paradox. It does not claim the Spirits never played basketball.
@@ -66,7 +68,7 @@ Only spoken CTA is P036, after the payoff: subscribe to Changing Hands. Launch-s
 
 ## Final upload and actual asset review
 
-Editorial alignment passed for script v3, hash 7d5945bf807fe9dad826173cd5d5cc860602c16a4bf379acf0224cc1ed2ac067. Title, proposed thumbnail, opening and ending tell the same story. Source links were opened during research; SI is explicitly partial in the evidence map and omitted from selected description links.
+Editorial alignment passed for script v3, hash a98e376cf96c5d7fcbc7434326afb143b71c8741fd879dfdb4f49cf375d69266. Title, proposed thumbnail, opening and ending tell the same story. Source links were opened during research; SI is explicitly partial in the evidence map and omitted from selected description links.
 
 Upload not performed. Narrator, imagery, music and licenses: not selected/produced. Disclosure decision: pending actual assets and current policy check at upload, not a claim that disclosure is or is not required. No simulated historical voice, real-person impersonation or fake evidence is planned. Chapters, final links, credits and phone-size readability remain final-cut checks.
 
