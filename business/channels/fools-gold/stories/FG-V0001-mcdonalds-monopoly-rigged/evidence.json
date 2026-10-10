@@ -1,0 +1,679 @@
+{
+  "schema_version": 1,
+  "script_version": 1,
+  "script_sha256": "ba4305e44011f488cb57b21d5082714a97e4ad388e8e88abe69b1d4672445e12",
+  "sources": [
+    {
+      "id": "S001",
+      "publisher": "DOJ",
+      "title": "August 2001 Federal Prize Contest Arrest Announcement",
+      "url": "https://www.justice.gov/archive/opa/pr/2001/August/422ag.htm",
+      "published_at": "2001-08-21",
+      "accessed_at": "2026-10-10",
+      "access_status": "opened",
+      "locator": "2001 allegations, Simon, Jacobson, recruiter/winner payment trail, $13m, arrest and no proved McDonald's employee involvement",
+      "limitations": "Contemporaneous arrest or charge reporting, identify as allegation, not verdict."
+    },
+    {
+      "id": "S002",
+      "publisher": "FBI",
+      "title": "Eight Arrested Over McDonald's Promotions",
+      "url": "https://archives.fbi.gov/archives/news/pressrel/press-releases/eight-arrested-for-defrauding-mcdonalds-corp.-and-its-customers-in",
+      "published_at": "2001-08-21",
+      "accessed_at": "2026-10-10",
+      "access_status": "opened",
+      "locator": "Operation Final Answer, 2001 agency statement largely duplicating DOJ",
+      "limitations": "Contemporaneous arrest or charge reporting, identify as allegation, not verdict."
+    },
+    {
+      "id": "S003",
+      "publisher": "Washington Post",
+      "title": "McDonald's Games Milked for $13 Million",
+      "url": "https://www.washingtonpost.com/archive/politics/2001/08/22/mcdonalds-games-milked-for-13-million/c9af8cea-f286-47cb-809a-d19ad39cc953/",
+      "published_at": "2001-08-22",
+      "accessed_at": "2026-10-10",
+      "access_status": "opened",
+      "locator": "FBI anonymous tip, 2001 live contest, agency cooperation, ticket custody and annuity payments",
+      "limitations": "Contemporaneous report; financial payouts/total must remain period and source scoped."
+    },
+    {
+      "id": "S004",
+      "publisher": "Reuters via Los Angeles Times",
+      "title": "McDonald's Scam Mastermind Sentenced",
+      "url": "https://www.latimes.com/archives/la-xpm-2003-jan-11-fi-rup11.6-story.html",
+      "published_at": "2003-01-11",
+      "accessed_at": "2026-10-10",
+      "access_status": "opened",
+      "locator": "Jacobson guilty plea and 37 month sentence; case beyond initial allegations",
+      "limitations": "Contemporaneous report; financial payouts/total must remain period and source scoped."
+    },
+    {
+      "id": "S005",
+      "publisher": "US Court of Appeals Eleventh Circuit",
+      "title": "United States v. Chandler 388 F.3d 796",
+      "url": "https://law.justia.com/cases/federal/appellate-courts/F3/388/796/569839/",
+      "published_at": "2004-10-19",
+      "accessed_at": "2026-10-10",
+      "access_status": "opened",
+      "locator": "Court's substituted opinion, four distinct defendants' convictions vacated, acquittal required due failure to prove knowing conspiracy",
+      "limitations": "Applies to four appellants, not to Jacobson's plea or every ticket holder."
+    },
+    {
+      "id": "S006",
+      "publisher": "Los Angeles Times",
+      "title": "Eight Arrested in Plot to Steal Game Prizes",
+      "url": "https://www.latimes.com/archives/la-xpm-2001-aug-22-mn-36845-story.html",
+      "published_at": "2001-08-22",
+      "accessed_at": "2026-10-10",
+      "access_status": "opened",
+      "locator": "Early contemporaneous FBI attribution, false winners and prize control",
+      "limitations": "Contemporaneous arrest or charge reporting, identify as allegation, not verdict."
+    },
+    {
+      "id": "S007",
+      "publisher": "UPI",
+      "title": "Twenty-One Indicted in McDonald's Prize Case",
+      "url": "https://www.upi.com/Archives/2001/09/10/21-indicted-in-McDonalds-scam/6191000094400/",
+      "published_at": "2001-09-10",
+      "accessed_at": "2026-10-10",
+      "access_status": "opened",
+      "locator": "Anonymous Jacksonville tip, grand-jury developments and lack of McDonald's implicated employees",
+      "limitations": "Contemporaneous arrest or charge reporting, identify as allegation, not verdict."
+    },
+    {
+      "id": "S008",
+      "publisher": "AP via Midland Reporter-Telegram",
+      "title": "McDonald's Game Scammer Gets Sentenced",
+      "url": "https://www.mrt.com/news/article/McDonald-s-Game-Scammer-Gets-Sentenced-7779607.php",
+      "published_at": "2003-01-08",
+      "accessed_at": "2026-10-10",
+      "access_status": "opened",
+      "locator": "Jacobson admission, 37 months, claimed restitution, history beginning 1989; distinguish from 2001 accusation period",
+      "limitations": "Contemporaneous report; financial payouts/total must remain period and source scoped."
+    }
+  ],
+  "claims": [
+    {
+      "id": "C001",
+      "paragraph_id": "P001",
+      "anchor": "Imagine peeling a Monopoly sticker from a McDonald's drink. You might be on",
+      "claim": "Scarce winning Monopoly pieces diverted before normal customers",
+      "status": "verified",
+      "source_ids": [
+        "S001",
+        "S003"
+      ],
+      "basis": "Opened original filing/judicial record or contemporaneous report with allegation status respected."
+    },
+    {
+      "id": "C002",
+      "paragraph_id": "P002",
+      "anchor": "McDonald's could verify a genuine winning piece and pay someone who seemed ",
+      "claim": "Genuine winning tokens could be redeemed under misleading receipt story",
+      "status": "verified",
+      "source_ids": [
+        "S001",
+        "S003"
+      ],
+      "basis": "Opened original filing/judicial record or contemporaneous report with allegation status respected."
+    },
+    {
+      "id": "C003",
+      "paragraph_id": "P003",
+      "anchor": "McDonald's issued game pieces on food packaging and in newspaper ads. Most ",
+      "claim": "Legitimate prize game packaging and rare versus ordinary pieces",
+      "status": "verified",
+      "source_ids": [
+        "S001",
+        "S007"
+      ],
+      "basis": "Opened original filing/judicial record or contemporaneous report with allegation status respected."
+    },
+    {
+      "id": "C004",
+      "paragraph_id": "P004",
+      "anchor": "The high-value pieces needed special handling: printing, security and distr",
+      "claim": "Simon outsourced prize custody and distribution",
+      "status": "verified",
+      "source_ids": [
+        "S001",
+        "S003"
+      ],
+      "basis": "Opened original filing/judicial record or contemporaneous report with allegation status respected."
+    },
+    {
+      "id": "C005",
+      "paragraph_id": "P005",
+      "anchor": "One of the people entrusted with that process was Jerome Jacobson, a securi",
+      "claim": "Jacobson security role and admission",
+      "status": "verified",
+      "source_ids": [
+        "S001",
+        "S004",
+        "S008"
+      ],
+      "basis": "Opened original filing/judicial record or contemporaneous report with allegation status respected."
+    },
+    {
+      "id": "C006",
+      "paragraph_id": "P006",
+      "anchor": "This wasn't a restaurant cashier slipping a winning cup to a friend. It hap",
+      "claim": "Physical prize stolen before packaging/randomness",
+      "status": "verified",
+      "source_ids": [
+        "S001",
+        "S003"
+      ],
+      "basis": "Opened original filing/judicial record or contemporaneous report with allegation status respected."
+    },
+    {
+      "id": "C007",
+      "paragraph_id": "P007",
+      "anchor": "There are two different questions. Is the winning sticker genuine? And did ",
+      "claim": "Authenticity is not the same as provenance",
+      "status": "inference",
+      "source_ids": [
+        "S001",
+        "S005"
+      ],
+      "basis": "Limited interpretation of source facts, no claim to undocumented intent."
+    },
+    {
+      "id": "C008",
+      "paragraph_id": "P008",
+      "anchor": "In the government's account, Jacobson passed these pieces to people he knew",
+      "claim": "Recruiters gave winning pieces to apparent claimants",
+      "status": "verified",
+      "source_ids": [
+        "S001",
+        "S003"
+      ],
+      "basis": "Opened original filing/judicial record or contemporaneous report with allegation status respected."
+    },
+    {
+      "id": "C009",
+      "paragraph_id": "P009",
+      "anchor": "The winners weren't just names in a fake ledger. Real prize claims were mad",
+      "claim": "Payments from issuer to claimants to recruiters/insider according to complaint",
+      "status": "verified",
+      "source_ids": [
+        "S001",
+        "S003"
+      ],
+      "basis": "Opened original filing/judicial record or contemporaneous report with allegation status respected."
+    },
+    {
+      "id": "C010",
+      "paragraph_id": "P010",
+      "anchor": "There was no need to forge a ticket. The game's authentication system could",
+      "claim": "Real checks and installment prize payments but fabricated claimant provenance",
+      "status": "verified",
+      "source_ids": [
+        "S003"
+      ],
+      "basis": "Opened original filing/judicial record or contemporaneous report with allegation status respected."
+    },
+    {
+      "id": "C011",
+      "paragraph_id": "P011",
+      "anchor": "The biggest prizes were so rare that almost nobody expected to know a winne",
+      "claim": "Unusually rare prizes make faraway winners plausible",
+      "status": "inference",
+      "source_ids": [
+        "S003"
+      ],
+      "basis": "Limited interpretation of source facts, no claim to undocumented intent."
+    },
+    {
+      "id": "C012",
+      "paragraph_id": "P012",
+      "anchor": "Federal prosecutors said the arrangement had been operating by at least 199",
+      "claim": "2001 federal initial allegations exceeded $13m across McDonald's games",
+      "status": "verified",
+      "source_ids": [
+        "S001",
+        "S006"
+      ],
+      "basis": "Opened original filing/judicial record or contemporaneous report with allegation status respected."
+    },
+    {
+      "id": "C013",
+      "paragraph_id": "P013",
+      "anchor": "That was the alleged face value of implicated prizes at the time, not how m",
+      "claim": "Prize face value distinct from actual net profits",
+      "status": "inference",
+      "source_ids": [
+        "S001",
+        "S003"
+      ],
+      "basis": "Limited interpretation of source facts, no claim to undocumented intent."
+    },
+    {
+      "id": "C014",
+      "paragraph_id": "P014",
+      "anchor": "Why wasn't it discovered sooner? Security was outsourced to a specialist. T",
+      "claim": "Security outsourcing and genuine pieces masked provenance weakness",
+      "status": "inference",
+      "source_ids": [
+        "S001",
+        "S003"
+      ],
+      "basis": "Limited interpretation of source facts, no claim to undocumented intent."
+    },
+    {
+      "id": "C015",
+      "paragraph_id": "P015",
+      "anchor": "And not everyone who possessed one of those pieces necessarily understood h",
+      "claim": "Legal distinction between receiving transferred ticket and knowing stolen origin",
+      "status": "verified",
+      "source_ids": [
+        "S005"
+      ],
+      "basis": "Opened original filing/judicial record or contemporaneous report with allegation status respected."
+    },
+    {
+      "id": "C016",
+      "paragraph_id": "P016",
+      "anchor": "Eventually, someone told the FBI to look more closely. Contemporary reporti",
+      "claim": "Anonymous informant tipped Jacksonville FBI by 2000",
+      "status": "verified",
+      "source_ids": [
+        "S003",
+        "S007"
+      ],
+      "basis": "Opened original filing/judicial record or contemporaneous report with allegation status respected."
+    },
+    {
+      "id": "C017",
+      "paragraph_id": "P017",
+      "anchor": "One genuine million-dollar winner proves little. Different winners connecti",
+      "claim": "FBI traced connected winners to recruiter network",
+      "status": "verified",
+      "source_ids": [
+        "S003"
+      ],
+      "basis": "Opened original filing/judicial record or contemporaneous report with allegation status respected."
+    },
+    {
+      "id": "C018",
+      "paragraph_id": "P018",
+      "anchor": "McDonald's was notified during the investigation and cooperated with the FB",
+      "claim": "McDonald's cooperated and 2001 contest ran under observation",
+      "status": "verified",
+      "source_ids": [
+        "S001",
+        "S003"
+      ],
+      "basis": "Opened original filing/judicial record or contemporaneous report with allegation status respected."
+    },
+    {
+      "id": "C019",
+      "paragraph_id": "P019",
+      "anchor": "In that summer's game, investigators alleged that a million-dollar Monopoly",
+      "claim": "FBI traced 2001 Texas grand-prize claim through alleged recruiters",
+      "status": "verified",
+      "source_ids": [
+        "S001",
+        "S003"
+      ],
+      "basis": "Opened original filing/judicial record or contemporaneous report with allegation status respected."
+    },
+    {
+      "id": "C020",
+      "paragraph_id": "P020",
+      "anchor": "On August twenty-first, 2001, the Justice Department announced eight arrest",
+      "claim": "Operation Final Answer August 21 arrests in multiple states",
+      "status": "verified",
+      "source_ids": [
+        "S001",
+        "S002"
+      ],
+      "basis": "Opened original filing/judicial record or contemporaneous report with allegation status respected."
+    },
+    {
+      "id": "C021",
+      "paragraph_id": "P021",
+      "anchor": "McDonald's said it had cooperated and was itself a victim, alongside custom",
+      "claim": "McDonald's action and lack of employee accusation",
+      "status": "verified",
+      "source_ids": [
+        "S001",
+        "S003",
+        "S007"
+      ],
+      "basis": "Opened original filing/judicial record or contemporaneous report with allegation status respected."
+    },
+    {
+      "id": "C022",
+      "paragraph_id": "P022",
+      "anchor": "For the customer, the promise was not simply 'this sticker is genuine.' It ",
+      "claim": "Random advertised participation undermined",
+      "status": "inference",
+      "source_ids": [
+        "S001",
+        "S003"
+      ],
+      "basis": "Limited interpretation of source facts, no claim to undocumented intent."
+    },
+    {
+      "id": "C023",
+      "paragraph_id": "P023",
+      "anchor": "The criminal case developed beyond the initial announcement. In 2003, Jacob",
+      "claim": "Jacobson later pleaded guilty and sentenced 37 months",
+      "status": "verified",
+      "source_ids": [
+        "S004",
+        "S008"
+      ],
+      "basis": "Opened original filing/judicial record or contemporaneous report with allegation status respected."
+    },
+    {
+      "id": "C024",
+      "paragraph_id": "P024",
+      "anchor": "But the prosecution had an important limit. Four other men's convictions in",
+      "claim": "2004 Chandler reversal of four appellants' convictions for absent knowledge proof",
+      "status": "verified",
+      "source_ids": [
+        "S005"
+      ],
+      "basis": "Opened original filing/judicial record or contemporaneous report with allegation status respected."
+    },
+    {
+      "id": "C025",
+      "paragraph_id": "P025",
+      "anchor": "The ruling did not erase Jacobson's admitted theft. It showed that a stolen",
+      "claim": "Appellate acquittals limited to those four, not Jacobson",
+      "status": "verified",
+      "source_ids": [
+        "S005"
+      ],
+      "basis": "Opened original filing/judicial record or contemporaneous report with allegation status respected."
+    },
+    {
+      "id": "C026",
+      "paragraph_id": "P026",
+      "anchor": "The public records also have limits on the total money. The initial thirtee",
+      "claim": "2001 alleged $13m grand prize value contrasted with personal profits",
+      "status": "inference",
+      "source_ids": [
+        "S001",
+        "S003"
+      ],
+      "basis": "Limited interpretation of source facts, no claim to undocumented intent."
+    },
+    {
+      "id": "C027",
+      "paragraph_id": "P027",
+      "anchor": "Back at that Monopoly sticker, the printing and security marks might all be",
+      "claim": "Real ticket could be diverted despite appearing authentic",
+      "status": "inference",
+      "source_ids": [
+        "S001",
+        "S003"
+      ],
+      "basis": "Limited interpretation of source facts, no claim to undocumented intent."
+    },
+    {
+      "id": "C028",
+      "paragraph_id": "P028",
+      "anchor": "The visible safeguards checked authenticity and redemption. The breach was ",
+      "claim": "Supply-chain control gap at custody stage",
+      "status": "inference",
+      "source_ids": [
+        "S001",
+        "S003"
+      ],
+      "basis": "Limited interpretation of source facts, no claim to undocumented intent."
+    },
+    {
+      "id": "C029",
+      "paragraph_id": "P029",
+      "anchor": "For more investigations into the difference between what business records a",
+      "claim": "Closing CTA",
+      "status": "illustrative",
+      "source_ids": [],
+      "basis": "Non-factual invitation"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "SC001",
+      "purpose": "Familiar Monopoly promise and prize fact contradicted",
+      "evidence_type": "document",
+      "source_ids": [
+        "S001",
+        "S003",
+        "S007"
+      ],
+      "paragraphs": [
+        {
+          "paragraph_id": "P001",
+          "anchor": "Imagine peeling a Monopoly sticker from a McDonald's drink. You might be on"
+        },
+        {
+          "paragraph_id": "P002",
+          "anchor": "McDonald's could verify a genuine winning piece and pay someone who seemed "
+        },
+        {
+          "paragraph_id": "P003",
+          "anchor": "McDonald's issued game pieces on food packaging and in newspaper ads. Most "
+        }
+      ]
+    },
+    {
+      "id": "SC002",
+      "purpose": "Simon trusted custody and insider theft",
+      "evidence_type": "document",
+      "source_ids": [
+        "S001",
+        "S003",
+        "S004",
+        "S008"
+      ],
+      "paragraphs": [
+        {
+          "paragraph_id": "P004",
+          "anchor": "The high-value pieces needed special handling: printing, security and distr"
+        },
+        {
+          "paragraph_id": "P005",
+          "anchor": "One of the people entrusted with that process was Jerome Jacobson, a securi"
+        },
+        {
+          "paragraph_id": "P006",
+          "anchor": "This wasn't a restaurant cashier slipping a winning cup to a friend. It hap"
+        }
+      ]
+    },
+    {
+      "id": "SC003",
+      "purpose": "Claim provenance and money through recruiters",
+      "evidence_type": "data",
+      "source_ids": [
+        "S001",
+        "S005",
+        "S003"
+      ],
+      "paragraphs": [
+        {
+          "paragraph_id": "P007",
+          "anchor": "There are two different questions. Is the winning sticker genuine? And did "
+        },
+        {
+          "paragraph_id": "P008",
+          "anchor": "In the government's account, Jacobson passed these pieces to people he knew"
+        },
+        {
+          "paragraph_id": "P009",
+          "anchor": "The winners weren't just names in a fake ledger. Real prize claims were mad"
+        }
+      ]
+    },
+    {
+      "id": "SC004",
+      "purpose": "Why rarity made deceptive winners plausible and initial case scope",
+      "evidence_type": "document",
+      "source_ids": [
+        "S003",
+        "S001",
+        "S006"
+      ],
+      "paragraphs": [
+        {
+          "paragraph_id": "P010",
+          "anchor": "There was no need to forge a ticket. The game's authentication system could"
+        },
+        {
+          "paragraph_id": "P011",
+          "anchor": "The biggest prizes were so rare that almost nobody expected to know a winne"
+        },
+        {
+          "paragraph_id": "P012",
+          "anchor": "Federal prosecutors said the arrangement had been operating by at least 199"
+        }
+      ]
+    },
+    {
+      "id": "SC005",
+      "purpose": "The gap between legitimate token and knowledge of theft",
+      "evidence_type": "document",
+      "source_ids": [
+        "S001",
+        "S003",
+        "S005"
+      ],
+      "paragraphs": [
+        {
+          "paragraph_id": "P013",
+          "anchor": "That was the alleged face value of implicated prizes at the time, not how m"
+        },
+        {
+          "paragraph_id": "P014",
+          "anchor": "Why wasn't it discovered sooner? Security was outsourced to a specialist. T"
+        },
+        {
+          "paragraph_id": "P015",
+          "anchor": "And not everyone who possessed one of those pieces necessarily understood h"
+        }
+      ]
+    },
+    {
+      "id": "SC006",
+      "purpose": "Anonymous tip and 2001 controlled investigation",
+      "evidence_type": "document",
+      "source_ids": [
+        "S003",
+        "S007",
+        "S001"
+      ],
+      "paragraphs": [
+        {
+          "paragraph_id": "P016",
+          "anchor": "Eventually, someone told the FBI to look more closely. Contemporary reporti"
+        },
+        {
+          "paragraph_id": "P017",
+          "anchor": "One genuine million-dollar winner proves little. Different winners connecti"
+        },
+        {
+          "paragraph_id": "P018",
+          "anchor": "McDonald's was notified during the investigation and cooperated with the FB"
+        }
+      ]
+    },
+    {
+      "id": "SC007",
+      "purpose": "2001 arrest and legitimate company's cooperation",
+      "evidence_type": "document",
+      "source_ids": [
+        "S001",
+        "S003",
+        "S002",
+        "S007"
+      ],
+      "paragraphs": [
+        {
+          "paragraph_id": "P019",
+          "anchor": "In that summer's game, investigators alleged that a million-dollar Monopoly"
+        },
+        {
+          "paragraph_id": "P020",
+          "anchor": "On August twenty-first, 2001, the Justice Department announced eight arrest"
+        },
+        {
+          "paragraph_id": "P021",
+          "anchor": "McDonald's said it had cooperated and was itself a victim, alongside custom"
+        }
+      ]
+    },
+    {
+      "id": "SC008",
+      "purpose": "2003 guilty plea and 2004 appeals ruling",
+      "evidence_type": "document",
+      "source_ids": [
+        "S001",
+        "S003",
+        "S004",
+        "S008",
+        "S005"
+      ],
+      "paragraphs": [
+        {
+          "paragraph_id": "P022",
+          "anchor": "For the customer, the promise was not simply 'this sticker is genuine.' It "
+        },
+        {
+          "paragraph_id": "P023",
+          "anchor": "The criminal case developed beyond the initial announcement. In 2003, Jacob"
+        },
+        {
+          "paragraph_id": "P024",
+          "anchor": "But the prosecution had an important limit. Four other men's convictions in"
+        }
+      ]
+    },
+    {
+      "id": "SC009",
+      "purpose": "Financial and legal status caveats, ticket authenticity",
+      "evidence_type": "data",
+      "source_ids": [
+        "S005",
+        "S001",
+        "S003"
+      ],
+      "paragraphs": [
+        {
+          "paragraph_id": "P025",
+          "anchor": "The ruling did not erase Jacobson's admitted theft. It showed that a stolen"
+        },
+        {
+          "paragraph_id": "P026",
+          "anchor": "The public records also have limits on the total money. The initial thirtee"
+        },
+        {
+          "paragraph_id": "P027",
+          "anchor": "Back at that Monopoly sticker, the printing and security marks might all be"
+        }
+      ]
+    },
+    {
+      "id": "SC010",
+      "purpose": "Specific trust failure and closing takeaway",
+      "evidence_type": "illustration",
+      "source_ids": [
+        "S001",
+        "S003"
+      ],
+      "paragraphs": [
+        {
+          "paragraph_id": "P028",
+          "anchor": "The visible safeguards checked authenticity and redemption. The breach was "
+        },
+        {
+          "paragraph_id": "P029",
+          "anchor": "For more investigations into the difference between what business records a"
+        }
+      ]
+    }
+  ]
+}
