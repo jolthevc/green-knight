@@ -1019,6 +1019,12 @@
           "status": "scripted",
           "actor": "ChatGPT",
           "note": "Complete full 8–10 minute documentary script v1, SHA-256 ba4305e44011f488cb57b21d5082714a97e4ad388e8e88abe69b1d4672445e12; mandatory non-spoken TITLE header. 1343 spoken words, 29 paragraphs, 29 sourced/inference claims, 10 coverage groups, 13 voice cues, assumed 150 WPM+10s =547.2s (~9:07). Saved research, synthesis, sidecars, narrator guide, editor factual references, internal visual coverage, packaging, handoff, initial and final editorial reviews, QA, performance/voice state. Original overlong draft critically revised before canonical v1. Text editorial pass only; no voice, video, audience test or actual editor collaboration; full Python validator unavailable from connector. Stage scripted."
+        },
+        {
+          "date": "2026-10-10",
+          "status": "scripted",
+          "actor": "ChatGPT",
+          "note": "Formal REVIEW-only audit on canonical FG-V0001 v1 script SHA ba4305e44011f488cb57b21d5082714a97e4ad388e8e88abe69b1d4672445e12 recorded at reviews/script-v1-formal-review-2026-10-10.md. Verdict REVISIONS_REQUIRED: add documented Jacobson Director of Security/high-value ticket placement role; rebuild repetitive P011–P017 middle around evidence and FBI; simplify repeated ending P026–P028. No P0; P1 and P2 details in report. User requested review only, so script, metadata, linked content, and scripted status unchanged. New opened 2007 Simon v. Gulf court source identified for eventual revised research. No real audio audition."
         }
       ]
     },
