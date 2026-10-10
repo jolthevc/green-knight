@@ -1,30 +1,24 @@
-# Editor handoff: Silver Spoon / How the Gucci Family Lost Gucci
+# Editor handoff | Silver Spoon SS-V0001, Gucci v2
 
-**Episode:** SS-V0001, script v1; exact SHA-256 `6b56b1f852a7c268e62d4e170a5f95c404fc2adb2252611296963d298c7a7cde`. Channel Silver Spoon. Target finished runtime **8–10 minutes**, including closing and any holds. The current word-count estimate is **571.4 seconds** at 150 assumed WPM plus 11 extra pause seconds; this is not measured audio.
+**Episode title:** How the Gucci Family Lost Gucci  
+**Canonical script:** v2, SHA-256 `1ce7d1cdf0fe9f9e8a9697151c0823b4ef54fcff2a176188e5c4c35639c56059`  
+**Target final runtime:** 480–600 seconds, including closing. Current 1418 words at **assumed** 150 WPM with 11 explicit extra pause seconds yields **578.2 seconds**, not measured.
 
-**Premise:** The founding Gucci family sold its ownership to Investcorp in stages, completing the exit in 1993. The viewer learns that a surname, a trademark and actual equity ownership are different kinds of rights.
+## Editor inputs only
 
-## Canonical inputs
+- [script.txt](script.txt): exact clean spoken words, authoritative for narration.
+- [narration-guide.md](narration-guide.md): emotional intention, paragraph-linked sparse cues and pronunciation/number checks.
+- [research-for-editor.md](research-for-editor.md): compact support, accurate relationships, sources and boundaries.
+- [delivery-cues.json](delivery-cues.json): optional technical companion, never spoken.
 
-- [script.txt](script.txt): **only words to narrate**, exact script version and hash above.
-- [narration-guide.md](narration-guide.md): sparse delivery cues, pronunciation/name checks, rhythm and estimated runtime.
-- [research-for-editor.md](research-for-editor.md): concise history, source URLs and guardrails.
-- [delivery-cues.json](delivery-cues.json): optional machine-readable cue companion, **never spoken**.
+**Premise:** Gucci family equity changed hands in two stages, after competing claims and documented governance friction. The brand lived on. This is a family story about shares, control and succession rather than an allegation of stolen surnames.
 
-Do not treat internal `visual-plan.md`, `qa.md`, `packaging.md`, `research.md`, `sources-and-claims.md` or `evidence.json` as required creative direction. Full evidence can be provided if the editor needs detail.
+## Creative ownership
 
-## Creative ownership and production guardrails
+You propose and execute visual treatment; no prescribed scenes, boards, fonts, palettes, photo selections, text overlays or prompts are supplied. Please challenge unclear narration without improvising new claims. If substantive wording changes are needed, return them to the canonical script and linked fact-review/version process.
 
-Please propose and execute the visual treatment. No shot list, visual prompts, fonts, colors, scenes or storyboard are prescribed. The editorial team owns historical meaning and will check any factual presentation for dates, ownership, commercial rights and valuation distinctions.
+## Delivery and review
 
-Narrator voice and visual pilot are **not yet selected**; an integrated audition/reference is needed before production-ready stage. Use supported provider controls only. Preserve the canonical script words and sense. Substantive changes must return for text and evidence re-review rather than being improvised at edit.
+The channel narrator is still unselected (v0); provide/obtain a short representative audition before later production stage. Check pronunciation of Guccio, Giorgio, Roberto, Maurizio, Paolo, De Sole and company acronyms; speak board seats and years carefully. Use only TTS/provider-supported controls if applicable. Listen to **all** assembled audio at normal speed, examine retake joins, number meanings and final mix, and record actual finished video duration in target range. Verify the 1988 source attribution, family-vs-corporate rights and reported 1993 financial estimates in any documentary-looking assets.
 
-## Audio and quality expectations
-
-Audition names Guccio, Maurizio, Rodolfo, Paolo and Domenico De Sole. Confirm numerical readings: 1987–89 first half, September 1993 second half, two IPO share prices from different years, 1998 brand **revenue**. Listen to the whole assembled narration at natural speed, check all transitions and retakes, then measure the actual finished video and ensure **480–600 seconds**. Test mix and captions on headphones/phone speaker.
-
-## Scope and project management
-
-Editor pricing, pilot deliverables, revision allowance, turnaround, licensed assets, subtitles, audio stems and project formats are **not yet agreed**. No work has been commissioned, editor contacted, media assets obtained, or video published. Record actual source asset permissions and delivery links after commissioning.
-
-**Review gate:** One finished integrated pilot for owner review, then factual/technical inspection. Publication is a later separately authorized stage.
+Scope, fee, turnaround, revisions, music/archival licenses, captions, editable assets and deliverable links are not yet negotiated. Nothing in this handoff commissions an editor, approves a voice, publishes a video or claims final-cut QA.
