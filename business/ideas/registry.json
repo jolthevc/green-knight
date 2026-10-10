@@ -851,6 +851,93 @@
           "actor": "ChatGPT"
         }
       ]
+    },
+    {
+      "id": "DH-I0008",
+      "channel": "changing-hands",
+      "title": "How Steve Jobs Became Disney's Biggest Individual Shareholder",
+      "aliases": [
+        "Disney Bought Pixar. Steve Jobs Got Disney Stock",
+        "How Selling Pixar Made Steve Jobs a Disney Shareholder"
+      ],
+      "subject": "2006 Disney acquisition of Pixar and Steven P. Jobs' resulting Walt Disney Company equity and board seat",
+      "mechanism": "All-stock corporate merger exchanging each Pixar share for 2.3 Disney shares, replacing separate film distribution and co-production relationships with Disney ownership; Jobs' 60 million Pixar shares converted into 138 million Disney shares",
+      "viewer_promise": "How Disney's purchase of Pixar turned Steve Jobs from Pixar's dominant shareholder into Disney's largest individual shareholder, what changed hands, and why the share-for-share deal solved a difficult negotiation.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "created_at": "2026-10-10",
+      "updated_at": "2026-10-10",
+      "rejection_or_block_reason": null,
+      "story_id": null,
+      "story_path": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-10",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "New Changing Hands candidate after reviewing full 28-idea cross-channel registry: no duplicate subject/mechanism. Research leads for possible episode selection (not full research): Opened source leads: Disney official January 24, 2006 announcement https://thewaltdisneycompany.com/press-releases/disney-to-acquire-pixar/ ; Disney May 2006 SEC 8-K https://www.sec.gov/Archives/edgar/data/1001039/000119312506103659/d8k.htm ; Jobs' SEC 13D https://www.sec.gov/Archives/edgar/data/1001039/000119312506103741/dsc13d.htm . $7.4bn announced total equity transaction, 2.3-for-1 share ratio, 6.3% Jobs stake; do not confuse equity value with cash paid."
+        }
+      ]
+    },
+    {
+      "id": "DH-I0009",
+      "channel": "changing-hands",
+      "title": "How Michael Jackson Bought the Beatles' Songs",
+      "aliases": [
+        "The Deal That Gave Michael Jackson the Beatles' Publishing Rights",
+        "The $47.5 Million Bet on the Beatles' Songs"
+      ],
+      "subject": "Michael Jackson's 1985 ATV Music Publishing acquisition, the 1995 Sony/ATV joint venture and 2016 Sony buyout of the Jackson estate's half interest",
+      "mechanism": "Acquisition and later joint-venture transfer of song composition publishing copyrights, plus buy-sell contractual rights used to consolidate Sony/ATV ownership in 2016; distinguish publishing from master recordings and other Jackson estate music holdings",
+      "viewer_promise": "How Michael Jackson could buy publishing rights to hundreds of songs written by the Beatles, why that mattered financially, and how Sony ultimately took full ownership of the joint venture.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "created_at": "2026-10-10",
+      "updated_at": "2026-10-10",
+      "rejection_or_block_reason": null,
+      "story_id": null,
+      "story_path": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-10",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "New Changing Hands candidate after reviewing full 28-idea cross-channel registry: no duplicate subject/mechanism. Research leads for possible episode selection (not full research): Opened 1985 LA Times contemporary negotiation report https://www.latimes.com/la-me-jacksontimeline-catalog-story.html and Sony official March 2016 MOU https://www.sony.com/en/SonyInfo/News/Press/201603/16-0315E/ and October 2016 close https://www.sony.com/en/SonyInfo/News/Press/201610/16-1003E/ . $47.5m gross 1985 price in contemporaneous reporting vs $41.5m net acquisition cost claimed by estate; 2016 $750m relates half of Sony/ATV, NOT just Beatles compositions."
+        }
+      ]
+    },
+    {
+      "id": "DH-I0010",
+      "channel": "changing-hands",
+      "title": "How Taxpayers Became General Motors' Biggest Shareholder",
+      "aliases": [
+        "The Year the U.S. Government Owned General Motors",
+        "How Washington Got a 61% Stake in GM"
+      ],
+      "subject": "2009 General Motors Chapter 11 restructuring and Treasury's 60.8% equity stake, followed by the 2010 IPO and 2013 final share sale",
+      "mechanism": "Treasury rescue finance and bankruptcy reorganization exchanged government loans/funds for preferred and common securities in New GM, followed by staged public-market exit; separate ownership from political control and invested funding from recoveries",
+      "viewer_promise": "How the U.S. government became GM's majority shareholder during bankruptcy, what happened to the prior owners and creditors, and how Treasury ultimately exited the deal.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "created_at": "2026-10-10",
+      "updated_at": "2026-10-10",
+      "rejection_or_block_reason": null,
+      "story_id": null,
+      "story_path": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-10",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "New Changing Hands candidate after reviewing full 28-idea cross-channel registry: no duplicate subject/mechanism. Research leads for possible episode selection (not full research): Opened Treasury 2009 restructuring testimony https://home.treasury.gov/news/press-releases/tg222 ; Treasury 2010 IPO results https://home.treasury.gov/news/press-releases/tg992 ; Treasury final 2013 exit https://home.treasury.gov/news/press-releases/jl2236 . 60.8% ownership, $49.5bn provided including loans, $39bn Treasury receipts attributed to GM through final sale; keep wider economic goals separate from financial recoveries."
+        }
+      ]
     }
   ]
 }
