@@ -1,4 +1,6 @@
 # View and story architecture: DH-V0001
+
+> **Script file format (2026-10-10):** canonical `script.txt` is now **v4**, beginning with the non-spoken first line `TITLE: The Team That Made Millions Without Playing in the NBA` and a blank line. The spoken narration and P001 onward anchors remain **identical** to reviewed v3. The full-file SHA-256 is `a98e376cf96c5d7fcbc7434326afb143b71c8741fd879dfdb4f49cf375d69266`.
 Prepared after research and before the complete spoken draft on 2026-10-10.
 
 ## Editorial view
@@ -58,7 +60,7 @@ Proceed to full draft in one pass. Then conduct separate evidence/logic and stor
 
 ## Script v3 current synthesis and beat map
 
-Script SHA-256 `7d5945bf807fe9dad826173cd5d5cc860602c16a4bf379acf0224cc1ed2ac067`. This supersedes the v2 beat table in the historical Git version; the research thesis remains bounded to the 1976 settlement and 2014 publicly announced and reported terms.
+Script SHA-256 `a98e376cf96c5d7fcbc7434326afb143b71c8741fd879dfdb4f49cf375d69266`. This supersedes the v2 beat table in the historical Git version; the research thesis remains bounded to the 1976 settlement and 2014 publicly announced and reported terms.
 
 **One-sentence story:** A team that failed to enter the NBA bargained for a defined continuing claim on four future NBA teams' TV allocations; that share grew, became contested, and eventually led its paying clubs to propose taking control of the recipient through an equity-and-debt structure.
 
