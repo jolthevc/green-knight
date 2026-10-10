@@ -980,10 +980,10 @@
       "mechanism": "Security insider diverts rare physical prize pieces before random customer distribution, uses recruiter network and false winners to obtain top-value prizes and split proceeds",
       "viewer_promise": "How the supposedly random McDonald's Monopoly top-prize game was corrupted before pieces reached customers, how the fraudulent winners were paid, and what evidence exposed the chain-of-custody failure.",
       "channel": "fools-gold",
-      "status": "proposed",
+      "status": "scripted",
       "related_idea_ids": [],
-      "story_id": null,
-      "story_path": null,
+      "story_id": "FG-V0001",
+      "story_path": "business/channels/fools-gold/stories/FG-V0001-mcdonalds-monopoly-rigged",
       "created_at": "2026-10-10",
       "updated_at": "2026-10-10",
       "rejection_or_block_reason": null,
@@ -995,6 +995,30 @@
           "status": "proposed",
           "actor": "ChatGPT",
           "note": "Saved as unselected Fool's Gold idea after checking all 31 existing entries and channel routing. Full standard idea card: business/ideas/batches/2026-10-10-fools-gold-three-fresh-ideas.md. Source assessment and watch-outs: Familiar McDonald's game; DOJ 2001 allegations of >$13m corruptly claimed top prizes (as-of investigation, not definitive lifetime total); 2003 Reuters reports Jacobson pleaded guilty and 37-month sentencing. Leads inspected: https://www.justice.gov/archive/opa/pr/2001/August/422ag.htm ; https://archives.fbi.gov/archives/news/pressrel/press-releases/eight-arrested-for-defrauding-mcdonalds-corp.-and-its-customers-in ; https://www.latimes.com/archives/la-xpm-2003-jan-11-fi-rup11.6-story.html . Existing 2020 McMillions documentary is substantial originality/duplication risk outside this registry; do not imply McDonald's employees committed insider fraud. Compare FG-I0003 collateral inventory and FG-I0005 fake reviews: not same prize-token chain of custody."
+        },
+        {
+          "date": "2026-10-10",
+          "status": "selected",
+          "actor": "ChatGPT",
+          "note": "User selected FG-I0006, Fool's Gold familiar Monopoly sticker/ripped custody mechanism; reserved FG-V0001."
+        },
+        {
+          "date": "2026-10-10",
+          "status": "researching",
+          "actor": "ChatGPT",
+          "note": "Opened DOJ/FBI 2001 initial charge releases, contemporary WaPo/UPI and Reuters/AP, plus original Eleventh Circuit Chandler opinion. Contradictory legal-status findings investigated."
+        },
+        {
+          "date": "2026-10-10",
+          "status": "researched",
+          "actor": "ChatGPT",
+          "note": "Completed appearance vs reality, Simon Marketing/rare game pieces, recruiter/claimant/payment chain, FBI tip and live 2001 contest, criminal plea versus 2004 acquittals, risks/counterclaims and 8 opened sources."
+        },
+        {
+          "date": "2026-10-10",
+          "status": "scripted",
+          "actor": "ChatGPT",
+          "note": "Complete full 8–10 minute documentary script v1, SHA-256 ba4305e44011f488cb57b21d5082714a97e4ad388e8e88abe69b1d4672445e12; mandatory non-spoken TITLE header. 1343 spoken words, 29 paragraphs, 29 sourced/inference claims, 10 coverage groups, 13 voice cues, assumed 150 WPM+10s =547.2s (~9:07). Saved research, synthesis, sidecars, narrator guide, editor factual references, internal visual coverage, packaging, handoff, initial and final editorial reviews, QA, performance/voice state. Original overlong draft critically revised before canonical v1. Text editorial pass only; no voice, video, audience test or actual editor collaboration; full Python validator unavailable from connector. Stage scripted."
         }
       ]
     },
