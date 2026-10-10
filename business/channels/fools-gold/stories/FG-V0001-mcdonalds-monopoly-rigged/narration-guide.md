@@ -1,6 +1,6 @@
 # Narration guide | FG-V0001 McDonald's Monopoly
 
-**Canonical input:** `script.txt` v1 SHA-256 `ba4305e44011f488cb57b21d5082714a97e4ad388e8e88abe69b1d4672445e12`. TITLE line and blank following line are **not spoken**. Paragraphs P001–P029 are spoken body; `delivery-cues.json` is non-spoken and not raw TTS input.
+**Canonical input:** `script.txt` v1 SHA-256 `9c86e31841030a86c68cf943bf9e789e39af8dbc0df88725b8fa1ddf7399d496`. TITLE line and blank following line are **not spoken**. Paragraphs P001–P029 are spoken body; `delivery-cues.json` is non-spoken and not raw TTS input.
 
 ## Delivery identity
 
