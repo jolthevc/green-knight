@@ -1025,6 +1025,12 @@
           "status": "scripted",
           "actor": "ChatGPT",
           "note": "Formal REVIEW-only audit on canonical FG-V0001 v1 script SHA ba4305e44011f488cb57b21d5082714a97e4ad388e8e88abe69b1d4672445e12 recorded at reviews/script-v1-formal-review-2026-10-10.md. Verdict REVISIONS_REQUIRED: add documented Jacobson Director of Security/high-value ticket placement role; rebuild repetitive P011–P017 middle around evidence and FBI; simplify repeated ending P026–P028. No P0; P1 and P2 details in report. User requested review only, so script, metadata, linked content, and scripted status unchanged. New opened 2007 Simon v. Gulf court source identified for eventual revised research. No real audio audition."
+        },
+        {
+          "date": "2026-10-10",
+          "status": "scripted",
+          "actor": "ChatGPT",
+          "note": "Formal V1 review applied as V2 by user authorization; baseline script V1 hash ba4305e44011f488cb57b21d5082714a97e4ad388e8e88abe69b1d4672445e12 checked. Canonical script.txt V2 hash 9c86e31841030a86c68cf943bf9e789e39af8dbc0df88725b8fa1ddf7399d496, 1275 spoken words and 27 paragraphs, 522s (~8:42) at assumed 150 WPM plus 12 extra pause seconds. Corrected Jacobson's documented director-of-security/seeding role, added sourced alleged $70k/$500k example and early Viper claim, tightened FBI timeline and court aftermath. Nine sources, 27 claim records, nine full-coverage groups, 14 voice cues; added Simon v Gulf 2007 appellate source. Saved formal v1-to-v2 change report, V2 full cold review verdict EDITORIALLY_READY, refreshed research/synthesis/editor handoff and QA. JS cross-file preflight passed zero errors across 18 files; full Python validator unexecuted; no actual audio/video or external viewer test. Remains scripted."
         }
       ]
     },
