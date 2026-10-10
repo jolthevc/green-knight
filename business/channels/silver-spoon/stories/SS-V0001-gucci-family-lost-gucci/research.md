@@ -1,77 +1,72 @@
-# Research packet: Gucci family ownership and exit
+# Research packet: SS-V0001 v2
 
-**As of:** 2026-10-10. **Decision:** PROCEED to internal scripted package. **Evidence:** 9 opened sources, 29 paragraph-specific claims, 10 content-coverage groups. This is a bounded public-record explanation, not a reconstructed private financial ledger.
+**Research as of:** 2026-10-10. **Script hash:** `1ce7d1cdf0fe9f9e8a9697151c0823b4ef54fcff2a176188e5c4c35639c56059`. **Judgment:** PROCEED to internally reviewed scripted package. This packet includes 12 opened source records. Do not conflate archival factual access with permission to reproduce media.
 
-## Executive findings
+## Executive conclusion
 
-The key event is unambiguous. Gucci Group's SEC 20-F (S002) records Investcorp buying half of the company from Gucci family members in 1987–1989 and the other half from Maurizio Gucci in 1993. The September 28, 1993 Los Angeles Times report (S005) independently describes the closing and departing chief executive. A U.S. federal court opinion (S003) independently identifies the 1983 inheritance, competing ownership branches and restrictions on an individual relative's ability to use Gucci commercially.
+Gucci's SEC chronology records Investcorp acquiring an initial half during 1987–89 and Maurizio Gucci's remaining half in 1993 (S002). New primary-adjacent contemporary reporting identifies the brothers Giorgio and Roberto as first named sellers, Morgan Stanley as the intermediary assembling 47.7% as of April 1988, the ultimate buyer Investcorp as publicly revealed afterward, and the June 1988 failed attempt to achieve a board majority (S010–S011). The 1993 sale resolved a reported ownership and managerial conflict; contemporary press estimated consideration for the final half at $150m–$200m and recorded conflicting accounts of what caused the operational problems (S005).
 
-The strongest, supportable thesis is **commercial identity survived while family equity did not**. Conflict mattered, but there is insufficient evidence to attribute the final sale solely to a feud, a single decision or any private motive. Contemporary reporting cites operating losses, litigation and different views of how the company ought to be run.
+The significance is **not** “families always fail” or “outsiders are better managers.” A beloved commercial name is not an automatic legal claim to equity, voting power or operational leadership. Successive share transactions shifted the ownership rights away from all founder descendants before the mid-1990s recovery.
 
-## Family and ownership map
+## Relevant family / control map
 
-- **Founder:** Guccio Gucci, first shop established in Florence in 1921 under current Gucci/Kering historical accounts (S001/S007).
-- **Sons of founder:** Aldo, Rodolfo and Vasco (S003). Only relationships needed for this episode; do not add an exhaustive genealogy.
-- **Rodolfo branch:** Rodolfo died in 1983. Son **Maurizio** inherited the roughly 50% ownership position described in the U.S. court's 1988 findings (S003). Corporate share classes/entities varied; do not overspecify a universal consolidated percentage across all Gucci affiliates at all times.
-- **Aldo branch:** sons Paolo, Roberto and Giorgio. The 1988 case (S003) says Aldo's side and a third party held the other half of U.S. Gucci Shops at that point; Paolo no longer held shares. This court snapshot is entity-specific and not an audited ownership chart for every worldwide affiliate.
-- **Outside buyer:** Investcorp, Bahrain-based financial investor. Late-1980s acquisition of half of Gucci from family owners (S002/S004); remaining half acquired from Maurizio in September 1993 (S002/S005).
-- **Post-family:** Investcorp 100% after September 1993; 1995 and 1996 stock distributions to public investors through offerings (S002); 1999 LVMH buying shares and Gucci alliance with PPR (S002/S009). PPR became a dominant holder in the later contest; details belong to another episode.
+- **Guccio Gucci:** founder; Gucci's modern history dates Florence opening to 1921 (S001/S007). The 2003 Gucci Group 20-F gives 1923 (S002). Do not treat the older filing as an undisputed date correction.
+- **Aldo:** son of Guccio; sons Giorgio, Roberto and Paolo, the first two named in the April 1988 block acquisition (S003/S010). Paolo's separate U.S. name-rights lawsuit shows trademarks differ from surnames (S003).
+- **Rodolfo:** son of Guccio; died 1983; his son Maurizio claimed roughly half. A U.S. court in 1988 described Maurizio as controlling half of *Gucci Shops*, a specific U.S. entity (S003); separate contemporary reporting covers his challenged Italian interests (S011/S012). Do **not** generalize all affiliate voting rights to a single uniform legal entity.
+- **Morgan Stanley:** in April 1988, an intermediary holding 47.7% on behalf of **an unidentified client**, including 44.4% acquired from Giorgio and Roberto and 3.3% previously accumulated (S010).
+- **Investcorp:** publicly identified after the intermediary acquisition, and by June 1988 had nearly half, with four of eight board seats. Proposed additional seat did not pass when two court-appointed custodians overseeing disputed Maurizio shares opposed it (S011). Gucci's own retrospective summarizes first equity half as acquired 1987–89 (S002).
+- **Maurizio + Investcorp:** principal partner/rival owners until Maurizio sold remaining stake in September 1993 (S002/S005). Maurizio left CEO role but the 1993 company statement said he would be a senior adviser (S005).
+- **After the family:** Investcorp fully owned Gucci after 1993; 48% public flotation October 1995 and rest March 1996 (S002). Later LVMH and PPR contest in 1999 is only epilogue.
 
-**Economic interest vs voting vs leadership:** Shares are ownership claims; shares may convey voting rights, but do not presume each historical operating entity used one identical vote rule. Chairman/CEO positions are management roles and may be held by someone whose economics differ. The protected GUCCI brand identity belongs to relevant corporate legal entities, not every descendant of the founder.
+## Source-tied chronology
 
-## Chronology and transfer mechanism
-
-| Period | Ownership/control event | What is actually established | Main source |
+| Period | Event / consequence | Main evidence | Precise qualification |
 |---|---|---|---|
-| 1921 | Gucci shop founded in Florence | Current Gucci/Kering history calls this the beginning | S001, S007 |
-| 1953 | Guccio's death, sons continue enterprise | The court describes sons carrying on business | S003 |
-| 1983 | Rodolfo dies; Maurizio receives his interest | Court's 1988 description of Maurizio's approximately half stake | S003 |
-| June 1988 | Paolo trademark decision | Judge acknowledges design role, limits use as brand | S003 |
-| 1987–89 | Outside capital buys former family half | SEC says Investcorp acquires 50%; contemporaneous TIME reports 47.8% announced in 1988 | S002, S004 |
-| Sept. 1993 | Maurizio sells remaining half | SEC 20-F + LA Times establish completion | S002, S005 |
-| 1994–95 | Post-family turnaround | 20-F dates De Sole/Ford era from 1994 | S002 |
-| Oct. 1995 | IPO | 48% of Investcorp holdings offered at $22/share | S002 |
-| Mar. 1996 | Secondary offering | Remaining 52% offered at $48/share | S002 |
-| 1998 | Gucci brand sales > $1 billion | Company reports 1998 Gucci revenue milestone | S002 |
-| 1999 onward | LVMH / PPR corporate share fight | Separate from the completed 1993 family exit | S002, S008, S009 |
+| 1921 | House origin Florence | S001/S007 | Different 1923 SEC date |
+| 1953 / 1983 | Guccio then Rodolfo die; business across son/descendant branches | S003 | U.S. court-specific corporate ownership |
+| 1984 | Maurizio alters family leadership and management | S012 | AP retrospective; not every family's private intent established |
+| 1987–89 | First half gradually acquired by Investcorp | S002 | Total company retrospective summarizes finished share accumulation |
+| April 1988 | 47.7% assembled through Morgan Stanley, including named 44.4% Giorgio/Roberto sale | S010 | April client unidentified; not yet publicly identified as Investcorp |
+| June 1988 | Investcorp four of eight board seats; additional seat proposal blocked by custodians | S011 | Reuters attributed reporting, not official minutes |
+| 1988 | Paolo U.S. commercial name/trademark litigation | S003 | Designer attribution conditionally permitted |
+| July–Sept. 1993 | Maurizio/Investcorp dispute → remaining 50% acquired → full outsider ownership | S002/S005 | Settlement price reported estimate only |
+| 1994–96 | De Sole/Ford turnaround period and two Investcorp exits to public holders | S002 | De Sole CEO appointment July 1995, not 1994 |
+| 1995 | Maurizio killed after final sale | S006/S002 | Not a causal trigger of 1993 exit |
+| 1998 | Gucci brand sales > US$1 billion | S002 | Revenues, not net income |
+| 1999 | LVMH stake and Gucci/PPR equity alliance | S002 | Separate corporate contest |
 
-## Economic mechanism and figures
+## Economic logic and valuation
 
-A shareholder can sell **equity** in the company holding the commercial assets. That buyer may get economic interest and governance rights even without family ties. Name rights/trademarks are protected company assets, distinct from each relative's legal name. Investment returns later depend on purchase price, ownership proportions, dilution, distributions, debt, expenses, tax and timing. Do not infer a family's remaining net wealth from a sale price.
+**Ownership chain:** descendant shareholders own equity claims; shares can be sold to an intermediary and acquired by an outside investor; votes/board decisions can be constrained by custody/legal proceedings; an investor may subsequently purchase remaining equity and own 100% while the company keeps trademarks and operations; later public offerings provide investor liquidity.
 
-| Claim | Figure | Period / scope | Evidence | Caution |
-|---|---|---|---|---|
-| First outside half | 50% | 1987–89, Gucci as described in later 20-F | S002 | TIME announced 47.8% in 1988; timing/entity details differ |
-| Last family half | 50% | 1993 remaining company stake | S002, S005 | Completion well supported |
-| Consideration estimate | $150m–$200m | Contemporary *published estimates* for 1993 remaining half | S005 | **Not verified proceeds or a certified valuation**; conflicting retrospective estimates exist |
-| First offering | 48%; $22/share | Oct. 1995, Investcorp sale / IPO | S002 | Different date/ownership base from 1996 |
-| Second offering | 52%; $48/share | Mar. 1996, remainder | S002 | Do not compute investor IRR or total profit without original capital and payouts |
-| Brand revenue milestone | >$1bn | Gucci brand revenue, 1998 | S002 | Company **revenue**, not profit, cash flow or founder-family wealth |
-| LVMH shareholding | 34% approximately | 1999, stake after family fully exited | S002 | Later ownership contest, not family's exit |
+**Commercial naming:** Gucci family members can retain legal surnames yet lose equity in entities that own GUCCI trademarks. Paolo's U.S. court case (S003) restricted his attempt to use his surname as an independent trademark, while permitting specified designer attribution. It did not change his legal name.
 
-## Explanation alternatives and adversarial examination
+| Number | Scope / period | Support | Avoid |
+|---|---|---|---|
+| 47.7% | Morgan Stanley block April 1988 | S010 | Mistaking it for final 50% 1987–89 total |
+| 44.4% + 3.3% | Giorgio/Roberto sale and preceding purchases | S010 | Treating as an audited list of every ultimate owner |
+| 4 of 8 / proposed fifth | Gucci board June 1988 | S011 | Claiming Investcorp had majority control |
+| Reported $160m | Investcorp first half per 1993 press | S005 | Calling it certified cost basis |
+| Estimated $150m–$200m | 1993 second half, contemporary reports | S005 | Family individual proceeds / full enterprise value |
+| 48% and 52% | 1995 / 1996 offerings by Investcorp | S002 | Simple profit calculation without full cost/debt/distributions |
+| Over $1bn | 1998 Gucci brand revenue | S002 | Profit or valuation |
 
-**Claim: feuding relatives alone lost Gucci.** Litigation and divided shares are documented. But SEC chronology does not prove disputes caused the final sale. The 1993 reporting includes business losses and conflicting financing/management views. The decisive mechanism is voluntary/negotiated share transactions, not automatic loss of shares from arguing.
+## Counterevidence and tests
 
-**Claim: Maurizio was solely incompetent.** Investcorp asserted mismanagement; Maurizio opposed the investor's profit emphasis. These were party positions during a dispute. No objective audit in the inspected sources apportions responsibility. Recast in the script as **competing accounts**.
+**Why did Giorgio and Roberto sell?** Giorgio's remarks in October 1988 complained of management rejecting his ideas and traditional standards (S012). That is his public account, not verified motivation of every cousin; contemporaneous disputes, market pressure and succession complicate a single-villain explanation.
 
-**Claim: brand dilution forced the sale.** The licensing/prestige story appears in a later Guardian retrospective and other industry commentary (S006). No supplied numerical attribution supports calling it the exclusive driver. The script uses cautious language and defines the economic tension as an interpretation.
+**Did shareholders just “lose” control?** No. The economic stakes were sold through negotiated transactions. A court custody and board-seat struggle affected exercisable influence for a period, but cannot be recast as someone expropriating every inherited equity interest.
 
-**Claim: the family missed a guaranteed fortune by selling.** Post-sale revenue/IPO gains are observable, but counterfactual performance, financing access and owners' debt/tax obligations are unknown. 1995–96 share prices cannot demonstrate the family's realizable alternative return in 1993.
+**Was Maurizio the sole problem?** Contemporary reports record opposing allegations by him and Investcorp (S005). Their accusations are attributed, not independently proven. Reported losses and restructuring needs give context, not single-cause proof.
 
-**Claim: a murder caused the end of family ownership.** False by chronology: 1993 exit precedes Maurizio's killing in 1995. The story rejects this timeline error expressly.
+**Did 1993 sale cost the family a guaranteed fortune?** No proof of that counterfactual. The later sales growth, IPO prices and professional management are real; the alternative of retained shares plus identical financing and decisions is unknowable.
 
-**Claim: the family lost the Gucci surname.** False. Paolo's 1988 case was about use as a **commercial trademark/trade name** and identified permitted attribution, not changing his civil identity.
+**Was Paolo banned from using his legal name?** No. He could identify himself as a designer on a separate trademark under court restrictions (S003). The case is a short illustration, not the cause of Investcorp's first transaction.
 
-## Source discrepancy and unresolved private gaps
+**Did the 1995 murder end family ownership?** No: 1993 equity transfer precedes it.
 
-- Gucci and Kering official histories currently say founding 1921 (S001/S007). Gucci Group's older 2003 SEC corporate chronology says 1923 (S002); contemporary LA Times mentions 1922. Use **1921** with primary brand history in the script and preserve the inconsistency here.
-- The 1993 transaction price is **not publicly established from a signed acquisition agreement** in the inspected sources; LA Times reported estimated $150m–$200m, whereas some later retellings offer another figure. Our script labels estimates and does not calculate net worth.
-- Precise debt/cash at Mauritius's holding companies, individual family proceeds, trademark licensing by jurisdiction, and the full 1987–89 acquisition closing chronology remain private/insufficiently inspected. None is needed for the bounded conclusion.
-- Family conflicts, intent and allegations can be reported accurately but not assigned invisible private motives.
+## Known gaps / source limitations
 
-## Source-quality judgment
+No verified 1993 signed purchase price, Maurizio net proceeds after taxes/debt, personal family wealth ledger, private voting agreements, or actual board minutes for June 1988. 1988 reports of family allegations are not adjudicated findings. The April 1988 unidentified intermediary client must not be retroactively labeled as publicly known. Brand historians disagree on founding date (official house 1921 vs old 20-F 1923 and period reporting 1922). None blocks the narrow transfer explanation.
 
-S002 (contemporaneous company filing) + S003 (federal judge findings) + S005 (1993 contemporary reporting) form the spine. S001/S007 resolve the founding date; S004 illustrates announced deal reporting; S006 adds qualified interpretations, never sole proof of equity transfers; S008/S009 provide afterword context.
-
-**PROCEED.** No identified factual issue blocks this bounded script. The editor must never visualize inferred personal cash balances or invented documents as historical evidence.
+**Research decision:** PROCEED. Reconfirm historic sources and image rights before production; do not use later growth to establish private motives.
