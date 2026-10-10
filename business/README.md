@@ -18,7 +18,7 @@ Names do not justify duplicate lanes. A company can feature on several channels 
 1. Read [AGENTS.md](AGENTS.md), then the chosen channel's README and start-a-chat prompt.
 2. Read the [workflow](WORKFLOW.md) and [shared idea registry](ideas/registry.json).
 3. Generate ideas in the [standard format](IDEATION.md), then let the user select.
-4. Research, synthesize, write one complete script, revise internally, and produce separate voice and visual directions.
+4. Research, synthesize, write one complete script with a non-spoken first-line `TITLE: <metadata.title>` header, revise internally, and produce separate voice and visual directions.
 5. Save the actual artifacts and update the registry in the same commit.
 
 [Narration production](NARRATION_STANDARD.md), [editorial stage gates](EDITORIAL_REVIEW.md) and [lane routing](LANE_ROUTING.md) govern quality and consistency. [YouTube guidance](YOUTUBE_GUIDANCE.md) separates official platform guidance from our editorial hypotheses. [Templates](templates/story/README.md) give every story the same files. [Pilot acceptance](PILOT_ACCEPTANCE.md) gives us a consistent way to compare editors before ordering batches.
