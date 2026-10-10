@@ -732,12 +732,12 @@
       "subject": "Gucci family equity sell-down to Investcorp, 1987-1993",
       "mechanism": "Fragmented family ownership and succession dispute followed by two-stage share sales that ended family ownership",
       "viewer_promise": "How the descendants of Gucci's founder went from owning the fashion house to owning none of it, and why shares rather than surname determined the result.",
-      "status": "proposed",
+      "status": "scripted",
       "related_idea_ids": [
         "SS-I0001"
       ],
-      "story_id": null,
-      "story_path": null,
+      "story_id": "SS-V0001",
+      "story_path": "business/channels/silver-spoon/stories/SS-V0001-gucci-family-lost-gucci",
       "created_at": "2026-10-10",
       "updated_at": "2026-10-10",
       "rejection_or_block_reason": null,
@@ -748,6 +748,30 @@
           "date": "2026-10-10",
           "status": "proposed",
           "note": "Created in three-idea Silver Spoon ideation batch; initial primary-source leads identified but full episode research and selection not yet completed.",
+          "actor": "ChatGPT"
+        },
+        {
+          "date": "2026-10-10",
+          "status": "selected",
+          "note": "Owner explicitly selected SS-I0002 and authorized complete workflow.",
+          "actor": "ChatGPT"
+        },
+        {
+          "date": "2026-10-10",
+          "status": "researching",
+          "note": "Opened primary and contemporary sources: brand history, SEC filings, federal court decision, 1988/1993 reporting.",
+          "actor": "ChatGPT"
+        },
+        {
+          "date": "2026-10-10",
+          "status": "researched",
+          "note": "Established 1987–89 half sale, September 1993 final half sale, cross-checked conflicting origin years and reported transaction prices; nine opened source records saved.",
+          "actor": "ChatGPT"
+        },
+        {
+          "date": "2026-10-10",
+          "status": "scripted",
+          "note": "Complete v1 1,401-word spoken script, evidence map with 29 claims/10 scene groups, sparse cues, synthesis, internal editorial review, packaging, editor handoff and QA saved. Script SHA 6b56b1f852a7c268e62d4e170a5f95c404fc2adb2252611296963d298c7a7cde. JS structural checks passed; repository Python validator not run. Voice/style unapproved, no media produced.",
           "actor": "ChatGPT"
         }
       ]
