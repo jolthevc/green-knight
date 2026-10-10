@@ -1,6 +1,6 @@
 # Packaging and discovery | FG-V0001
 
-**Current canonical script:** v1 SHA-256 `ba4305e44011f488cb57b21d5082714a97e4ad388e8e88abe69b1d4672445e12`. These are hypotheses for owner/editor, not tested audience results.
+**Current canonical script:** v2 SHA-256 `9c86e31841030a86c68cf943bf9e789e39af8dbc0df88725b8fa1ddf7399d496`. These are hypotheses for owner/editor, not tested audience results.
 
 ## Working title
 
@@ -11,28 +11,29 @@
 ## Two thumbnail hypotheses for editor treatment
 
 - **A: familiar sticker, impossible prize:** restrained text `THE WINNER WAS CHOSEN`, plus unmistakable McDonald's Monopoly context. Not an already-created/approved asset.
-- **B: genuine versus fraudulent route:** tiny dual label `REAL TICKET / WRONG WINNER`; avoid visually claiming the ticket was a counterfeit. Caption clarity and rights remain to be checked.
+- **B: genuine versus fraudulent route:** tiny dual label `REAL TICKET / RIGGED ROUTE`; avoid visually claiming the ticket was a counterfeit. Caption clarity and rights remain to be checked.
 
 ## Proposed description
 
-Millions of people peeled Monopoly pieces off McDonald's meals, hoping to find a rare million-dollar prize. But for years, some of the most valuable winning game pieces were diverted before they reached ordinary customers.
+McDonald's Monopoly had real winning game pieces and real million-dollar prizes. But some of those pieces were taken before ordinary customers could find them.
 
-The fraud was not about printing fake tickets. It exploited something subtler: a real winning piece could be redeemed by someone whose path to obtaining it was a lie. We follow the security contractor, recruiters, apparent winners and payment trail, then the FBI investigation that uncovered the scheme. The ending includes an important legal distinction: Jerome Jacobson admitted theft, but four other convictions were overturned when prosecutors failed to establish that those defendants knew their pieces were stolen.
+Jerome Jacobson was the security director at McDonald's outside promotions contractor, Simon Marketing. His job included distributing the rare high-value tickets. What followed became a nationwide prize scandal, an FBI investigation, and an unusually complicated criminal case. We trace one alleged prize-payment split, a monitored 2001 Monopoly contest, Jacobson's guilty plea, and why four other defendants' convictions were overturned.
 
-Original reporting and records: [DOJ August 2001](https://www.justice.gov/archive/opa/pr/2001/August/422ag.htm); [FBI archive](https://archives.fbi.gov/archives/news/pressrel/press-releases/eight-arrested-for-defrauding-mcdonalds-corp.-and-its-customers-in); [Washington Post contemporary report](https://www.washingtonpost.com/archive/politics/2001/08/22/mcdonalds-games-milked-for-13-million/c9af8cea-f286-47cb-809a-d19ad39cc953/); [Reuters on Jacobson's plea](https://www.latimes.com/archives/la-xpm-2003-jan-11-fi-rup11.6-story.html); [11th Circuit appellate opinion](https://law.justia.com/cases/federal/appellate-courts/F3/388/796/569839/).
+Primary records: [DOJ 2001](https://www.justice.gov/archive/opa/pr/2001/August/422ag.htm), [11th Circuit Chandler opinion](https://law.justia.com/cases/federal/appellate-courts/F3/388/796/569839/), and [California 2007 Simon v Gulf opinion](https://www.casemine.com/judgement/us/59146ecdadd7b0493433d242).
 
 ## Chapter concepts only, NOT measured timestamps
 
 0:00 Genuine sticker, wrong winner
-0:50 How the contest was supposed to work
-2:00 Outsourced prize security
-3:15 The ticket and the prize-money chain
-4:45 Why it seemed believable
-5:40 The anonymous tip and FBI investigation
-7:10 Arrests, plea and acquittals
-8:30 The verification failure
+0:45 The rare winning pieces
+1:35 The insider paid to place them
+2:40 Who collected the prize money
+4:00 The network and anonymous tip
+5:00 The monitored 2001 game
+6:10 Eight arrests and the guilty plea
+7:15 Why four convictions were reversed
+8:25 The game’s broken promise
 
-Timecodes are **placeholders**. Replace with actual video cut timestamps and measured 480–600 sec runtime. Projected from 1,343 body words at 150 assumed WPM +10 seconds extra holds = 547.2s (~9:07).
+Timecodes are **placeholders**. Replace with actual video cut timestamps and measured 480–600 sec runtime. Projected from 1,275 body words at 150 assumed WPM +12 seconds extra holds = 522.0s (~8:42).
 
 **Tags:** McDonald's Monopoly, McMillions, Monopoly scandal, Jerome Jacobson, Fool's Gold, fraud history, game pieces, Operation Final Answer, FBI.
 
