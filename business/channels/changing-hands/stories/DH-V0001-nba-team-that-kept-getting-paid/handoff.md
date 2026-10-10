@@ -1,6 +1,8 @@
 # Editor handoff: DH-V0001
 
-**The Team That Made Millions Without Playing in the NBA**. Changing Hands, DH-I0006. Sole narration source: [script.txt](script.txt), v3, SHA-256 `7d5945bf807fe9dad826173cd5d5cc860602c16a4bf379acf0224cc1ed2ac067`. Stage **scripted**, not produced.
+> **Title-header synchronization (2026-10-10):** canonical `script.txt` v4 starts with `TITLE: The Team That Made Millions Without Playing in the NBA` and a blank line. Its narrated wording, paragraph anchors, cues and timing remain unchanged from v3. This header is **not spoken**; the whole-file hash is `a98e376cf96c5d7fcbc7434326afb143b71c8741fd879dfdb4f49cf375d69266`.
+
+**The Team That Made Millions Without Playing in the NBA**. Changing Hands, DH-I0006. Sole narration source: [script.txt](script.txt), v3, SHA-256 `a98e376cf96c5d7fcbc7434326afb143b71c8741fd879dfdb4f49cf375d69266`. Stage **scripted**, not produced.
 
 This is the story of a vanished ABA team whose owners retained a defined NBA TV-income right, and a later announced plan for the payers to take control of the entity receiving it.
 
