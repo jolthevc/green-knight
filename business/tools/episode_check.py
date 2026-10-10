@@ -19,9 +19,14 @@ def number(value, minimum=0, positive=False):
 
 
 def script_info(path):
+    """Read TITLE header separately; narration-only paragraphs remain P001 onward."""
     raw = Path(path).read_bytes()
-    text = raw.decode("utf-8").strip()
-    return {"text": text, "sha256": hashlib.sha256(raw).hexdigest(),
+    full = raw.decode("utf-8")
+    match = re.match(r"\ATITLE: ([^\r\n]+)\n\n", full)
+    title = match.group(1) if match else None
+    text = (full[match.end():] if match else full).strip()
+    return {"text": text, "title": title,
+            "sha256": hashlib.sha256(raw).hexdigest(),
             "paragraphs": re.split(r"\n\s*\n", text) if text else [],
             "words": len(re.findall(r"\b[\w]+(?:['’-][\w]+)*\b", text))}
 
@@ -51,6 +56,10 @@ def inspect_story(path):
         return ["Metadata and cues must be objects"], {}
     info = script_info(path / "script.txt")
     text, paragraphs, words = info["text"], info["paragraphs"], info["words"]
+    if info["title"] is None:
+        errors.append("Missing first-line TITLE: <metadata.title> followed by a blank line")
+    elif info["title"] != meta.get("title"):
+        errors.append("Script title header differs from metadata.title")
     if not text:
         errors.append("Empty spoken script")
     if re.search(r"(?im)^\s*(#{1,6}\s|NON-SPOKEN\b|SCENE\s+\d|(?:\d{1,2}:){1,2}\d{2}\b)", text):
@@ -132,7 +141,7 @@ def inspect_story(path):
     actual = runtime.get("actual_video_seconds")
     if actual is not None and (not number(actual) or not 480 <= actual <= 600):
         errors.append("Measured video runtime outside 480–600 seconds")
-    return errors, {"script_sha256": info["sha256"], "approximate_words": words,
+    return errors, {"title": info["title"], "script_sha256": info["sha256"], "approximate_words": words,
                     "paragraphs": len(paragraphs), "wpm": wpm,
                     "extra_pause_seconds": pauses, "silent_hold_seconds": hold,
                     "estimated_seconds": round(estimate, 1), "actual_video_seconds": actual,
