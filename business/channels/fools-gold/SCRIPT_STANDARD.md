@@ -40,7 +40,7 @@ Do not invent internal scenes, private motives, dialogue, documents or victim st
 
 Clear, varied, conversational language. Explain technical terms through the mechanism. Let real evidence create intrigue. Avoid gloating, criminal admiration, accusations by innuendo and jokes about harmed people.
 
-script.txt contains only spoken words. Source IDs, headings, timestamps and delivery/visual directions stay in sidecars. Paragraph-linked reveals must match the current narration.
+script.txt begins with the **non-spoken** `TITLE: <metadata.title>` and a blank line, followed by spoken words only. Source IDs, other headings, timestamps and delivery/visual directions stay in sidecars. Strip title for recording and narration timing. Paragraph-linked reveals must match the current narration.
 
 ## Ending and CTA
 
