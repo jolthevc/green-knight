@@ -44,7 +44,7 @@ Address the strongest competing explanation. A profitable outcome does not prove
 
 Concrete, varied speech. Make numerical passages pronounceable and give the viewer time to follow diagrams. Keep exact source values outside narration where necessary.
 
-script.txt is the sole spoken source. Citations, timestamps, headings and directions stay in separate sidecars. Position boards and transaction maps must match the latest wording.
+script.txt begins with the **non-spoken** `TITLE: <metadata.title>` and a blank line, followed by the sole authoritative spoken narration. Citations, timestamps, other headings and directions stay in separate sidecars. Count/record body paragraphs only. Position boards and transaction maps must match the latest wording.
 
 ## Payoff and CTA
 
