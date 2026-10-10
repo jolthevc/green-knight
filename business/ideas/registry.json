@@ -321,6 +321,146 @@
           "actor": "ChatGPT"
         }
       ]
+    },
+    {
+      "id": "DH-I0001",
+      "channel": "changing-hands",
+      "title": "The Bet Against the British Pound",
+      "aliases": [
+        "The Man Who Broke the Bank of England"
+      ],
+      "subject": "Currency trade and sterling crisis",
+      "mechanism": "Currency positions under monetary-policy and financing constraints",
+      "viewer_promise": "Understand the position, constraints and turning point behind the historical currency contest.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-10",
+      "updated_at": "2026-10-10",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-10",
+          "status": "proposed",
+          "note": "Imported from earlier discussion as an unselected, unresearched sample concept. Original title retained as an alias; all implied figures, rankings, terms and causal claims require verification. Research may change the framing or route it to another channel. Date records import.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "DH-I0002",
+      "channel": "changing-hands",
+      "title": "The Hunt Brothers' Silver Bet",
+      "aliases": [
+        "The Hunt Brothers Tried to Corner the World's Silver"
+      ],
+      "subject": "Hunt brothers and silver markets",
+      "mechanism": "Concentrated positions, supply constraints and funding pressure",
+      "viewer_promise": "Understand how positioning, market rules and financing shaped the silver episode.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-10",
+      "updated_at": "2026-10-10",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-10",
+          "status": "proposed",
+          "note": "Imported from earlier discussion as an unselected, unresearched sample concept. Original title retained as an alias; all implied figures, rankings, terms and causal claims require verification. Research may change the framing or route it to another channel. Date records import.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "DH-I0003",
+      "channel": "changing-hands",
+      "title": "Volkswagen's Short Squeeze",
+      "aliases": [
+        "For One Day, Volkswagen Was the Most Valuable Company on Earth"
+      ],
+      "subject": "Volkswagen market squeeze",
+      "mechanism": "Share availability, disclosed ownership and short-position obligations",
+      "viewer_promise": "Understand the mechanism behind the price dislocation and who needed to buy shares.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-10",
+      "updated_at": "2026-10-10",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-10",
+          "status": "proposed",
+          "note": "Imported from earlier discussion as an unselected, unresearched sample concept. Original title retained as an alias; all implied figures, rankings, terms and causal claims require verification. Research may change the framing or route it to another channel. Date records import.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "DH-I0004",
+      "channel": "changing-hands",
+      "title": "The Positions Behind LTCM's Crisis",
+      "aliases": [
+        "The Smartest Fund Ever Built Nearly Broke Wall Street"
+      ],
+      "subject": "LTCM positions and unwind",
+      "mechanism": "Leverage, funding and liquidity interacting across market positions",
+      "viewer_promise": "Understand the risk structure and unwind rather than retelling a general fund-collapse biography.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-10",
+      "updated_at": "2026-10-10",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-10",
+          "status": "proposed",
+          "note": "Imported from earlier discussion as an unselected, unresearched sample concept. Original title retained as an alias; all implied figures, rankings, terms and causal claims require verification. Research may change the framing or route it to another channel. Date records import.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "DH-I0005",
+      "channel": "changing-hands",
+      "title": "The Fight for RJR Nabisco",
+      "aliases": [
+        "The $25 Billion Fight Over Oreos and Cigarettes"
+      ],
+      "subject": "RJR Nabisco buyout contest",
+      "mechanism": "Bidding, acquisition financing and changes in ownership",
+      "viewer_promise": "Understand the contest's financing, incentives and transfer of control.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-10",
+      "updated_at": "2026-10-10",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-10",
+          "status": "proposed",
+          "note": "Imported from earlier discussion as an unselected, unresearched sample concept. Original title retained as an alias; all implied figures, rankings, terms and causal claims require verification. Research may change the framing or route it to another channel. Date records import.",
+          "actor": "ChatGPT"
+        }
+      ]
     }
   ]
 }

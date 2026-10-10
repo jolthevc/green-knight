@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "workspace": "manual_business",
+  "id": "changing-hands",
+  "idea_prefix": "DH-I",
+  "story_prefix": "DH-V",
+  "name": "Changing Hands",
+  "name_status": "working",
+  "language": "en",
+  "target_runtime_seconds": {
+    "min": 480,
+    "target": 540,
+    "max": 600
+  },
+  "publication_cadence": null,
+  "production_status": "setup",
+  "narration": {
+    "profile": "confident, curious, precise, conversational, controlled tension",
+    "provider": null,
+    "voice_id": null,
+    "calibrated_wpm": null
+  },
+  "visual_direction_status": "financial_caper_proposed_for_pilot",
+  "automated_portfolio_registration": false
+}
