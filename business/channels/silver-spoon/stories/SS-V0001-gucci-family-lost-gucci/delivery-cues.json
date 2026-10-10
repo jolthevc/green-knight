@@ -1,29 +1,29 @@
 {
   "schema_version": 2,
-  "script_version": 1,
+  "script_version": 2,
   "instructions_are_non_spoken": true,
   "assumed_or_observed_wpm": 150,
   "silent_hold_seconds": 0,
   "cues": [
     {
       "paragraph_id": "P001",
-      "anchor": "By 1993, Gucci had achieved something almost impossible. Its name",
-      "pace": "slower",
-      "intent": "curious",
-      "emphasis": [
-        "owned none of the company"
-      ],
-      "pause_after_seconds": 1,
-      "pronunciation_notes": [],
-      "inflection": "settled"
-    },
-    {
-      "paragraph_id": "P003",
-      "anchor": "That sounds like the ending. It is actually the puzzle. How does ",
+      "anchor": "In 1993, the Gucci family sold the last piece of Gucci. The name ",
       "pace": "natural",
       "intent": "curious",
       "emphasis": [
-        "two halves of a company"
+        "no longer owned it"
+      ],
+      "pause_after_seconds": 0,
+      "pronunciation_notes": [],
+      "inflection": "neutral"
+    },
+    {
+      "paragraph_id": "P003",
+      "anchor": "So how did one of fashion's most famous family fortunes end up in",
+      "pace": "natural",
+      "intent": "curious",
+      "emphasis": [
+        "how did Gucci keep growing"
       ],
       "pause_after_seconds": 0,
       "pronunciation_notes": [],
@@ -31,124 +31,136 @@
     },
     {
       "paragraph_id": "P006",
-      "anchor": "You only need to remember two branches. Rodolfo had a son, Mauriz",
+      "anchor": "In 1983, Rodolfo died, leaving Maurizio a claim to roughly half t",
       "pace": "slower",
       "intent": "matter_of_fact",
       "emphasis": [
-        "Maurizio inherited his father's half"
+        "tangled in a dispute"
       ],
       "pause_after_seconds": 1,
       "pronunciation_notes": [],
-      "inflection": "settled"
+      "inflection": "neutral"
     },
     {
-      "paragraph_id": "P009",
-      "anchor": "A federal judge in 1988 recognized Paolo's work as a designer. Bu",
+      "paragraph_id": "P008",
+      "anchor": "In April 1988, the company announced that investment bank Morgan ",
       "pace": "slower",
       "intent": "matter_of_fact",
       "emphasis": [
-        "independent trademark"
+        "Giorgio and Roberto Gucci"
       ],
       "pause_after_seconds": 1,
       "pronunciation_notes": [],
-      "inflection": "settled"
+      "inflection": "neutral"
     },
     {
       "paragraph_id": "P011",
-      "anchor": "Then came the first sale. During the late 1980s, members of Aldo'",
-      "pace": "natural",
+      "anchor": "And in June 1988, the stakes became visible inside the boardroom.",
+      "pace": "slower",
       "intent": "curious",
       "emphasis": [
-        "fifty percent"
-      ],
-      "pause_after_seconds": 0,
-      "pronunciation_notes": [],
-      "inflection": "settled"
-    },
-    {
-      "paragraph_id": "P015",
-      "anchor": "The partners disagreed over how things were going. Contemporary r",
-      "pace": "natural",
-      "intent": "skeptical",
-      "emphasis": [
-        "competing claims"
+        "four representatives on an eight-member board"
       ],
       "pause_after_seconds": 1,
       "pronunciation_notes": [],
-      "inflection": "settled"
+      "inflection": "neutral"
+    },
+    {
+      "paragraph_id": "P012",
+      "anchor": "That attempt failed. Two court-appointed custodians overseeing Ma",
+      "pace": "slower",
+      "intent": "matter_of_fact",
+      "emphasis": [
+        "That attempt failed"
+      ],
+      "pause_after_seconds": 1,
+      "pronunciation_notes": [],
+      "inflection": "neutral"
+    },
+    {
+      "paragraph_id": "P014",
+      "anchor": "A man born Gucci could still be prevented from putting his own na",
+      "pace": "natural",
+      "intent": "reflective",
+      "emphasis": [
+        "A man born Gucci"
+      ],
+      "pause_after_seconds": 1,
+      "pronunciation_notes": [],
+      "inflection": "neutral"
     },
     {
       "paragraph_id": "P017",
-      "anchor": "In September, the stalemate ended. Investcorp bought Maurizio's r",
-      "pace": "slower",
-      "intent": "matter_of_fact",
-      "emphasis": [
-        "reported transaction estimate"
-      ],
-      "pause_after_seconds": 1,
-      "pronunciation_notes": [],
-      "inflection": "settled"
-    },
-    {
-      "paragraph_id": "P020",
-      "anchor": "There is another important timing detail. Maurizio Gucci was kill",
-      "pace": "slower",
-      "intent": "matter_of_fact",
-      "emphasis": [
-        "already happened in 1993"
-      ],
-      "pause_after_seconds": 1,
-      "pronunciation_notes": [],
-      "inflection": "settled"
-    },
-    {
-      "paragraph_id": "P022",
-      "anchor": "Then Investcorp began selling its own shares. In October 1995, it",
-      "pace": "natural",
-      "intent": "matter_of_fact",
-      "emphasis": [
-        "remaining fifty-two percent"
-      ],
-      "pause_after_seconds": 1,
-      "pronunciation_notes": [],
-      "inflection": "settled"
-    },
-    {
-      "paragraph_id": "P023",
-      "anchor": "The share prices in those offerings were different: twenty-two do",
+      "anchor": "For several years, Maurizio and Investcorp remained owners of opp",
       "pace": "natural",
       "intent": "skeptical",
       "emphasis": [
-        "not a clean calculation"
+        "Neither accusation"
       ],
       "pause_after_seconds": 1,
       "pronunciation_notes": [],
-      "inflection": "settled"
+      "inflection": "neutral"
+    },
+    {
+      "paragraph_id": "P018",
+      "anchor": "Then, in September 1993, Maurizio sold his remaining half to Inve",
+      "pace": "slower",
+      "intent": "matter_of_fact",
+      "emphasis": [
+        "remaining half to Investcorp"
+      ],
+      "pause_after_seconds": 1,
+      "pronunciation_notes": [],
+      "inflection": "neutral"
+    },
+    {
+      "paragraph_id": "P019",
+      "anchor": "With that purchase, Investcorp owned the whole company. There was",
+      "pace": "natural",
+      "intent": "matter_of_fact",
+      "emphasis": [
+        "owned the whole company"
+      ],
+      "pause_after_seconds": 1,
+      "pronunciation_notes": [],
+      "inflection": "neutral"
+    },
+    {
+      "paragraph_id": "P022",
+      "anchor": "Here is the detail that can distort the entire story. Maurizio Gu",
+      "pace": "slower",
+      "intent": "matter_of_fact",
+      "emphasis": [
+        "after the final sale"
+      ],
+      "pause_after_seconds": 1,
+      "pronunciation_notes": [],
+      "inflection": "neutral"
     },
     {
       "paragraph_id": "P025",
-      "anchor": "That distinction matters. A successful turnaround after a sale do",
-      "pace": "slower",
-      "intent": "reflective",
+      "anchor": "By 1998, Gucci brand revenue had passed a billion dollars. Revenu",
+      "pace": "natural",
+      "intent": "curious",
       "emphasis": [
-        "cannot rerun the company"
+        "a billion dollars"
       ],
-      "pause_after_seconds": 1,
+      "pause_after_seconds": 0,
       "pronunciation_notes": [],
-      "inflection": "settled"
+      "inflection": "neutral"
     },
     {
-      "paragraph_id": "P028",
-      "anchor": "The story began with a name on a handbag. Now that name tells us ",
+      "paragraph_id": "P029",
+      "anchor": "Go back to the handbag. Its label tells you the brand. It does no",
       "pace": "slower",
       "intent": "reflective",
       "emphasis": [
-        "ownership is not inherited through a logo"
+        "does not tell you which family owns the shares"
       ],
       "pause_after_seconds": 2,
       "pronunciation_notes": [],
-      "inflection": "settled"
+      "inflection": "neutral"
     }
   ],
-  "script_sha256": "6b56b1f852a7c268e62d4e170a5f95c404fc2adb2252611296963d298c7a7cde"
+  "script_sha256": "1ce7d1cdf0fe9f9e8a9697151c0823b4ef54fcff2a176188e5c4c35639c56059"
 }
