@@ -5,7 +5,7 @@
   "channel": "fools-gold",
   "title": "The Man Who Rigged McDonald's Monopoly",
   "status": "scripted",
-  "script_version": 1,
+  "script_version": 2,
   "created_at": "2026-10-10",
   "updated_at": "2026-10-10",
   "research_as_of": "2026-10-10",
@@ -13,11 +13,11 @@
   "runtime": {
     "target_min_seconds": 480,
     "target_max_seconds": 600,
-    "word_count": 1343,
+    "word_count": 1275,
     "assumed_or_observed_wpm": 150,
-    "extra_pause_seconds": 10,
+    "extra_pause_seconds": 12,
     "silent_hold_seconds": 0,
-    "estimated_seconds": 547.2,
+    "estimated_seconds": 522,
     "actual_video_seconds": null
   },
   "narration": {
@@ -50,6 +50,11 @@
       "date": "2026-10-10",
       "version": 1,
       "note": "Internal text draft 1544 words pared to 1343; tightened film-safe audio, numbers, court distinction. First draft preserved in Git blob 05fa304061f951c4631cb223a6f868e9c4b48039; not previous canonical version."
+    },
+    {
+      "date": "2026-10-10",
+      "version": 2,
+      "note": "Reviewed old exact SHA, applied formal script-v1 review: Jacobson seeding control, concrete alleged payout, FBI monitoring and court's knowing conspiracy explanation; removed redundant middle and repeated late financial caveats. Full V2 re-review pending."
     }
   ],
   "visual": {
@@ -58,13 +63,15 @@
     "reference_urls": [],
     "profile_version": 0
   },
-  "script_sha256": "ba4305e44011f488cb57b21d5082714a97e4ad388e8e88abe69b1d4672445e12",
+  "script_sha256": "9c86e31841030a86c68cf943bf9e789e39af8dbc0df88725b8fa1ddf7399d496",
   "editorial": {
-    "passed": true,
-    "reviewed_by": "ChatGPT internal adversarial text review, not independent human",
-    "reviewed_at": "2026-10-10",
-    "reviewed_script_sha256": "ba4305e44011f488cb57b21d5082714a97e4ad388e8e88abe69b1d4672445e12",
-    "blocking_issues": []
+    "passed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "reviewed_script_sha256": null,
+    "blocking_issues": [
+      "Pending complete V2 final cold-style text review."
+    ]
   },
   "production_review": {
     "passed": false,
