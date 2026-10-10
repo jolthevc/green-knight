@@ -35,6 +35,8 @@ All six channel workspaces are built. Voice selection, integrated visual pilots,
 
 [Latest six-channel audit](AUDIT_2026-10-10.md) records gaps fixed, validation and decisions that require real pilots.
 
+[Standalone script review and revision](SCRIPT_REVIEW.md) defines a critical, audio-first YouTube story audit with anchored findings, prioritized fixes and a controlled revision process for all six channels. Run it from a fresh chat after a full script is saved.
+
 [Story-first engagement](ENGAGEMENT_STANDARD.md) defines the broad-audience learning experience, six story engines and internal newcomer/skeptic review. Use it for ideation, outlines, scripts, production and learning.
 
 [Editor handoff boundary](EDITOR_HANDOFF_STANDARD.md): supply the clean script, audio guide and concise research references. Visual treatment belongs to the editor.
