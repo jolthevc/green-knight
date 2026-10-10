@@ -1,4 +1,4 @@
-# Editor-owned visual treatment record | SS-V0001 v2
+# Editor-owned visual treatment record | SS-V0001 v3
 
 > **Script file format (2026-10-10):** canonical `script.txt` is now **v3** with non-spoken first line `TITLE: How the Gucci Family Lost Gucci`, a blank separator, and the **same** 1,418 narrated words as v2. Hash above/below identifies the entire current file; no audio, cues or paragraph wording changed.
 
