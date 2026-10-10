@@ -1,6 +1,8 @@
 # Research references for editor: DH-V0001
 
-Script v3, exact SHA-256 `7d5945bf807fe9dad826173cd5d5cc860602c16a4bf379acf0224cc1ed2ac067`. Research supports factual accuracy; visual conception belongs to the editor.
+> **Script file format (2026-10-10):** canonical `script.txt` is now **v4**, beginning with the non-spoken first line `TITLE: The Team That Made Millions Without Playing in the NBA` and a blank line. The spoken narration and P001 onward anchors remain **identical** to reviewed v3. The full-file SHA-256 is `a98e376cf96c5d7fcbc7434326afb143b71c8741fd879dfdb4f49cf375d69266`.
+
+Script v3, exact SHA-256 `a98e376cf96c5d7fcbc7434326afb143b71c8741fd879dfdb4f49cf375d69266`. Research supports factual accuracy; visual conception belongs to the editor.
 
 The Spirits were an ABA franchise, never an NBA team; they ceased operations in 1976. Dan Silna's 2011 interview recalls the unsuccessful Pistons bid, only 600 Spirits season tickets and a competing excluded club, the Kentucky Colonels, accepting a one-time payment. Those are attributed retrospective accounts. Four NBA entrants were Denver, Indiana, San Antonio and the New York Nets. The Spirits partnership, not the defunct on-court team or the two brothers alone, held the contract.
 
