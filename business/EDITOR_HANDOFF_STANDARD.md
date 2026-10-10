@@ -4,7 +4,7 @@ We supply the researched story and audio direction. The editor owns visual conce
 
 ## Default package
 - handoff.md: concise premise, exact inputs, runtime, agreed scope and review requirements.
-- script.txt: sole source of spoken words.
+- script.txt: the first line is the required **non-spoken** `TITLE: <metadata.title>`, then a blank line and the sole authoritative narration body. Editors/voice engines must exclude that header from audio and timing.
 - narration-guide.md: readable tone, sparse paragraph cues, timing and pronunciation checks.
 - research-for-editor.md: concise factual context, useful source links and accuracy limits.
 - delivery-cues.json: optional technical companion, never spoken input.
