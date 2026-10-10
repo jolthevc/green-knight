@@ -2,7 +2,7 @@
 
 > **Script file format (2026-10-10):** canonical `script.txt` is now **v4**, beginning with the non-spoken first line `TITLE: The Team That Made Millions Without Playing in the NBA` and a blank line. The spoken narration and P001 onward anchors remain **identical** to reviewed v3. The full-file SHA-256 is `a98e376cf96c5d7fcbc7434326afb143b71c8741fd879dfdb4f49cf375d69266`.
 
-Script v3, SHA-256 `a98e376cf96c5d7fcbc7434326afb143b71c8741fd879dfdb4f49cf375d69266`. Same dated source classes and passage/access limitations retained in evidence.json. All script paragraph references and anchors below are synchronized with current script. Do not read this as narration.
+Script v4, SHA-256 `a98e376cf96c5d7fcbc7434326afb143b71c8741fd879dfdb4f49cf375d69266`. Same dated source classes and passage/access limitations retained in evidence.json. All script paragraph references and anchors below are synchronized with current script. Do not read this as narration.
 
 ## Sources
 
