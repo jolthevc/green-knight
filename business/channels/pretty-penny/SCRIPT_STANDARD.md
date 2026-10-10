@@ -44,7 +44,7 @@ Use one main CTA after the payoff, usually an adjacent published video. If none 
 
 ## One-go delivery and review
 
-The full first draft is written at once after research and internal outlining. Then revise it internally before handoff. Final script.txt contains only what should be spoken, with blank lines between paragraphs. Sources, headings, timestamps, stage directions and cue tags belong elsewhere.
+The full first draft is written at once after research and internal outlining. Then revise it internally before handoff. Final script.txt begins with the **non-spoken** `TITLE: <metadata.title>` and a blank line, then contains only what should be spoken, with blank lines between narration paragraphs. Sources, additional headings, timestamps, stage directions and cue tags belong elsewhere. The title is never counted or sent to TTS.
 
 Review facts, causal reasoning, opening promise, early payoff, progression, pronunciation, repetition, production feasibility and estimate. A second review must test the thesis against the counterevidence, not just polish language.
 
