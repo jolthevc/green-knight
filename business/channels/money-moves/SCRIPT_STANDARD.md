@@ -40,7 +40,7 @@ Short, concrete speech with varied rhythm. Explain terms through the situation r
 
 Plan visuals that show the actual choice: two paths, an obstacle, a resource or before/after structure. The decision board is a device, not a requirement to turn narration into bullet points.
 
-script.txt contains spoken words only. Keep citations, headings, timestamps, cue tags and visual instructions in sidecars. Paragraph anchors follow the final wording.
+script.txt starts with the **non-spoken** `TITLE: <metadata.title>` and a blank line; the remaining body contains spoken words only. Keep citations, other headings, timestamps, cue tags and visual instructions in sidecars. Paragraph anchors follow body wording only; omit title when recording.
 
 ## Payoff
 
