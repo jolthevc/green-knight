@@ -1,0 +1,166 @@
+{
+  "schema_version": 2,
+  "script_version": 1,
+  "script_sha256": "ba4305e44011f488cb57b21d5082714a97e4ad388e8e88abe69b1d4672445e12",
+  "instructions_are_non_spoken": true,
+  "assumed_or_observed_wpm": 150,
+  "silent_hold_seconds": 0,
+  "cues": [
+    {
+      "paragraph_id": "P001",
+      "anchor": "Imagine peeling a Monopoly sticker from a McDonald's drink. You might be on",
+      "pace": "natural",
+      "intent": "curious",
+      "emphasis": [
+        "Imagine peeling a Monopoly sti"
+      ],
+      "pause_after_seconds": 1,
+      "inflection": "settled",
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P002",
+      "anchor": "McDonald's could verify a genuine winning piece and pay someone who seemed ",
+      "pace": "natural",
+      "intent": "skeptical",
+      "emphasis": [
+        "McDonald's could verify a genu"
+      ],
+      "pause_after_seconds": 1,
+      "inflection": "settled",
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P005",
+      "anchor": "One of the people entrusted with that process was Jerome Jacobson, a securi",
+      "pace": "slower",
+      "intent": "matter_of_fact",
+      "emphasis": [
+        "One of the people entrusted wi"
+      ],
+      "pause_after_seconds": 0,
+      "inflection": "settled",
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P007",
+      "anchor": "There are two different questions. Is the winning sticker genuine? And did ",
+      "pace": "natural",
+      "intent": "curious",
+      "emphasis": [
+        "There are two different questi"
+      ],
+      "pause_after_seconds": 1,
+      "inflection": "settled",
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P009",
+      "anchor": "The winners weren't just names in a fake ledger. Real prize claims were mad",
+      "pace": "natural",
+      "intent": "matter_of_fact",
+      "emphasis": [
+        "The winners weren't just names"
+      ],
+      "pause_after_seconds": 0,
+      "inflection": "settled",
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P012",
+      "anchor": "Federal prosecutors said the arrangement had been operating by at least 199",
+      "pace": "slower",
+      "intent": "matter_of_fact",
+      "emphasis": [
+        "Federal prosecutors said the a"
+      ],
+      "pause_after_seconds": 1,
+      "inflection": "settled",
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P016",
+      "anchor": "Eventually, someone told the FBI to look more closely. Contemporary reporti",
+      "pace": "natural",
+      "intent": "curious",
+      "emphasis": [
+        "Eventually, someone told the F"
+      ],
+      "pause_after_seconds": 1,
+      "inflection": "settled",
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P018",
+      "anchor": "McDonald's was notified during the investigation and cooperated with the FB",
+      "pace": "natural",
+      "intent": "matter_of_fact",
+      "emphasis": [
+        "McDonald's was notified during"
+      ],
+      "pause_after_seconds": 1,
+      "inflection": "settled",
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P020",
+      "anchor": "On August twenty-first, 2001, the Justice Department announced eight arrest",
+      "pace": "slower",
+      "intent": "matter_of_fact",
+      "emphasis": [
+        "On August twenty-first, 2001, "
+      ],
+      "pause_after_seconds": 1,
+      "inflection": "settled",
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P023",
+      "anchor": "The criminal case developed beyond the initial announcement. In 2003, Jacob",
+      "pace": "natural",
+      "intent": "matter_of_fact",
+      "emphasis": [
+        "The criminal case developed be"
+      ],
+      "pause_after_seconds": 1,
+      "inflection": "settled",
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P024",
+      "anchor": "But the prosecution had an important limit. Four other men's convictions in",
+      "pace": "slower",
+      "intent": "matter_of_fact",
+      "emphasis": [
+        "But the prosecution had an imp"
+      ],
+      "pause_after_seconds": 1,
+      "inflection": "settled",
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P026",
+      "anchor": "The public records also have limits on the total money. The initial thirtee",
+      "pace": "natural",
+      "intent": "reflective",
+      "emphasis": [
+        "The public records also have l"
+      ],
+      "pause_after_seconds": 0,
+      "inflection": "settled",
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P028",
+      "anchor": "The visible safeguards checked authenticity and redemption. The breach was ",
+      "pace": "natural",
+      "intent": "reflective",
+      "emphasis": [
+        "The visible safeguards checked"
+      ],
+      "pause_after_seconds": 1,
+      "inflection": "settled",
+      "pronunciation_notes": []
+    }
+  ]
+}
