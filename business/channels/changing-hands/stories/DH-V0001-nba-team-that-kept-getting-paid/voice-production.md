@@ -1,6 +1,8 @@
 # Voice production record
 
-DH-V0001, script v3, SHA-256 `7d5945bf807fe9dad826173cd5d5cc860602c16a4bf379acf0224cc1ed2ac067`.
+> **Title-header synchronization (2026-10-10):** canonical `script.txt` v4 starts with `TITLE: The Team That Made Millions Without Playing in the NBA` and a blank line. Its narrated wording, paragraph anchors, cues and timing remain unchanged from v3. This header is **not spoken**; the whole-file hash is `a98e376cf96c5d7fcbc7434326afb143b71c8741fd879dfdb4f49cf375d69266`.
+
+DH-V0001, script v3, SHA-256 `a98e376cf96c5d7fcbc7434326afb143b71c8741fd879dfdb4f49cf375d69266`.
 
 ## Channel profile snapshot
 
@@ -36,7 +38,7 @@ No takes generated or commissioned; no selected audio. When production begins, r
 
 ## Full listening and mix
 
-Reviewer/date: not performed. Exact audio/cut URLs: none. Canonical script hash: 7d5945bf807fe9dad826173cd5d5cc860602c16a4bf379acf0224cc1ed2ac067.
+Reviewer/date: not performed. Exact audio/cut URLs: none. Canonical script hash: a98e376cf96c5d7fcbc7434326afb143b71c8741fd879dfdb4f49cf375d69266.
 Normal-speed full listening: not performed. Beginning/middle/end comparison: not performed.
 Omissions/repeats/additions/pronunciations: text checked only, audio untested.
 Joins/noise/clipping/level drift: not tested. Headphone/phone-speaker mix: not tested.
