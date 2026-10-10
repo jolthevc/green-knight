@@ -68,7 +68,7 @@ Only spoken CTA is P036, after the payoff: subscribe to Changing Hands. Launch-s
 
 ## Final upload and actual asset review
 
-Editorial alignment passed for script v3, hash a98e376cf96c5d7fcbc7434326afb143b71c8741fd879dfdb4f49cf375d69266. Title, proposed thumbnail, opening and ending tell the same story. Source links were opened during research; SI is explicitly partial in the evidence map and omitted from selected description links.
+Editorial alignment passed for script v4, hash a98e376cf96c5d7fcbc7434326afb143b71c8741fd879dfdb4f49cf375d69266. Title, proposed thumbnail, opening and ending tell the same story. Source links were opened during research; SI is explicitly partial in the evidence map and omitted from selected description links.
 
 Upload not performed. Narrator, imagery, music and licenses: not selected/produced. Disclosure decision: pending actual assets and current policy check at upload, not a claim that disclosure is or is not required. No simulated historical voice, real-person impersonation or fake evidence is planned. Chapters, final links, credits and phone-size readability remain final-cut checks.
 
