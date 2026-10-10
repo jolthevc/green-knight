@@ -32,6 +32,10 @@ Produce the full spoken draft in one pass using the channel script standard. Do 
 
 Narration lives only in script.txt. After the wording stabilizes, number its blank-line-separated paragraphs P001, P002, etc. Store cue anchors in delivery-cues.json and paragraph references in evidence.json and sources-and-claims.md. If any wording or formatting changes, increment script_version and regenerate affected references. Record SHA-256 of exact script.txt bytes in metadata, cues and evidence.json; opening anchors alone do not detect all revisions.
 
+## Optional standalone script review and revision
+
+After a complete draft exists, an independent fresh chat can review it using SCRIPT_REVIEW.md. REVIEW mode produces a paragraph-anchored critique without modifying canonical script.txt or stage. REVIEW_AND_REVISE mode repairs structural problems before sentence-level polish, re-reviews the new full script, and synchronizes version/hash/evidence/cues/metadata. This is an audio-first editorial diagnosis, not a predictive algorithm score, actual narration listening, or another routine owner approval gate.
+
 ## 6. Add delivery and production directions
 
 Use VOICE.md and NARRATION_STANDARD.md for sparse instructions: pace, emphasis, pauses and intent. Provide a human-readable guide plus a machine-readable sidecar. Do not assume that an AI voice can follow emotional commands or SSML. The editor verifies the chosen provider's supported controls, auditions a short passage and records the selected provider/model/settings in versioned channel narration.json with a per-episode snapshot. Reuse approved profiles; complete voice-production.md with actual takes and listening during production. Unsupported cues are implemented through shorter takes, timing and editing.
