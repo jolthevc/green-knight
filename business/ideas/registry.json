@@ -863,13 +863,13 @@
       "subject": "2006 Disney acquisition of Pixar and Steven P. Jobs' resulting Walt Disney Company equity and board seat",
       "mechanism": "All-stock corporate merger exchanging each Pixar share for 2.3 Disney shares, replacing separate film distribution and co-production relationships with Disney ownership; Jobs' 60 million Pixar shares converted into 138 million Disney shares",
       "viewer_promise": "How Disney's purchase of Pixar turned Steve Jobs from Pixar's dominant shareholder into Disney's largest individual shareholder, what changed hands, and why the share-for-share deal solved a difficult negotiation.",
-      "status": "proposed",
+      "status": "scripted",
       "related_idea_ids": [],
       "created_at": "2026-10-10",
       "updated_at": "2026-10-10",
       "rejection_or_block_reason": null,
-      "story_id": null,
-      "story_path": null,
+      "story_id": "DH-V0002",
+      "story_path": "business/channels/changing-hands/stories/DH-V0002-steve-jobs-disney-pixar",
       "published_url": null,
       "published_at": null,
       "history": [
@@ -878,6 +878,30 @@
           "status": "proposed",
           "actor": "ChatGPT",
           "note": "New Changing Hands candidate after reviewing full 28-idea cross-channel registry: no duplicate subject/mechanism. Research leads for possible episode selection (not full research): Opened source leads: Disney official January 24, 2006 announcement https://thewaltdisneycompany.com/press-releases/disney-to-acquire-pixar/ ; Disney May 2006 SEC 8-K https://www.sec.gov/Archives/edgar/data/1001039/000119312506103659/d8k.htm ; Jobs' SEC 13D https://www.sec.gov/Archives/edgar/data/1001039/000119312506103741/dsc13d.htm . $7.4bn announced total equity transaction, 2.3-for-1 share ratio, 6.3% Jobs stake; do not confuse equity value with cash paid."
+        },
+        {
+          "date": "2026-10-10",
+          "status": "selected",
+          "actor": "ChatGPT",
+          "note": "User explicitly selected DH-I0008 for a full Changing Hands episode. Reserved DH-V0002, Disney-Pixar share-for-share merger mechanism, with no approvals required mid-workflow."
+        },
+        {
+          "date": "2026-10-10",
+          "status": "researching",
+          "actor": "ChatGPT",
+          "note": "Opened Disney/Pixar 2006 merger proxy, Jobs Schedule 13D, Pixar 2005 10-K and contemporaneous press, for detailed 2004–2006 ownership, financing and negotiation chronology."
+        },
+        {
+          "date": "2026-10-10",
+          "status": "researched",
+          "actor": "ChatGPT",
+          "note": "Completed transaction/ownership map, investor and corporate governance constraints, 12 dated original or contemporaneous sources, 31 paragraph-level claims, counterevidence, risks, synthesis/beat architecture."
+        },
+        {
+          "date": "2026-10-10",
+          "status": "scripted",
+          "actor": "ChatGPT",
+          "note": "Saved full 1,366-word, 31-paragraph 8–10 minute script v1 with mandatory non-spoken TITLE header and SHA e3a67c6e7658393b89268213a0da67125bb54ca7f079d3791aa5d76e88009008. Completed separate 14 voice cues, 10 content coverage groups, research for editor, editor-owned visual record, packaging, handoff, two internal review records, QA and performance placeholder. Structural preflight across 18 files: zero errors; exact runtime estimate 559.4s based on 150 assumed WPM and 13s extra pauses. Full repository Python validator not executed, voice and visual pilot not approved; no audio, video or editor contact. Status scripted, not production_ready."
         }
       ]
     },
