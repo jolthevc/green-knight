@@ -21,7 +21,7 @@ This workspace implements the owner's manual ChatGPT process. Its local GitHub l
 - Silver Spoon research must establish the relevant family relationships, wealth origins, ownership versus voting control versus leadership, transfer timeline and valuation basis. Do not invent private wealth, motives or family conflict.
 - Financial mechanisms must distinguish revenue, cash flow, gross profit and net profit; dates, geography and units must travel with numbers. Label illustrative models.
 - Write for the ear, keep engagement purposeful, deliver the title promise and finish within 8–10 minutes. Use actual audio duration for final approval.
-- script.txt contains spoken words only. Delivery directions and citations go in separate files. No voice provider or unsupported control syntax is preselected.
+- Every completed `script.txt` starts with exactly `TITLE: <metadata.title>` followed by one blank line, then spoken narration. The title header is **non-spoken**. No other headings, citations, directions or cue syntax go in this file. Count and number only narration paragraphs P001 onward, strip the title for recording/TTS, and compute SHA-256 over the entire `script.txt` including its header. No voice provider or unsupported control syntax is preselected.
 - Preserve approved wording through production. Substantive changes return to the script and evidence check.
 - Keep IDs stable, append history and update status only when deliverables exist. A finished script is not a published video.
 - Before scripted, record an internal editorial review and populate evidence.json. Tie evidence/cues and reviews to the exact script version/hash. Do not fabricate completed listening, rendering or source-access checks.
@@ -33,7 +33,7 @@ This workspace implements the owner's manual ChatGPT process. Its local GitHub l
 
 ## Standalone script review and revision
 
-For a user-requested cold review, review-only audit, or review-plus-revision of a completed draft, read and follow SCRIPT_REVIEW.md. Its review-only mode must not alter the canonical script or stage; revision requires user authorization and a fresh script-version/hash consistency check. Save version-specific review reports under the story's reviews/ directory when repository writing is available. The script stays the single spoken source; all reviewer observations remain internal. The scripted stage's existing internal editorial gate still applies; a separate review does not replace source checks or actual production listening.
+For a user-requested cold review, review-only audit, or review-plus-revision of a completed draft, read and follow SCRIPT_REVIEW.md. Its review-only mode must not alter the canonical script or stage; revision requires user authorization and a fresh script-version/hash consistency check. Save version-specific review reports under the story's reviews/ directory when repository writing is available. The script's body stays the single spoken source; its mandatory TITLE line is non-spoken, and reviewer observations remain internal. The scripted stage's existing internal editorial gate still applies; a separate review does not replace source checks or actual production listening.
 
 ## Completion means
 
