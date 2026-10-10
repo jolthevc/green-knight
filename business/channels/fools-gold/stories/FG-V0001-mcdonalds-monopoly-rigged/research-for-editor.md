@@ -1,6 +1,12 @@
 # Research for editor | FG-V0001 authentic sticker / false provenance
 
-**Narration script v1 SHA-256 `ba4305e44011f488cb57b21d5082714a97e4ad388e8e88abe69b1d4672445e12`**. Documented fact and license checks only. Editor chooses all visual treatment independently; no scenes, color palettes, shots, image-generation prompts or style decisions are mandated here.
+**Narration script v2 SHA-256 `9c86e31841030a86c68cf943bf9e789e39af8dbc0df88725b8fa1ddf7399d496`**. Documented fact and license checks only. Editor chooses all visual treatment independently; no scenes, color palettes, shots, image-generation prompts or style decisions are mandated here.
+
+## V2 clarified source facts
+
+The 2004 Eleventh Circuit `Chandler` opinion says Jacobson was Simon's **director of security, responsible for disseminating high-value game stamps**. A 2007 California appellate insurance opinion describes his nationwide **seeding** job. The $500,000 award allegedly allocated $70,000 to Jacobson (one example, contemporary court-paper reporting). During trial he said recruiters had been kept apart and ignorant of the underlying theft; this informs why four non-Jacobson appellants were later acquitted, not a finding that everyone else was innocent. The first DOJ $13m amount covers alleged prize face value as of August 2001, not net proceeds. The new narration covers 27 paragraphs and 1,275 spoken words.
+
+Original court source: https://www.casemine.com/judgement/us/59146ecdadd7b0493433d242
 
 ## One paragraph
 
