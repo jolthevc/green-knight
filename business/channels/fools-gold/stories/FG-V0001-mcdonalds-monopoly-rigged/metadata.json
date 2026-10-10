@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "idea_id": "FG-I0006",
+  "story_id": "FG-V0001",
+  "channel": "fools-gold",
+  "title": "The Man Who Rigged McDonald's Monopoly",
+  "status": "scripted",
+  "script_version": 1,
+  "created_at": "2026-10-10",
+  "updated_at": "2026-10-10",
+  "research_as_of": "2026-10-10",
+  "repository_context_commit": "31412b2a33ce09170047738c6502fb905fd946ae",
+  "runtime": {
+    "target_min_seconds": 480,
+    "target_max_seconds": 600,
+    "word_count": 1343,
+    "assumed_or_observed_wpm": 150,
+    "extra_pause_seconds": 10,
+    "silent_hold_seconds": 0,
+    "estimated_seconds": 547.2,
+    "actual_video_seconds": null
+  },
+  "narration": {
+    "provider": null,
+    "voice_id": null,
+    "settings": {},
+    "audition_approved": false,
+    "pronunciations": [],
+    "profile_id": "fools_gold_narrator",
+    "profile_version": 0,
+    "kind": null,
+    "model_id": null,
+    "performer_name": null,
+    "locale": "en",
+    "accent": null,
+    "reference_audio_url": null,
+    "observed_wpm": null
+  },
+  "assets": {
+    "review_video_url": null,
+    "final_video_url": null,
+    "audio_url": null,
+    "thumbnail_url": null,
+    "project_url": null
+  },
+  "published_url": null,
+  "published_at": null,
+  "revision_history": [
+    {
+      "date": "2026-10-10",
+      "version": 1,
+      "note": "Internal text draft 1544 words pared to 1343; tightened film-safe audio, numbers, court distinction. First draft preserved in Git blob 05fa304061f951c4631cb223a6f868e9c4b48039; not previous canonical version."
+    }
+  ],
+  "visual": {
+    "direction": "editor owns creative treatment; no visual proposal approved",
+    "approved": false,
+    "reference_urls": [],
+    "profile_version": 0
+  },
+  "script_sha256": "ba4305e44011f488cb57b21d5082714a97e4ad388e8e88abe69b1d4672445e12",
+  "editorial": {
+    "passed": true,
+    "reviewed_by": "ChatGPT internal adversarial text review, not independent human",
+    "reviewed_at": "2026-10-10",
+    "reviewed_script_sha256": "ba4305e44011f488cb57b21d5082714a97e4ad388e8e88abe69b1d4672445e12",
+    "blocking_issues": []
+  },
+  "production_review": {
+    "passed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "reviewed_script_sha256": null,
+    "audio_url": null,
+    "final_cut_url": null,
+    "full_audio_listened": false
+  }
+}
