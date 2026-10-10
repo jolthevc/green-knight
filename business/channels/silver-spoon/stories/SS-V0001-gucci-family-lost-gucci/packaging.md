@@ -1,58 +1,46 @@
-# Packaging options: Gucci family ownership
+# Packaging | Gucci family exit, v2
 
-Script v1 `6b56b1f852a7c268e62d4e170a5f95c404fc2adb2252611296963d298c7a7cde`. Internal packaging only. No thumbnail produced, pilot audience test or actual CTR claim.
+**Script SHA-256:** `1ce7d1cdf0fe9f9e8a9697151c0823b4ef54fcff2a176188e5c4c35639c56059`. Packaging remains internal until editor produces thumbnails and the actual cut is verified.
 
-## Three accurate title candidates
+## Three title options
 
-1. **How the Gucci Family Lost Gucci** (selected). Delivers final family exit via two stages of sales and distinguishes legal rights from surname.
-2. **The Gucci Family Doesn't Own Gucci**. Punchy factual contrast, but risks losing historical mechanism in headline.
-3. **The Family That Sold the Gucci Empire**. Clear financial transaction, but potentially sounds like a single all-at-once sale; opening must correct this.
+1. **How the Gucci Family Lost Gucci** (**chosen**). Recognizable subject and meaningful “how” promise, delivered by two staged share sales, a 1988 board dispute and final 1993 purchase.
+2. **The Gucci Family Doesn't Own Gucci**. Accurate for current founding-family stake after 1993, but omits historical mechanism.
+3. **How the Gucci Family Sold Its Own Empire**. Clear transaction, but potentially overstates a single voluntary joint act by all heirs.
 
-## Two different thumbnail hypotheses
+## Two competing thumbnail hypotheses
 
-**A, ownership contradiction (preferred):** Distinguish the famous brand label from the statement that founding-family equity is gone. Short optional copy: `0% OWNED` with “1993” as date/context, not implying the founder family personally became penniless. Verify accuracy before any design.
+- **A: Names versus shares (preferred editorial concept).** “0% FAMILY OWNED” anchored explicitly to post-1993 position and famous commercial name. No implication that family members became poor or lost legal surnames.
+- **B: 50 / 50 → outsider.** Ownership-rights puzzle from competing branches to Investcorp. Avoid falsely claiming Investcorp controlled all votes in 1988. Editor owns actual treatment and no image is approved.
 
-**B, the split:** Contrast two half-ownership positions and the emergence of Investcorp as buyer. Optional short copy: `WHO GOT GUCCI?` All percentage labels require dates and a relevant entity; do not turn either branch into a villain.
+## Alignment check
 
-The editor develops actual visual execution. No thumbnail creative instructions are part of the default handoff, and no thumbnails are approved.
+P001 states 1993 whole-family exit within opening seconds. P008 introduces actual selling descendants; P011–P012 explains why a near-half stake did not win board majority; P018–P020 provides 1993 transfer and ends family control. P029 ends on the name on handbag differing from share register. Thumbnail must never imply expropriation, a verified personal net worth or a proprietary documentary photo.
 
-## Selected promise and opening alignment
+## Description draft
 
-Title promises an explanation of how the family lost the company. The first two spoken paragraphs establish the completed 1993 outcome, the first meaningful payoff. The rest follows the 1983 inheritance, the 1988 trademark decision, the late-1980s half sale and Maurizio's final 1993 sale. Closing returns to shares versus family surname.
+Who owns Gucci when nobody in the founding Gucci family does? In the late 1980s, relatives sold shares, an outside investor tried and failed to secure a board majority, and Maurizio Gucci eventually sold the family’s remaining half in 1993. We trace the actual ownership timeline using court records, Gucci Group filings and contemporary reports, then explain why the brand grew even after the founding family left.
 
-## Unique description draft
+Historical sources:
+- Gucci Group SEC filing: https://www.sec.gov/Archives/edgar/data/1001576/000104746903025628/a2115580z20fr12b.htm
+- April 1988 first sellers: https://www.latimes.com/archives/la-xpm-1988-04-18-fi-948-story.html
+- June 1988 board-control contest: https://www.latimes.com/archives/la-xpm-1988-06-10-fi-5194-story.html
+- September 1993 sale: https://www.latimes.com/archives/la-xpm-1993-09-28-fi-39952-story.html
+- 1988 U.S. legal name ruling: https://law.justia.com/cases/federal/district-courts/FSupp/688/916/2134716/
 
-What happens when a family builds one of fashion's most recognizable names and eventually owns none of the company? Gucci's ownership story runs through family succession, a legal fight over the Gucci name, an outside investor and two sales that ended founding-family ownership by 1993.
+## Draft chapter labels
 
-We examine Gucci Group's filings, a 1988 court decision and contemporary reporting to explain the difference between a surname, a commercial trademark and the shares that determine who owns a business. We also look at the turnaround that followed, without assuming history could simply have happened the same way under different owners.
+0:00 Gucci, without the Guccis
+0:55 The inheritance
+2:05 Cousins sell their shares
+3:15 A board majority denied
+4:15 What the Gucci name meant
+5:10 Maurizio's dilemma
+6:30 The last half is sold
+7:55 What happened afterward
 
-Sources:
-- Gucci Group 2003 Form 20-F: https://www.sec.gov/Archives/edgar/data/1001576/000104746903025628/a2115580z20fr12b.htm
-- 1988 Gucci v. Gucci Shops decision: https://law.justia.com/cases/federal/district-courts/FSupp/688/916/2134716/
-- September 1993 Los Angeles Times account: https://www.latimes.com/archives/la-xpm-1993-09-28-fi-39952-story.html
-- Gucci's present-day historical timeline: https://www.gucci.com/us/en/nst/history-of-gucci
+These are approximate *editorial navigation ideas*, not actual rendered timestamps and must be measured/replaced. No promises of an unproduced next video.
 
-## Draft chapters (estimates, NOT finished-cut timestamps)
+## CTA / upload checks
 
-00:00 The family no longer owns Gucci
-00:55 The fortune split between two branches
-02:05 The fight over the name
-03:05 The first outside owner
-03:50 Why the partnership broke down
-05:10 The last half is sold
-06:25 What happened to Gucci afterward
-08:00 Why hindsight can fool us
-
-Before publication replace all timestamps with actual video chapter times.
-
-## Tags
-
-Gucci, Gucci family, Maurizio Gucci, Guccio Gucci, Investcorp, luxury fashion history, family business, business history, inheritance, Silver Spoon
-
-## CTA and end screen
-
-One spoken CTA at the end invites the viewer to follow Silver Spoon. No link to an unpublished or nonexistent episode. If a relevant published video exists later, revisit text through editorial revision before generating new audio. End-screen placement and duration must be confirmed on the cut.
-
-## Upload and rights checklist
-
-No title, photo, thumbnail, narration, music, synthetic imagery or video rights reviewed yet. Assess originality and YouTube disclosure rules against **actual** produced assets on upload. Source links are not rights licenses; historical reconstructions require clear distinction from primary documents. Reconfirm current parent-entity wording and any current dates.
+Script contains one launch-safe Silver Spoon follow invitation only after payoff. Tags: Gucci history, Gucci family, Maurizio Gucci, Investcorp, family business, succession, luxury ownership, Silver Spoon. Before upload, verify final video duration, captions, assets/licenses, YouTube's applicable synthetic content rules, editor-approved thumbnail, exact description/chapter timing and all links. No actual media/disclosure inspection has occurred.
