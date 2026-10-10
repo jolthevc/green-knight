@@ -65,13 +65,11 @@
   },
   "script_sha256": "b17e484fa6abc164c8ea7bc691d18e3cb05134844a51beb4ae074ee2d679e949",
   "editorial": {
-    "passed": false,
-    "reviewed_by": null,
-    "reviewed_at": null,
-    "reviewed_script_sha256": null,
-    "blocking_issues": [
-      "Pending final review"
-    ]
+    "passed": true,
+    "reviewed_by": "ChatGPT final critical cold-style text re-review of revised v2 (not independent human)",
+    "reviewed_at": "2026-10-10",
+    "reviewed_script_sha256": "b17e484fa6abc164c8ea7bc691d18e3cb05134844a51beb4ae074ee2d679e949",
+    "blocking_issues": []
   },
   "production_review": {
     "passed": false,
