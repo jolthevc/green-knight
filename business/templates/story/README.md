@@ -10,7 +10,7 @@ Copy this directory, excluding README.md, into the selected channel's stories/<s
 | evidence.json | Canonical source/claim/scene records and script hash/version |
 | sources-and-claims.md | Readable evidence review consistent with evidence.json |
 | synthesis-and-outline.md | Editorial thesis, beat plan and promise/payoff map |
-| script.txt | Complete clean spoken words, created after research |
+| script.txt | First line `TITLE: <metadata.title>`, blank line, then complete clean spoken narration; the header is not spoken |
 | delivery-cues.json | Non-spoken directions tied to exact script hash/version |
 | voice-production.md | Pronunciations, takes, retakes and actual listening record |
 | visual-plan.md | Paragraph-linked scenes and factual graphics |
@@ -19,7 +19,7 @@ Copy this directory, excluding README.md, into the selected channel's stories/<s
 | qa.md | Editorial checks, production checks and approval status |
 | performance.md | Verified upload and post-publication learning |
 
-Do not copy placeholder text into a voice generator. The intentionally empty template script.txt requires a real full script before status scripted. Delivery cues do not need to exist for every paragraph; purposeful cues are sparse.
+Do not copy placeholder text into a voice generator. The intentionally empty template script.txt requires a real full script before status scripted. On completion, the title must be present as the very first line in **all six channels**: `TITLE: Exact Episode Title`, then one blank line, then narration. The header is not narrated or included in word count, P001 cue references, captions or TTS input. The **entire file**, including the header, is hashed for metadata/evidence/cues. The validator rejects missing or mismatched title headers. Delivery cues do not need to exist for every paragraph; purposeful cues are sparse.
 
 metadata.status and registry.status must agree. Increase script_version when wording changes. Record meaningful changes in metadata.revision_history and registry.history. The final recording is timed by the editor; initial word-based estimates are provisional.
 
