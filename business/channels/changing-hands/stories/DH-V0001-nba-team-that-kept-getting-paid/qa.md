@@ -1,6 +1,8 @@
 # Quality approval: DH-V0001
 
-2026-10-10, exact canonical v3 hash `7d5945bf807fe9dad826173cd5d5cc860602c16a4bf379acf0224cc1ed2ac067`. Mode REVIEW_AND_REVISE. [Cold v2 review](reviews/script-v002-cold-review-2026-10-10.md), [revision report](reviews/script-v003-revision-report-2026-10-10.md) and [final v3 review](reviews/script-v003-final-review-2026-10-10.md) are version-specific records.
+> **Title-header synchronization (2026-10-10):** canonical `script.txt` v4 starts with `TITLE: The Team That Made Millions Without Playing in the NBA` and a blank line. Its narrated wording, paragraph anchors, cues and timing remain unchanged from v3. This header is **not spoken**; the whole-file hash is `a98e376cf96c5d7fcbc7434326afb143b71c8741fd879dfdb4f49cf375d69266`.
+
+2026-10-10, exact canonical v3 hash `a98e376cf96c5d7fcbc7434326afb143b71c8741fd879dfdb4f49cf375d69266`. Mode REVIEW_AND_REVISE. [Cold v2 review](reviews/script-v002-cold-review-2026-10-10.md), [revision report](reviews/script-v003-revision-report-2026-10-10.md) and [final v3 review](reviews/script-v003-final-review-2026-10-10.md) are version-specific records.
 
 Result: **EDITORIALLY_READY** in text review, zero P0/P1, no independent outside reviewer. Source-level argument checked with opened court decisions, NBA conditional release, direct Forbes interview and contemporary reporting. The 2010-11 $17.5m and 2014 $500m are attributed reports, not verified net profit. Kentucky Colonels' choice and 600 season tickets are retrospective participant reporting. Four shares, 28 cap, invented teaching model and state-forum legal limit remain intact. Conditional 2014 equity/debt structure never presented as fully verified execution.
 
