@@ -2,7 +2,7 @@
 
 > **Script file format (2026-10-10):** canonical `script.txt` is now **v4**, beginning with the non-spoken first line `TITLE: The Team That Made Millions Without Playing in the NBA` and a blank line. The spoken narration and P001 onward anchors remain **identical** to reviewed v3. The full-file SHA-256 is `a98e376cf96c5d7fcbc7434326afb143b71c8741fd879dfdb4f49cf375d69266`.
 
-Canonical script v3, SHA-256 `a98e376cf96c5d7fcbc7434326afb143b71c8741fd879dfdb4f49cf375d69266`. Non-spoken instructions only. No voice chosen or audio audition heard.
+Canonical script v4, SHA-256 `a98e376cf96c5d7fcbc7434326afb143b71c8741fd879dfdb4f49cf375d69266`. Non-spoken instructions only. No voice chosen or audio audition heard.
 
 The narrator is confident, curious, clear and conversational rather than a financier reading a memo. P001's reported figure earns interest without a hype voice. Slow fraction in P007-P008, clarify four payers, then leave P026's shift in recipient ownership time to land. Deliver the Ozzie quote neutrally without impersonation and let P035 end with a settled tone. Do not invent emotional crescendos or change spoken wording.
 
