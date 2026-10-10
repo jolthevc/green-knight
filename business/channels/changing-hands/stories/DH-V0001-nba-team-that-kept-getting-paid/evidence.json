@@ -571,13 +571,10 @@
           "anchor": "That right belonged to the partnership behind the Spirits,"
         }
       ],
-      "purpose": "Court disappears, contract stays",
+      "purpose": "Team operations cease but the contractual income right survives",
       "evidence_type": "illustration",
       "source_ids": [],
-      "visual": "Cut-paper empty court; remove players and calendar, leave a brass contract card labeled Spirits partnership. Two simple owner figures, not photorealistic likenesses.",
-      "on_screen_text": "1976 / Team closed; Income right continued",
-      "label": "No bank-branded checks or invented balances.",
-      "effort": "medium"
+      "production_status": "awaiting_editor_treatment"
     },
     {
       "id": "SC002",
@@ -594,10 +591,7 @@
       "purpose": "NBA ambition and four admissions",
       "evidence_type": "illustration",
       "source_ids": [],
-      "visual": "Two labeled league areas; move Nuggets, Pacers, Spurs, New York Nets tokens into NBA area while Spirits remains. Tiny Michigan-to-St. Louis travel history omitted to avoid clutter.",
-      "on_screen_text": "ABA / NBA; 1976; Spirits excluded",
-      "label": "Historical labels; no contemporary jerseys/logos presented as 1976 evidence.",
-      "effort": "medium"
+      "production_status": "awaiting_editor_treatment"
     },
     {
       "id": "SC003",
@@ -614,10 +608,7 @@
       "purpose": "Negotiation and compensation",
       "evidence_type": "illustration",
       "source_ids": [],
-      "visual": "Keep four-team group on one side and Spirits partnership on the other. Show player-contract card/cash symbol plus separate revenue-right card.",
-      "on_screen_text": "Settlement / Cash + future participation",
-      "label": "Schematic; no fabricated signed agreement.",
-      "effort": "low"
+      "production_status": "awaiting_editor_treatment"
     },
     {
       "id": "SC004",
@@ -630,10 +621,7 @@
       "purpose": "Who pays whom",
       "evidence_type": "illustration",
       "source_ids": [],
-      "visual": "Four team allocation boxes feed a single NBA-administered payment arrow to Spirits. Separate payer administration from four-club economic burden.",
-      "on_screen_text": "1/7 of each of four shares",
-      "label": "Original basic allocation; later cap disclosed in following sequence.",
-      "effort": "medium"
+      "production_status": "awaiting_editor_treatment"
     },
     {
       "id": "SC005",
@@ -646,10 +634,7 @@
       "purpose": "Teach the fraction",
       "evidence_type": "illustration",
       "source_ids": [],
-      "visual": "Four seven-token stacks; move one token from each into Spirits box. Count one, two, three, four. Hold at total.",
-      "on_screen_text": "ILLUSTRATIVE: $7m each -> $1m each -> $4m total",
-      "label": "Illustrative US dollars; fixed league-size allocation; not historical figures.",
-      "effort": "medium"
+      "production_status": "awaiting_editor_treatment"
     },
     {
       "id": "SC006",
@@ -666,10 +651,7 @@
       "purpose": "Revenue is different from club profit",
       "evidence_type": "illustration",
       "source_ids": [],
-      "visual": "Same board. Put operating-expense tray downstream of active club allocation; Spirits payment follows defined TV pool. Avoid implying priority over all secured creditors.",
-      "on_screen_text": "Defined TV revenue / Club operating costs",
-      "label": "Conceptual flow; not legal payment-priority waterfall.",
-      "effort": "low"
+      "production_status": "awaiting_editor_treatment"
     },
     {
       "id": "SC007",
@@ -688,10 +670,7 @@
       "source_ids": [
         "S003"
       ],
-      "visual": "Legible short extract of court description of duration, then extend a neutral timeline past removed court icon. Crop actual source, do not fabricate 1976 paper.",
-      "on_screen_text": "For as long as NBA existed; 2011 court description",
-      "label": "Primary opinion is a later record. Exact extract maximum six words; source/date visible.",
-      "effort": "low"
+      "production_status": "awaiting_editor_treatment"
     },
     {
       "id": "SC008",
@@ -704,10 +683,7 @@
       "purpose": "Uncertain future and immediate decision",
       "evidence_type": "illustration",
       "source_ids": [],
-      "visual": "1976 board with an unfilled future TV-revenue area, no fake stock curve. Four incoming clubs face an admission arrow contingent on completed agreements.",
-      "on_screen_text": "1976: future revenue unknown",
-      "label": "Conceptual uncertainty, not a recorded prediction.",
-      "effort": "low"
+      "production_status": "awaiting_editor_treatment"
     },
     {
       "id": "SC009",
@@ -727,10 +703,7 @@
         "S001",
         "S005"
       ],
-      "visual": "Two separate labeled amount cards with year, nominal USD and distinct evidentiary labels. No connecting line, extrapolation or lifetime total.",
-      "on_screen_text": "1987-88: ~$1.35m, court record; 2010-11: ~$17.5m, contemporary report",
-      "label": "Gross receipts associated with arrangement; not personal net profit. Data sourced separately.",
-      "effort": "low"
+      "production_status": "awaiting_editor_treatment"
     },
     {
       "id": "SC010",
@@ -747,10 +720,7 @@
       "purpose": "Expansion dilution protection",
       "evidence_type": "illustration",
       "source_ids": [],
-      "visual": "Add chair/team tiles to a shared-pool board; Spirits calculation denominator stops at 28. Keep other allocations abstract and avoid a current league claim.",
-      "on_screen_text": "Denominator capped at 28 for this calculation",
-      "label": "Contract formula corroborated S006-S007; schematic; no asserted minimum annual dollar payment.",
-      "effort": "medium"
+      "production_status": "awaiting_editor_treatment"
     },
     {
       "id": "SC011",
@@ -769,10 +739,7 @@
       "source_ids": [
         "S002"
       ],
-      "visual": "Show television icon branching into international feed and subscription display; overlay three-word actual term from later court record.",
-      "on_screen_text": "visual media broadcasts",
-      "label": "Actual court excerpt; surrounding illustration labeled explanatory.",
-      "effort": "medium"
+      "production_status": "awaiting_editor_treatment"
     },
     {
       "id": "SC012",
@@ -793,10 +760,7 @@
         "S003",
         "S010"
       ],
-      "visual": "Spirits claim card and NBA/four-club response side; mark allegations. Court arrow moves from state to federal forum. Do not use guilty stamp.",
-      "on_screen_text": "Disputed categories / Federal forum",
-      "label": "Procedural ruling, not a determination all claimed amounts were due.",
-      "effort": "low"
+      "production_status": "awaiting_editor_treatment"
     },
     {
       "id": "SC013",
@@ -809,10 +773,7 @@
       "purpose": "Opposing valuations",
       "evidence_type": "illustration",
       "source_ids": [],
-      "visual": "One media pot between recipient and four payers; widen dotted scope boundary, without actual revenue values.",
-      "on_screen_text": "Which receipts count?",
-      "label": "Illustrative valuation issue; no invented proposal amounts.",
-      "effort": "low"
+      "production_status": "awaiting_editor_treatment"
     },
     {
       "id": "SC014",
@@ -827,10 +788,7 @@
       "source_ids": [
         "S005"
       ],
-      "visual": "Show newspaper title/source/date and a separate clean amount overlay. Retain reported label while explaining confirmation.",
-      "on_screen_text": "2014 / Reported $500m settlement",
-      "label": "Short actual article crop; distinguish report from official exact price.",
-      "effort": "low"
+      "production_status": "awaiting_editor_treatment"
     },
     {
       "id": "SC015",
@@ -849,10 +807,7 @@
       "source_ids": [
         "S004"
       ],
-      "visual": "Actual NBA release header dated January 7, 2014, then illustrated entity box. Add four-club controlling-owner tiles, old-owner minority tile and borrowing arrow to entity, then distribution arrow.",
-      "on_screen_text": "Announced structure / New debt / Owner distribution",
-      "label": "No exact stake percentage, debt amount, interest rate or collateral. Release is conditional.",
-      "effort": "high"
+      "production_status": "awaiting_editor_treatment"
     },
     {
       "id": "SC016",
@@ -869,10 +824,7 @@
       "purpose": "Understand both sides",
       "evidence_type": "illustration",
       "source_ids": [],
-      "visual": "Keep the same payment arrow in place; highlight that clubs are now on payer side and controlling-owner side in the announced plan. Separate debt repayment arrow from equity.",
-      "on_screen_text": "Payers -> recipient entity; clubs also own controlling stake",
-      "label": "Conceptual explanation of announced terms; not final audited waterfall.",
-      "effort": "high"
+      "production_status": "awaiting_editor_treatment"
     },
     {
       "id": "SC017",
@@ -885,10 +837,7 @@
       "purpose": "Retained right and residual interest",
       "evidence_type": "illustration",
       "source_ids": [],
-      "visual": "Leave the contract card visible; a small unnumbered old-owner tile remains. No torn document or check cancellation.",
-      "on_screen_text": "Right remains / Ownership changes",
-      "label": "Bounded to disclosed plan; no claim about current ownership.",
-      "effort": "low"
+      "production_status": "awaiting_editor_treatment"
     },
     {
       "id": "SC018",
@@ -905,10 +854,7 @@
       "purpose": "Time horizon becomes human",
       "evidence_type": "illustration",
       "source_ids": [],
-      "visual": "Return to restrained owner figure and finite personal calendar beside longer contract timeline. Narrator quotes in own voice, no fabricated interview audio.",
-      "on_screen_text": "2014 / Ozzie, age 81",
-      "label": "Illustration, not reenacted interview; exact 11-word quote from S005 may be captioned.",
-      "effort": "low"
+      "production_status": "awaiting_editor_treatment"
     },
     {
       "id": "SC019",
@@ -925,10 +871,7 @@
       "purpose": "Correct hindsight",
       "evidence_type": "illustration",
       "source_ids": [],
-      "visual": "Show 1976 future as blank, then close the counterfactual NBA-owner door without an assumed valuation. No best-deal trophy.",
-      "on_screen_text": "Outcome was not fully foreseen",
-      "label": "S006 retrospective account; no invented pessimistic forecasts.",
-      "effort": "low"
+      "production_status": "awaiting_editor_treatment"
     },
     {
       "id": "SC020",
@@ -949,10 +892,7 @@
       "purpose": "Earned callback",
       "evidence_type": "illustration",
       "source_ids": [],
-      "visual": "Opening empty court returns; camera settles on surviving contract, with owner tiles around it reflecting historical change. Let one object carry conclusion.",
-      "on_screen_text": "The right to get paid",
-      "label": "No claim present-day contract state unchanged.",
-      "effort": "low"
+      "production_status": "awaiting_editor_treatment"
     },
     {
       "id": "SC021",
@@ -965,10 +905,7 @@
       "purpose": "Launch-safe end card",
       "evidence_type": "illustration",
       "source_ids": [],
-      "visual": "Changing Hands wordmark and one subscribe placement. Keep final image visible through short hold.",
-      "on_screen_text": "Changing Hands",
-      "label": "No nonexistent next-video link; proposed channel identity.",
-      "effort": "low"
+      "production_status": "awaiting_editor_treatment"
     }
   ]
 }

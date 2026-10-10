@@ -63,3 +63,7 @@ Apply [EDITORIAL_REVIEW.md](../../EDITORIAL_REVIEW.md) and [NARRATION_STANDARD.m
 Apply [ENGAGEMENT_STANDARD.md](../../ENGAGEMENT_STANDARD.md). This channel's story engine is a family fortune and control saga. Introduce only the relationships needed for the current transfer. Update one inheritance/control map when rights or incentives change. Let documented choices and consequences create human interest; do not manufacture family conflict or overload the viewer with names.
 
 Use the newcomer and informed-skeptic lenses. Record each beat's changed understanding and why the next follows. Choose an earned first payoff and a specific final insight. Aim for substantial learning delivered through the story, with warmth and room to follow, rather than a list of business frameworks.
+
+## Editor-facing output
+
+[EDITOR_HANDOFF_STANDARD.md](../../EDITOR_HANDOFF_STANDARD.md) supersedes earlier visual-plan handoff instructions. Supply the clean script, separate audio cues/readable narration guide and concise research references. Visual examples above are internal possibilities, not editor prescriptions. The editor owns the visual treatment.

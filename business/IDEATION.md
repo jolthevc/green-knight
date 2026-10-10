@@ -31,7 +31,7 @@ Then provide one compact card per idea:
 - Hypothesis, explicitly unverified until researched.
 - The economic or strategic mechanism and likely non-obvious payoff. For Money Moves, include the decision and real alternatives to investigate. For Fallen Angels, define the failure and suspected cause versus trigger. For Changing Hands, identify the position/transaction, obligations and financial constraint. For Fool’s Gold, identify the apparent promise, suspected discrepancy and evidence status to investigate. For Silver Spoon, identify the family/asset, transfer or control mechanism and valuation uncertainty.
 - A 15–30 second hook concept, without fabricated statistics.
-- Three possible beats and one production-friendly visual device.
+- Three possible beats and the main audio/comprehension challenge. Leave visual treatment to the editor.
 - Source leads: two credible original-source leads when available, with URLs and access status. Label unopened leads as leads.
 - Risks: weak evidence, overfamiliar angle, disputed claim, complex math, expensive visuals or freshness.
 - Deduplication: matched IDs, how this differs, and cross-channel routing.

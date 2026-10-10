@@ -12,7 +12,7 @@ Confident, curious, precise, conversational delivery. Slow the allocations and o
 
 Produce a 30-45 second audition using P001's first three sentences, all P006, and P026's last two sentences, preserving canonical words and signaling excerpt transitions to the reviewer. This covers the hook, Donald Schupak, the obligation and ownership change. Actual duration controls the excerpt boundaries. Separately test P008 amounts and P014 season years.
 
-For the integrated 30-45 second visual pilot, use an excerpt from P023-P026, including the verified NBA announcement, a transfer and position board. Choose excerpt boundaries without rewriting. Include a title card and separate phone-size thumbnail preview. Owner selection creates profile version 1 with matching episode snapshots. Evaluate a full pilot before any batch purchase. No audition has been produced.
+For the integrated 30-45 second pilot, the editor selects the visual treatment. Supply the canonical excerpt and audio/research support, without prescribing scene design. Owner selection creates profile version 1 with matching episode snapshots. Evaluate a full pilot before any batch purchase. No audition has been produced.
 
 ## Pronunciation and spoken forms
 

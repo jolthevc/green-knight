@@ -80,3 +80,6 @@ Production: not yet produced. Channel narrator unselected and visual direction p
 Estimate: 1334 / 150 * 60 + 7.5 + 6 = 547.1 seconds. No audio/video inspected.
 Next action: execute the prepared production pilot and acceptance process when production is commissioned; do not label this package production_ready or published.
 
+## Handoff scope update, 2026-10-10
+
+Owner requested audio and research support, leaving visual treatment to the editor. The clean handoff, narration-guide.md and research-for-editor.md replace visual directives. Internal scene execution fields are removed; paragraph coverage and claim/source records remain. Script v2 and its hash are unchanged. Earlier suggested story revisions were not made in this update. No actual audio or visual review is claimed.

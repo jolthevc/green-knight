@@ -1,17 +1,11 @@
-# Visual plan
+# Editor-owned visual production record
 
-Template: replace all placeholders. Follow the channel style guide.
+Internal record, excluded from the default editor package.
 
-| Scene | Script paragraphs + anchors | Purpose | Image / motion / evidence | On-screen text | Source / reconstruction label | Timing / effort |
-| --- | --- | --- | --- | --- | --- | --- |
+Treatment: awaiting editor proposal. No scene descriptions, shot list, typography, palette or animation directives are supplied.
 
-Use a money-flow progression or other explanatory visual backbone. Distinguish verified documents from recreations. Show essential numbers with unit, period and source; keep original editable overlays. Never invent realistic proof imagery.
+Evidence.json owns paragraph/content coverage and source relationships, not visual execution. Review actual editor-proposed assets for factual accuracy, readability and agreed identity.
 
-## Reusable assets
-What can be reused safely, and which episode-specific assets must be made?
-
-## Silent holds
-List only periods without speech. Count them once in the runtime estimate. Visuals beneath narration are not extra runtime.
-
-## Accessibility and reading
-Phone-size text; labels alongside color coding; caption placement; contrast; time to read diagrams; end-screen space.
+Actual proposal/reference, once supplied:
+Review/date, once performed:
+No proposal or production inspection is claimed at template stage.

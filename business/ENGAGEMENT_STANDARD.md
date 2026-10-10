@@ -85,3 +85,7 @@ Meaningful visual changes, contrast, a pause or a quiet reveal can redirect atte
 After publication, connect retention dips/spikes to exact scenes and surrounding passages. Compare traffic sources and new versus returning viewers where data permits. A spike can mean confusion, and a metric change can reflect audience composition. Do not infer a causal win from one small upload or a title change alone.
 
 Use comments and voluntary pilot responses as qualitative evidence of understanding and satisfaction, not a representative survey. Track one specific next-episode hypothesis, its comparison and limitations. Keep the satisfying resolution inside this video, then offer one relevant next watch. No universal retention target or viral guarantee.
+
+## Editor ownership
+
+Apply EDITOR_HANDOFF_STANDARD.md. Visual objects and techniques above are internal editorial possibilities, not supplied scene descriptions. Leave actual treatment to the editor; the default handoff contains script, audio guidance and concise research support.

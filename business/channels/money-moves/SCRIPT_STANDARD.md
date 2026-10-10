@@ -63,3 +63,7 @@ Apply [EDITORIAL_REVIEW.md](../../EDITORIAL_REVIEW.md) and [NARRATION_STANDARD.m
 Apply [ENGAGEMENT_STANDARD.md](../../ENGAGEMENT_STANDARD.md). This channel's story engine is a consequential choice. Make the real constraint and alternatives intelligible before the decision. A brief “which option would you take?” can create participation where evidence supports the choices. Let execution and trade-offs challenge the initial judgment; never invent a boardroom scene.
 
 Use the newcomer and informed-skeptic lenses. Record each beat's changed understanding and why the next follows. Choose an earned first payoff and a specific final insight. Aim for substantial learning delivered through the story, with warmth and room to follow, rather than a list of business frameworks.
+
+## Editor-facing output
+
+[EDITOR_HANDOFF_STANDARD.md](../../EDITOR_HANDOFF_STANDARD.md) supersedes earlier visual-plan handoff instructions. Supply the clean script, separate audio cues/readable narration guide and concise research references. Visual examples above are internal possibilities, not editor prescriptions. The editor owns the visual treatment.

@@ -30,13 +30,13 @@ Create the internal beat outline and two or three hook alternatives. Choose the 
 
 Produce the full spoken draft in one pass using the channel script standard. Do not stop after the hook or deliver an outline as a script. Inspect it for speech, then revise for factual accuracy, comprehensibility, momentum, repetition and payoff. Script length follows the timed delivery, not an arbitrary word quota.
 
-Narration lives only in script.txt. After the wording stabilizes, number its blank-line-separated paragraphs P001, P002, etc. Store cue anchors in delivery-cues.json and paragraph references in visual-plan.md and sources-and-claims.md. If any wording or formatting changes, increment script_version and regenerate affected references. Record SHA-256 of exact script.txt bytes in metadata, cues and evidence.json; opening anchors alone do not detect all revisions.
+Narration lives only in script.txt. After the wording stabilizes, number its blank-line-separated paragraphs P001, P002, etc. Store cue anchors in delivery-cues.json and paragraph references in evidence.json and sources-and-claims.md. If any wording or formatting changes, increment script_version and regenerate affected references. Record SHA-256 of exact script.txt bytes in metadata, cues and evidence.json; opening anchors alone do not detect all revisions.
 
 ## 6. Add delivery and production directions
 
 Use VOICE.md and NARRATION_STANDARD.md for sparse instructions: pace, emphasis, pauses and intent. Provide a human-readable guide plus a machine-readable sidecar. Do not assume that an AI voice can follow emotional commands or SSML. The editor verifies the chosen provider's supported controls, auditions a short passage and records the selected provider/model/settings in versioned channel narration.json with a per-episode snapshot. Reuse approved profiles; complete voice-production.md with actual takes and listening during production. Unsupported cues are implemented through shorter takes, timing and editing.
 
-Plan purposeful visuals by paragraph, not just a stock-photo list. Every chart carries source/date/unit and every reconstruction is distinguishable from actual evidence. Keep the reusable visual vocabulary stable while scenes remain original.
+Follow EDITOR_HANDOFF_STANDARD.md. Prepare narration-guide.md from the exact cues and pronunciation record, plus research-for-editor.md from the evidence map. The editor owns visual treatment. Do not prescribe shots or send internal visual/packaging proposals. Maintain paragraph/content coverage without visual execution instructions; visual-plan.md records that treatment awaits the editor. Review factual integrity of the actual delivered imagery later.
 
 Complete packaging.md, handoff.md and qa.md. Give an estimated runtime with assumptions; never present it as measured audio. Mark scripted when the entire editorial package is saved and metadata.editorial records a passed internal review of the current script hash with no blocking issues. Production ready additionally requires the owner's voice/style selection and closed blocking editorial issues.
 

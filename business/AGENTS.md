@@ -41,3 +41,7 @@ Published: verified public URL and publication date recorded.
 ## Engagement is substantive
 
 Read ENGAGEMENT_STANDARD.md before ideation, outlining, scripting or reviewing. Use a familiar entry, earned early value and discoveries that change understanding. Apply its newcomer and informed-skeptic lenses before marking scripted; record the results in synthesis-and-outline.md and qa.md. These are internal editorial judgments unless real participants were consulted. Never substitute suspense or visual activity for missing explanation.
+
+## Editor owns visual treatment
+
+Read EDITOR_HANDOFF_STANDARD.md. Create narration-guide.md and research-for-editor.md matching the exact script/cues/evidence. Send the clean package only, without visual descriptions, shot lists, prompts, palettes, fonts or storyboards. Keep internal content coverage separate; visual-plan.md records editor ownership and later actual proposals.

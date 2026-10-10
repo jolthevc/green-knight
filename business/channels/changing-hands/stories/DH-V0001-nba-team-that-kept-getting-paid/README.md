@@ -20,3 +20,4 @@ Voice/visual profiles remain unselected/proposed version 0. Auditions, asset per
 
 Canonical SHA-256: `c95ad571754a1802b377e509e678cc6cbee9999667b3d6b7f25634b2a5326e73`.
 
+Owner instruction, 2026-10-10: visual treatment belongs to the editor. Internal outline, packaging and QA are not default handoff attachments. Spoken script v2 is unchanged.

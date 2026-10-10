@@ -51,3 +51,7 @@ At scripted, all claim and scene references must match real paragraphs. Source U
 ## Story-first audience review
 
 Apply ENGAGEMENT_STANDARD.md during the existing internal editorial review, not as another owner approval gate. Inspect the lead, first payoff, beat-by-beat changed understanding, the weakest middle stretch and the earned final insight. Record newcomer comprehension risks and informed-skeptic objections with fixes in synthesis-and-outline.md and qa.md. Structural validation cannot establish engagement; no viewing results are claimed before a real pilot or publication.
+
+## Handoff ownership
+
+Apply EDITOR_HANDOFF_STANDARD.md. Content coverage is not an approved storyboard. A script-stage visual-plan.md may explicitly await the editor's proposal. Narration-guide.md must match canonical cues; research-for-editor.md must match evidence. Sending visual descriptions is outside the default handoff.

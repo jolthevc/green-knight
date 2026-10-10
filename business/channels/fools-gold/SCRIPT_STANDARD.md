@@ -63,3 +63,7 @@ Apply [EDITORIAL_REVIEW.md](../../EDITORIAL_REVIEW.md) and [NARRATION_STANDARD.m
 Apply [ENGAGEMENT_STANDARD.md](../../ENGAGEMENT_STANDARD.md). This channel's story engine is an appearance-versus-reality mystery. Establish the legitimate baseline, then reveal a specific discrepancy and verification gap. Return to an initially credible object or record after evidence changes its meaning. Keep allegation and established fact distinct; no staged accusation or forced magician reveal.
 
 Use the newcomer and informed-skeptic lenses. Record each beat's changed understanding and why the next follows. Choose an earned first payoff and a specific final insight. Aim for substantial learning delivered through the story, with warmth and room to follow, rather than a list of business frameworks.
+
+## Editor-facing output
+
+[EDITOR_HANDOFF_STANDARD.md](../../EDITOR_HANDOFF_STANDARD.md) supersedes earlier visual-plan handoff instructions. Supply the clean script, separate audio cues/readable narration guide and concise research references. Visual examples above are internal possibilities, not editor prescriptions. The editor owns the visual treatment.
