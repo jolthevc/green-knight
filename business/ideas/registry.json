@@ -629,6 +629,66 @@
           "actor": "ChatGPT"
         }
       ]
+    },
+    {
+      "id": "DH-I0006",
+      "title": "The Basketball Team That Stopped Playing and Kept Getting Paid",
+      "aliases": [
+        "The NBA Deal That Outlived the Team",
+        "How Two Brothers Kept Getting Paid After Their Team Disappeared"
+      ],
+      "subject": "Spirits of St. Louis media-income rights from the 1976 settlement through the 2014 restructuring",
+      "mechanism": "Contractual television-income participation surviving team operations, followed by a financed change in ownership of the income-rights entity",
+      "viewer_promise": "Understand how a defunct basketball team retained media-income rights and how the paying teams sought to buy control of that obligation.",
+      "related_idea_ids": [],
+      "channel": "changing-hands",
+      "status": "proposed",
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-10",
+      "updated_at": "2026-10-10",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-10",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Proposed in business/ideas/2026-10-10-changing-hands-proposals.md after reading main at 6f2ef9903bc022596d8204d74f0d10e8aee8cb03 and all 23 global ledger entries. Card records hypothesis, source feasibility, assessment and cross-channel/topic/mechanism deduplication. Primary-source feasibility checked; not fully researched or selected."
+        }
+      ]
+    },
+    {
+      "id": "DH-I0007",
+      "title": "Volkswagen Bought Rolls-Royce. So Why Does BMW Own It?",
+      "aliases": [
+        "The Rolls-Royce Deal: One Buyer Got the Factory, Another Got the Name",
+        "Who Actually Bought Rolls-Royce?"
+      ],
+      "subject": "1998 Rolls-Royce/Bentley transaction and BMW-Volkswagen transition through 2003",
+      "mechanism": "Separate ownership of operating assets and brand rights, with supply obligations and transition timing shaping the negotiated split",
+      "viewer_promise": "Understand what each buyer actually acquired and how separately controlled rights and production capabilities shaped the outcome.",
+      "related_idea_ids": [
+        "DH-I0003"
+      ],
+      "channel": "changing-hands",
+      "status": "proposed",
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-10",
+      "updated_at": "2026-10-10",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-10",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Proposed in business/ideas/2026-10-10-changing-hands-proposals.md after reading main at 6f2ef9903bc022596d8204d74f0d10e8aee8cb03 and all 23 global ledger entries. Card records hypothesis, source feasibility, assessment and cross-channel/topic/mechanism deduplication. Primary-source feasibility checked; not fully researched or selected."
+        }
+      ]
     }
   ]
 }
