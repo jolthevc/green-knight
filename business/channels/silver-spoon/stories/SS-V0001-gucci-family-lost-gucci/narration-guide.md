@@ -1,46 +1,42 @@
-# Narration guide: SS-V0001
+# Narration guide | SS-V0001 v2
 
-**Script version 1 / SHA-256:** `6b56b1f852a7c268e62d4e170a5f95c404fc2adb2252611296963d298c7a7cde`
-**Style:** Warm, observant, precise, accessible, conversational and lightly witty. Acknowledge family conflict but do not turn it into a gossip or true-crime reading. Explain share percentages slowly and economically.
+**Canonical spoken script:** `script.txt`, version **2**, SHA-256 `1ce7d1cdf0fe9f9e8a9697151c0823b4ef54fcff2a176188e5c4c35639c56059`. Directions here are **non-spoken**; no SSML or provider-specific tags selected.
 
-**Channel profile:** `silver_spoon_narrator`, version 0, **unselected**. No provider, model, performer or audition audio has been authorized or approved. These are human-readable editorial cues, never text to speak.
+**Voice:** Warm, observant, exact, quietly engaged by the family predicament. A clear human business story, not a true-crime performance or a professor reading a financial memo. Distinguish the selling cousins, disputed heir, investor and corporate brand through concrete verbs and gentle role reminders.
 
-**Provisional timing:** 1401 script words / 150 assumed WPM + 11s extra pauses = 571.4s (approximately 9:31); actual duration must be measured on final video. No silent holds counted.
+**Narrator:** Channel `silver_spoon_narrator` version 0 remains **unselected**; no approved voice, engine, performer, reference audio or WPM measurement. Plan approximately 1418 source words at **assumed** 150 WPM with 11s explicitly extra pauses, giving **578.2 seconds (about 9:38)**. Ordinary punctuation pauses are included in assumed WPM; no extra silent holds are counted. This is not recorded duration.
 
-## Sparse paragraph cues
+## Paragraph-linked cues
 
-| Paragraph / exact opening | Pace / intent | Exact phrase for emphasis | Extra pause |
+| Exact paragraph opening | Pace / delivery intention | Phrase with purposeful emphasis | Extra pause |
 |---|---|---|---|
-| P001 / `By 1993, Gucci had achieved something almost impossible. Its name` | slower; curious | owned none of the company | 1s |
-| P003 / `That sounds like the ending. It is actually the puzzle. How does ` | natural; curious (question) | two halves of a company | 0s |
-| P006 / `You only need to remember two branches. Rodolfo had a son, Mauriz` | slower; matter_of_fact | Maurizio inherited his father's half | 1s |
-| P009 / `A federal judge in 1988 recognized Paolo's work as a designer. Bu` | slower; matter_of_fact | independent trademark | 1s |
-| P011 / `Then came the first sale. During the late 1980s, members of Aldo'` | natural; curious | fifty percent | 0s |
-| P015 / `The partners disagreed over how things were going. Contemporary r` | natural; skeptical | competing claims | 1s |
-| P017 / `In September, the stalemate ended. Investcorp bought Maurizio's r` | slower; matter_of_fact | reported transaction estimate | 1s |
-| P020 / `There is another important timing detail. Maurizio Gucci was kill` | slower; matter_of_fact | already happened in 1993 | 1s |
-| P022 / `Then Investcorp began selling its own shares. In October 1995, it` | natural; matter_of_fact | remaining fifty-two percent | 1s |
-| P023 / `The share prices in those offerings were different: twenty-two do` | natural; skeptical | not a clean calculation | 1s |
-| P025 / `That distinction matters. A successful turnaround after a sale do` | slower; reflective | cannot rerun the company | 1s |
-| P028 / `The story began with a name on a handbag. Now that name tells us ` | slower; reflective | ownership is not inherited through a logo | 2s |
+| P001: In 1993, the Gucci family sold the last piece of Gucci. The name  | natural; curious | no longer owned it | 0s |
+| P003: So how did one of fashion's most famous family fortunes end up in | natural; curious | how did Gucci keep growing | 0s |
+| P006: In 1983, Rodolfo died, leaving Maurizio a claim to roughly half t | slower; matter_of_fact | tangled in a dispute | 1s |
+| P008: In April 1988, the company announced that investment bank Morgan  | slower; matter_of_fact | Giorgio and Roberto Gucci | 1s |
+| P011: And in June 1988, the stakes became visible inside the boardroom. | slower; curious | four representatives on an eight-member board | 1s |
+| P012: That attempt failed. Two court-appointed custodians overseeing Ma | slower; matter_of_fact | That attempt failed | 1s |
+| P014: A man born Gucci could still be prevented from putting his own na | natural; reflective | A man born Gucci | 1s |
+| P017: For several years, Maurizio and Investcorp remained owners of opp | natural; skeptical | Neither accusation | 1s |
+| P018: Then, in September 1993, Maurizio sold his remaining half to Inve | slower; matter_of_fact | remaining half to Investcorp | 1s |
+| P019: With that purchase, Investcorp owned the whole company. There was | natural; matter_of_fact | owned the whole company | 1s |
+| P022: Here is the detail that can distort the entire story. Maurizio Gu | slower; matter_of_fact | after the final sale | 1s |
+| P025: By 1998, Gucci brand revenue had passed a billion dollars. Revenu | natural; curious | a billion dollars | 0s |
+| P029: Go back to the handbag. Its label tells you the brand. It does no | slower; reflective | does not tell you which family owns the shares | 2s |
 
-## Names / terms to audition and verify
+The strongest delivery contrasts: concrete 1988 intermediated share purchase (P008), failed board majority (P011–P012), September 1993 final family sale (P018–P020), quiet post-family hindsight question (P025–P026), rights insight (P029).
 
-| Term | Intended treatment | Source status |
-|---|---|---|
-| Gucci; Guccio Gucci | Italian surnames, smooth English narration | Verify with authentic Italian or brand material before generating narration; do not invent IPA |
-| Maurizio Gucci | Clear four-syllable first name, surname consistent throughout | Audition with reliable original pronunciation |
-| Aldo, Rodolfo, Vasco, Paolo | Differentiate by role before returning to name | Check established name recordings before lock |
-| Investcorp | Say as a single company name | Confirm English financial-institution usage |
-| Domenico De Sole | Do not force Anglicized rhythm or affected accent | Verify with interviews |
-| Tom Ford | Standard name | No special cue |
-| LVMH | Read initials individually | Avoid automated expansion as a word |
-| PPR | Read initials individually | Do not call PPR Kering in 1999 without the later-name qualifier |
+## Pronunciation and financial reading checks
 
-## Numbers
+| Name / phrase | Editorial instruction |
+|---|---|
+| Guccio, Gucci, Giorgio, Roberto, Rodolfo, Maurizio, Paolo | Verify the chosen voice's pronunciation against authentic Italian/brand interview examples; do not invent permanent IPA or phonetic substitutions before audition |
+| Morgan Stanley, Investcorp | Clearly distinct: Morgan Stanley = intermediary April 1988; Investcorp = buyer identified later |
+| Domenico De Sole | Verify against real interview audio; the CEO title only applies from July 1995 |
+| LVMH, PPR | Read individual letters; PPR was the 1999 name, later called Kering |
+| 47.7% | “Nearly forty-eight percent” in spoken P008 refers to April 1988 assembled intermediary stake, not full completed later 50% |
+| Four of eight / proposed fifth | Slow slightly so the board-control issue is understood without visuals |
+| $150m–$200m | Spoken “one hundred and fifty and two hundred million dollars”; explicitly a **reported estimate for the remaining company half**, not net personal proceeds |
+| Over $1 billion | **1998 Gucci brand revenue**, not total shareholder proceeds or operating profit |
 
-Half / fifty percent is intentional for comprehensibility; 1988 TIME reported 47.8% at announcement whereas the later SEC chronology summarizes Investcorp's completed 1987–89 acquisition as 50%. “A hundred and fifty to two hundred million dollars” is a contemporary **reported estimate** of the 1993 half-stake transaction, not proven personal proceeds. Twenty-two and forty-eight dollars are share offer prices at different dates. One billion dollars refers to brand sales in 1998, not profits.
-
-## Audio review boundaries
-
-First use a 30–45 second audition covering the hook, a family surname and the distinction between a trademark and surname. Record settings only after actual approval. Use natural sentence units and sparse emphases. The editor should listen to the full assembled 8–10 minute track at normal speed, check numbers and name consistency, and inspect every retake join. A text read-through has **not** been represented as an audio check.
+**Production review still needed:** audition 30–45 seconds including surname, 1988 board arithmetic and 1993 price; select profile/settings with owner authorization; inspect complete assembled narration at normal speed, check retakes and mix and measure actual 480–600 sec final cut. No audio has been generated or listened to as part of this text revision.
