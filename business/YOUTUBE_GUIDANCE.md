@@ -22,3 +22,9 @@ No fixed publication cadence, universal retention threshold, RPM guarantee, mand
 ## Packaging deliverable
 
 Supply three accurate title options, two materially different thumbnail concepts, a chosen pair with its specific promise, a unique description opening, selected source links, draft chapters and a concise relevant tag set. Final chapter times come from the edited cut. Check that the opening and conclusion honor the chosen title/thumbnail.
+
+## Originality and disclosure at upload
+
+[YouTube monetization guidance](https://support.google.com/youtube/answer/1311392?hl=en), checked 2026-10-10: original, authentic substance matters; generic, repetitive or mass-produced content is a problem. Reusable identity does not justify interchangeable scripts or minimally varied videos. Our implementation is distinct research, explanation and scenes for each story, including across channels. AI use or handmade assets alone do not guarantee eligibility.
+
+[YouTube's synthetic-content disclosure guidance](https://support.google.com/youtube/answer/14328491?hl=en), checked 2026-10-10, distinguishes unrealistic/minor assistance from realistic or meaningfully altered content requiring disclosure. Review the actual narration, imagery and music at upload; its examples include AI-generated music. Do not assume that illustrated scenes remove disclosure requirements for every other asset. Record the upload decision and reason in packaging.md using current policy.

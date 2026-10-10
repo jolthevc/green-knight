@@ -6,7 +6,7 @@ Warm, observant and precise, with conversational curiosity and occasional dry wi
 
 Test 30–45 seconds containing a hook, a difficult surname, a relationship, an ownership distinction and a turning point. Choose clarity over an affected aristocratic accent or gossip-show delivery.
 
-The owner selects the narrator. Record provider, voice ID/settings, supported controls, pronunciations and observed WPM in metadata.json. No narrator/provider is selected yet.
+The owner selects the narrator. Record provider, voice ID/settings, supported controls, pronunciations and observed WPM in the channel's narration.json and a versioned story metadata snapshot. No narrator/provider is selected yet.
 
 ## Runtime
 
@@ -33,3 +33,13 @@ Cues are editor directions, not TTS API fields. Verify provider-supported syntax
 Check names, generational relationships, percentages, amounts and the distinction between ownership and leadership. Confirm no cues or citation IDs are spoken. Update anchors and source/visual references after wording changes.
 
 An audition does not approve the unseen final cut. Measure the finished video and check intelligibility with music and diagrams.
+
+## Shared production mechanics
+
+Follow [NARRATION_STANDARD.md](../../NARRATION_STANDARD.md) for audition, profile versioning, pronunciation, coherent takes, retakes and full listening. [narration.json](narration.json) is the canonical channel voice; metadata stores its per-episode snapshot. Reuse an unchanged approved profile without another selection step. A material change creates a new profile version.
+
+Delivery cues now use schema_version 2 and the exact script hash as well as script_version/paragraph anchors. Optional inflection describes neutral, question or settled delivery. These shared technical rules govern abbreviated cue descriptions above.
+
+## Channel-specific listening test
+
+Can the listener distinguish the relevant family branches, cash interests, votes and management roles? Reorient using a role when too many surnames accumulate. Avoid an affected aristocratic accent and gossip-show certainty.

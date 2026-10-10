@@ -49,3 +49,7 @@ The full first draft is written at once after research and internal outlining. T
 Review facts, causal reasoning, opening promise, early payoff, progression, pronunciation, repetition, production feasibility and estimate. A second review must test the thesis against the counterevidence, not just polish language.
 
 Save the complete draft plus research, sources, synthesis, cues, visuals, package and QA. Clearly distinguish editorially approved wording from audio not yet produced or measured.
+
+## Readiness and spoken clarity
+
+Apply [EDITORIAL_REVIEW.md](../../EDITORIAL_REVIEW.md) and [NARRATION_STANDARD.md](../../NARRATION_STANDARD.md). Evidence, cues and scenes must reference the exact script hash/version. Narration directions cannot fix an overloaded sentence: simplify the prose first, preserve numerical meaning, then add sparse cues. A text review is not a completed audio listening test.

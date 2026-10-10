@@ -10,6 +10,8 @@
 - [Narration and delivery cues](VOICE.md)
 - [Script standard](SCRIPT_STANDARD.md)
 - [Configuration](channel.json)
+- [Versioned narrator profile](narration.json)
+- [Shared narration production](../../NARRATION_STANDARD.md)
 - [Shared idea log](../../ideas/registry.json)
 - [Shared workflow](../../WORKFLOW.md)
 - [Pilot acceptance](../../PILOT_ACCEPTANCE.md)

@@ -25,3 +25,6 @@ One main spoken CTA after the payoff. Exact adjacent published video URL, or lau
 
 ## Final upload check
 Claims/title/thumbnail match the final script; links actually exist; timestamps reflect final cut.
+
+## Actual asset and disclosure review
+Record the actual narration/imagery/music sources and the YouTube disclosure decision with reason and policy-check date. Distinguish evidence from reconstructions. Confirm each episode adds original research/storytelling rather than duplicating another channel's substance.

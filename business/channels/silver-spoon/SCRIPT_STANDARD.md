@@ -53,3 +53,7 @@ One main CTA follows the payoff, usually an adjacent published story. Use a shor
 Check relationships, ownership/control distinctions, valuation dates/methods, overlapping estimates, transfer status, private-information gaps, causal reasoning, counterevidence and tone.
 
 Complete the shared package plus family/ownership map and transfer timeline in research/synthesis. Validate paragraph anchors and estimated timing. Actual finished duration is verified during production.
+
+## Readiness and spoken clarity
+
+Apply [EDITORIAL_REVIEW.md](../../EDITORIAL_REVIEW.md) and [NARRATION_STANDARD.md](../../NARRATION_STANDARD.md). Evidence, cues and scenes must reference the exact script hash/version. Narration directions cannot fix an overloaded sentence: simplify the prose first, preserve numerical meaning, then add sparse cues. A text review is not a completed audio listening test.

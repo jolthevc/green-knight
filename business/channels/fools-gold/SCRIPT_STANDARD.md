@@ -53,3 +53,7 @@ A short main CTA follows the payoff, usually a related published video. If none 
 Check legal/evidence status, actual versus claimed money flow, source independence, numbers, missing evidence, counterpoints, title promise, early value, progression, empathy and production feasibility.
 
 Complete the shared package with appearance/reality map, verification-gap analysis and exposure timeline in research/synthesis. Validate anchors and timing estimates. Final production approval requires measured duration and listening to the actual cut.
+
+## Readiness and spoken clarity
+
+Apply [EDITORIAL_REVIEW.md](../../EDITORIAL_REVIEW.md) and [NARRATION_STANDARD.md](../../NARRATION_STANDARD.md). Evidence, cues and scenes must reference the exact script hash/version. Narration directions cannot fix an overloaded sentence: simplify the prose first, preserve numerical meaning, then add sparse cues. A text review is not a completed audio listening test.

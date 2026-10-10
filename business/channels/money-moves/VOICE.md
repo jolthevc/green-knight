@@ -4,7 +4,7 @@ Curious, direct, lightly witty and confident without pretending the outcome was 
 
 ## Voice selection
 
-Audition 30–45 seconds containing a constraint, two alternatives, a difficult brand/name and a consequential reveal. The owner chooses the narrator. Record provider, voice ID/settings, supported controls, pronunciation notes and observed speaking speed in story metadata. No voice or provider is selected yet.
+Audition 30–45 seconds containing a constraint, two alternatives, a difficult brand/name and a consequential reveal. The owner chooses the narrator. Record provider, voice ID/settings, supported controls, pronunciation notes and observed speaking speed in the channel's narration.json and a versioned story metadata snapshot. No voice or provider is selected yet.
 
 Do not assume the same narrator as Pretty Penny. Channel identity should be consistent within Money Moves.
 
@@ -36,3 +36,13 @@ The clean script is the only spoken input. These directions are for the editor. 
 ## Acceptance
 
 Listen to an early take before full generation. Check naturalness, comprehension, numerical pronunciation and tonal restraint. After wording revisions regenerate cue anchors and claim/visual references. An estimated duration does not replace timing the final video.
+
+## Shared production mechanics
+
+Follow [NARRATION_STANDARD.md](../../NARRATION_STANDARD.md) for audition, profile versioning, pronunciation, coherent takes, retakes and full listening. [narration.json](narration.json) is the canonical channel voice; metadata stores its per-episode snapshot. Reuse an unchanged approved profile without another selection step. A material change creates a new profile version.
+
+Delivery cues now use schema_version 2 and the exact script hash as well as script_version/paragraph anchors. Optional inflection describes neutral, question or settled delivery. These shared technical rules govern abbreviated cue descriptions above.
+
+## Channel-specific listening test
+
+Can the listener identify the constraint, alternatives and trade-off? Contrast the options naturally. Confidence must not turn an uncertain causal interpretation into a triumphant claim that the choice was obviously genius.

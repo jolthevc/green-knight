@@ -15,10 +15,16 @@
   "production_status": "setup",
   "narration": {
     "profile": "curious, direct, lightly witty, measured confidence",
-    "provider": null,
-    "voice_id": null,
-    "calibrated_wpm": null
+    "profile_id": "money_moves_narrator",
+    "profile_path": "business/channels/money-moves/narration.json"
   },
   "visual_direction_status": "stick_character_direction_selected_details_proposed",
-  "automated_portfolio_registration": false
+  "automated_portfolio_registration": false,
+  "visual_profile": {
+    "version": 0,
+    "status": "proposed",
+    "approved_by": null,
+    "approved_at": null,
+    "reference_urls": []
+  }
 }

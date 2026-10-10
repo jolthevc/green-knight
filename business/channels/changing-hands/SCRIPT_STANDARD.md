@@ -57,3 +57,7 @@ Close on a specific insight about this event, not advice to imitate a leveraged 
 Check positions/obligations, terms, funding, timeframe, units, accounting distinctions, turning-point causality, title promise, comprehension, counterevidence and tonal restraint.
 
 Complete the shared story package with transaction/position map and event timeline in research/synthesis. Validate paragraph anchors and timing assumptions. Actual rendered runtime is verified during production.
+
+## Readiness and spoken clarity
+
+Apply [EDITORIAL_REVIEW.md](../../EDITORIAL_REVIEW.md) and [NARRATION_STANDARD.md](../../NARRATION_STANDARD.md). Evidence, cues and scenes must reference the exact script hash/version. Narration directions cannot fix an overloaded sentence: simplify the prose first, preserve numerical meaning, then add sparse cues. A text review is not a completed audio listening test.

@@ -21,7 +21,7 @@ Names do not justify duplicate lanes. A company can feature on several channels 
 4. Research, synthesize, write one complete script, revise internally, and produce separate voice and visual directions.
 5. Save the actual artifacts and update the registry in the same commit.
 
-[YouTube guidance](YOUTUBE_GUIDANCE.md) separates official platform guidance from our editorial hypotheses. [Templates](templates/story/README.md) give every story the same files. [Pilot acceptance](PILOT_ACCEPTANCE.md) gives us a consistent way to compare editors before ordering batches.
+[Narration production](NARRATION_STANDARD.md), [editorial stage gates](EDITORIAL_REVIEW.md) and [lane routing](LANE_ROUTING.md) govern quality and consistency. [YouTube guidance](YOUTUBE_GUIDANCE.md) separates official platform guidance from our editorial hypotheses. [Templates](templates/story/README.md) give every story the same files. [Pilot acceptance](PILOT_ACCEPTANCE.md) gives us a consistent way to compare editors before ordering batches.
 
 ## Scope and ownership
 
@@ -32,3 +32,5 @@ Use channel-specific idea/video identifiers here (PP for Pretty Penny; MM for Mo
 Keep large media, source PDFs, recordings and editable project files in external storage; commit their stable links in story metadata. Do not commit passwords, API keys, private editor contact details or licensed source files.
 
 All six channel workspaces are built. Voice selection, integrated visual pilots, editor scope/pricing and publication schedules remain pilot-stage decisions. Changing Hands remains a working name. Start with idea selection and a reviewable pilot before purchasing repeat batches.
+
+[Latest six-channel audit](AUDIT_2026-10-10.md) records gaps fixed, validation and decisions that require real pilots.

@@ -4,7 +4,7 @@ Confident, curious and precise, with controlled tension. The voice helps a gener
 
 ## Audition
 
-Test 30–45 seconds containing a hook, a difficult name, an amount, an obligation and a turning point. Choose a voice that remains clear when the explanation becomes technical. The owner selects it; provider, voice/settings and supported controls go in metadata.json.
+Test 30–45 seconds containing a hook, a difficult name, an amount, an obligation and a turning point. Choose a voice that remains clear when the explanation becomes technical. The owner selects it; provider, voice/settings and supported controls go in the channel's narration.json and a versioned story metadata snapshot.
 
 No narrator, provider or settings are selected yet.
 
@@ -36,3 +36,13 @@ These fields guide the editor; they are not a provider API specification. Verify
 Check names, currencies, amounts, abbreviations and the distinction between owned and owed. Confirm no directions or citations are spoken. Regenerate anchors and source/visual references when wording changes.
 
 Audition approval does not approve an unseen full cut. Final runtime and audio intelligibility must be checked on the actual rendered video.
+
+## Shared production mechanics
+
+Follow [NARRATION_STANDARD.md](../../NARRATION_STANDARD.md) for audition, profile versioning, pronunciation, coherent takes, retakes and full listening. [narration.json](narration.json) is the canonical channel voice; metadata stores its per-episode snapshot. Reuse an unchanged approved profile without another selection step. A material change creates a new profile version.
+
+Delivery cues now use schema_version 2 and the exact script hash as well as script_version/paragraph anchors. Optional inflection describes neutral, question or settled delivery. These shared technical rules govern abbreviated cue descriptions above.
+
+## Channel-specific listening test
+
+Can the listener say who owns what, who owes what and what changes at the turning point? Slow the obligation/position example. Avoid reading a sequence of huge numbers with identical dramatic emphasis.

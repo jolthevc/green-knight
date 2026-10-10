@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "profile_id": "pretty_penny_narrator",
+  "version": 0,
+  "status": "unselected",
+  "kind": null,
+  "provider": null,
+  "model_id": null,
+  "voice_id": null,
+  "performer_name": null,
+  "locale": "en",
+  "accent": null,
+  "settings": {},
+  "pronunciations": [],
+  "observed_wpm": null,
+  "reference_audio_url": null,
+  "approved_by": null,
+  "approved_at": null
+}

@@ -2,7 +2,7 @@
 
 ## Read before doing work
 
-Read README.md, WORKFLOW.md, IDEATION.md, YOUTUBE_GUIDANCE.md, ideas/README.md and ideas/registry.json. For the selected channel also read channels/<slug>/{README,CHANNEL,STYLE,VOICE,SCRIPT_STANDARD}.md and channel.json. Read the configured idea/story prefixes; Pretty Penny uses PP, Money Moves uses MM, Fallen Angels uses FA, Changing Hands uses DH, Fool’s Gold uses FG, Silver Spoon uses SS. Follow the story templates when creating an episode.
+Read README.md, WORKFLOW.md, IDEATION.md, YOUTUBE_GUIDANCE.md, ideas/README.md and ideas/registry.json. For the selected channel also read channels/<slug>/{README,CHANNEL,STYLE,VOICE,SCRIPT_STANDARD}.md and channel.json. Read the configured idea/story prefixes; Pretty Penny uses PP, Money Moves uses MM, Fallen Angels uses FA, Changing Hands uses DH, Fool’s Gold uses FG, Silver Spoon uses SS. Also read NARRATION_STANDARD.md, EDITORIAL_REVIEW.md and LANE_ROUTING.md, plus the selected channel's narration.json. Follow the story templates when creating an episode.
 
 This workspace implements the owner's manual ChatGPT process. Its local GitHub ledger and story artifacts are canonical here, even though the older portfolio system stores working artifacts elsewhere. Never imply that Sheets, Drive, n8n or YouTube were updated unless actually verified.
 
@@ -24,6 +24,8 @@ This workspace implements the owner's manual ChatGPT process. Its local GitHub l
 - script.txt contains spoken words only. Delivery directions and citations go in separate files. No voice provider or unsupported control syntax is preselected.
 - Preserve approved wording through production. Substantive changes return to the script and evidence check.
 - Keep IDs stable, append history and update status only when deliverables exist. A finished script is not a published video.
+- Before scripted, record an internal editorial review and populate evidence.json. Tie evidence/cues and reviews to the exact script version/hash. Do not fabricate completed listening, rendering or source-access checks.
+- Reuse a versioned approved channel narrator/visual profile; material changes require new recorded versions. The initial owner selection is not a repeated per-episode approval gate.
 - Run tools/validate.py before committing. Persist linked artifacts and ledger together. Re-read the branch head before writing; never force an overwrite of someone else's update.
 - If write access is missing, provide a concrete patch/artifacts and state that GitHub was not updated. Do not tell the user it was saved.
 - Do not send messages to editors or publish videos unless instructed.

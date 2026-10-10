@@ -57,3 +57,7 @@ Use one main CTA after the payoff, generally an adjacent published story. If non
 Check failure definition, evidence chronology, causal reasoning, alternatives, contemporary knowledge, allegation/fact distinction, title promise, early value, progression, repetition, tonal restraint and production feasibility.
 
 The completed package uses the shared artifacts plus a failure timeline and cause/trigger analysis in research and synthesis. Validate cue/claim/visual anchors and estimated timing. Production QA requires listening and actual finished duration.
+
+## Readiness and spoken clarity
+
+Apply [EDITORIAL_REVIEW.md](../../EDITORIAL_REVIEW.md) and [NARRATION_STANDARD.md](../../NARRATION_STANDARD.md). Evidence, cues and scenes must reference the exact script hash/version. Narration directions cannot fix an overloaded sentence: simplify the prose first, preserve numerical meaning, then add sparse cues. A text review is not a completed audio listening test.

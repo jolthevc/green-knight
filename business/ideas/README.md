@@ -18,7 +18,7 @@ Use ISO dates or UTC timestamps consistently. Null means unknown/not applicable,
 
 ## Update protocol
 
-Read latest head and entire ledger. Check canonical subject + mechanism + viewer promise and aliases across every status. Allocate the next idea and story IDs independently using the selected channel.json: PP-I####/PP-V####, MM-I####/MM-V#### FA-I####/FA-V#### DH-I####/DH-V#### FG-I####/FG-V#### or SS-I####/SS-V####. Write artifacts and matching ledger entries together; append history, do not erase it. Run the validator and commit with an expected-head check. If someone changed the branch, reread and merge their state before retrying.
+Read latest head and entire ledger. Check canonical subject + mechanism + viewer promise and aliases across every status. Allocate the next idea and story IDs independently using the selected channel.json: PP-I####/PP-V####, MM-I####/MM-V#### FA-I####/FA-V#### DH-I####/DH-V#### FG-I####/FG-V#### or SS-I####/SS-V####. Write artifacts and matching ledger entries together; append history, do not erase it. Run the validator and commit with an expected-head check. Use EDITORIAL_REVIEW.md for explicit researched/scripted/production/published gates; never promote status from file existence alone. If someone changed the branch, reread and merge their state before retrying.
 
 IDs are business-workspace identifiers; they do not imply CH registration in the older system. Configured prefixes are PP for Pretty Penny, MM for Money Moves, FA for Fallen Angels, DH for Changing Hands, FG for Fool’s Gold and SS for Silver Spoon. New channels need their own prefix assigned at setup.
 
@@ -26,7 +26,7 @@ After a save, report the IDs, actual status and link. After publication, add per
 
 ## Entry shape
 
-This is an example shape, not a saved proposal or reserved ID:
+This is an entry-shape illustration, not a new proposal. PP-I0001 is already in the live registry; allocate the next available ID rather than copying it:
 
 ```json
 {

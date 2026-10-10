@@ -25,7 +25,16 @@
     "voice_id": null,
     "settings": null,
     "audition_approved": false,
-    "pronunciations": []
+    "pronunciations": [],
+    "profile_id": null,
+    "profile_version": null,
+    "kind": null,
+    "model_id": null,
+    "performer_name": null,
+    "locale": null,
+    "accent": null,
+    "reference_audio_url": null,
+    "observed_wpm": null
   },
   "assets": {
     "review_video_url": null,
@@ -40,6 +49,24 @@
   "visual": {
     "direction": null,
     "approved": false,
-    "reference_urls": []
+    "reference_urls": [],
+    "profile_version": null
+  },
+  "script_sha256": null,
+  "editorial": {
+    "passed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "reviewed_script_sha256": null,
+    "blocking_issues": []
+  },
+  "production_review": {
+    "passed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "reviewed_script_sha256": null,
+    "audio_url": null,
+    "final_cut_url": null,
+    "full_audio_listened": false
   }
 }

@@ -16,10 +16,16 @@
   "production_status": "setup",
   "narration": {
     "profile": "confident, curious, precise, conversational, controlled tension",
-    "provider": null,
-    "voice_id": null,
-    "calibrated_wpm": null
+    "profile_id": "changing_hands_narrator",
+    "profile_path": "business/channels/changing-hands/narration.json"
   },
   "visual_direction_status": "financial_caper_proposed_for_pilot",
-  "automated_portfolio_registration": false
+  "automated_portfolio_registration": false,
+  "visual_profile": {
+    "version": 0,
+    "status": "proposed",
+    "approved_by": null,
+    "approved_at": null,
+    "reference_urls": []
+  }
 }

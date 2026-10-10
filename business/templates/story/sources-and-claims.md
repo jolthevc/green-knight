@@ -19,3 +19,8 @@ What would an informed skeptical viewer dispute? Which authoritative sources dis
 
 ## Freshness check
 Record research date and which facts need rechecking immediately before production/upload.
+
+## Canonical structured map
+Populate evidence.json for sources, claims and scene/paragraph references. It owns the IDs, script hash/version and source access status. This document is the readable review of that map; keep it consistent instead of operating a second source ledger.
+
+Source records: id, publisher, title, url, accessed_at, locator and access_status (opened / partial / lead_only). Claim records: id, paragraph_id, exact opening anchor, claim, source_ids, status (verified / inference / illustrative) and basis. Scene records: id, paragraphs (paragraph_id + opening anchor pairs), purpose, evidence_type (illustration / document / data / reconstruction) and source_ids. Document/data scenes require supporting sources. Cover every spoken paragraph with a scene.

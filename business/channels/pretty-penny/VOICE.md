@@ -4,7 +4,7 @@ A warm, curious, confident adult narrator. Conversational rather than promotiona
 
 ## Calibration
 
-Choose the narrator through an owner-reviewed 30–45 second audition containing a puzzle, money figure, difficult name and quiet payoff. Test comprehension and naturalness, then record provider, voice ID, supported controls, pronunciation choices and observed speaking speed in metadata.json. No provider is chosen yet.
+Choose the narrator through an owner-reviewed 30–45 second audition containing a puzzle, money figure, difficult name and quiet payoff. Test comprehension and naturalness, then record provider, voice ID, supported controls, pronunciation choices and observed speaking speed in the channel's narration.json and a versioned story metadata snapshot. No provider is chosen yet.
 
 As a planning assumption, try 150 spoken words per minute plus explicit pauses and silent visual holds. Actual delivery can differ. Around 1,200–1,400 words often provides a workable starting draft, but calculate and then measure the episode; this is not a requirement or guarantee.
 
@@ -49,3 +49,13 @@ For a hypothetical paragraph beginning “Someone still has to pay.”:
 ```
 
 This example does not correspond to an existing script. Direction fields describe intent for the editor; they are not a provider's API parameters.
+
+## Shared production mechanics
+
+Follow [NARRATION_STANDARD.md](../../NARRATION_STANDARD.md) for audition, profile versioning, pronunciation, coherent takes, retakes and full listening. [narration.json](narration.json) is the canonical channel voice; metadata stores its per-episode snapshot. Reuse an unchanged approved profile without another selection step. A material change creates a new profile version.
+
+Delivery cues now use schema_version 2 and the exact script hash as well as script_version/paragraph anchors. Optional inflection describes neutral, question or settled delivery. These shared technical rules govern abbreviated cue descriptions above.
+
+## Channel-specific listening test
+
+Do the actors, dollar flows and cost/profit distinctions remain understandable without looking at the screen? Slow for the calculation, then return to a curious conversational pace. Avoid a children's-explainer cadence or pretending an illustrative receipt is audited fact.

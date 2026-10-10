@@ -15,10 +15,16 @@
   "production_status": "setup",
   "narration": {
     "profile": "warm, observant, precise, conversational, lightly witty",
-    "provider": null,
-    "voice_id": null,
-    "calibrated_wpm": null
+    "profile_id": "silver_spoon_narrator",
+    "profile_path": "business/channels/silver-spoon/narration.json"
   },
   "visual_direction_status": "illustrated_dynasty_proposed_for_pilot",
-  "automated_portfolio_registration": false
+  "automated_portfolio_registration": false,
+  "visual_profile": {
+    "version": 0,
+    "status": "proposed",
+    "approved_by": null,
+    "approved_at": null,
+    "reference_urls": []
+  }
 }

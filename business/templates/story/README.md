@@ -7,10 +7,12 @@ Copy this directory, excluding README.md, into the selected channel's stories/<s
 | metadata.json | Stable IDs, version, status, timing assumptions, actual assets and narration settings |
 | brief.md | Selected question, promise, audience and duplicate distinction |
 | research.md | Evidence, mechanism, counterpoints and gaps |
-| sources-and-claims.md | Opened sources and traceable script claims |
+| evidence.json | Canonical source/claim/scene records and script hash/version |
+| sources-and-claims.md | Readable evidence review consistent with evidence.json |
 | synthesis-and-outline.md | Editorial thesis, beat plan and promise/payoff map |
 | script.txt | Complete clean spoken words, created after research |
-| delivery-cues.json | Non-spoken paragraph-linked delivery instructions |
+| delivery-cues.json | Non-spoken directions tied to exact script hash/version |
+| voice-production.md | Pronunciations, takes, retakes and actual listening record |
 | visual-plan.md | Paragraph-linked scenes and factual graphics |
 | packaging.md | Titles, thumbnails, description, chapters and CTA |
 | handoff.md | Exact editor inputs, constraints and deliverables |
@@ -20,3 +22,5 @@ Copy this directory, excluding README.md, into the selected channel's stories/<s
 Do not copy placeholder text into a voice generator. The intentionally empty template script.txt requires a real full script before status scripted. Delivery cues do not need to exist for every paragraph; purposeful cues are sparse.
 
 metadata.status and registry.status must agree. Increase script_version when wording changes. Record meaningful changes in metadata.revision_history and registry.history. The final recording is timed by the editor; initial word-based estimates are provisional.
+
+Use [editorial review](../../EDITORIAL_REVIEW.md) for stage gates and [narration standard](../../NARRATION_STANDARD.md) for profiles and listening. voice-production.md is populated during production, not fabricated at scripted. evidence.json must be populated before researched; script references become mandatory at scripted.

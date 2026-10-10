@@ -2,11 +2,11 @@
 
 ## 1. Load context
 
-Read the business instructions, selected channel rules and full registry. Fetch the current main branch, not a stale summary. State the lane and task briefly. The user can ask for ideas, choose an existing idea, resume research, revise a script or prepare a handoff.
+Read the business instructions, selected channel rules/narration.json, NARRATION_STANDARD.md, EDITORIAL_REVIEW.md, LANE_ROUTING.md and full registry. Fetch the current main branch, not a stale summary. State the lane and task briefly. The user can ask for ideas, choose an existing idea, resume research, revise a script or prepare a handoff.
 
 ## 2. Ideate and select
 
-Use IDEATION.md. Search for exact and near duplicates across all six lanes. A new title for the same explanation is a duplicate. A genuinely new mechanism, audience question or updated fact pattern can justify a revisit; explicitly reference the earlier ID and explain the difference.
+Use IDEATION.md and LANE_ROUTING.md. Search for exact and near duplicates across all six lanes. A new title for the same explanation is a duplicate. A genuinely new mechanism, audience question or updated fact pattern can justify a revisit; explicitly reference the earlier ID and explain the difference.
 
 Persist proposed ideas with stable IDs. The user chooses unless selection is delegated. On selection read the chosen channel.json, allocate the next ID using its story_prefix, copy templates/story/ to channels/<slug>/stories/<story-id>-short-slug/, set metadata.channel and the actual identifiers, fill metadata.json, and update the registry to selected. Pretty Penny uses PP-V####; Money Moves uses MM-V####; Fallen Angels uses FA-V####; Changing Hands uses DH-V####; Fool’s Gold uses FG-V####; Silver Spoon uses SS-V####. No stock script or completed pilot is seeded.
 
@@ -14,7 +14,7 @@ Persist proposed ideas with stable IDs. The user chooses unless selection is del
 
 Start with the central question and an unproven hypothesis. Search primary documents, filings, official data, relevant research and strong reporting. Open sources and inspect the actual supporting passage; a search snippet is a lead, not evidence.
 
-Build research.md and sources-and-claims.md. For every consequential claim record source ID, URL, publisher, publication and access dates, period/geography, supporting section/page, reliability, caveats and whether it is verified, inferred or illustrative. Trace script claims to exact paragraph anchors. Quotes stay short and accurate.
+Build research.md, evidence.json and sources-and-claims.md. evidence.json owns source/claim/scene IDs and access status; the Markdown is its readable review. For every consequential claim record source ID, URL, publisher, publication and access dates, period/geography, supporting section/page, reliability, caveats and whether it is verified, inferred or illustrative. Trace script claims to exact paragraph anchors. Quotes stay short and accurate.
 
 Check the strongest counterargument, competing explanations, historical changes and incentives on each side. Reconstruct the money mechanism: who pays whom, why, cost drivers, margins, timing, risk and where value accumulates. Build a unit-economics table when the question needs one. For Money Moves, additionally document the constraint, available alternatives, information known then, decision/execution timeline and competing causes of the outcome. For Fallen Angels, define what failed and build the failure timeline, warning/response sequence, fragility-versus-trigger analysis and competing explanations. For Changing Hands, build the position/ownership map, funding and obligations, event timeline and precise outcome measures. For Fool’s Gold, build the appearance/reality map, verification-gap analysis, exposure timeline and claim-by-claim evidence status. For Silver Spoon, build the relevant family/ownership map and transfer timeline, distinguish control from economic ownership, and document valuation dates/methods and private-information limits. Do not use a company's total net income as a product margin.
 
@@ -28,25 +28,25 @@ Create the internal beat outline and two or three hook alternatives. Choose the 
 
 ## 5. Write the whole script
 
-Produce the full spoken draft in one pass using the channel script standard. Do not stop after the hook or deliver an outline as a script. Read it aloud internally, then revise for factual accuracy, comprehensibility, momentum, repetition and payoff. Script length follows the timed delivery, not an arbitrary word quota.
+Produce the full spoken draft in one pass using the channel script standard. Do not stop after the hook or deliver an outline as a script. Inspect it for speech, then revise for factual accuracy, comprehensibility, momentum, repetition and payoff. Script length follows the timed delivery, not an arbitrary word quota.
 
-Narration lives only in script.txt. After the wording stabilizes, number its blank-line-separated paragraphs P001, P002, etc. Store cue anchors in delivery-cues.json and paragraph references in visual-plan.md and sources-and-claims.md. If paragraphs change, regenerate these references and recheck them.
+Narration lives only in script.txt. After the wording stabilizes, number its blank-line-separated paragraphs P001, P002, etc. Store cue anchors in delivery-cues.json and paragraph references in visual-plan.md and sources-and-claims.md. If any wording or formatting changes, increment script_version and regenerate affected references. Record SHA-256 of exact script.txt bytes in metadata, cues and evidence.json; opening anchors alone do not detect all revisions.
 
 ## 6. Add delivery and production directions
 
-Use VOICE.md for sparse instructions: pace, emphasis, pauses and intent. Provide a human-readable guide plus a machine-readable sidecar. Do not assume that an AI voice can follow emotional commands or SSML. The editor verifies the chosen provider's supported controls, auditions a short passage and records the settings. Unsupported cues are implemented through shorter takes, timing and editing.
+Use VOICE.md and NARRATION_STANDARD.md for sparse instructions: pace, emphasis, pauses and intent. Provide a human-readable guide plus a machine-readable sidecar. Do not assume that an AI voice can follow emotional commands or SSML. The editor verifies the chosen provider's supported controls, auditions a short passage and records the selected provider/model/settings in versioned channel narration.json with a per-episode snapshot. Reuse approved profiles; complete voice-production.md with actual takes and listening during production. Unsupported cues are implemented through shorter takes, timing and editing.
 
 Plan purposeful visuals by paragraph, not just a stock-photo list. Every chart carries source/date/unit and every reconstruction is distinguishable from actual evidence. Keep the reusable visual vocabulary stable while scenes remain original.
 
-Complete packaging.md, handoff.md and qa.md. Give an estimated runtime with assumptions; never present it as measured audio. Mark scripted when the entire editorial package is saved. Production ready additionally requires the owner's voice/style selection and closed blocking editorial issues.
+Complete packaging.md, handoff.md and qa.md. Give an estimated runtime with assumptions; never present it as measured audio. Mark scripted when the entire editorial package is saved and metadata.editorial records a passed internal review of the current script hash with no blocking issues. Production ready additionally requires the owner's voice/style selection and closed blocking editorial issues.
 
 ## 7. Produce and check
 
-The editor generates narration, creates visuals, edits, mixes and delivers a reviewable cut. Check the rendered runtime is 480–600 seconds including closing and silent holds. Spot-check pronunciations, numbers, cue artifacts, audio/visual sync, captions, readability, music levels and licensed assets.
+The editor generates narration, creates visuals, edits, mixes and delivers a reviewable cut. Check the rendered runtime is 480–600 seconds including closing and silent holds. Listen to the entire assembled narration at normal speed, compare beginning/middle/end against the channel reference, and check pronunciations, omissions/repeats, retake joins and cue artifacts. Inspect the final mix on headphones and a phone speaker, plus audio/visual sync, captions, readability and licensed assets. Record exact cut/audio URLs and script hash in metadata.production_review.
 
-If too long, remove redundancy or simplify structure. If too short, add meaningful evidence/examples or shorten the episode concept before padding. Do not rush the voice or add filler to manufacture duration. Preserve script integrity; recheck changed claims.
+If too long, remove redundancy or simplify structure. If too short, add meaningful evidence/examples or choose a stronger bounded angle. If the concept cannot support 8–10 minutes, reframe or stop it; a shorter cut is not compliant. Do not rush the voice or add filler to manufacture duration. Preserve script integrity; recheck changed claims.
 
-Deliverables: final review cut, clean narration audio, caption file if commissioned, thumbnail, metadata and agreed editable project/source assets. The actual editor quote controls what is commissioned. No unagreed production budget is locked.
+Deliverables: final review cut, clean narration audio and completed voice-production.md, caption file if commissioned, thumbnail, metadata and agreed editable project/source assets. The actual editor quote controls what is commissioned. No unagreed production budget is locked.
 
 ## 8. Save and learn
 

@@ -6,7 +6,7 @@ A curious adult narrator with restrained intrigue and occasional dry wit. The vo
 
 Test 30–45 seconds with an apparent promise, a financial amount, a difficult name, a reveal and a qualified finding. Select a narrator who can sound natural while distinguishing a claim from an established fact.
 
-The owner chooses the voice. Record provider, voice ID, settings, controls, pronunciations and observed WPM in metadata.json. No provider or narrator is selected yet.
+The owner chooses the voice. Record provider, voice ID, settings, controls, pronunciations and observed WPM in the channel's narration.json and a versioned story metadata snapshot. No provider or narrator is selected yet.
 
 ## Runtime
 
@@ -38,3 +38,13 @@ These are editor directions, not TTS provider API parameters. Verify provider-su
 Check names, amounts, distinction between alleged and established conduct, tonal restraint and comprehension. Confirm no directions or citations were spoken. Update anchors and source/visual references after wording changes.
 
 A good audition does not approve the whole cut. Listen to the actual finished narration with the music and inspect rendered duration.
+
+## Shared production mechanics
+
+Follow [NARRATION_STANDARD.md](../../NARRATION_STANDARD.md) for audition, profile versioning, pronunciation, coherent takes, retakes and full listening. [narration.json](narration.json) is the canonical channel voice; metadata stores its per-episode snapshot. Reuse an unchanged approved profile without another selection step. A material change creates a new profile version.
+
+Delivery cues now use schema_version 2 and the exact script hash as well as script_version/paragraph anchors. Optional inflection describes neutral, question or settled delivery. These shared technical rules govern abbreviated cue descriptions above.
+
+## Channel-specific listening test
+
+Can the listener separate what participants were told from what the evidence establishes? Use settled delivery for evidence status and humane delivery for consequences. Suspense and skeptical tone must not convert allegations into findings.

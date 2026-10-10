@@ -6,7 +6,7 @@ Use before ordering repeat batches. This is a review standard, not an automatica
 
 Agree the selected concept, clean script version and an 8–10 minute finished runtime. Commission a 30–45 second integrated sample containing the chosen voice, one explanatory visual, one important number and a transition. A still-image board alone does not demonstrate timing, narration or editing.
 
-Record the approved voice/settings and visual direction/reference links in metadata.json. A style/voice approval does not approve an unseen finished video.
+Record the approved versioned voice in channel narration.json, the approved visual reference/version in channel.json, and snapshots in story metadata. A style/voice approval does not approve an unseen finished video. Before repeat batches, review one full 8–10 minute pilot and its clean narration; compare early, middle and closing delivery, not just the best short clip.
 
 ## Compare editors fairly
 
@@ -14,7 +14,7 @@ Use comparable passage difficulty and the same deliverable brief. Score each 1�
 
 | Criterion | What to inspect |
 | --- | --- |
-| Narration | Naturalness, pronunciation, restraint, no spoken cues |
+| Narration | Naturalness, pronunciation, restraint, no spoken cues, long-form consistency and retake joins |
 | Comprehension | Does the visual make the mechanism/decision easier to understand? |
 | Pacing | Purposeful momentum, room for numbers and important reveals |
 | Identity | Stable characters, line weight, palette and typography |

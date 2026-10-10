@@ -6,7 +6,7 @@ Do not imitate a sensational true-crime narrator. Avoid whispered accusations, s
 
 ## Audition and settings
 
-Request a 30–45 second audition with an opening contradiction, a difficult name, a financial number and a measured counterpoint. The owner chooses the voice. Record provider, voice ID, settings, supported controls, pronunciations and observed WPM in metadata.json.
+Request a 30–45 second audition with an opening contradiction, a difficult name, a financial number and a measured counterpoint. The owner chooses the voice. Record provider, voice ID, settings, supported controls, pronunciations and observed WPM in the channel's narration.json and a versioned story metadata snapshot.
 
 The voice must remain stable across Fallen Angels episodes. No provider, narrator or settings are selected during setup.
 
@@ -37,3 +37,13 @@ These are instructions for the editor, not provider API fields or text to feed i
 ## Final listening check
 
 Check that no direction or citation was spoken. Confirm names, numbers, tone, pacing and intelligibility over music. If the script changes, update anchors and evidence/visual references before regenerating audio. An estimate cannot satisfy measured-runtime approval.
+
+## Shared production mechanics
+
+Follow [NARRATION_STANDARD.md](../../NARRATION_STANDARD.md) for audition, profile versioning, pronunciation, coherent takes, retakes and full listening. [narration.json](narration.json) is the canonical channel voice; metadata stores its per-episode snapshot. Reuse an unchanged approved profile without another selection step. A material change creates a new profile version.
+
+Delivery cues now use schema_version 2 and the exact script hash as well as script_version/paragraph anchors. Optional inflection describes neutral, question or settled delivery. These shared technical rules govern abbreviated cue descriptions above.
+
+## Channel-specific listening test
+
+Can the listener distinguish weakness, warning and trigger? Keep the causal passages clear and settled. Avoid an ominous rise at every date; tragedy should not replace explanation or imply every warning made failure predictable.

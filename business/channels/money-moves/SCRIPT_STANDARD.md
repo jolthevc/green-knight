@@ -53,3 +53,7 @@ End with one main CTA after value, usually an adjacent published episode. If non
 Check title promise; supported alternatives; contemporary knowledge; mechanism; execution; counterevidence; causal modesty; repetition; cue anchors; estimate and production feasibility.
 
 A complete scripted package includes the shared story artifacts plus the decision timeline, alternatives and counterfactual limits in research/synthesis. The actual final narration/video must be measured before runtime approval.
+
+## Readiness and spoken clarity
+
+Apply [EDITORIAL_REVIEW.md](../../EDITORIAL_REVIEW.md) and [NARRATION_STANDARD.md](../../NARRATION_STANDARD.md). Evidence, cues and scenes must reference the exact script hash/version. Narration directions cannot fix an overloaded sentence: simplify the prose first, preserve numerical meaning, then add sparse cues. A text review is not a completed audio listening test.
