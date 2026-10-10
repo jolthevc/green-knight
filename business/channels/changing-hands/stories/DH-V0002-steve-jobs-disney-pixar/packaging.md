@@ -1,50 +1,45 @@
-# Packaging strategy | Disney-Pixar DH-V0002
+# Publishing/packaging plan | DH-V0002 v2
 
-**Canon:** Script v1 SHA-256 `e3a67c6e7658393b89268213a0da67125bb54ca7f079d3791aa5d76e88009008`. Internal hypotheses only, not verified title/thumbnail tests.
+**Canonical script v2:** `b17e484fa6abc164c8ea7bc691d18e3cb05134844a51beb4ae074ee2d679e949`. **Owner has not approved any thumbnail or actual video.** Titles are editorial candidates, not tested click-through predictions.
 
-## Working title (selected)
+## Current title and alternatives
 
-**How Steve Jobs Became Disney's Biggest Individual Shareholder**. An immediate familiar-name paradox backed by Jobs Schedule 13D and contemporaneous AP reporting. Say **individual** to avoid claiming no institutions held larger positions. Opening P001 answers the fundamental “what happened,” later paragraphs explain the exact ownership transfer and bargaining logic.
+**Selected:** How Steve Jobs Became Disney's Biggest Individual Shareholder. Accurate for the May 2006 reported Disney ownership snapshot; says **individual**, not Disney's majority shareholder or CEO.
 
-## Two accurate alternatives
+Alternate 1: **Why Disney Paid Steve Jobs With Disney Stock** (high comprehension, oversimplifies since Pixar shareholders as a group received shares; only use if opening corrects).
+Alternate 2: **Disney Bought Pixar. Steve Jobs Got Disney.** (short and memorable but could mislead about controlling ownership; not preferred).
 
-1. **Disney Bought Pixar. Steve Jobs Got Disney Stock.** Clear mechanism but less mystery.
-2. **How Selling Pixar Made Steve Jobs a Disney Shareholder.** Accessible but less specific about scale.
+## Competing internal thumbnail hypotheses
 
-## Two thumbnail test hypotheses (internal, owner/editor-led)
+**A:** Jobs/Disney ownership surprise, minimal `JOBS OWNED 6.3%` plus denominator “Disney, 2006” if actual claim appears; avoid implying he controlled Disney. **B:** Pixar-to-Disney share exchange, minimal `10 PIXAR → 23 DISNEY`, explicitly educational/illustrative. Editor to choose treatment, not a mandated brief. No ready artwork or tests.
 
-**A, transfer contradiction:** Pair the immediately recognizable Disney and Jobs subjects with minimal optional copy `JOBS OWNED DISNEY?`. Must avoid implying he bought majority voting control or received cash.
+## Proposed YouTube description
 
-**B, share exchange:** `PIXAR → DISNEY` with `6.3%` labeled as Jobs' post-May 2006 Disney stake. The date/denominator is crucial. Neither hypothesis is an approved asset or an instruction for the editor's artistic treatment.
+In 2006, Steve Jobs became Disney's largest individual shareholder. But he hadn't bought Disney, and Disney hadn't given him a $7.4 billion check.
 
-## Suggested description
+The story starts with Pixar's hit characters: Disney already controlled major distribution and exploitation rights for films like *Finding Nemo*. Pixar could seek another distributor for future movies, but couldn't just take the old characters with it. After a bitter breakdown in contract talks, Disney CEO Bob Iger proposed buying Pixar. The final deal exchanged Pixar shares for Disney shares, leaving Jobs with about 6.3% of Disney.
 
-Disney bought Pixar in 2006, but Steve Jobs didn't receive a $7.4 billion check. The Pixar founder and Apple CEO exchanged a controlling position in Pixar for a huge minority stake in Disney, becoming the company's largest individual shareholder.
+How did a dispute over cartoon characters end with Steve Jobs owning Disney stock? And what was Disney actually buying?
 
-We follow the Disney/Pixar distribution contract, the 2004 breakdown, Bob Iger's approach to Jobs, the 2.3-for-1 all-stock deal, and the May 2006 SEC filing that recorded Jobs' precise holdings. Why would Disney issue its own shares to own the studio that made *Toy Story*? And what did each side give up?
+Original research:
+- [Disney/Pixar merger proxy: film rights and negotiations](https://www.sec.gov/Archives/edgar/data/1001039/000119312506071978/ds4a.htm)
+- [Pixar 2005 annual filing](https://www.sec.gov/Archives/edgar/data/1002114/000119312505054111/d10k.htm)
+- [Disney Jan 2006 transaction announcement](https://thewaltdisneycompany.com/press-releases/disney-to-acquire-pixar/)
+- [Jobs' 2006 SEC ownership filing](https://www.sec.gov/Archives/edgar/data/1001039/000119312506103741/dsc13d.htm)
 
-Research:
-- [Disney's 2006 merger announcement](https://thewaltdisneycompany.com/press-releases/disney-to-acquire-pixar/)
-- [The merger proxy's negotiation chronology](https://www.sec.gov/Archives/edgar/data/1001039/000119312506071978/ds4a.htm)
-- [Pixar's existing co-production terms](https://www.sec.gov/Archives/edgar/data/1002114/000119312505054111/d10k.htm)
-- [Jobs' Schedule 13D](https://www.sec.gov/Archives/edgar/data/1001039/000119312506103741/dsc13d.htm)
-- [Disney merger completion filing](https://www.sec.gov/Archives/edgar/data/1001039/000119312506103659/d8k.htm)
+## Provisional chapters, NOT actual video timecodes
 
-## Draft chapters, NOT observed timestamps
+0:00 Steve Jobs' Disney shares
+0:55 Disney already held Pixar movie rights
+2:10 The contract deadline and 2004 breakup
+3:30 Iger changes the conversation
+5:00 Protecting the creative team
+6:00 Paying with Disney stock
+7:30 Jobs becomes a Disney shareholder
+8:35 What Disney was actually buying
 
-00:00 Jobs receives Disney shares
-01:00 The Toy Story partnership
-02:20 Why negotiations collapsed
-03:30 Iger proposes something bigger
-05:00 The 2.3-share bargain
-06:30 Jobs can help close the deal
-07:20 Disney buys Pixar
-08:20 What changed hands
+Replace every chapter time after the actual cut is measured. Estimated at assumed 150 spoken WPM, 1,353 words +13 deliberate pause seconds =554.2s (~9:14).
 
-Replace chapter timestamps with actual cut measurements. Current 1,366 spoken words + 13 cue seconds at 150 assumed WPM gives ~9:19; edit may differ.
+**CTA:** Only at the end, Changing Hands channel invitation; no link to a non-existent episode.
 
-**Tags:** Pixar, Disney Pixar acquisition, Steve Jobs, Bob Iger, Toy Story, Disney shares, mergers and acquisitions, all stock acquisition, Changing Hands, 2006 Disney Pixar, company ownership.
-
-**One CTA:** Channel signoff only at the very end. No link to nonexistent episodes.
-
-**Rights & upload checklist:** no image/voice/media licenses, captioning, rendered cut, measured runtime, click-through metrics or platform disclosures checked. Film stills and music require licensing; verify actual assets before publishing. Avoid promising post-deal returns or calling announced consideration net personal proceeds.
+**No upload claims:** no actual CTR, script-based predicted virality, music/image rights, thumbnail A/B test, captions, final video, licensed film footage or content-policy disclosure checked. Clip/copyright and historical-factual checks required before publishing.
