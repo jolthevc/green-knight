@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "workspace": "manual_business",
+  "id": "silver-spoon",
+  "idea_prefix": "SS-I",
+  "story_prefix": "SS-V",
+  "name": "Silver Spoon",
+  "language": "en",
+  "target_runtime_seconds": {
+    "min": 480,
+    "target": 540,
+    "max": 600
+  },
+  "publication_cadence": null,
+  "production_status": "setup",
+  "narration": {
+    "profile": "warm, observant, precise, conversational, lightly witty",
+    "provider": null,
+    "voice_id": null,
+    "calibrated_wpm": null
+  },
+  "visual_direction_status": "illustrated_dynasty_proposed_for_pilot",
+  "automated_portfolio_registration": false
+}

@@ -9,7 +9,7 @@ Every channel in this business umbrella targets **8–10 minutes per finished ep
 | Fallen Angels | Understand how a business lost its advantage or collapsed | [Built third](channels/fallen-angels/README.md) |
 | Changing Hands | Understand the stakes and mechanism of a consequential trade or deal | [Built fourth; working name](channels/changing-hands/README.md) |
 | Fool’s Gold | Understand how a financial deception worked and was exposed | [Built fifth](channels/fools-gold/README.md) |
-| Silver Spoon | Understand how family fortunes are built, inherited, kept or lost | Planned |
+| Silver Spoon | Understand how family fortunes are built, inherited, kept or lost | [Built sixth](channels/silver-spoon/README.md) |
 
 Names do not justify duplicate lanes. A company can feature on several channels only when each episode answers a different central question.
 
@@ -27,8 +27,8 @@ Names do not justify duplicate lanes. A company can feature on several channels 
 
 This is an explicitly scoped manual business workflow requested by the owner. Within `business/`, GitHub owns the idea registry and text story artifacts. This overrides the existing system-of-records restriction on per-video GitHub artifacts **only for this workspace**. Existing `channels/`, Sheets, Drive and n8n remain a separate system. These business channels are not yet registered there; creating these files does not create a YouTube channel, a Sheet row, an automation or a Drive folder.
 
-Use channel-specific idea/video identifiers here (PP for Pretty Penny; MM for Money Moves; FA for Fallen Angels; DH for Changing Hands; FG for Fool’s Gold), not CH identifiers allocated to the existing portfolio. A future automation migration must map identifiers, choose one canonical ledger, and migrate rather than silently dual-write. Do not create duplicate operational state in Sheets.
+Use channel-specific idea/video identifiers here (PP for Pretty Penny; MM for Money Moves; FA for Fallen Angels; DH for Changing Hands; FG for Fool’s Gold; SS for Silver Spoon), not CH identifiers allocated to the existing portfolio. A future automation migration must map identifiers, choose one canonical ledger, and migrate rather than silently dual-write. Do not create duplicate operational state in Sheets.
 
 Keep large media, source PDFs, recordings and editable project files in external storage; commit their stable links in story metadata. Do not commit passwords, API keys, private editor contact details or licensed source files.
 
-Pretty Penny, Money Moves, Fallen Angels, Changing Hands and Fool’s Gold are built now; their pilot details remain open. Build each remaining channel deliberately after its name, boundaries and style are confirmed.
+All six channel workspaces are built. Voice selection, integrated visual pilots, editor scope/pricing and publication schedules remain pilot-stage decisions. Changing Hands remains a working name. Start with idea selection and a reviewable pilot before purchasing repeat batches.

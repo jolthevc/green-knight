@@ -1,6 +1,6 @@
 # Story template
 
-Copy this directory, excluding README.md, into the selected channel's stories/<story-id>-short-slug/ using its story_prefix from channel.json (PP-V####, MM-V####, FA-V####, DH-V#### or FG-V#### for the currently built channels). Set metadata.channel, idea_id and story_id explicitly; the shared metadata template does not preselect a channel. Replace placeholders and populate every required file before marking scripted. Template placeholders are never production deliverables.
+Copy this directory, excluding README.md, into the selected channel's stories/<story-id>-short-slug/ using its story_prefix from channel.json (PP-V####, MM-V####, FA-V####, DH-V####, FG-V#### or SS-V#### for the currently built channels). Set metadata.channel, idea_id and story_id explicitly; the shared metadata template does not preselect a channel. Replace placeholders and populate every required file before marking scripted. Template placeholders are never production deliverables.
 
 | File | Owner / purpose |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Shared idea and completion log
 
-[registry.json](registry.json) is the single editable ledger for this workspace. It covers all business channels so we do not repackage the same explanation unknowingly. The five Pretty Penny, two Money Moves, five Fallen Angels, five Changing Hands and five Fool’s Gold sample concepts from the earlier discussion are imported as proposed, unselected and unresearched. Dates record import, not their original proposal. No completed videos have been invented.
+[registry.json](registry.json) is the single editable ledger for this workspace. It covers all business channels so we do not repackage the same explanation unknowingly. The five Pretty Penny, two Money Moves, five Fallen Angels, five Changing Hands, five Fool’s Gold and one Silver Spoon sample concepts from the earlier discussion are imported as proposed, unselected and unresearched. Dates record import, not their original proposal. No completed videos have been invented.
 
 ## Fields
 
@@ -18,9 +18,9 @@ Use ISO dates or UTC timestamps consistently. Null means unknown/not applicable,
 
 ## Update protocol
 
-Read latest head and entire ledger. Check canonical subject + mechanism + viewer promise and aliases across every status. Allocate the next idea and story IDs independently using the selected channel.json: PP-I####/PP-V####, MM-I####/MM-V#### FA-I####/FA-V#### DH-I####/DH-V#### or FG-I####/FG-V####. Write artifacts and matching ledger entries together; append history, do not erase it. Run the validator and commit with an expected-head check. If someone changed the branch, reread and merge their state before retrying.
+Read latest head and entire ledger. Check canonical subject + mechanism + viewer promise and aliases across every status. Allocate the next idea and story IDs independently using the selected channel.json: PP-I####/PP-V####, MM-I####/MM-V#### FA-I####/FA-V#### DH-I####/DH-V#### FG-I####/FG-V#### or SS-I####/SS-V####. Write artifacts and matching ledger entries together; append history, do not erase it. Run the validator and commit with an expected-head check. If someone changed the branch, reread and merge their state before retrying.
 
-IDs are business-workspace identifiers; they do not imply CH registration in the older system. Configured prefixes are PP for Pretty Penny, MM for Money Moves, FA for Fallen Angels, DH for Changing Hands and FG for Fool’s Gold. New channels need their own prefix assigned at setup.
+IDs are business-workspace identifiers; they do not imply CH registration in the older system. Configured prefixes are PP for Pretty Penny, MM for Money Moves, FA for Fallen Angels, DH for Changing Hands, FG for Fool’s Gold and SS for Silver Spoon. New channels need their own prefix assigned at setup.
 
 After a save, report the IDs, actual status and link. After publication, add performance.md observations without changing the original story into a different episode. New follow-ups get new IDs with related_idea_ids.
 

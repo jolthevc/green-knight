@@ -2,7 +2,7 @@
 
 ## Read before doing work
 
-Read README.md, WORKFLOW.md, IDEATION.md, YOUTUBE_GUIDANCE.md, ideas/README.md and ideas/registry.json. For the selected channel also read channels/<slug>/{README,CHANNEL,STYLE,VOICE,SCRIPT_STANDARD}.md and channel.json. Read the configured idea/story prefixes; Pretty Penny uses PP, Money Moves uses MM, Fallen Angels uses FA, Changing Hands uses DH, Fool’s Gold uses FG. Follow the story templates when creating an episode.
+Read README.md, WORKFLOW.md, IDEATION.md, YOUTUBE_GUIDANCE.md, ideas/README.md and ideas/registry.json. For the selected channel also read channels/<slug>/{README,CHANNEL,STYLE,VOICE,SCRIPT_STANDARD}.md and channel.json. Read the configured idea/story prefixes; Pretty Penny uses PP, Money Moves uses MM, Fallen Angels uses FA, Changing Hands uses DH, Fool’s Gold uses FG, Silver Spoon uses SS. Follow the story templates when creating an episode.
 
 This workspace implements the owner's manual ChatGPT process. Its local GitHub ledger and story artifacts are canonical here, even though the older portfolio system stores working artifacts elsewhere. Never imply that Sheets, Drive, n8n or YouTube were updated unless actually verified.
 
@@ -18,6 +18,7 @@ This workspace implements the owner's manual ChatGPT process. Its local GitHub l
 - Fallen Angels research must define the failure, reconstruct the original advantage and deterioration, distinguish fragility from trigger and symptoms from causes, and test competing explanations. Do not accept familiar downfall anecdotes without evidence.
 - Changing Hands research must reconstruct positions/obligations or ownership, financing, the event timeline and the turning-point mechanism. Distinguish notional from capital, enterprise from equity value, and realized from paper results. No current investment recommendations.
 - Fool’s Gold research must establish the legitimate baseline, apparent versus actual mechanism, credibility/verification gaps and exposure evidence. Distinguish allegations, admissions, established findings and unresolved issues; do not invent proof or victim anecdotes.
+- Silver Spoon research must establish the relevant family relationships, wealth origins, ownership versus voting control versus leadership, transfer timeline and valuation basis. Do not invent private wealth, motives or family conflict.
 - Financial mechanisms must distinguish revenue, cash flow, gross profit and net profit; dates, geography and units must travel with numbers. Label illustrative models.
 - Write for the ear, keep engagement purposeful, deliver the title promise and finish within 8–10 minutes. Use actual audio duration for final approval.
 - script.txt contains spoken words only. Delivery directions and citations go in separate files. No voice provider or unsupported control syntax is preselected.
