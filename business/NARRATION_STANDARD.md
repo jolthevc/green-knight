@@ -32,7 +32,7 @@ Text inspection is not audio listening. Do not report a read-aloud or pronunciat
 
 ## 4. Produce an engine-specific reading input deliberately
 
-script.txt is canonical spoken wording. delivery-cues.json is non-spoken intent. An optional tts-input.txt is a derived production file with only verified provider/model controls and documented pronunciation substitutions. Record its relation to the canonical script and inspect the output for spoken tags or altered meaning.
+script.txt is the canonical artifact: **first line `TITLE: <metadata.title>` and a blank line**, followed by canonical spoken narration. The TITLE header is **not narration**. Strip that exact header before submitting to TTS, sending the read-only narration extract to a performer, producing captions, or counting timing/paragraphs. Do not use the header as a narrated on-camera introduction. delivery-cues.json is non-spoken intent. An optional tts-input.txt is a derived production file with only the narration body, verified provider/model controls and documented pronunciation substitutions. Record its relation to the canonical script and inspect the output for spoken tags or altered meaning.
 
 Check current provider documentation before implementing pause, emphasis or inflection syntax. ElevenLabs' current documentation distinguishes model-specific controls, and some models do not support SSML breaks. Do not transfer a tag recipe between engines/models blindly.
 
@@ -48,7 +48,7 @@ Do not patch in another voice to fix one pronunciation. Regeneration can vary, s
 
 ## 6. Cue mechanics and script identity
 
-Use schema_version 2 delivery-cues.json, with script_version and SHA-256 of the exact UTF-8 script.txt bytes. Paragraphs are split by blank lines and identified P001, P002, etc.
+Use schema_version 2 delivery-cues.json, with script_version and SHA-256 of **all exact UTF-8 script.txt bytes, including the non-spoken title header**. Paragraphs are split by blank lines **only after removing the title header**, identified P001, P002, etc.
 
 A cue has paragraph_id, exact opening anchor, pace, intent, emphasis, pause_after_seconds and pronunciation_notes. Optional inflection is neutral / question / settled. These are editorial fields, not provider API parameters.
 
