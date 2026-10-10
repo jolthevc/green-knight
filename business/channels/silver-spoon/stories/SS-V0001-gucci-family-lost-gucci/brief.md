@@ -1,25 +1,21 @@
 # SS-V0001 | How the Gucci Family Lost Gucci
 
-Selected by owner: 2026-10-10. Idea: SS-I0002. Story: SS-V0001. Lane: Silver Spoon. Script v1 (6b56b1f852a7c268e62d4e170a5f95c404fc2adb2252611296963d298c7a7cde).
+**Selected:** 2026-10-10. **Channel:** Silver Spoon. **Idea:** SS-I0002. **Story:** SS-V0001. **Canonical spoken script:** v2, SHA-256 `1ce7d1cdf0fe9f9e8a9697151c0823b4ef54fcff2a176188e5c4c35639c56059`. **Stage:** scripted.
 
-**Audience question:** How did the descendants of Guccio Gucci cease to own the Gucci company while its name remained globally valuable?
+## Question and audience promise
 
-**Viewer promise:** Reconstruct the specific share transfers behind the family's exit, and understand the difference between a surname, a trademark, family management and actual equity rights.
+How did one of the world's best-known founding families sell the entire company bearing its name by 1993, and how could a brand survive that complete transfer? This is a family-fortune **ownership and control story**, not a generic fashion comeback.
 
-**Familiar entry:** Gucci name on a handbag; the founding family is not its owner.
+**Everyday entry:** a Gucci handbag and its recognizable surname. **Changed understanding:** surname, trademark, economic ownership, voting influence and management are distinct rights. **Second-layer discovery:** Investcorp accumulated nearly half the company in 1988 yet was blocked from winning a board majority, while Maurizio's claimed other half was embroiled in litigation.
 
-**Research result:** One half sold to Investcorp over 1987–1989, the remaining Maurizio Gucci half in September 1993. Company disclosures establish the transfers; court findings and contemporary reports establish family conflicts and contemporaneous business/financing stress.
+## Story boundary and mechanism
 
-**Thesis:** An inherited family brand is legally a company asset, while equity interests can be sold. Intergenerational division created competing shareholders; financial and governance disputes preceded, but do not alone explain, the company's transfer to Investcorp.
+1921 Florence origin (short); 1983 inheritance; 1988 Giorgio/Roberto sale through Morgan Stanley to then-unnamed client, revealed as Investcorp; June 1988 board-seat attempt and custodians; July–September 1993 investor dispute and completed purchase of Maurizio's other half; compact 1994–99 epilogue. One first half plus one final half, with company records giving completed 50% blocks but April 1988 contemporaneous reports describing 47.7% as of that announcement.
 
-**Boundary:** 1921 origin briefly; main drama from the 1983 succession through the 1993 final sale; short epilogue through 1999. Do not retell the 1995 killing as the mechanism of ownership exit.
+**Key cast:** Guccio founder; Aldo and Rodolfo branches; Giorgio and Roberto selling cousins; Maurizio remaining heir; Paolo only for short U.S. trademark example; Investcorp corporate outside investor. No imagined dialogue or personal motive.
 
-**Distinct from SS-I0001 Hermès:** That proposed episode examines mechanisms preserving family control; this examines a completed family exit, trademark limits and staged equity acquisition. Other channels might cover the 1999 takeover deal in detail, but that is not the payoff here.
+**Financial qualification:** 1993 reported $150m–$200m estimate for last half is not cash in Maurizio's pocket or enterprise value. 1998 >$1bn Gucci revenue is **sales, not profit**. Current official 1921 founding date conflicts with 1923 in an older SEC retrospective; keep caveat.
 
-**Evergreen insight:** Legal commercial rights and shares do not follow a surname automatically. **Freshness risk:** Current corporate affiliation and modern brand claims; recheck before upload.
+**Distinctness:** opposite of SS-I0001 Hermès family control defense. Changing Hands could cover 1999 PPR/LVMH takeover separately; this episode ends the family ownership tale in 1993.
 
-**Audience:** Anyone familiar with luxury brands, family businesses or inheritance. No prerequisite finance vocabulary.
-
-**Learning ladder:** 1993 family exit → 1983 two halves → 1988 name-rights dispute → late-1980s outsider entry → 1993 final sale → post-sale revival and corporate contest → why ownership is not a logo.
-
-**Constraints:** 8–10 minutes, 1401 estimated words / 150 WPM plus 11s extra cues; editorial-only readiness. Voice not approved, no actual audio/render, no editor commissioned or contacted.
+**Audience need:** curiosity about inheritance and family control, no business background. **Runtime:** 1418 words, assumed 150 WPM plus 11 seconds extra pauses ≈ 578.2 seconds, not measured. **Production boundary:** narrator/visual pilot unapproved and no audio or video reviewed.
