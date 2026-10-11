@@ -6,6 +6,32 @@ Give a general viewer the satisfaction of understanding how an enormous outcome 
 
 The recurring inquiry is: starting position → first viable unit → repeatable expansion → funding and constraints → ownership → documented or modeled outcome. Adapt that progression to the evidence; it is not a mandatory six-section formula.
 
+## The earned path: never start with the empire
+
+**The central First Billion experience is an earned sequence from the real starting position to extraordinary scale.** A mathematically possible business is not automatically a plausible entrepreneurial journey. Viewers should see the smallest credible first move, why someone would agree to it, how the operator gets proof and capital, what changes at each successive stage, and who ultimately owns the outcome. The ambition may be enormous; the first step must not require resources the protagonist does not have.
+
+For every historical reconstruction or illustrative "how would you build it" episode, answer these in the internal research/outline, using only defensible information:
+
+1. **Where does the protagonist truly start?** Specify cash, credentials, relationships, existing assets, distribution, regulatory permissions and unfair advantages or lack thereof. Don't silently gift the protagonist a mature facility, factory, franchise, product-market fit, giant loan, famous connections or large customer base. A bootstrap start is not universally possible; state the actual entry barrier when it isn't.
+2. **Who opens the first door, and why?** Identify the first paying customer, contracting owner, supplier, financing partner, distributor or decision-maker; what they need, why they'd trust the newcomer, and what the initial offer or proof looks like. A cold-start wedge might be a narrow service, brokerage, pilot, partnership, access to a neglected channel or a small first transaction. These are possibilities, not default requirements for every company.
+3. **What does that first step actually pay?** Calculate gross revenue, operating costs, capital/time at risk and remaining cash on a *right-sized first unit*. A client, management contract, pilot and owned business are different assets and claims. Do not scale away an unworkably small first-unit business with optimistic multiplication.
+4. **What obstacle arrives next, and what could overcome it?** Trace concrete competitor advantages, buyer resistance, financing vetoes, regulation, unit-economics bottlenecks, supply/demand imbalances, operating failures or market-cycle risks. Give the most defensible specific response **and its price, uncertainty or trade-off**. An obstacle is not solved just because the narrator names a software feature or local niche. Allow a rejected deal, pivot, delayed scale or credible failure route.
+5. **How does earned proof unlock the next scale?** Connect first validation to repeatable execution, early hires/infrastructure, second site or customer, geographical cluster, larger financing and professional management. At each inflection identify what became possible that was not possible before; don't jump from one successful unit to hundreds without showing capital, demand and operational capacity.
+6. **Who supplied the capital and who earned the upside?** Distinguish fair-value assets purchased using contributed investor capital from sustained additional value created through better operating results, distribution, innovation, development or advantageous purchases. Include cash returns and cost to achieve gains. Show equity dilution, founder/operator compensation, contingent promotes, lender obligations and investors' rights where relevant.
+7. **Why might this fail despite the favorable case?** Test a meaningful adverse alternative, market structure, incumbent response and the point where the economics or execution can break. Show reasonable ways to avoid or mitigate that failure *without pretending they guarantee success*. End with the earned reason the favorable path is compelling, and precisely where it remains contingent.
+
+**For historical episodes:** Follow actual documented decisions, access and chronology; do not invent a management-first wedge, owner conversation, seller rollover, near miss or funding structure to make an old story more attainable. When identifying a plausible alternative or modern analog, label it as analysis, not what happened. A privileged or capital-intensive start may be the honest answer.
+
+**For hypothetical episodes:** Model a modest entry stage and any later institutional/large-asset stage **separately**. A later-stage average unit should not magically be the first asset. Explain contracts and capital stack in enough detail to expose whose money and asset are at risk, but treat invented terms as conditional hypotheses subject to real lender, buyer, owner and regulatory approvals. A proposed workaround must be economically plausible, legally sound in principle and worth testing, not a no-money-down miracle.
+
+### Opportunity, friction, mitigation
+
+The goal is **constructive realism**. Episodes should make people interested in the size and ingenuity of the opportunity while respecting why market participants haven't already captured it. A recurring loop is **opportunity → credible objection → specific potential mitigant → residual risk → next earned step**. Weave this through the story when decisions occur; don't dump all risks into one negative paragraph at the end.
+
+Probe both fragmentation and concentration carefully: is share measured in locations, square footage, transactions, revenue or profits? Are units company-owned, franchised or only managed? A fragmented market is not proof owners are poorly run, cheaply purchasable or looking to retire. Test competitive moats on distribution, pricing, procurement, capital access and customer retention; the newcomer needs a believable edge, not a generic claim to "use AI."
+
+Use a **go/no-go decision gate** when it helps: why pursue this first deal, which fact could invalidate it, and what the protagonist does if it fails. Avoid guaranteed "from zero to billionaire" language. The best ending shows how the protagonist *could earn the next opportunity* and what ultimately determined value capture, rather than declaring scale inevitable.
+
 ## Formats and evidence contracts
 
 | Format | Episode promise | Required discipline |

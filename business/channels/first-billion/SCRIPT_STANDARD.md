@@ -16,6 +16,23 @@ Research and synthesize before writing the full first draft in one pass. Revise 
 
 These are story jobs, not fixed timestamps or obligatory chronological sections. Total actual video must be 480–600 seconds including pauses and closing. Do not pad a thin model or speed-read too many financial relationships.
 
+## Earned-zero-to-scale story test
+
+**Never teleport to the first big asset.** For a historical story, identify the documented initial resources and the real first transaction. For an illustrative model, construct a plausible **first customer/contract/deal** and spell out why the counterparty would say yes. If a warehouse, facility, manufacturing line, portfolio or institutional loan is assumed on page one, explain **how it was obtained** or rebuild the opening around a smaller first unit. A mature large-scale unit may appear later, but the transition must be explained.
+
+Use the following *story jobs*, not a rigid list of on-screen sections:
+
+- **Cold start:** protagonist's actual starting resources, missing credential or capital, specific first offer and the first gatekeeper who must agree.
+- **First proof:** paid value, gross-to-net unit economics, cost of service, credible evidence it works and what a failed pilot would look like.
+- **Friction + response:** identify real incumbent advantages or supply constraints, offer an **economically defensible** mitigation, price the trade-off, and leave any unsolved risk visible.
+- **First expansion/funding:** make the second and third units causally possible; specify customer acquisition, labor/operating capacity, financing agreements, guarantees, equity contributions and what counterparties receive. Do not grant a founding operator unearned equity.
+- **Scale transitions:** map believable gates from initial unit to local cluster, regional platform and institutional company **only when relevant**, including proof needed to raise progressively larger pools of money or win increasingly demanding customers. Explain when the unit's size or margins change.
+- **The billion and the owner:** compute the milestone accurately, distinguish funded balance sheet from incremental value created, test downside and show who captures upside after dilution, debt, preferences and time/cost.
+
+In the internal outline, annotate at least the **two or three toughest bottlenecks** as **obstacle → available alternatives → proposed mitigant → execution cost/trade-off → failure threshold**. Those are the most fertile dramatic turns. Spread setbacks among decisions as they happen. An optimistic version earns its optimism by solving real problems; a skeptical version must not become an unbroken list of impossible obstacles.
+
+**No fictitious realism:** A proposed owner-financing arrangement, seller partnership, credit agreement, investor rights, pricing technology or first client is only a **conditional hypothetical** until supported by actual documents and counterparties. Do not present acquisition financing as free money, a business with one low-paying client as a staffed company, or industry fragmentation as proof of cheap deals. A cheaper or capital-light wedge may be valuable, but don't force every historical company into a bootstrap narrative.
+
 ## Hook and discovery
 
 Prepare two or three honest hooks. Establish what the billion means and whether the path is historical or illustrative in the opening movement. Do not title a model as though someone actually achieved it. Deliver an early useful discovery; let it raise a deeper question about scaling or ownership. Do not withhold all substance until the milestone.
