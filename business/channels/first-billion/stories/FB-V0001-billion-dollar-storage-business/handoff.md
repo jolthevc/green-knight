@@ -1,30 +1,21 @@
-# Editor handoff: First Billion FB-V0001, revised v2
+# FB-V0001 editor handoff: v3
 
-**Working title:** What Would It Take to Build a Billion-Dollar Storage Business? **Episode:** FB-I0001 / FB-V0001. **Status:** editorial script, not yet production ready. **Canonical v2 SHA-256:** `7e4f404203045543a9809f2bbfe31252266eed2d76262f76dff74dce4fb6076a`.
+**First Billion:** What Would It Take to Build a Billion-Dollar Storage Business? **Idea** FB-I0001, **story** FB-V0001, **script version 3**, full SHA-256 `9a83fc52d4b7c8290fe43b17f00eb2e5e4e193d647e4f6036c96d78883268fba`.
 
-## Editorial mission
+**Narrative discovery:** An ordinary storage unit yields property revenue, supporting an appraised real-estate value. Acquiring 180 similar properties with investor equity and loans can create a hypothetical $1bn property-equity portfolio, but merely spending billions doesn't necessarily create additional wealth. Conditional $50k/site annual NOI improvement illustrates possible extra value; downside and founder ownership rules expose who actually benefits and what can disappear. All facility/loan/founder economics are fictional worked inputs, benchmarked against actual 2025 operator filings.
 
-Explain why a chain of monthly storage payments can underwrite a hypothetical billion-dollar property-equity position, yet purchasing assets at fair value and arranging expensive outside funding does not magically create a billionaire founder. Start from one 100-square-foot rented room, follow the economic chain, test the downside, then land on income versus market valuation versus contract ownership.
+**Target finished 8–10 minutes.** Provisional 1,323 spoken words at assumed 150 WPM plus 4.5s extra pauses gives ~8:54. **Actual voice and cut length have not been measured.**
 
-**Target final video** 480–600 seconds. V2 body 1,313 repository-counted words, assumed 155 WPM plus 4.5 seconds planned extra pause, provisional 512.8 seconds (~8:33). Natural read and actual final-cut duration must be measured. A text estimate never proves runtime.
+## Default input files
+- `script.txt`: **only canonical spoken body**; strip its first non-spoken `TITLE:` line.
+- `narration-guide.md`: warm, assured delivery, sparse cue ledger and pronunciation/comprehension checks.
+- `research-for-editor.md`: five opened historical primary-source passages, model assumptions and strong accuracy guardrails.
+- `delivery-cues.json`: optional technical **non-spoken** cue sidecar with identical script hash/version.
 
-## The only default editor-facing package
+**Visual treatment:** editor's creative ownership. We provide research and audio context, **no shot descriptions, designs, fonts, colors or imagery prompts**. Do not depict fictional purchase documents or private founder figures as documentary truth.
 
-1. **script.txt**: authoritative narration with exact v2/hash above. **Do not read the initial non-spoken `TITLE:` line or insert cue words.**
-2. **narration-guide.md**: intended delivery personality, sparse exact paragraph cues, and critical number comprehension checks.
-3. **research-for-editor.md**: the five authentic 2025 original-source leads, precise source qualifications and hypothetical model guardrails.
-4. **delivery-cues.json**: optional machine-readable editorial intent sidecar, never narration input.
+**Audio priorities:** The cap-price explanation P007, cost-of-buying objection P008–P009, conditional incremental NOI mechanism P010/P016, portfolio property/debt/equity P014–P015, annual cash P017, stress P018–P019 and rights/20% illustration P020–P021. A listener should understand without pausing or relying on diagrams. No provider/model/voice is yet selected: request an audition through the owner's actual production commission.
 
-All separate internal research, audit and visual-plan documents remain available if requested, but are not obligatory editor reading.
+**Production-only gates:** confirm agreed scope, fees, turnaround, asset rights, thumbnail, revision allowance, captions, editable project and deliveries. Listen to full assembled narration at normal speed, check retakes and numeric wording, mix on headphones/phone speaker and measure actual cut 480–600 seconds. Send substantive spoken changes for v4 version/hash/evidence synchronization before recording final.
 
-## Editor owns actual visual and sound treatment
-
-No creative visual direction is prescribed: no shots, prompts, palette, typography, animations or thumbnail specification in this handoff. The editor proposes and executes an original adult aesthetic and verifies asset rights. Never turn fictional modeled sites, loans or owner equity into ostensibly authentic archival evidence. Clearly distinguish illustrative outputs from real reported 2025 operator comparisons.
-
-## Voice recording and change control
-
-The channel profile `first_billion_narrator` is still unselected (v0). Following an authorized commission, audition a 30–45-second passage that includes the hook, a number-heavy explanation and the closing, select a voice/profile with owner input once, and test full 8–10 minute endurance. Exact provider controls require verification; never assume SSML or emotion tags. Maintain clear pacing around P007, P014, P016–P019 and preserve source/number meaning.
-
-No editor has been hired, contacted or given a budget. Discuss scope, rights, price, rounds and deliverables separately before commissioning. Render, listen to complete assembled narration, check joins/omissions, assess the actual mix on headphones/phone and measure final cut. Changes to the spoken words or non-spoken title require version 3 with a regenerated hash, cues and evidence before production.
-
-**At handoff:** v2 internal editorial review is text-only; no actual voice audition, audio listening, visuals or verified finished runtime exists. Publication remains separate.
+**No editor contacted or hired, no media created, no final URL, no publication.** Current stage scripted, not production ready.

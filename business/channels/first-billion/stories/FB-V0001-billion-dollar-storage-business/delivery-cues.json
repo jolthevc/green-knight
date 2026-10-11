@@ -1,142 +1,154 @@
 {
   "schema_version": 2,
-  "script_version": 2,
+  "script_version": 3,
   "instructions_are_non_spoken": true,
-  "assumed_or_observed_wpm": 155,
+  "assumed_or_observed_wpm": 150,
   "silent_hold_seconds": 0,
   "cues": [
     {
       "paragraph_id": "P001",
-      "anchor": "Think of a storage room the size of a spar",
-      "pace": "natural",
+      "anchor": "A storage room is one of the strangest pro",
       "intent": "curious",
+      "pace": "natural",
       "inflection": "neutral",
       "emphasis": [
-        "a billion-dollar business?"
+        "three different things"
       ],
-      "pause_after_seconds": 0.5,
+      "pause_after_seconds": 0.4,
       "pronunciation_notes": []
     },
     {
       "paragraph_id": "P002",
       "anchor": "We're building a fictional American storag",
+      "intent": "matter_of_fact",
       "pace": "natural",
-      "intent": "matter_of_fact",
       "inflection": "neutral",
       "emphasis": [
-        "not cash in anybody's pocket"
-      ],
-      "pause_after_seconds": 0.4,
-      "pronunciation_notes": []
-    },
-    {
-      "paragraph_id": "P005",
-      "anchor": "Then come taxes, staff, insurance, mainten",
-      "pace": "slower",
-      "intent": "matter_of_fact",
-      "inflection": "neutral",
-      "emphasis": [
-        "That isn't profit in the owner's bank account."
+        "a founder's personal fortune"
       ],
       "pause_after_seconds": 0.3,
       "pronunciation_notes": []
     },
     {
-      "paragraph_id": "P007",
-      "anchor": "Now for the first surprise. An income stre",
+      "paragraph_id": "P005",
+      "anchor": "Now pay for taxes, insurance, repairs, uti",
+      "intent": "matter_of_fact",
       "pace": "slower",
-      "intent": "curious",
       "inflection": "neutral",
       "emphasis": [
-        "eleven-point-seven million"
+        "That isn't money the owner can take home."
       ],
       "pause_after_seconds": 0.4,
       "pronunciation_notes": []
     },
     {
-      "paragraph_id": "P009",
-      "anchor": "Now imagine you're trying to build the com",
-      "pace": "natural",
-      "intent": "skeptical",
+      "paragraph_id": "P007",
+      "anchor": "Here's the first twist. If buyers require ",
+      "intent": "curious",
+      "pace": "slower",
       "inflection": "neutral",
       "emphasis": [
-        "doesn't create eleven-point-seven million dollars of new wealth"
+        "almost twelve-million-dollar asset"
       ],
       "pause_after_seconds": 0.4,
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P008",
+      "anchor": "But put yourself in the buyer's shoes. An ",
+      "intent": "skeptical",
+      "pace": "natural",
+      "inflection": "neutral",
+      "emphasis": [
+        "hasn't made you rich"
+      ],
+      "pause_after_seconds": 0.3,
       "pronunciation_notes": []
     },
     {
       "paragraph_id": "P010",
-      "anchor": "And you need the purchase money. Suppose a",
-      "pace": "slower",
+      "anchor": "So what could an operator do to actually c",
       "intent": "matter_of_fact",
+      "pace": "slower",
       "inflection": "neutral",
       "emphasis": [
-        "One viable storage building is not automatically a viable financing strategy."
+        "Before the cost of improvements."
       ],
       "pause_after_seconds": 0.4,
       "pronunciation_notes": []
     },
     {
       "paragraph_id": "P014",
-      "anchor": "Under that assumption, one hundred and eig",
-      "pace": "slower",
+      "anchor": "Still, look at the math. One hundred and e",
       "intent": "matter_of_fact",
+      "pace": "slower",
       "inflection": "neutral",
       "emphasis": [
-        "a little more than one billion dollars"
+        "for all property equity holders together"
       ],
       "pause_after_seconds": 0.5,
       "pronunciation_notes": []
     },
     {
       "paragraph_id": "P016",
-      "anchor": "Even the operating cash deserves a closer ",
+      "anchor": "Remember that extra fifty thousand dollars",
+      "intent": "curious",
       "pace": "slower",
-      "intent": "matter_of_fact",
       "inflection": "neutral",
       "emphasis": [
-        "forty-nine million dollars"
+        "one hundred and forty million dollars"
       ],
-      "pause_after_seconds": 0.3,
+      "pause_after_seconds": 0.4,
       "pronunciation_notes": []
     },
     {
-      "paragraph_id": "P018",
-      "anchor": "Our modeled property value drops from abou",
+      "paragraph_id": "P017",
+      "anchor": "Even a huge portfolio isn't an unlimited c",
+      "intent": "matter_of_fact",
       "pace": "slower",
-      "intent": "skeptical",
       "inflection": "neutral",
       "emphasis": [
-        "without selling a single building"
+        "Annual cash is not the same as the billion-dollar valuation."
       ],
-      "pause_after_seconds": 0.5,
+      "pause_after_seconds": 0.4,
       "pronunciation_notes": []
     },
     {
       "paragraph_id": "P019",
-      "anchor": "And here's the question hidden inside our ",
+      "anchor": "Together those changes push modeled proper",
+      "intent": "skeptical",
       "pace": "slower",
-      "intent": "matter_of_fact",
       "inflection": "neutral",
       "emphasis": [
-        "but not a billion"
+        "without selling a building"
       ],
       "pause_after_seconds": 0.5,
       "pronunciation_notes": []
     },
     {
-      "paragraph_id": "P022",
-      "anchor": "Return to that one rented room. Its monthl",
-      "pace": "natural",
-      "intent": "reflective",
+      "paragraph_id": "P020",
+      "anchor": "There's one more catch. Suppose you founde",
+      "intent": "matter_of_fact",
+      "pace": "slower",
       "inflection": "neutral",
       "emphasis": [
-        "Buildings generate income. Markets put prices on income. Contracts decide who receives the value."
+        "isn't automatic"
       ],
       "pause_after_seconds": 0.3,
       "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P023",
+      "anchor": "Go back to that ten-by-ten room. The custo",
+      "intent": "reflective",
+      "pace": "natural",
+      "inflection": "neutral",
+      "emphasis": [
+        "how much they have a right to keep"
+      ],
+      "pause_after_seconds": 0.2,
+      "pronunciation_notes": []
     }
   ],
-  "script_sha256": "7e4f404203045543a9809f2bbfe31252266eed2d76262f76dff74dce4fb6076a"
+  "script_sha256": "9a83fc52d4b7c8290fe43b17f00eb2e5e4e193d647e4f6036c96d78883268fba"
 }

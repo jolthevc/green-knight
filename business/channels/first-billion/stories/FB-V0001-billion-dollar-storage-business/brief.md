@@ -1,34 +1,23 @@
-# FB-V0001: Selected story brief
+# Selected story brief: FB-I0001 / FB-V0001, v3
 
-- Idea: **FB-I0001**. Story: **FB-V0001**. Channel: First Billion.
-- Selection: owner explicitly commissioned FB-I0001 on 2026-10-10 (US Pacific). UTC record date: 2026-10-11.
-- Canonical title: **What Would It Take to Build a Billion-Dollar Storage Business?**
-- Format: **worked business model**, not an actual founded enterprise, forecast or personal financial plan.
-- Defined milestone: **US$1,000,000,000 or more of modeled property-equity value**, gross of any ownership-level taxes/fees and after assumed portfolio property debt, at a hypothetical stabilized valuation using 2025 public-operator baseline disclosures examined October 2026. The US is the modeled geography. It is a scenario, not a documented historic crossing.
-- Everyday entry: a self-storage property where customers pay monthly for otherwise empty rooms.
-- Central question: can modest property-level cash flows become a billion-dollar equity stake, and how much scale, capital and risk does that require?
-- Hypothesis before research: a portfolio of ordinary, modestly profitable properties might cross $1bn equity value only after accumulating expensive income-producing assets and obtaining large-scale debt and equity.
-- Thesis after research/modeling: **yes in an illustrative 180-property, 11.7m-NRSF scenario, but that requires ~$2.106bn gross asset value, ~$1.053bn of debt and matching modeled equity; a higher cap rate and weaker revenue can halve that equity, while the operator may own only a fraction.**
-- One-sentence viewer promise: see exactly where property income becomes property value, why financing determines residual equity, and why that value is not personal cash.
-- Starting position: model assumes the operator can buy one mature 65,000-NRSF facility. No founder cash, vendor financing, closing cost, construction cost or timeline is represented as observed or guaranteed.
-- First viable unit: $18 effective annual property revenue per available NRSF, 65% property NOI margin, $760,500 annual NOI.
-- Expansion: own and stabilize 180 equivalent sites over an unspecified multi-year path; centralized systems may improve operations, but no unsupported acquisition cadence or performance advantage is assumed.
-- Funding: 50% debt against modeled portfolio property value, 50% property equity; actual sources of that equity, preferred claims, transaction costs, financing fees and governance are deliberately not claimed.
-- Main uncertainty: a feasible inventory of profitable acquisitions at workable prices and terms, reliable rent/occupancy/margins, financing availability, valuation cap rate and true promoter economics.
-- Why viewers care: one familiar building makes the arithmetic of wealth, leverage and ownership understandable.
-- Lane: First Billion owns the full economic bridge. Not Pretty Penny (ongoing rent system), Money Moves (one strategic decision), Changing Hands (discrete asset sale), or Silver Spoon (family wealth).
-- Deduplication: read all 37 business idea entries, all seven lanes. No exact or mechanism-overlapping episode. Related broad mechanism FB-I0003 (acquisition-led scale) is distinct because that concept treats cross-industry small-company integration and valuation, not property NOI/cap rate leverage. No existing story covers this storage model.
-- Honest framing: the word "build" means assemble/operate a portfolio; buying at fair modeled value with outside investors does not itself imply wealth was created for the founder.
-- Target finished runtime: 480–600 seconds. Text estimate 512 seconds at assumed 160 WPM including 3.9 seconds of extra pauses; actual timing awaits voice production.
-- Editor constraints: supply script, voice and research, no shot or visual concept prescription. Narrator and editor visual identity remain unselected.
-- Freshness: source financial figures are 2025 historical, not asserted as October 2026 current averages; capitalization, interest and valuation figures are assumptions, not live market quotes.
+**Title:** What Would It Take to Build a Billion-Dollar Storage Business?
+**Format:** First Billion, worked business model with documented industry benchmarks; **not** a historical founder biography, a prediction or an underwriting offer.
+**Canonical script:** v3, full SHA-256 `9a83fc52d4b7c8290fe43b17f00eb2e5e4e193d647e4f6036c96d78883268fba`. **Target:** 480–600 seconds, provisional 533.7s.
+**Defined milestone:** at least **US$1bn of property-level equity** for a fictional stabilized American self-storage portfolio, measured by property NOI capitalized at a hypothetical yield **minus property borrowing**, before parent-company obligations, financing deal specifics, preferential equity and disposition costs. Historical industry benchmarks are fiscal 2025, publicly released in 2026; the hypothetical portfolio has **no real date of achievement**.
+**Working promise:** See how rents can turn into large property values, distinguish purchased assets from value actually created, expose financing and ownership, and understand why an operator can assemble billion-dollar equity without becoming a billionaire.
 
-## Learning contract
+**Starting point:** a hypothetical **65,000 available NRSF stabilized store**; first viable unit modeled at **$18 annual effective revenue per available SF** including occupancy effects, **65% NOI margin**, **$760,500 annual property NOI**.
+**Price/value assumption:** **6.5% cap rate** gives **$11.7m gross site value**; debt at **50% assumed leverage** gives ~$5.85m initial site equity requirement before costs.
+**Scale:** 180 comparable stores; **$2.106bn** property value, **$1.053bn** debt, **$1.053bn** modeled property equity. These are capitalization mechanics, not proof that any sponsor has personally earned value.
+**Value creation:** a distinct illustrative **$50,000/year site NOI uplift** gives ~$769,231 additional modeled property value at unchanged cap rate before the cost of improvement. Repeating successfully across 180 sites gives ~$9m incremental NOI and **~$138.46m** incremental modeled property value. This teaches a possible *incremental* wealth mechanism, not an achievable upgrade promise.
+**Downside:** 10% lower effective annual revenue/SF, 60% property NOI margin, 7.5% cap, unchanged debt yield only **~$463.32m property equity**, roughly **56% below** base.
+**Founder share:** ownership and any promote are negotiable, not created merely by finding properties. Even a **hypothetical and not automatically available** 20% sponsor stake in an approximate billion-dollar equity vehicle is only about $200m on paper before preferences, tax and liquidity.
 
-A newcomer begins with a single understandable rental unit, learns how property revenue differs from NOI, learns NOI/cap rate asset valuation, then how leverage and minority ownership change equity value. First payoff: a ~$760,500-NOI building has an illustrative ~$11.7m asset value at a 6.5% cap. Second question: if assets are worth that much, why don't owners receive that much cash? The answer is debt, investor claims and liquidity.
+**Real reports opened:** 2025 Public Storage, CubeSmart and Extra Space filings/results; sources mapped in evidence.json. These prove only specific disclosed benchmarks and examples.
 
-## V2 editorial brief supplement
+**Central tension:** assembling a valuable portfolio, increasing the underlying value for investors and personally keeping a share require different work. Ask at each stage: who supplies capital, what changes the NOI/value, who gets paid?
 
-Script v2 SHA-256 `7e4f404203045543a9809f2bbfe31252266eed2d76262f76dff74dce4fb6076a`. The story angle is sharpened from "multiply one facility to reach $1bn" into **"why assembling a billion-dollar storage portfolio is a financing and ownership problem rather than an instant fortune"**. First viable room is translated into an effective monthly dollar equivalent; a hypothetical sponsor must decide how to raise capital and whether to buy, build, or manage; a fair-value acquisition is not characterized as instantaneous wealth creation. Ending: the opening room's payment now means three distinct things, **income, market price and contracted ownership**.
+**Original user instruction:** independently execute multiple rounds of review/revision without intermediate approvals. Preserve the already allocated IDs, the registry ledger and v1/v2 in Git history.
 
-Full spoken-body estimate: 1,313 repository-counted words at assumed 155 WPM plus 4.5 seconds extra cues, 512.8 seconds, unmeasured. No real founder, 2026 cap rate, real debt offer, asset sale or realized proceeds are claimed. Changed script version requires v2 cues, claims, packaging and handoff.
+**Deduplication:** inspected 37 existing idea registry entries; no overlapping worked asset-finance model. FB-I0003 addresses general small-company acquisition/operational integration, not owned real-estate cap rates.
+**Production boundary:** the editor owns all visual treatment. Selected voice/reference and actual audio/final runtime remain unavailable; this remains at `scripted`.

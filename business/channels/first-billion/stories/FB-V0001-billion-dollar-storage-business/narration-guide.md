@@ -1,44 +1,23 @@
-# Narration guide: FB-V0001, revised v2
+# Narration guide: First Billion FB-V0001 v3
 
-**Exact version:** 2, full-script SHA-256 `7e4f404203045543a9809f2bbfe31252266eed2d76262f76dff74dce4fb6076a`. Use the body of `script.txt` after its non-spoken `TITLE:` header; it contains **22** spoken paragraphs P001–P022. `delivery-cues.json` is non-spoken technical context and matches this version exactly. No TTS platform or voice model is selected.
+**Canonical** script.txt v3 SHA-256 `9a83fc52d4b7c8290fe43b17f00eb2e5e4e193d647e4f6036c96d78883268fba`. Do not speak the initial `TITLE:` header or any cue. Body P001–P023, 1,323 counted spoken words. Provisional **150 WPM + 4.5s deliberate extra rests = 533.7 seconds (~8:54)**. Actual audio and finished video timing unmeasured.
 
-## Voice identity and performance
+Warm, curious and assured, like a great business storyteller rather than a financial adviser. Restraint on the money reveals; no salesmanship, fake shock, exaggerated crescendos, or mechanical overemphasis. Build a natural pause when the high property appraisal is contradicted by purchase costs and investor rights.
 
-First Billion's profile is **warm, curious, assured, concrete and conversational**. The listener should feel a business story being discovered, not a financial worksheet narrated aloud. Avoid faux astonishment, hustle preaching, breathless delivery and financial-adviser certainty. In this story, restrained curiosity at the first room gives way to sober skepticism when money must be raised and when a fair-value purchase is mistaken for created wealth.
+**Sparse approved-for-draft cue map** (full machine-readable anchors in delivery-cues.json):
+P001 curious/natural, "three different things" (0.4s);
+P002 matter-of-fact/natural, "a founder's personal fortune" (0.3s);
+P005 matter-of-fact/slower, "That isn't money the owner can take home." (0.4s);
+P007 curious/slower, "almost twelve-million-dollar asset" (0.4s);
+P008 skeptical/natural, "hasn't made you rich" (0.3s);
+P010 matter-of-fact/slower, "Before the cost of improvements." (0.4s);
+P014 matter-of-fact/slower, "for all property equity holders together" (0.5s);
+P016 curious/slower, "one hundred and forty million dollars" (0.4s);
+P017 matter-of-fact/slower, "Annual cash is not the same as the billion-dollar valuation." (0.4s);
+P019 skeptical/slower, "without selling a building" (0.5s);
+P020 matter-of-fact/slower, "isn't automatic" (0.3s);
+P023 reflective/natural, "how much they have a right to keep" (0.2s).
 
-**Script length:** 1,313 repository-counted spoken words. Timing assumption **155 WPM**, not measured performance; explicit added silence 4.5 seconds; estimated **512.8 seconds (~8:33)**. Word expansions and natural rhetorical breaths may shift actual duration. Final video must measure 480–600 seconds. Do not accelerate complex numerical turns merely to meet runtime.
+**First-listen precision notes:** $18 is annual effective revenue/available SF; $150 per 100SF/month is the average share of revenue across all occupied and empty capacity, not an observed posted unit rent. P007's ~$11.7m is a *gross property appraisal*, not profit. P010 +$50k and P016 +$9m are **hypothetical sustainable annual NOI improvements** and capitalized modeled value before implementation cost. P014 property value ~$2.1bn minus modeled borrowing ~$1bn leaves property equity ~$1bn, not the founder's cash. P017 ~$49m is an annual provisional remainder; P019 ~$460m is a one-time stressed value snapshot. P020 20% is conditional on actual founder capital/negotiated equity terms. The S001–S005 operator figures are from 2025, not current 2026 quotes.
 
-## Sparse v2 cue ledger
-
-| Paragraph | Intent / pace | Exact emphasis text | Extra pause afterward |
-| --- | --- | --- | --- |
-| P001 | curious, natural | a billion-dollar business? | 0.5 s |
-| P002 | matter of fact, natural | not cash in anybody's pocket | 0.4 s |
-| P005 | matter of fact, slower | That isn't profit in the owner's bank account. | 0.3 s |
-| P007 | curious, slower | eleven-point-seven million | 0.4 s |
-| P009 | skeptical, natural | doesn't create eleven-point-seven million dollars of new wealth | 0.4 s |
-| P010 | matter of fact, slower | One viable storage building is not automatically a viable financing strategy. | 0.4 s |
-| P014 | matter of fact, slower | a little more than one billion dollars | 0.5 s |
-| P016 | matter of fact, slower | forty-nine million dollars | 0.3 s |
-| P018 | skeptical, slower | without selling a single building | 0.5 s |
-| P019 | matter of fact, slower | but not a billion | 0.5 s |
-| P022 | reflective, natural | Buildings generate income. Markets put prices on income. Contracts decide who receives the value. | 0.3 s |
-
-These are optional human intentions, **not provider API controls**. Ordinary punctuation pauses belong in spoken pace and must not be double-counted. Emphasis must not become shouting.
-
-## First-listen numeric guidance
-
-- **P004**: "a hundred and fifty dollars a month" is an *effective equivalent on 100 square feet*, across occupied/empty area, not a claimed market asking rent.
-- **P005**: property operating income comes *before interest and head-office costs*. Do not rush the correction.
-- **P007**: allow the cap-rate value to land after explaining what the buyer wants in property income. "Cap rate" is defined locally.
-- **P009–P010**: emphasize the difference between *paying for a valuable asset* and *creating incremental value*, without falsely implying fair-priced assets earn zero rental returns.
-- **P014**: the ~$2.1bn *property value* is gross of ~$1bn debt. The ~$1bn *property equity* is a residual. Do not jumble these as annual cash.
-- **P016**: the ~$49m is an **annual remainder before more claims**, distinct from the ~$1bn valuation.
-- **P017–P018**: revenue changes and cap-rate changes are distinct dials; they combine in the illustrative stress test.
-- **P019**: founder's illustrative ~$200m is a share of the property-equity scenario under simplified common ownership, not a real biography.
-
-Pronunciation queue for actual audition: Public Storage, CubeSmart, Extra Space, "cap rate", "property equity", "ten-by-ten", "one-point-seven" and "six-and-a-half". Keep names spelled accurately on screen/captions if those are later produced. No authoritative pronunciation tests, generated takes, real listening, retake-join evaluation or mix check has occurred.
-
-## Core dramatic shape
-
-Question at first door → simple revenue/rental economics → unexpected property valuation → purchase/funding constraint → scale and outside equity → annual cash reminder → stress loss → founder share → earned return to the room. No artificial crescendo or withheld secret. Preserve the quiet authority of the closing three-way distinction.
+**Production:** no narrator audition selected, actual provider settings, human/AI voice profile, full audio listening, sound mix, caption review, reference comparison or measured runtime. Do not imply any completed recording.

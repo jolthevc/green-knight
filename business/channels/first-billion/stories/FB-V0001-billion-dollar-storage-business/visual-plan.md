@@ -1,15 +1,15 @@
-# Internal editor-owned content coverage: FB-V0001 v2
+# Internal content coverage for editor: FB-V0001 v3
 
-**Script hash:** `7e4f404203045543a9809f2bbfe31252266eed2d76262f76dff74dce4fb6076a`. **State:** unselected, no visual pilot approved. No images, fonts, palettes, storyboard, sample graphic or prescribed editing treatment is commissioned by this document.
+**Script SHA** `9a83fc52d4b7c8290fe43b17f00eb2e5e4e193d647e4f6036c96d78883268fba`; editor owns visual treatment. **No approved pilot, storyboard, shots, fonts, colors, media URLs or prompts.**
 
-| Passage | Conceptual accuracy need | Editorial boundary |
-| --- | --- | --- |
-| P001–P005 | One hypothetical rented room, effective revenue versus profit, $760,500 annual property income | Clearly model-based, no actual named family/customer/property |
-| P006–P008 | Source-backed 2025 mature-operator margins, then scenario cap-rate valuation | Cap rate is an assumed pricing device, not a market quote |
-| P009–P010 | Buying at fair value generates future income potential, not immediate wealth; lender/equity claims | Avoid equating property gross price with owner net worth |
-| P011–P013 | Acquisition, development, management and practical growth limits; 2025 issuer examples | Third-party management is not property ownership |
-| P014–P016 | $2.106bn modeled properties, ~$1.053bn debt, property equity, then separate ~$49m annual cash remainder | Stocks versus flows and senior claims must stay distinct |
-| P017–P018 | Revenue decline, operating margin decline, wider cap rate, unchanged debt | Values $1.516bn property and $463m equity are derived scenarios |
-| P019–P022 | Illustrative 20% common sponsor share, noncash wealth and one-room callback | Real investor contracts, equity waterfalls and sale proceeds unknown |
+| Narration passages | Factual content to represent truthfully |
+| --- | --- |
+| P001–P005 | Fictional one-room revenue model, rentable space and annual property NOI; no observed renter or building |
+| P006–P007 | Authentic 2025 operator margin comparisons versus hypothetical cap-based property valuation |
+| P008–P010 | Fair-value purchase and external equity sourcing; hypothetical $50k/year property NOI uplift implies ~$769k extra modeled asset value before costs |
+| P011–P013 | Buying/developing/managing differences; Public Storage actual 2025 acquisitions; Extra Space **third-party managed** stores and 2025 supply pressures |
+| P014–P017 | Distinguish $2.106bn gross property value, $1.053bn modeled debt, ~$1.053bn property equity, ~$138m value gain conditional on operating uplift, versus $49m *annual* simplified cash |
+| P018–P019 | Fictional combined 10% revenue decline/60% margin/7.5% cap stress, fixed debt, $463.32m property equity |
+| P020–P023 | 20% founder ownership is hypothetical and contractual; paper claim versus realized cash; one-room concluding callback |
 
-`evidence.json` has 22 content coverage records SC001–SC022 with exact current paragraph anchors. Those records are **not** an approved scene order, shot list or visual instructions. An editor will propose and own the treatment, and actual rights and final factual depiction still require inspection. The owner only supplies research, clean script and audio directions.
+23 `evidence.json` content records, SC001–SC023, cover every exact current narration paragraph. Coverage does not prescribe creative images. The external editor proposes and owns the visual language; actual rights and truthfulness still need asset-level approval.

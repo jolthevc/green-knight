@@ -1,41 +1,38 @@
-# Editorial and production QA: FB-V0001, revised v2
+# FB-V0001 QA: v3 editorial review and stage
 
-**Date** 2026-10-11 UTC | **Script** v2, SHA-256 `7e4f404203045543a9809f2bbfe31252266eed2d76262f76dff74dce4fb6076a` | **Stage** scripted only.
+**Current script:** v3, SHA-256 `9a83fc52d4b7c8290fe43b17f00eb2e5e4e193d647e4f6036c96d78883268fba`. **Date:** 2026-10-11 UTC. **Status:** scripted, **not production-ready**.
 
-## Completed internal research/editorial checks
+## Internal complete text checks
 
-- [x] Re-read the entire existing v1 narration *before* previous QA to record the cold audience weaknesses.
-- [x] Re-read canonical review instructions, channel rules, owner/editor boundary and story ledger.
-- [x] Opened actual supporting passages in the 2025 Public Storage/CubeSmart/Extra Space disclosures; checked reported annual margins, acquisitions and third-party management ownership.
-- [x] Audited the numerical model: $1.17m per store revenue, $760.5k store NOI, $11.7m modeled gross site value, 180-store $2.106bn asset value, $1.053bn property debt/equity.
-- [x] Reproduced P016 interest and net cash estimate and P018 downside equity (~$463m).
-- [x] Corrected v1 inference about purchasing an asset: rent and possible price appreciation can still provide investment returns at fair value, but purchase does not itself mint incremental wealth.
-- [x] Reworked v1 opening, weak 4–6 minute center, income vs equity transitions and repetitive ending.
-- [x] Full clean spoken narration follows exactly non-spoken `TITLE: <metadata.title>` header and blank line, with no inline source, bracketed delivery cue, heading or em dash.
-- [x] Current v2 evidence claims, scene coverage and non-spoken cue anchors refer to current paragraph beginnings and identical SHA-256/version.
-- [x] Performed v1 structured critical report, documented v1→v2 revision rationale, and independently styled v2 full-pass text re-review, all with limitation that same assistant performed both.
-- [x] Internal newcomer and informed-skeptic reviews include P014–P019 risk and actual financing/return limits.
-- [x] Body word estimate is **1,313 words**, assumed **155 WPM**, extra cue pauses **4.5s**, calculated **512.8s** text estimate within target.
-- [x] Separate v2 narrator guide, editor research support, internal factual coverage and packaging.
-- [ ] Actual repository Python `business/tools/validate.py` executed. Not yet run in a fully checked-out local working tree; perform static equivalent cross-file validation before GitHub commit. Do not claim Python execution if unavailable.
+- [x] Canonical title first line, then blank line and only clean spoken narration P001–P023; no inline citations/cues, bracket instructions or em dash.
+- [x] The original selected FB-I0001 idea and full registry preserved; no change in story ID or channel.
+- [x] V2 cold review explicitly identifies genuine remaining defects in founder ownership and value creation.
+- [x] Structural v3 rewrite makes buying property and creating incrementally valuable NOI two separate economic engines.
+- [x] Supports the added $50k/site annual NOI sensitivity with reproducible arithmetic and explicitly subtracts neither cost nor market risk without caveat.
+- [x] Historical FY2025 issuer gross property operating margins, acquired properties, managed facilities and supply pressure checked against opened primary pages.
+- [x] Equity, gross property value, founder stake, annual property NOI and annual cash remainder are not conflated.
+- [x] All modeled cap rate, revenue, financing, portfolio size, founder claim, interest and downside settings labeled fictional/conditional.
+- [x] 23 exact script-paragraph coverage records and 21 claims anchored to current full-script hash; 12 non-spoken cue references also current.
+- [x] Spokenness audit: no jargon prerequisite before cap rate, units supplied, explicit annual vs point-in-time values, quieter and more causal closing.
+- [x] Word and provisional runtime: 1,323 counted words / 150 assumed WPM plus 4.5 seconds of extra cues = 533.7 seconds (~8:54).
+- [x] Separate v2 critical review, v2→v3 change report and v3 critical re-review prepared under `reviews/`.
+- [ ] Native `business/tools/validate.py` actually executed inside a complete checked-out repository. If unavailable, run an equivalent in-memory structural preflight and record that **native invocation was not performed**.
 
-## Newcomer and skeptic judgment
+## Two internal audience lenses
 
-**Newcomer:** open with one rented room; clarify that the $150/month is *effective average* per 100 SF; introduce property NOI before cap rate, then lender and outside capital claims. P014 is the first major $2bn/1bn distinction. P016's $49m cash is annual, whereas P014/P018 are modeled single-point equity values. Check this orally with real test listeners.
+**Newcomer, simulated:** $150/month on available 100 SF leads naturally to ~$760k property NOI, then ~$11.7m hypothetical gross value, then ~$6m equity funding. Additional $50k/year NOI illustrates earned uplift without requiring a visual chart. Remaining first-listen pressure point: P014–P019 uses property values, loan balances, annual cash and downside equity; a real voice audition must test this.
 
-**Skeptic:** source-back comparisons use experienced 2025 REITs rather than passing those economics off as universal. 6.5% hypothetical cap and 6% hypothetical interest are not described as market quotes. Critically, assembling fair-priced real estate with third-party funding does not automatically earn the founder equity gains. Without an executable acquisition strategy, actual funding documents and return bridge, this remains a worked scale model, **not a validated entrepreneurial wealth-creation recipe**.
+**Financial skeptic, simulated:** Fair value asset purchases with investor funds are NOT proof of founder-created $1bn. The modeled NOI uplift gives a *possible* actual operating mechanism but must incur time/marketing/capex/competition and may not realize the hypothetical property mark. The founder's 20% can only arise through actual personal funding or negotiated contracts, not organizational effort alone. No true acquired property count, debt quote, full project funding or investor IRR has been established.
 
-## Production checks, all pending
+## Production, all genuinely outstanding
 
-- [ ] Owner-approved channel voice audition, provider settings and reference recording.
-- [ ] Editor-proposed visual direction reviewed and approved for reusable channel identity.
-- [ ] Narration generated/performed and listened through completely at normal speed, including number pronunciations, joins and any retakes.
-- [ ] Text-to-audio truthfulness of P007 and P014–P019 tested by real listeners or actual normal-speed full listening.
-- [ ] Actual finished audio/cut measured 480–600 seconds including pauses/closing.
-- [ ] Mix heard on phone speaker and headphones, omissions/captions/readability checked.
-- [ ] Media sources, rights, attribution and YouTube synthetic-content disclosure determined from real assets.
-- [ ] Final verified thumbnail/title/chapter timings, published URL/date and audience performance.
+- [ ] Audition-approved narrator and stable settings.
+- [ ] Editor-proposed actual visual treatment/reference approved; no storyboard fabricated.
+- [ ] Complete assembled voice recording listened at normal speed, every name and number checked.
+- [ ] Retake joins and music intelligibility checked on phone/headphones.
+- [ ] Caption, actual graphics, sourced media, attribution, licenses and disclosure verified.
+- [ ] Final cut rendered and measured **480–600s**.
+- [ ] Title/thumbnail, final chapters and real published video/end-screen link checked.
+- [ ] Real viewer pilot/YouTube retention feedback obtained, if commissioned.
 
-**Internal verdict:** v2 editorially coherent with no unresolved P0/P1 **text** issues after second pass; P2 caution remains around financial density, assumed 155 WPM, model feasibility and original title breadth. **No external human, voice track, finished video, customer research or YouTube metric was consulted.** Keep status `scripted`; do not mark `production_ready`.
-
-**Next genuine gate:** owner-selected narrator audition + editor pilot, full recording check and exact measured cut. Keep v2 words untouched unless committing a v3 linked update.
+**Final editorial judgment:** v3 is internally *text-ready* after second re-review with no identified P0/P1 in the written source/number analysis, but **not independently reviewed, heard aloud, pilot-tested or produced**. Same assistant authored both script and reviews. Outstanding P2 items: title breadth versus true feasibility, financial middle density, and modeled-only investor financing.

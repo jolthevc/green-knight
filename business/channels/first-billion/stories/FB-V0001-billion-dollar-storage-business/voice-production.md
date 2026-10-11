@@ -1,11 +1,9 @@
-# Voice production record, FB-V0001, script v2
+# Voice production status: FB-V0001 v3
 
-**Canonical version:** 2. **Full-script hash:** `7e4f404203045543a9809f2bbfe31252266eed2d76262f76dff74dce4fb6076a`. **Stage:** not yet in audio production.
+Canonical v3 `script.txt` SHA-256 `9a83fc52d4b7c8290fe43b17f00eb2e5e4e193d647e4f6036c96d78883268fba`, **P001–P023**, body-only 1,323 words. `TITLE:` header must never be read. Estimated **150 WPM + 4.5s extra pauses = 533.7 seconds**, not recorded.
 
-- Channel profile: `first_billion_narrator` version 0, unselected; no real approved narrator reference exists.
-- No selected voice provider, language model, voice ID, human performer, accent, synthesis settings or pronunciation take.
-- Narration body: P001–P022, **1,313** repository-counted spoken words. Provisional **155 WPM** plus 4.5 seconds additional cue rests = **512.8 seconds** estimate. The `TITLE:` header must not be recorded.
-- Pronunciation and speech test queue: Public Storage, CubeSmart, Extra Space, cap rate, NOI, six-and-a-half percent, eleven-point-seven million, one-point-zero-five billion and comparison between valuation and annual cash.
-- Highest-risk audition passages: P007 buyer price and cap rate; P014–P016 gross property value, debt, equity and annual cash; P017–P019 loss scenario then founder allocation. Verify a listener understands without visuals. P022 requires settled, earned delivery without a motivational crescendo.
-- Recorded takes, retakes, audio URLs, date, final-cut asset URLs, full narration listening, reference comparison, pronunciation verification, joins/omissions, headphones/phone checks and actual video length: **none**.
-- No claim of live voice playback, external listener evaluation, media mix or accepted pilot.
+**Approved First Billion narrator:** none, profile `first_billion_narrator` v0 unselected. No provider, model, settings, human performer, accent, reference recording or measured speaking speed selected.
+
+Pronunciation and comprehension queue: Public Storage, CubeSmart, Extra Space, ten-by-ten, net operating income (explained in speech as property operating income), cap rate, eleven-point-seven million, one hundred and forty million dollars, and equity after debt. P010/P016 changes are **incremental NOI**, not guaranteed cash or actual market validation. P017 is *annual cash remainder*, P019 is *property-equity value*. P020 founder 20% is not a granted stake.
+
+**Takes / listening / mix / cut:** none. Actual selected audio URLs, rendered final cut URLs, full normal-speed listening review, retake joins, pronunciation testing, phone/headphone mix, measured final seconds, narrator audition approval and asset rights: **not conducted**. Keep `production_review.passed = false`.
