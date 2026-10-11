@@ -1292,6 +1292,151 @@
           "actor": "ChatGPT"
         }
       ]
+    },
+    {
+      "id": "OTM-I0004",
+      "channel": "on-the-map",
+      "title": "Why So Much of the Internet Lives in Virginia",
+      "aliases": [
+        "The Virginia Suburbs Powering the Internet",
+        "Why Is the Internet in Ashburn?"
+      ],
+      "subject": "Northern Virginia data center and network interconnection cluster, centered on Ashburn/Loudoun County and the wider Northern Virginia market",
+      "mechanism": "Early internet interconnection and federal-market proximity helped establish network density; fiber, customers, specialist labor, capital, tax incentives, and accumulated infrastructure may explain persistence despite increasing power and land constraints",
+      "viewer_promise": "Understand why a huge concentration of internet infrastructure formed in Northern Virginia rather than another region, why it persisted, who benefits, and whether its power constraints could change the map.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-11",
+      "updated_at": "2026-10-11",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-11",
+          "status": "proposed",
+          "note": "Presented in five-idea On the Map batch; source leads preliminary and user selection pending.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "OTM-I0005",
+      "channel": "on-the-map",
+      "title": "Why So Many Rockets Launch From Florida",
+      "aliases": [
+        "Why America's Space Coast Is in Florida",
+        "How a Missile Range Became a Spaceport"
+      ],
+      "subject": "Cape Canaveral and Kennedy Space Center launch infrastructure and the surrounding Brevard County space economy",
+      "mechanism": "Military over-water missile testing selected a low-density Florida coast and established range facilities; orbital trajectories, federal investment, operating infrastructure and commercial users reinforced the spaceport's position",
+      "viewer_promise": "Understand why Cape Canaveral was first chosen, why many orbital launches continue there, which missions go elsewhere, and what the space economy creates for the surrounding region.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-11",
+      "updated_at": "2026-10-11",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-11",
+          "status": "proposed",
+          "note": "Presented in five-idea On the Map batch; source leads preliminary and user selection pending.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "OTM-I0006",
+      "channel": "on-the-map",
+      "title": "Why America's Biggest Companies Are 'From' Delaware",
+      "aliases": [
+        "Why Do So Many Companies Call Delaware Home?",
+        "The Small State That Became Corporate America's Address"
+      ],
+      "subject": "Delaware as a legal domicile for major U.S. corporations and the state legal, legal-services and revenue ecosystem",
+      "mechanism": "1899 corporate-law reforms, specialized judicial practice, predictable case law and reinforcing choices by advisers/investors made Delaware a leading legal address; filing and franchise-tax flows generate state revenue",
+      "viewer_promise": "Understand how Delaware became the legal home for many companies that operate elsewhere, what firms actually buy there, who earns money from it, and what could erode the advantage.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-11",
+      "updated_at": "2026-10-11",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-11",
+          "status": "proposed",
+          "note": "Presented in five-idea On the Map batch; source leads preliminary and user selection pending.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "OTM-I0007",
+      "channel": "on-the-map",
+      "title": "How a Dutch Town Became the World's Flower Marketplace",
+      "aliases": [
+        "Why the World's Flowers Go Through the Netherlands",
+        "The Dutch Town That Prices the World's Flowers"
+      ],
+      "subject": "Aalsmeer flower auction, surrounding Dutch floriculture network and Schiphol airport connections",
+      "mechanism": "Local horticulture and early growers' cooperative auctions formed price discovery and trade liquidity; transport, distribution, buyers, skilled services and international supply chains later sustained the marketplace",
+      "viewer_promise": "Understand why flowers grown across the globe are sold or routed through the Netherlands, how a small town accumulated pricing and logistics power, and who captures value.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-11",
+      "updated_at": "2026-10-11",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-11",
+          "status": "proposed",
+          "note": "Presented in five-idea On the Map batch; source leads preliminary and user selection pending.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "OTM-I0008",
+      "channel": "on-the-map",
+      "title": "Why Las Vegas Grew in the Desert",
+      "aliases": [
+        "How a Railroad Stop Became Las Vegas",
+        "Why Las Vegas Became America's Entertainment Capital"
+      ],
+      "subject": "Las Vegas Valley's transition from rail and water stop to gambling, leisure, convention and tourism economy",
+      "mechanism": "Rail access and local water supported the early town; public dam works, state gaming/divorce law, motor travel, capital investment and visitor infrastructure subsequently expanded and entrenched a destination economy",
+      "viewer_promise": "Understand why Las Vegas developed in this particular desert valley, which early choices made mass tourism viable, why it kept attracting investment, and what costs its growth created.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-11",
+      "updated_at": "2026-10-11",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-11",
+          "status": "proposed",
+          "note": "Presented in five-idea On the Map batch; source leads preliminary and user selection pending.",
+          "actor": "ChatGPT"
+        }
+      ]
     }
   ]
 }
