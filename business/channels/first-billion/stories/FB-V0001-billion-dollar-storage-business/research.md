@@ -1,84 +1,77 @@
-# Research and audited model: FB-V0001 v3
+# FB-V0001 v4: research, reproducible economics and risk/mitigant record
 
-**Current canonical script** v3 / full SHA-256 `9a83fc52d4b7c8290fe43b17f00eb2e5e4e193d647e4f6036c96d78883268fba`. **Research check** 2026-10-11 UTC (2026-10-10 Pacific). **Currency** US$ nominal; **location** fictional US portfolio; **valuation basis** property-level NOI capitalization minus property debt. Not a documented startup or current financing quote. Prior v1/v2 detail and reviews remain in Git history.
+**Full current script SHA:** `bbf14408bb7370d3272ceccf2b6ed5a239889c2bde5dc891dbeb1eed2ef8a2d9` | 27 paragraphs | Date checked: 2026-10-11 UTC (2026-10-10 Pacific). Script combines verifiable **2025–26 market facts** with **illustrative transactions/financial models**. Nothing should be represented as an actual founding journey or current lender quote.
 
-## Opened original evidence and its limits
+## Twelve original sources, scope and limitations
 
-- **S001:** [2025 Form 10-K](https://www.sec.gov/Archives/edgar/data/1393311/000162828026007696/psa-20251231.htm) (Public Storage / SEC); source locator: Item 7 Same Store table, 2025 results and discussion. Access status: opened; reported 2026-02-12. Historical public company evidence or management perspective. Not validation of illustrative independent portfolio assumptions.
-- **S002:** [Full-year 2025 earnings release](https://www.sec.gov/Archives/edgar/data/1298675/000129867526000008/cube-20260226xex99d1.htm) (CubeSmart / SEC); source locator: Same-Store Results 606 stores, 2025 full-year NOI and margin. Access status: opened; reported 2026-02-26. Historical public company evidence or management perspective. Not validation of illustrative independent portfolio assumptions.
-- **S003:** [2025 Form 10-K](https://www.sec.gov/Archives/edgar/data/1289490/000128949026000011/exr-20251231.htm) (Extra Space Storage / SEC); source locator: Item 1 Business, 1,856 stores managed for third parties as of 2025-12-31. Access status: opened; reported 2026-02-26. Historical public company evidence or management perspective. Not validation of illustrative independent portfolio assumptions.
-- **S004:** [2025 full-year earnings release](https://www.sec.gov/Archives/edgar/data/1393311/000162828026007684/psa-021226xex99_1.htm) (Public Storage / SEC); source locator: Highlights for year: 87 acquisitions, 6.1m square feet, $945.6m. Access status: opened; reported 2026-02-12. Historical public company evidence or management perspective. Not validation of illustrative independent portfolio assumptions.
-- **S005:** [2025 annual report CEO letter](https://annualreport.extraspace.com/annualreport/2025/) (Extra Space Storage); source locator: CEO letter on new self-storage supply, 2025 move-in rents, pricing platform. Access status: opened; reported 2026. Historical public company evidence or management perspective. Not validation of illustrative independent portfolio assumptions.
+- **S001 Public Storage / SEC:** [2025 Form 10-K](https://www.sec.gov/Archives/edgar/data/1393311/000162828026007696/psa-20251231.htm); locator: Item 7 Same Store table, 2025 results and discussion. Historical public company evidence or management perspective. Not validation of illustrative independent portfolio assumptions.
+- **S002 CubeSmart / SEC:** [Full-year 2025 earnings release](https://www.sec.gov/Archives/edgar/data/1298675/000129867526000008/cube-20260226xex99d1.htm); locator: Same-Store Results 606 stores, 2025 full-year NOI and margin. Historical public company evidence or management perspective. Not validation of illustrative independent portfolio assumptions.
+- **S003 Extra Space Storage / SEC:** [2025 Form 10-K](https://www.sec.gov/Archives/edgar/data/1289490/000128949026000011/exr-20251231.htm); locator: Item 1 Business, 1,856 stores managed for third parties as of 2025-12-31. Historical public company evidence or management perspective. Not validation of illustrative independent portfolio assumptions.
+- **S004 Public Storage / SEC:** [2025 full-year earnings release](https://www.sec.gov/Archives/edgar/data/1393311/000162828026007684/psa-021226xex99_1.htm); locator: Highlights for year: 87 acquisitions, 6.1m square feet, $945.6m. Historical public company evidence or management perspective. Not validation of illustrative independent portfolio assumptions.
+- **S005 Extra Space Storage:** [2025 annual report CEO letter](https://annualreport.extraspace.com/annualreport/2025/); locator: CEO letter on new self-storage supply, 2025 move-in rents, pricing platform. Historical public company evidence or management perspective. Not validation of illustrative independent portfolio assumptions.
+- **S006 Modern Storage Media / TractIQ:** [2026 Self-Storage Almanac preview](https://digital.modernstoragemedia.com/self-storage-almanac-2026/); locator: Section 1 65,000+ active US facilities; Section 2 top five operators 19.3% of facilities on 2025 data. Count and composition estimate; mix of owned and third-party managed stores; share is from 2025 period.
+- **S007 McDonald's / SEC:** [2025 Form 10-K](https://www.sec.gov/Archives/edgar/data/63908/000006390826000035/mcd-20251231.htm); locator: U.S. restaurants FY2025: 13,706. Restaurant count at different measurement date from 2026 storage count.
+- **S008 Starbucks Investor Relations:** [FY2025 results](https://investor.starbucks.com/news/financial-releases/news-details/2025/Starbucks-Reports-Q4-and-Full-Fiscal-Year-2025-Results/default.aspx); locator: North American 2025 stores total 18,311 INCLUDING Canada; upper bound for U.S.. The 18,311 figure includes Canada and must not be reported as U.S. store count.
+- **S009 Public Storage Investor Relations:** [Acquisition of National Storage Affiliates closes](https://investors.publicstorage.com/news-events/press-releases/news-details/2026/Public-Storage-Announces-Closing-of-National-Storage-Affiliates-Acquisition/default.aspx); locator: Release July 22, 2026 confirms transaction closed and combined platform scale. Publicly traded real-estate trust; not automatically private equity.
+- **S010 Extra Space Storage:** [Benefits of Extra Space third-party management](https://www.extraspace.com/inside-exr/third-party-management/benefits-of-extra-space-storage-third-party-management/); locator: Company description of ManagementPlus partner service and owner retained ownership. Issuer promotional account; no guaranteed uplift or seller succession right.
+- **S011 TractIQ:** [Q2 2026 Self-Storage REIT Report](https://tractiq.com/q2-2026-self-storage-reit-report/); locator: Aug 2026 report shows uneven pricing/occupancy recovery amid moderating supply. Vendor interpretation of REIT reporting; not all neighborhoods recover.
+- **S012 Extra Space Storage Investor Relations:** [FY2025 year-end results](https://ir.extraspace.com/news/news-details/2026/Extra-Space-Storage-Inc--Reports-2025-Fourth-Quarter-and-Year-End-Results/default.aspx); locator: At Dec 31 2025 1,856 third-party managed stores, distinct from owned. Managed stores are not all owned properties.
 
-Specific figures checked from original passages:
-- S001 Public Storage fiscal 2025 same-store annual revenue **$3,764.833m** and NOI **$2,828.915m**; reported gross margin before depreciation **75.1%**. Same-store pool selects mature facilities.
-- S002 CubeSmart fiscal 2025 same-store revenue **$938.048m** and NOI **$666.847m**; reported property gross margin **71.1%**. This is a different company and accounting presentation.
-- S003 Extra Space as at 2025-12-31 reported **1,856 stores managed for third-party owners**. They are managed, not owned underlying real estate.
-- S004 Public Storage 2025 acquired **87 facilities for $945.6m**. This confirms transaction scale, not purchasable modeled site comps or loan terms.
-- S005 Extra Space management identified competition/new-supply effects on recent move-in rents. Management perspective, no universal regional rent forecast.
+## Corrections to prior narrative
 
-## Central thesis and alternative explanation
+- The 2026 Self-Storage Almanac **reports >65,000 active facilities** in the US based on TractIQ, updated from an older 2025 approximate ~58,000 estimate. The same Almanac's 19.3% market share statistic is anchored in the 2025 top-operator list, **not an October 2026 post-merger share**; it includes owned and third-party managed sites. The largest-five's **35.6% rentable-square-foot share** is far greater than their facility-count share. Other top-100 operators also have substantial holdings, so "80% mom-and-pop owned" is **not supported**.
+- McDonald's 2025 US site count is 13,706. Starbucks 2025 North America total including Canada is 18,311, itself an upper bound for US Starbucks. Therefore combined US McDonald's + Starbucks sites are <=32,017, materially fewer than >65,000 storage facilities even with different reporting snapshots. Do not claim there are more storage buildings than **all fast-food franchises**.
+- Public Storage acquired NSA in a **completed** July 22 2026 deal. Differentiate large public REIT consolidation from all-PE rollups. Management companies compete for small owners; Extra Space's 2025 third-party platform means asset-light management is validated but hardly unoccupied white space.
+- Q2 2026 operator conditions improved **unevenly**; weaker local supply/demand still matter. Rising rates cannot be assumed. Historical market/REIT performance cannot predict a hypothetical independent operator's gross margin or local viability.
 
-**Thesis:** A modest asset's stabilized NOI can be multiplied through ownership of many facilities, but capital assembly is not the same as investment gains. Additional wealth may arise through retained property cash flows, profitable operating improvements, cheaper-than-value purchases, successful development, or appreciation, net of the real cost of achieving them. The investor's contracted rights determine whether the founder participates.
+## Entry-level modeled property: transaction with explicit cash and rights
 
-**Strongest counterargument:** Any operator with billions of investor capital could purchase billions of fairly priced real estate. That does **not** establish creation of a billion dollars of incremental sponsor wealth. A credible founder story needs cost basis, timing, actual debt/equity terms, sponsor contribution and net returns. The episode explicitly does not claim an executable 180-site plan, a proven uplift program, an investor IRR or a billionaire founder.
+| Metric | Value | Category |
+| --- | ---: | --- |
+| Net rentable available property SF | 20,000 | Hypothetical older smaller independent property |
+| Effective gross annual revenue / available SF | $14 | Hypothetical; includes vacant space and discounts; not marketed asking rent |
+| Property annual revenue | $280,000 | 20,000 × $14 |
+| Property expenses **including 5% management fee** | $140,000 | Hypothetical, 50% of revenue |
+| Property annual NOI (not distributable cash) | $140,000 | $280k − $140k expenses |
+| Operating platform management fee revenue | $14,000/year | Illustrative **5% × $280k gross revenue**, property management cost already in expenses; operator expenses still unpaid |
+| Assumed cap rate | 8% | Hypothetical; not a market rate offered to this site |
+| Appraised gross property value | $1,750,000 | $140k / 0.08 |
+| Senior bank financing | $875,000 | Hypothetical 50% of property value; subject to underwriting and lender consent |
+| Seller-held rolled equity, not a senior debt note | $525,000 | 30% ongoing equity interest in a negotiated property JV |
+| Outside investor funded property equity | $350,000 | Hypothetical 20% of purchase value; not founder's free money |
+| Funding total | $1,750,000 | $875k bank + $525k seller rollover + $350k outside equity |
+| Senior annual interest | $61,250 | Hypothetical 7% × $875k |
+| NOI minus modeled cash interest | $78,750 | Before principal, replacement capex, corporate overhead, tax, fees and claim waterfall |
+| Incremental sustainable NOI illustration | $30,000/year | Not measured or guaranteed |
+| Extra modeled gross property value at constant cap | $375,000 | $30k / 0.08, **before all required improvement cost and pricing changes** |
 
-## Base model: fully reproducible
+**Seller-rollover mechanics:** seller might take $1.225m cash for a 70% transfer and keep $525k (30%) equity. Lender provides $875k of this, outside partner $350k. All dollar flows before closing fees, reserves, potential old mortgage payoff, liabilities/tax and lender-required equity/gurantee. Owner/founder is not automatically an equity investor and might be compensated with an actual negotiated property management fee plus an incentive/promote **only after investor return conditions**, if anyone accepts it. Other structures such as subordinated seller notes or full cash acquisitions exist; do not conflate a retained seller equity interest with a fully creditor-funded deal. Zero-founder-cash negotiation is **not** a generic no-money-down product; guarantees, co-investment and other conflicts may make it impossible. Inability to close is a natural gate, not a promised route.
 
-| Parameter | Representative property | 180 property portfolio | Basis |
-| --- | ---: | ---: | --- |
-| Net rentable available SF | 65,000 | 11,700,000 | Hypothetical |
-| Annual effective revenue / available SF | $18.00 | $18.00 | Hypothetical; includes occupied and vacant area effects |
-| Annual property revenue | $1,170,000 | $210,600,000 | Available SF × $18 |
-| Property operating expense / revenue | 35% | 35% | Hypothetical |
-| Property net operating income (NOI) | $760,500 | $136,890,000 | 65% of revenue |
-| Capitalization rate | 6.5% | 6.5% | Hypothetical buyer demanded income yield |
-| Gross property value | $11,700,000 | $2,106,000,000 | NOI / 0.065 |
-| Outstanding property debt | $5,850,000 | $1,053,000,000 | 50% modeled debt/value |
-| Residual property equity | $5,850,000 | $1,053,000,000 | Property value less property debt |
+## Underwriting/red-flag ladder
 
-**First-listen 100-SF comparison:** 100 × $18 annual / 12 = **$150 per month effective property revenue** on 100 available SF including vacancies. It is NOT the advertised or realized rent per occupied room. The filmed narrative should make this clear even without graphics.
+| Gate | Failure mode | Specific response | Unresolved proof |
+| --- | --- | --- | --- |
+| Owner acquisition | Owners dislike strangers/unknown competence | Offer permissioned, time-boxed scoped trial with measured net-revenue and tenant outcomes | Whether any owner will sign |
+| First contract economics | 5% fee on $280k site = $14k gross annual operator revenue | Aggregate several nearby clients; constrain services to credible cost base; no premise that one store finances staff | True CAC, labor intensity, software/insurance overhead |
+| Incumbent rivalry | National chains and REITs dominate digital distribution and pricing | Local relationships, neighborhood performance, seller-specific services; admit no advantage if chain better | Conversion gains and marketing spend needed |
+| First JV | Banks demand guarantee, seasoned sponsor, reserves, more equity | Bring experienced local capital/operating partner, explicit debt headroom and recourse analysis; do not close if unsafe | Actual debt quote and consent |
+| Seller rollover | Owner wants all cash or refuses passive stake | Offer optional full sale/investor acquisition or continue managing; no coerced seller discount | Seller preferences |
+| Physical asset | Hidden roof, access, security/insurance, tax reassessment | Inspect, reserve CapEx, diligence title/tax/leases, professional counsel | Inspected property, title and contractor quotes |
+| Demand | New entrant supplies cheap units and churn spikes | Actual local building pipeline, drive-time substitutes, discount-adjusted move-ins, stress scenario and skip markets | Actual local absorption |
+| Acquisition returns | Stable NOI priced fairly yields no free asset uplift | Improve sustainable NOI net of incremental cost; avoid relying on cap compression and high rents | Verifiable operational improvement |
+| Expansion | Fragmented small holdings require disproportionate cost and institutional reporting | Local density → multi-deal creditworthy results → larger fund/JVs; management fees remain separate from owned equity | Debt terms, audited track record, investor appetite |
+| Billion headline | $2.1bn gross assets conflated with founder wealth | Minus $1.053bn property debt, then investor equity and negotiated waterfall; highlight uncertainty | Actual sponsor ownership and holdco liabilities |
 
-**Annual simplified cash reminder:** $136.89m property NOI − ($1.053bn × 6% illustrative interest = $63.18m) − $10m hypothetical corporate G&A − $15m illustrative recurring capex allowances = **$48.71m annual remainder**, before income tax, principal amortization, refinancing charges, transaction costs, retained reserves, investor preferences and additional holdco obligations. NOI is not cash distributable or GAAP net income; no actual market interest or available lender commitment is asserted.
+## Institutional benchmark from prior researched model
 
-## New v3 value-creation example
+Hypothetical later **owned** store: 65,000 available SF × $18 annual effective property revenue/SF = $1,170,000 annual revenue. After assumed property expenses of 35%, NOI = $760,500. At **assumed** 6.5% cap, gross property value = **$11,700,000**. Top public REIT 2025 same-store property NOI margin benchmarks: Public Storage ~75.1%, CubeSmart ~71.1%, not applicable unchanged to a startup.
 
-At a *constant* 6.5% cap rate, and separately assuming a net, sustainable improvement to property NOI (after incremental property operating costs):
-- One site with **$50,000 additional annual NOI** would have **$50,000 / 0.065 = $769,230.77** *higher gross hypothetical property value*.
-- Repeat on 180 sites: **$9,000,000 extra annual NOI** implies **$138,461,538.46** higher aggregate modeled gross property value.
-- At unchanged debt, property-equity valuation increases by the same amount **before any investment to achieve improvement**, plus taxes, execution cost, loan restrictions, cap-rate change, preferences and transaction friction.
+Exactly 180 *owned* equivalents = **$2,106,000,000 gross property value**. At assumed 50% debt, **$1,053,000,000 property loan debt** leaves **$1,053,000,000 property equity**. Acquiring at full fair value requires about a billion dollars of investor equity **plus** debt; not an accumulated $1bn net profit. Any facilities only third-party managed for fees do **not** enter this property-equity arithmetic.
 
-This is an **illustrative sensitivity**, not a measured NOI improvement, operating roadmap, verified easy gain, net promoter profit or guaranteed capital gain. The company has to spend capital/time, compete for tenants, and withstand market repricing. The central insight is difference between purchasing $11.7m at $11.7m and generating incremental sustained NOI beyond the purchase underwriting.
+**Retained source-model stress:** Annual effective rev/SF $18 →$16.20 (−10%), property NOI margin 65% →60%, cap 6.5% →7.5%, outstanding property debt unchanged at $1.053bn. Portfolio revenue $189.54m, NOI $113.724m, gross value $1.51632bn, residual property equity **$463.32m** (56.0% lower than base). No failure probability or 2026 market quote attached.
 
-## Adverse scenario, unchanged debt balance
+**Scale capital reality:** Path from first management contract → local small JV → 5–10 clustered operating arrangements → regional acquisitions → institutional-scale owned portfolio is a scenario, not a timeline or automatic deal flow. Sponsor management platform might itself have enterprise value from fees, but that value **is not added** to the chosen property-equity milestone. Contracts may allocate a sponsor promote after investor capital/target return, but there is no justified arbitrary 20% interest. If a negotiated simplified 20% property equity share existed, 20% ×$1.053bn = $210.6m gross paper, rounded $200m based on a billion-dollar base, before preferences/costs/tax.
 
-| Driver / calculated value | Base | Adverse scenario |
-| --- | ---: | ---: |
-| Revenue/available SF/year | $18.00 | $16.20 (−10%) |
-| Property NOI margin | 65% | 60% |
-| Portfolio NOI | $136.890m | $113.724m |
-| Cap rate | 6.5% | 7.5% |
-| Gross property value | $2,106.000m | $1,516.320m |
-| Debt balance fixed | $1,053.000m | $1,053.000m |
-| Residual property equity | $1,053.000m | **$463.320m** |
-| Equity change | 0% | **−56.0%** |
+## What source data cannot establish
 
-These changes are chosen jointly to illustrate leverage; this is not a prediction or a probability-weighted forecast. In reality refinance covenant/lender requirements could trigger added equity needs or worse results.
-
-## Starting resources, route choices and realism tests
-
-**Acquiring** an income-producing property at fair value can generate *future rental yields* and appreciation, while needing major equity and lender approvals; it does **not** create a windfall by merely changing hands. Actual deal pipeline, price basis, financing costs and investor agreements must be proven before presenting the route as executable.
-
-**Developing** from land could create surplus value after stabilization if the total risk-adjusted cost is below realized property worth. Site entitlement, construction, carrying costs and slow lease-up can eliminate that spread. No development cost or build schedule is invented here.
-
-**Managing** third-party-owned buildings can generate fees and improve distribution and acquisition options with lower owned real-estate capital. Its managed property asset values are *not* automatically owned equity.
-
-**Scale advantage** may include centralized revenue management, systems and marketing; large incumbent numbers are not transferrable by default. The 180-store assumption is a mathematical endpoint, not an acquisition schedule, investor approval or repeatable unit forecast.
-
-**Founder's claim** must be negotiated. If capital investors put up most funding, the sponsor does not acquire 20% simply by organizing. A hypothetical 20% pro-forma common allocation is an illustrative *if*, not even a likely default. If achieved, 20% of ~$1.053bn is ~$210.6m before senior claims and taxes. In the script "roughly $200m" uses a rounded $1bn base. Actual investor waterfall, sponsor contribution, promote, fees, control and liquidity must be evidenced.
-
-**Milestone boundary:** $1.053bn represents property-equity valuation from the modeled assets and property debt alone, not fully modeled enterprise equity after every parent-company obligation. No true first-billion date exists. Gross property value vs value of company vs founder liquid net worth must remain separate.
-
-## Verification and stage
-
-All source URLs opened in current review. No sourced 2026 average cap rate, lender interest coupon or portfolio forecast is claimed. Script v3 is text-ready for internal handoff, but no independent user research, voice audition, actual video measurement or licensed media clearance has been performed.
+No specific 2026 small-property sale comps, 8% quoted cap rate, loan 7% offer, 5% third-party management quote, first customer conversion stats, seller propensity to rollover, forecast path to 180 sites, 30k/year achievable NOI uplift, 20% sponsor allocation or actual local market vacancy data. These are **invented for teaching but disclosed, not false real-world observations**. Avoid recommending securities, named bank commitments or definite exit value. Local city/county regulations on storage tenancy, liens, owner obligations, bank covenants and marketing/privacy would require transaction-level counsel.

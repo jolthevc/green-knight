@@ -1,9 +1,9 @@
-# Voice production status: FB-V0001 v3
+# Voice production state FB-V0001 v4
 
-Canonical v3 `script.txt` SHA-256 `9a83fc52d4b7c8290fe43b17f00eb2e5e4e193d647e4f6036c96d78883268fba`, **P001–P023**, body-only 1,323 words. `TITLE:` header must never be read. Estimated **150 WPM + 4.5s extra pauses = 533.7 seconds**, not recorded.
+**Narration** `script.txt` v4 SHA-256 `bbf14408bb7370d3272ceccf2b6ed5a239889c2bde5dc891dbeb1eed2ef8a2d9`. P001–P027, 1,442 approximate spoken words at assumed 155 WPM plus 5s nonstandard pauses => **563.19 sec / 9:23 estimate**, not actual full listen.
 
-**Approved First Billion narrator:** none, profile `first_billion_narrator` v0 unselected. No provider, model, settings, human performer, accent, reference recording or measured speaking speed selected.
+**Unselected:** narration profile `first_billion_narrator` v0, provider/model/voice or actual performer, locale/accent details, settings, audio reference, observed WPM, user approval and audition. Initial TITLE line is **not spoken**; sparse nonspoken exact delivery instructions are in separate `delivery-cues.json`.
 
-Pronunciation and comprehension queue: Public Storage, CubeSmart, Extra Space, ten-by-ten, net operating income (explained in speech as property operating income), cap rate, eleven-point-seven million, one hundred and forty million dollars, and equity after debt. P010/P016 changes are **incremental NOI**, not guaranteed cash or actual market validation. P017 is *annual cash remainder*, P019 is *property-equity value*. P020 founder 20% is not a granted stake.
+**Recommended audition:** P001–P005 approachable service-led start; P010–P013 small-site cap rate, bank/seller/investor split and dangerous net interest; P017–P018 local oversupply and valid right to walk; P022–P025 gross versus net equity and conditional founder stake. Audition must show whether a novice actually follows the unfamiliar equity jargon without charts.
 
-**Takes / listening / mix / cut:** none. Actual selected audio URLs, rendered final cut URLs, full normal-speed listening review, retake joins, pronunciation testing, phone/headphone mix, measured final seconds, narrator audition approval and asset rights: **not conducted**. Keep `production_review.passed = false`.
+**No activity completed:** recorded takes, full audio listening, 2-device mix check, joins/retakes, live caption sync, rights-clearance, final-cut video, measured seconds, voice selection. Do not mark voice audition or production as passed.

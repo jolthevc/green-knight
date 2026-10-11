@@ -1,38 +1,40 @@
-# FB-V0001 QA: v3 editorial review and stage
+# FB-V0001 QA v4: entrepreneurial accessibility, stage and production gates
 
-**Current script:** v3, SHA-256 `9a83fc52d4b7c8290fe43b17f00eb2e5e4e193d647e4f6036c96d78883268fba`. **Date:** 2026-10-11 UTC. **Status:** scripted, **not production-ready**.
+**Date:** 2026-10-11 UTC | **Status:** scripted | **Full canonical `script.txt` SHA-256:** `bbf14408bb7370d3272ceccf2b6ed5a239889c2bde5dc891dbeb1eed2ef8a2d9` | **Story:** FB-V0001, idea FB-I0001.
+**Script:** 27 clean spoken paragraphs; 1,442 estimated body words; assumed 155 WPM + 5s cue rests → 563.19s (~9:23), within the 480–600s provisional range.
 
-## Internal complete text checks
+## User-requested editorial improvements
 
-- [x] Canonical title first line, then blank line and only clean spoken narration P001–P023; no inline citations/cues, bracket instructions or em dash.
-- [x] The original selected FB-I0001 idea and full registry preserved; no change in story ID or channel.
-- [x] V2 cold review explicitly identifies genuine remaining defects in founder ownership and value creation.
-- [x] Structural v3 rewrite makes buying property and creating incrementally valuable NOI two separate economic engines.
-- [x] Supports the added $50k/site annual NOI sensitivity with reproducible arithmetic and explicitly subtracts neither cost nor market risk without caveat.
-- [x] Historical FY2025 issuer gross property operating margins, acquired properties, managed facilities and supply pressure checked against opened primary pages.
-- [x] Equity, gross property value, founder stake, annual property NOI and annual cash remainder are not conflated.
-- [x] All modeled cap rate, revenue, financing, portfolio size, founder claim, interest and downside settings labeled fictional/conditional.
-- [x] 23 exact script-paragraph coverage records and 21 claims anchored to current full-script hash; 12 non-spoken cue references also current.
-- [x] Spokenness audit: no jargon prerequisite before cap rate, units supplied, explicit annual vs point-in-time values, quieter and more causal closing.
-- [x] Word and provisional runtime: 1,323 counted words / 150 assumed WPM plus 4.5 seconds of extra cues = 533.7 seconds (~8:54).
-- [x] Separate v2 critical review, v2→v3 change report and v3 critical re-review prepared under `reviews/`.
-- [ ] Native `business/tools/validate.py` actually executed inside a complete checked-out repository. If unavailable, run an equivalent in-memory structural preflight and record that **native invocation was not performed**.
+- [x] Does not assume a first 65,000-SF self-storage development or instant real-estate acquisition: begins with fee-based management of a fictional 20k-SF independent site.
+- [x] Explicitly questions how a newcomer finds the owner and wins permission; limited, measurable and owner-approved trial instead of guaranteed deal.
+- [x] Shows 5% illustrative management fee yields only $14k in annual *manager revenue* on first $280k gross property, before platform costs; avoids fantasy first-store cash.
+- [x] Uses real 2026 industry evidence: >65k US storage facilities, top-five 19.3% 2025 ownership/management count, properly bounded McDonald's+Starbucks comparison, actual PSA-NSA close July 22 2026, Extra Space existing third-party management incumbent.
+- [x] Includes at least six specific risk/mitigation pairs: owner trust and trial, incumbent digital spend and local service, seller/bank/investor veto and no-deal fallback, thin interest coverage and reserves/diligence, supply/discount competition and permit-driven market selection, development cost/lease-up and avoid greenfield, scale cap markets/funding and patient reporting.
+- [x] Small hypothetical $1.75m deal capital is clear: 50% mortgage, 30% seller rolled **equity**, 20% new investor **cash equity**, before closing costs; founder stake **not gifted**.
+- [x] Added hypothetical $30k sustainable *annual NOI* operational upside before improvement costs; no unrealized value presented as cash in pocket.
+- [x] Only after staged proof does episode model a mature 65k SF site, 180 owned facilities, $2.106bn gross property, $1.053bn debt, $1.053bn total residual equity and a conditional founder stake; third-party managed assets excluded.
+- [x] Source-attribution: real 2025/2026 numbers distinct from invented property and financial math; CEO/seller persona not described as factual history.
+- [x] Whole file version/hash linked across metadata, evidence, delivery cues and all narrative/editorial documents, with v3 audit and v4 rereview saved under reviews.
+- [x] No em-dash narration, creative shot guidance, fake archival evidence or cite tags inside spoken script.
 
-## Two internal audience lenses
+## Numerical spot checks
 
-**Newcomer, simulated:** $150/month on available 100 SF leads naturally to ~$760k property NOI, then ~$11.7m hypothetical gross value, then ~$6m equity funding. Additional $50k/year NOI illustrates earned uplift without requiring a visual chart. Remaining first-listen pressure point: P014–P019 uses property values, loan balances, annual cash and downside equity; a real voice audition must test this.
+First site: 20,000 × $14/year available SF = $280,000 property revenue. 50% expense burden (including assumed manager fees) => $140,000 NOI. 5% × $280,000 = $14,000 *annual operator fee revenue*. $140,000/0.08 = $1,750,000 site gross value. 50% bank $875k + 30% seller rolled equity $525k + 20% new outside cash equity $350k = $1.75m. $875k ×7% = $61,250 annual interest. Remaining $78,750/year before principal/capex/overhead and investor terms. Additional $30k *annual NOI* /8% = $375k hypothetical added property gross value *before cost*.
 
-**Financial skeptic, simulated:** Fair value asset purchases with investor funds are NOT proof of founder-created $1bn. The modeled NOI uplift gives a *possible* actual operating mechanism but must incur time/marketing/capex/competition and may not realize the hypothetical property mark. The founder's 20% can only arise through actual personal funding or negotiated contracts, not organizational effort alone. No true acquired property count, debt quote, full project funding or investor IRR has been established.
+Mature sites: 65,000 SF ×$18 effective annual/SF ×65% assumed NOI margin = $760,500 annual NOI. /6.5% modeled cap = $11.7m/site ×180 = $2.106bn property. 50% modeled debt = $1.053bn, residual after-debt property equity same. Adverse -10% revenue, 60% margin, 7.5% cap, debt held constant = $463.32m equity. 20% ×$1.053bn = $210.6m paper; narration rounds to $200m on a billion-dollar base.
 
-## Production, all genuinely outstanding
+## Internal review verdict and residual issues
 
-- [ ] Audition-approved narrator and stable settings.
-- [ ] Editor-proposed actual visual treatment/reference approved; no storyboard fabricated.
-- [ ] Complete assembled voice recording listened at normal speed, every name and number checked.
-- [ ] Retake joins and music intelligibility checked on phone/headphones.
-- [ ] Caption, actual graphics, sourced media, attribution, licenses and disclosure verified.
-- [ ] Final cut rendered and measured **480–600s**.
-- [ ] Title/thumbnail, final chapters and real published video/end-screen link checked.
-- [ ] Real viewer pilot/YouTube retention feedback obtained, if commissioned.
+**Editorial text verdict:** EDITORIALLY_READY, *same author/reviewer, text-only*. No further identified P0/P1 financial or narrative breakdown. **P2:** first external owner/contract is speculative, 2026 relative industry count changes by definition, first small JV funding percentages may overload a novice, same for 180 property end-state, target 9:23 can become longer at slower authentic speaking pace. No available data justifies a probability of becoming a billionaire or a time-to-180 estimate.
 
-**Final editorial judgment:** v3 is internally *text-ready* after second re-review with no identified P0/P1 in the written source/number analysis, but **not independently reviewed, heard aloud, pilot-tested or produced**. Same assistant authored both script and reviews. Outstanding P2 items: title breadth versus true feasibility, financial middle density, and modeled-only investor financing.
+## Actual production and validation still outstanding
+
+- [ ] Execute checked-out repository native validator `business/tools/validate.py` (only in-memory structural validation available in this connector workflow).
+- [ ] Select/approve narrator, audition actual financial sections, measure real WPM.
+- [ ] Listen to entire narration and test first-listen understanding, including seller 30% retention and owner asset versus founder stake.
+- [ ] Select visual language through editor pilot; clear media/rights, music, imagery and all on-screen facts.
+- [ ] Time actual full cut within 480–600 seconds, ensure intelligible phone mix and captions.
+- [ ] Confirm YouTube title/thumbnail/chapter alignment and any disclosure requirements before upload.
+- [ ] Real pilot viewer/actual retention evidence, if commissioned.
+
+Stage remains **scripted**, not full audio/editorial production passed or published.

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "script_version": 3,
-  "script_sha256": "9a83fc52d4b7c8290fe43b17f00eb2e5e4e193d647e4f6036c96d78883268fba",
+  "script_version": 4,
+  "script_sha256": "bbf14408bb7370d3272ceccf2b6ed5a239889c2bde5dc891dbeb1eed2ef8a2d9",
   "sources": [
     {
       "id": "S001",
@@ -57,212 +57,357 @@
       "accessed_at": "2026-10-11",
       "access_status": "opened",
       "limitations": "Historical public company evidence or management perspective. Not validation of illustrative independent portfolio assumptions."
+    },
+    {
+      "id": "S006",
+      "publisher": "Modern Storage Media / TractIQ",
+      "title": "2026 Self-Storage Almanac preview",
+      "url": "https://digital.modernstoragemedia.com/self-storage-almanac-2026/",
+      "locator": "Section 1 65,000+ active US facilities; Section 2 top five operators 19.3% of facilities on 2025 data",
+      "published_at": "2026",
+      "accessed_at": "2026-10-11",
+      "access_status": "opened",
+      "limitations": "Count and composition estimate; mix of owned and third-party managed stores; share is from 2025 period."
+    },
+    {
+      "id": "S007",
+      "publisher": "McDonald's / SEC",
+      "title": "2025 Form 10-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/63908/000006390826000035/mcd-20251231.htm",
+      "locator": "U.S. restaurants FY2025: 13,706",
+      "published_at": "2026",
+      "accessed_at": "2026-10-11",
+      "access_status": "opened",
+      "limitations": "Restaurant count at different measurement date from 2026 storage count."
+    },
+    {
+      "id": "S008",
+      "publisher": "Starbucks Investor Relations",
+      "title": "FY2025 results",
+      "url": "https://investor.starbucks.com/news/financial-releases/news-details/2025/Starbucks-Reports-Q4-and-Full-Fiscal-Year-2025-Results/default.aspx",
+      "locator": "North American 2025 stores total 18,311 INCLUDING Canada; upper bound for U.S.",
+      "published_at": "2025-10",
+      "accessed_at": "2026-10-11",
+      "access_status": "opened",
+      "limitations": "The 18,311 figure includes Canada and must not be reported as U.S. store count."
+    },
+    {
+      "id": "S009",
+      "publisher": "Public Storage Investor Relations",
+      "title": "Acquisition of National Storage Affiliates closes",
+      "url": "https://investors.publicstorage.com/news-events/press-releases/news-details/2026/Public-Storage-Announces-Closing-of-National-Storage-Affiliates-Acquisition/default.aspx",
+      "locator": "Release July 22, 2026 confirms transaction closed and combined platform scale",
+      "published_at": "2026-07-22",
+      "accessed_at": "2026-10-11",
+      "access_status": "opened",
+      "limitations": "Publicly traded real-estate trust; not automatically private equity."
+    },
+    {
+      "id": "S010",
+      "publisher": "Extra Space Storage",
+      "title": "Benefits of Extra Space third-party management",
+      "url": "https://www.extraspace.com/inside-exr/third-party-management/benefits-of-extra-space-storage-third-party-management/",
+      "locator": "Company description of ManagementPlus partner service and owner retained ownership",
+      "published_at": "2025-05-29",
+      "accessed_at": "2026-10-11",
+      "access_status": "opened",
+      "limitations": "Issuer promotional account; no guaranteed uplift or seller succession right."
+    },
+    {
+      "id": "S011",
+      "publisher": "TractIQ",
+      "title": "Q2 2026 Self-Storage REIT Report",
+      "url": "https://tractiq.com/q2-2026-self-storage-reit-report/",
+      "locator": "Aug 2026 report shows uneven pricing/occupancy recovery amid moderating supply",
+      "published_at": "2026-08",
+      "accessed_at": "2026-10-11",
+      "access_status": "opened",
+      "limitations": "Vendor interpretation of REIT reporting; not all neighborhoods recover."
+    },
+    {
+      "id": "S012",
+      "publisher": "Extra Space Storage Investor Relations",
+      "title": "FY2025 year-end results",
+      "url": "https://ir.extraspace.com/news/news-details/2026/Extra-Space-Storage-Inc--Reports-2025-Fourth-Quarter-and-Year-End-Results/default.aspx",
+      "locator": "At Dec 31 2025 1,856 third-party managed stores, distinct from owned",
+      "published_at": "2026-02-19",
+      "accessed_at": "2026-10-11",
+      "access_status": "opened",
+      "limitations": "Managed stores are not all owned properties."
     }
   ],
   "claims": [
     {
       "id": "C001",
       "paragraph_id": "P002",
-      "anchor": "We're building a fictional American storag",
-      "claim": "Hypothetical US$1bn property equity after property debt; not founder cash or profit",
+      "anchor": "This is a hypothetical American business. ",
+      "claim": "This is a hypothetical American business. Our destination is a billion dollars of property equity: what a portfolio of storage buildings might be worth after subtracting its property debt. But funding it, creating new wealth, and keeping a share are separate challenges.",
       "status": "illustrative",
       "source_ids": [],
-      "basis": "Explicit assumption or formula in the reproducible research model."
+      "basis": "Explicit hypothetical entry, price, financing or owner share; calculations documented in research.md."
     },
     {
       "id": "C002",
       "paragraph_id": "P003",
-      "anchor": "Start with a facility containing sixty-fiv",
-      "claim": "65,000 NRSF initial site and 100 SF ten-by-ten hypothetical room",
-      "status": "illustrative",
-      "source_ids": [],
-      "basis": "Explicit assumption or formula in the reproducible research model."
+      "anchor": "The opportunity is hiding in plain sight. ",
+      "claim": "The opportunity is hiding in plain sight. The 2026 Self-Storage Almanac counts more than sixty-five thousand active American facilities. That's more locations than McDonald's and Starbucks have in America combined. As of 2025, the five largest operators ran less than one-fifth. There are thousands of smaller owners. But fragmentation doesn't mean they are desperate sellers or bad operators. Many know exactly what their properties are worth.",
+      "status": "verified",
+      "source_ids": [
+        "S006",
+        "S007",
+        "S008"
+      ],
+      "basis": "Original contemporary operator and original industry-source passages checked."
     },
     {
       "id": "C003",
       "paragraph_id": "P004",
-      "anchor": "Assume eighteen dollars in annual property",
-      "claim": "Effective $18 annual revenue per available SF implies $150 per 100 SF monthly including vacant capacity and $1.17m per site yearly",
+      "anchor": "So suppose you find a family-owned facilit",
+      "claim": "So suppose you find a family-owned facility with twenty thousand rentable square feet. The owner wants help with missed calls, online listings, and pricing. You offer to take on a narrow job, perhaps turning missed inquiries into actual bookings. Track each result, and charge an agreed management fee. The building stays theirs.",
       "status": "illustrative",
-      "source_ids": [],
-      "basis": "Explicit assumption or formula in the reproducible research model."
+      "source_ids": [
+        "S010"
+      ],
+      "basis": "Explicit hypothetical entry, price, financing or owner share; calculations documented in research.md."
     },
     {
       "id": "C004",
       "paragraph_id": "P005",
-      "anchor": "Now pay for taxes, insurance, repairs, uti",
-      "claim": "35% hypothetical property expense ratio leaves $760,500 annual property NOI",
-      "status": "illustrative",
-      "source_ids": [],
-      "basis": "Explicit assumption or formula in the reproducible research model."
+      "anchor": "They may ask, reasonably, why a stranger d",
+      "claim": "They may ask, reasonably, why a stranger deserves access to customer data. So start with a limited, permissioned trial: log missed inquiries, fix booking problems, and measure the change against the previous months. A new website won't magically fill the place. First you must sell the owner on trusting you.",
+      "status": "inference",
+      "source_ids": [
+        "S010"
+      ],
+      "basis": "Proposed operating strategy or risk/inference, without claimed empirical win rate."
     },
     {
       "id": "C005",
       "paragraph_id": "P006",
-      "anchor": "The margin isn't completely out of the blu",
-      "claim": "Public Storage 2025 mature comparable margin 75.1%; CubeSmart FY2025 comparable margin 71.1%",
-      "status": "verified",
-      "source_ids": [
-        "S001",
-        "S002"
-      ],
-      "basis": "Opened 2025 original operator report at source locator."
+      "anchor": "Assume that first facility earns fourteen ",
+      "claim": "Assume that first facility earns fourteen dollars a year per available square foot, averaged across vacancies. That's two hundred and eighty thousand dollars of annual revenue. After property costs, perhaps half remains: a hundred and forty thousand dollars. At an illustrative five-percent management fee, your company earns just fourteen thousand dollars in annual revenue, before your expenses.",
+      "status": "illustrative",
+      "source_ids": [],
+      "basis": "Explicit hypothetical entry, price, financing or owner share; calculations documented in research.md."
     },
     {
       "id": "C006",
       "paragraph_id": "P007",
-      "anchor": "Here's the first twist. If buyers require ",
-      "claim": "At 6.5% assumed cap rate $760,500 NOI implies $11.7m gross property value",
-      "status": "illustrative",
-      "source_ids": [],
-      "basis": "Explicit assumption or formula in the reproducible research model."
+      "anchor": "That won't fund much of a team. But prove ",
+      "claim": "That won't fund much of a team. But prove higher net revenue, faster responses and fewer vacancies, and you have evidence. You have an operating track record. Repeat it locally, measuring results after discounts, refunds and the cost of the work.",
+      "status": "inference",
+      "source_ids": [
+        "S010"
+      ],
+      "basis": "Proposed operating strategy or risk/inference, without claimed empirical win rate."
     },
     {
       "id": "C007",
       "paragraph_id": "P008",
-      "anchor": "But put yourself in the buyer's shoes. An ",
-      "claim": "Fair-price asset acquisition has prospective future returns, not immediate gain equal to asset value",
-      "status": "inference",
+      "anchor": "Now the first formidable opponent arrives.",
+      "claim": "Now the first formidable opponent arrives. Giants have search budgets, call centers and sophisticated pricing. In July 2026, Public Storage completed its acquisition of National Storage Affiliates, building an even larger platform. You cannot outspend them online. And a company this large can offer smaller owners management services too.",
+      "status": "verified",
       "source_ids": [
-        "S001"
+        "S009",
+        "S010"
       ],
-      "basis": "Inference from financial and operating structure; qualified in research.md."
+      "basis": "Original contemporary operator and original industry-source passages checked."
     },
     {
       "id": "C008",
       "paragraph_id": "P009",
-      "anchor": "Where does the money come from? Assume a l",
-      "claim": "Assumed 50% debt financing requires ~$5.85m debt and ~$5.85m equity per property before transaction costs",
-      "status": "illustrative",
-      "source_ids": [],
-      "basis": "Explicit assumption or formula in the reproducible research model."
+      "anchor": "Your possible edge is local knowledge. Hel",
+      "claim": "Your possible edge is local knowledge. Help local owners who want personal service, cleaner operations, or a path toward retirement without handing everything to a national chain. Pair trusted local service with useful pricing and booking tools, not a promise that software alone will beat a national brand. If a giant serves that owner better, change your offer.",
+      "status": "inference",
+      "source_ids": [
+        "S010"
+      ],
+      "basis": "Proposed operating strategy or risk/inference, without claimed empirical win rate."
     },
     {
       "id": "C009",
       "paragraph_id": "P010",
-      "anchor": "So what could an operator do to actually c",
-      "claim": "$50k annual incremental site NOI yields ~$769,230 additional value at unchanged 6.5% cap, before costs",
+      "anchor": "Eventually an owner might consider making ",
+      "claim": "Eventually an owner might consider making you a partner. Our small facility still earns a hundred and forty thousand dollars annually. At an assumed eight-percent property valuation rate, it might be worth about one-point-seven-five million dollars. That's hypothetical, and beyond your savings.",
       "status": "illustrative",
       "source_ids": [],
-      "basis": "Explicit assumption or formula in the reproducible research model."
+      "basis": "Explicit hypothetical entry, price, financing or owner share; calculations documented in research.md."
     },
     {
       "id": "C010",
       "paragraph_id": "P011",
-      "anchor": "Now there are two different growth engines",
-      "claim": "Buy/build/manage routes differ in ownership, financing and operational risks",
-      "status": "inference",
-      "source_ids": [
-        "S001",
-        "S003"
-      ],
-      "basis": "Inference from financial and operating structure; qualified in research.md."
+      "anchor": "There's no magical no-money-down loan. One",
+      "claim": "There's no magical no-money-down loan. One possible transaction uses a bank for half the value, the seller retaining a thirty-percent ownership stake, and a local investor contributing the remaining twenty percent in cash. The owner takes cash for most of the property but keeps a minority stake. This might suit an owner who wants to step back, not someone demanding a clean exit. You manage it for a fee, perhaps earning a negotiated share of gains after investor returns.",
+      "status": "illustrative",
+      "source_ids": [],
+      "basis": "Explicit hypothetical entry, price, financing or owner share; calculations documented in research.md."
     },
     {
       "id": "C011",
       "paragraph_id": "P012",
-      "anchor": "Look at how big those choices can become. ",
-      "claim": "Public Storage acquired 87 sites for $945.6m in 2025; Extra Space managed 1,856 third-party sites at 2025 year-end",
-      "status": "verified",
-      "source_ids": [
-        "S004",
-        "S003"
-      ],
-      "basis": "Opened 2025 original operator report at source locator."
+      "anchor": "But this structure must be negotiated. A l",
+      "claim": "But this structure must be negotiated. A lender may demand guarantees, more equity, or refuse the structure. The owner may want every dollar in cash. The investor may demand control, and the lender may require a sponsor with financial resources. If terms fail, there's no deal. Keep managing rather than betting everything on a closing.",
+      "status": "inference",
+      "source_ids": [],
+      "basis": "Proposed operating strategy or risk/inference, without claimed empirical win rate."
     },
     {
       "id": "C012",
       "paragraph_id": "P013",
-      "anchor": "Now assume we somehow assemble one hundred",
-      "claim": "2025 industry management acknowledges supply and move-in price pressure; 180 identical sites are a scenario only",
-      "status": "inference",
-      "source_ids": [
-        "S005"
-      ],
-      "basis": "Inference from financial and operating structure; qualified in research.md."
+      "anchor": "Debt is dangerous. Our example's one hundr",
+      "claim": "Debt is dangerous. Our example's one hundred and forty thousand dollars of property operating income isn't free cash. Interest on a hypothetical eight-hundred-and-seventy-five-thousand-dollar loan at seven percent eats roughly sixty-one thousand dollars each year. Before principal, repairs, and overhead. Vacancy can break a thin deal, especially if the seller's past revenue benefited from unusually high rents.",
+      "status": "illustrative",
+      "source_ids": [],
+      "basis": "Explicit hypothetical entry, price, financing or owner share; calculations documented in research.md."
     },
     {
       "id": "C013",
       "paragraph_id": "P014",
-      "anchor": "Still, look at the math. One hundred and e",
-      "claim": "180 modeled properties gross $2.106bn and financed with $1.053bn debt leave $1.053bn property equity",
-      "status": "illustrative",
-      "source_ids": [],
-      "basis": "Explicit assumption or formula in the reproducible research model."
+      "anchor": "So underwrite the downside. Check rent rol",
+      "claim": "So underwrite the downside. Check rent rolls, departures, competitors, taxes, insurance, roofs and construction permits. Hold reserves and stress-test lower rents and debt payments. Don't depend on immediate rent hikes. Have an independent lawyer check the agreements and a property professional inspect the building.",
+      "status": "inference",
+      "source_ids": [
+        "S006",
+        "S011"
+      ],
+      "basis": "Proposed operating strategy or risk/inference, without claimed empirical win rate."
     },
     {
       "id": "C014",
       "paragraph_id": "P015",
-      "anchor": "Here's the uncomfortable part. To buy thos",
-      "claim": "At assumed fair value, building portfolio at that scale requires about $1.053bn cash equity and same debt, not instant incremental investor wealth",
+      "anchor": "What does success look like? Suppose opera",
+      "claim": "What does success look like? Suppose operations add thirty thousand dollars to sustainable annual property income. At the same hypothetical eight-percent valuation rate, that might add about three hundred and seventy-five thousand dollars of property value, before the cost of getting there. That's possible new value from better operations. But if improvements cost that much, or competing new space forces rents down, you may create nothing.",
       "status": "illustrative",
       "source_ids": [],
-      "basis": "Explicit assumption or formula in the reproducible research model."
+      "basis": "Explicit hypothetical entry, price, financing or owner share; calculations documented in research.md."
     },
     {
       "id": "C015",
       "paragraph_id": "P016",
-      "anchor": "Remember that extra fifty thousand dollars",
-      "claim": "$50k NOI uplift ×180 = $9m extra annual property NOI, implies ~$138.46m gross value at 6.5% assumed cap before improvement costs",
-      "status": "illustrative",
-      "source_ids": [],
-      "basis": "Explicit assumption or formula in the reproducible research model."
+      "anchor": "Now build a cluster, not an empire. Nearby",
+      "claim": "Now build a cluster, not an empire. Nearby facilities can share vendors, customer-service systems and neighborhood-specific marketing without opening a new construction site. Some owners want management; others consider partnerships or eventual sales. None owes you a discount.",
+      "status": "inference",
+      "source_ids": [
+        "S010"
+      ],
+      "basis": "Proposed operating strategy or risk/inference, without claimed empirical win rate."
     },
     {
       "id": "C016",
       "paragraph_id": "P017",
-      "anchor": "Even a huge portfolio isn't an unlimited c",
-      "claim": "$136.89m modeled portfolio annual NOI, $63.18m interest at 6%, $10m G&A+$15m capex reserve leave $48.71m before further costs",
-      "status": "illustrative",
-      "source_ids": [],
-      "basis": "Explicit assumption or formula in the reproducible research model."
+      "anchor": "But here's the next trap. Storage is inten",
+      "claim": "But here's the next trap. Storage is intensely local. A national count of more than sixty-five thousand facilities doesn't tell you whether your neighborhood needs another one. A nearby competitor offering months of discounted rent can undermine both occupancy and what you can charge existing renters. Giants can cut prices while your loan remains.",
+      "status": "inference",
+      "source_ids": [
+        "S006",
+        "S011"
+      ],
+      "basis": "Proposed operating strategy or risk/inference, without claimed empirical win rate."
     },
     {
       "id": "C017",
       "paragraph_id": "P018",
-      "anchor": "Now test a bad year. Revenue per available",
-      "claim": "Adverse scenario annual revenue/SF down 10%, property NOI margin 60%, cap rate 7.5%",
-      "status": "illustrative",
-      "source_ids": [],
-      "basis": "Explicit assumption or formula in the reproducible research model."
+      "anchor": "So choose markets with your eyes open. Che",
+      "claim": "So choose markets with your eyes open. Check permits, actual move-in rents after discounts, local moves, and how long vacancies sit unfilled. Underwrite a price war. Sometimes the strongest move is to skip an entire city. Conditions improved unevenly in 2026.",
+      "status": "inference",
+      "source_ids": [
+        "S011"
+      ],
+      "basis": "Proposed operating strategy or risk/inference, without claimed empirical win rate."
     },
     {
       "id": "C018",
       "paragraph_id": "P019",
-      "anchor": "Together those changes push modeled proper",
-      "claim": "Scenario downside property $1.51632bn with fixed $1.053bn debt leaves $463.32m equity, 56.0% decline",
-      "status": "illustrative",
-      "source_ids": [],
-      "basis": "Explicit assumption or formula in the reproducible research model."
+      "anchor": "Could you build your own facilities instea",
+      "claim": "Could you build your own facilities instead? Eventually, perhaps. Land, permits and lease-up may exhaust your cash. Existing occupied sites are the less speculative start. Develop only with proven demand and funded contingency.",
+      "status": "inference",
+      "source_ids": [
+        "S006"
+      ],
+      "basis": "Proposed operating strategy or risk/inference, without claimed empirical win rate."
     },
     {
       "id": "C019",
       "paragraph_id": "P020",
-      "anchor": "There's one more catch. Suppose you founde",
-      "claim": "Founder 20% stake is not automatic from operation; requires equity contribution or contractual incentive terms",
-      "status": "inference",
+      "anchor": "Eventually choose your capital model. Stay",
+      "claim": "Eventually choose your capital model. Stay a lean third-party manager, earning fees without owning buildings. Or raise investment pools to acquire buildings, surrendering substantial ownership. Real companies do both, and one may feed the other: managing owners' stores can produce introductions to eventual acquisitions, without guaranteeing any right to buy. Extra Space reported managing more than eighteen hundred third-party-owned properties at the end of 2025. Managed buildings aren't all owned assets.",
+      "status": "verified",
       "source_ids": [
-        "S003"
+        "S003",
+        "S012",
+        "S010"
       ],
-      "basis": "Inference from financial and operating structure; qualified in research.md."
+      "basis": "Original contemporary operator and original industry-source passages checked."
     },
     {
       "id": "C020",
       "paragraph_id": "P021",
-      "anchor": "If you did keep twenty percent of the bill",
-      "claim": "20% of ~$1.053bn property equity is ~$210.6m, stated ~$200m on rounded $1bn; subject to investor preference/tax/liquidity",
-      "status": "illustrative",
-      "source_ids": [],
-      "basis": "Explicit assumption or formula in the reproducible research model."
+      "anchor": "A local cluster might become a regional pl",
+      "claim": "A local cluster might become a regional platform. Large investors need results, not ambition. You need dependable financial statements, repeatable operations, lender relationships, and institutions willing to fund a whole acquisition program. Debt matures, costs change, and founder stakes dilute. There's no guaranteed leap from five to fifty. A failed refinancing or loss of an investor can halt expansion even if the stores are healthy.",
+      "status": "inference",
+      "source_ids": [
+        "S009"
+      ],
+      "basis": "Proposed operating strategy or risk/inference, without claimed empirical win rate."
     },
     {
       "id": "C021",
       "paragraph_id": "P022",
-      "anchor": "So what does it take? A facility that earn",
-      "claim": "Scale threshold and value creation require funding/access/operations and genuinely negotiated claim rights",
+      "anchor": "Imagine graduating to larger sixty-five-th",
+      "claim": "Imagine graduating to larger sixty-five-thousand-square-foot facilities. Assume eighteen dollars of annual revenue per square foot, a sixty-five-percent property operating margin, and a six-and-a-half-percent valuation rate. That's roughly seven hundred and sixty thousand dollars of annual property operating income. At the assumed valuation rate, a larger store could be worth around eleven-point-seven million dollars, before property debt.",
+      "status": "illustrative",
+      "source_ids": [
+        "S001",
+        "S002"
+      ],
+      "basis": "Explicit hypothetical entry, price, financing or owner share; calculations documented in research.md."
+    },
+    {
+      "id": "C022",
+      "paragraph_id": "P023",
+      "anchor": "One hundred and eighty such sites could be",
+      "claim": "One hundred and eighty such sites could be worth two-point-one billion dollars gross. If about half is financed with property debt, the equity left for all owners is a little over a billion dollars. That's our milestone. But investors supplied roughly a billion dollars of equity capital. We have built a funded portfolio, not invented a billion dollars of profit.",
       "status": "illustrative",
       "source_ids": [],
-      "basis": "Explicit assumption or formula in the reproducible research model."
+      "basis": "Explicit hypothetical entry, price, financing or owner share; calculations documented in research.md."
+    },
+    {
+      "id": "C023",
+      "paragraph_id": "P024",
+      "anchor": "Your job is to create returns beyond inves",
+      "claim": "Your job is to create returns beyond invested capital and time. Good occupancy, cost discipline and buying only when the price works might help. None is guaranteed. Leverage cuts both ways: weaker rents, expenses and buyer pricing could shrink modeled equity to roughly four hundred and sixty million dollars, without losing a building.",
+      "status": "illustrative",
+      "source_ids": [],
+      "basis": "Explicit hypothetical entry, price, financing or owner share; calculations documented in research.md."
+    },
+    {
+      "id": "C024",
+      "paragraph_id": "P025",
+      "anchor": "Then comes the last uncomfortable question",
+      "claim": "Then comes the last uncomfortable question. How much of this is yours? Management isn't ownership. You might earn fees and a negotiated share of gains after investors recover their capital and agreed return. Even a hypothetical twenty-percent ownership stake in our billion-dollar property-equity base would be about two hundred million dollars on paper, before other claims. Extraordinary, not automatic.",
+      "status": "illustrative",
+      "source_ids": [],
+      "basis": "Explicit hypothetical entry, price, financing or owner share; calculations documented in research.md."
+    },
+    {
+      "id": "C025",
+      "paragraph_id": "P026",
+      "anchor": "The hopeful story isn't buying a thousand ",
+      "claim": "The hopeful story isn't buying a thousand warehouses with a laptop. Start with trust, improve a real business, earn one partnership, then ask investors to fund the next. Some owners will say no. Reject enough bad deals and survive long enough to earn the right to scale.",
+      "status": "inference",
+      "source_ids": [
+        "S010"
+      ],
+      "basis": "Proposed operating strategy or risk/inference, without claimed empirical win rate."
+    },
+    {
+      "id": "C026",
+      "paragraph_id": "P027",
+      "anchor": "A customer pays every month for a little e",
+      "claim": "A customer pays every month for a little empty room. Behind it sit an owner, operator, lender and investor. Your way in is solving a problem for one. The road to a billion starts smaller than a building. It starts when you're useful enough to be let in. Subscribe for the next business, and we'll start again from zero.",
+      "status": "inference",
+      "source_ids": [],
+      "basis": "Proposed operating strategy or risk/inference, without claimed empirical win rate."
     }
   ],
   "scenes": [
@@ -271,10 +416,10 @@
       "paragraphs": [
         {
           "paragraph_id": "P001",
-          "anchor": "A storage room is one of the strangest pro"
+          "anchor": "Imagine trying to build a billion-dollar s"
         }
       ],
-      "purpose": "Maintain exact paragraph coverage and data-integrity notes while editor controls visuals",
+      "purpose": "Document paragraph coverage and evidence limits only; visual creative decisions belong to editor",
       "evidence_type": "illustration",
       "source_ids": []
     },
@@ -283,10 +428,10 @@
       "paragraphs": [
         {
           "paragraph_id": "P002",
-          "anchor": "We're building a fictional American storag"
+          "anchor": "This is a hypothetical American business. "
         }
       ],
-      "purpose": "Maintain exact paragraph coverage and data-integrity notes while editor controls visuals",
+      "purpose": "Document paragraph coverage and evidence limits only; visual creative decisions belong to editor",
       "evidence_type": "illustration",
       "source_ids": []
     },
@@ -295,10 +440,10 @@
       "paragraphs": [
         {
           "paragraph_id": "P003",
-          "anchor": "Start with a facility containing sixty-fiv"
+          "anchor": "The opportunity is hiding in plain sight. "
         }
       ],
-      "purpose": "Maintain exact paragraph coverage and data-integrity notes while editor controls visuals",
+      "purpose": "Document paragraph coverage and evidence limits only; visual creative decisions belong to editor",
       "evidence_type": "illustration",
       "source_ids": []
     },
@@ -307,10 +452,10 @@
       "paragraphs": [
         {
           "paragraph_id": "P004",
-          "anchor": "Assume eighteen dollars in annual property"
+          "anchor": "So suppose you find a family-owned facilit"
         }
       ],
-      "purpose": "Maintain exact paragraph coverage and data-integrity notes while editor controls visuals",
+      "purpose": "Document paragraph coverage and evidence limits only; visual creative decisions belong to editor",
       "evidence_type": "illustration",
       "source_ids": []
     },
@@ -319,10 +464,10 @@
       "paragraphs": [
         {
           "paragraph_id": "P005",
-          "anchor": "Now pay for taxes, insurance, repairs, uti"
+          "anchor": "They may ask, reasonably, why a stranger d"
         }
       ],
-      "purpose": "Maintain exact paragraph coverage and data-integrity notes while editor controls visuals",
+      "purpose": "Document paragraph coverage and evidence limits only; visual creative decisions belong to editor",
       "evidence_type": "illustration",
       "source_ids": []
     },
@@ -331,10 +476,10 @@
       "paragraphs": [
         {
           "paragraph_id": "P006",
-          "anchor": "The margin isn't completely out of the blu"
+          "anchor": "Assume that first facility earns fourteen "
         }
       ],
-      "purpose": "Maintain exact paragraph coverage and data-integrity notes while editor controls visuals",
+      "purpose": "Document paragraph coverage and evidence limits only; visual creative decisions belong to editor",
       "evidence_type": "illustration",
       "source_ids": []
     },
@@ -343,10 +488,10 @@
       "paragraphs": [
         {
           "paragraph_id": "P007",
-          "anchor": "Here's the first twist. If buyers require "
+          "anchor": "That won't fund much of a team. But prove "
         }
       ],
-      "purpose": "Maintain exact paragraph coverage and data-integrity notes while editor controls visuals",
+      "purpose": "Document paragraph coverage and evidence limits only; visual creative decisions belong to editor",
       "evidence_type": "illustration",
       "source_ids": []
     },
@@ -355,10 +500,10 @@
       "paragraphs": [
         {
           "paragraph_id": "P008",
-          "anchor": "But put yourself in the buyer's shoes. An "
+          "anchor": "Now the first formidable opponent arrives."
         }
       ],
-      "purpose": "Maintain exact paragraph coverage and data-integrity notes while editor controls visuals",
+      "purpose": "Document paragraph coverage and evidence limits only; visual creative decisions belong to editor",
       "evidence_type": "illustration",
       "source_ids": []
     },
@@ -367,10 +512,10 @@
       "paragraphs": [
         {
           "paragraph_id": "P009",
-          "anchor": "Where does the money come from? Assume a l"
+          "anchor": "Your possible edge is local knowledge. Hel"
         }
       ],
-      "purpose": "Maintain exact paragraph coverage and data-integrity notes while editor controls visuals",
+      "purpose": "Document paragraph coverage and evidence limits only; visual creative decisions belong to editor",
       "evidence_type": "illustration",
       "source_ids": []
     },
@@ -379,10 +524,10 @@
       "paragraphs": [
         {
           "paragraph_id": "P010",
-          "anchor": "So what could an operator do to actually c"
+          "anchor": "Eventually an owner might consider making "
         }
       ],
-      "purpose": "Maintain exact paragraph coverage and data-integrity notes while editor controls visuals",
+      "purpose": "Document paragraph coverage and evidence limits only; visual creative decisions belong to editor",
       "evidence_type": "illustration",
       "source_ids": []
     },
@@ -391,10 +536,10 @@
       "paragraphs": [
         {
           "paragraph_id": "P011",
-          "anchor": "Now there are two different growth engines"
+          "anchor": "There's no magical no-money-down loan. One"
         }
       ],
-      "purpose": "Maintain exact paragraph coverage and data-integrity notes while editor controls visuals",
+      "purpose": "Document paragraph coverage and evidence limits only; visual creative decisions belong to editor",
       "evidence_type": "illustration",
       "source_ids": []
     },
@@ -403,10 +548,10 @@
       "paragraphs": [
         {
           "paragraph_id": "P012",
-          "anchor": "Look at how big those choices can become. "
+          "anchor": "But this structure must be negotiated. A l"
         }
       ],
-      "purpose": "Maintain exact paragraph coverage and data-integrity notes while editor controls visuals",
+      "purpose": "Document paragraph coverage and evidence limits only; visual creative decisions belong to editor",
       "evidence_type": "illustration",
       "source_ids": []
     },
@@ -415,10 +560,10 @@
       "paragraphs": [
         {
           "paragraph_id": "P013",
-          "anchor": "Now assume we somehow assemble one hundred"
+          "anchor": "Debt is dangerous. Our example's one hundr"
         }
       ],
-      "purpose": "Maintain exact paragraph coverage and data-integrity notes while editor controls visuals",
+      "purpose": "Document paragraph coverage and evidence limits only; visual creative decisions belong to editor",
       "evidence_type": "illustration",
       "source_ids": []
     },
@@ -427,10 +572,10 @@
       "paragraphs": [
         {
           "paragraph_id": "P014",
-          "anchor": "Still, look at the math. One hundred and e"
+          "anchor": "So underwrite the downside. Check rent rol"
         }
       ],
-      "purpose": "Maintain exact paragraph coverage and data-integrity notes while editor controls visuals",
+      "purpose": "Document paragraph coverage and evidence limits only; visual creative decisions belong to editor",
       "evidence_type": "illustration",
       "source_ids": []
     },
@@ -439,10 +584,10 @@
       "paragraphs": [
         {
           "paragraph_id": "P015",
-          "anchor": "Here's the uncomfortable part. To buy thos"
+          "anchor": "What does success look like? Suppose opera"
         }
       ],
-      "purpose": "Maintain exact paragraph coverage and data-integrity notes while editor controls visuals",
+      "purpose": "Document paragraph coverage and evidence limits only; visual creative decisions belong to editor",
       "evidence_type": "illustration",
       "source_ids": []
     },
@@ -451,10 +596,10 @@
       "paragraphs": [
         {
           "paragraph_id": "P016",
-          "anchor": "Remember that extra fifty thousand dollars"
+          "anchor": "Now build a cluster, not an empire. Nearby"
         }
       ],
-      "purpose": "Maintain exact paragraph coverage and data-integrity notes while editor controls visuals",
+      "purpose": "Document paragraph coverage and evidence limits only; visual creative decisions belong to editor",
       "evidence_type": "illustration",
       "source_ids": []
     },
@@ -463,10 +608,10 @@
       "paragraphs": [
         {
           "paragraph_id": "P017",
-          "anchor": "Even a huge portfolio isn't an unlimited c"
+          "anchor": "But here's the next trap. Storage is inten"
         }
       ],
-      "purpose": "Maintain exact paragraph coverage and data-integrity notes while editor controls visuals",
+      "purpose": "Document paragraph coverage and evidence limits only; visual creative decisions belong to editor",
       "evidence_type": "illustration",
       "source_ids": []
     },
@@ -475,10 +620,10 @@
       "paragraphs": [
         {
           "paragraph_id": "P018",
-          "anchor": "Now test a bad year. Revenue per available"
+          "anchor": "So choose markets with your eyes open. Che"
         }
       ],
-      "purpose": "Maintain exact paragraph coverage and data-integrity notes while editor controls visuals",
+      "purpose": "Document paragraph coverage and evidence limits only; visual creative decisions belong to editor",
       "evidence_type": "illustration",
       "source_ids": []
     },
@@ -487,10 +632,10 @@
       "paragraphs": [
         {
           "paragraph_id": "P019",
-          "anchor": "Together those changes push modeled proper"
+          "anchor": "Could you build your own facilities instea"
         }
       ],
-      "purpose": "Maintain exact paragraph coverage and data-integrity notes while editor controls visuals",
+      "purpose": "Document paragraph coverage and evidence limits only; visual creative decisions belong to editor",
       "evidence_type": "illustration",
       "source_ids": []
     },
@@ -499,10 +644,10 @@
       "paragraphs": [
         {
           "paragraph_id": "P020",
-          "anchor": "There's one more catch. Suppose you founde"
+          "anchor": "Eventually choose your capital model. Stay"
         }
       ],
-      "purpose": "Maintain exact paragraph coverage and data-integrity notes while editor controls visuals",
+      "purpose": "Document paragraph coverage and evidence limits only; visual creative decisions belong to editor",
       "evidence_type": "illustration",
       "source_ids": []
     },
@@ -511,10 +656,10 @@
       "paragraphs": [
         {
           "paragraph_id": "P021",
-          "anchor": "If you did keep twenty percent of the bill"
+          "anchor": "A local cluster might become a regional pl"
         }
       ],
-      "purpose": "Maintain exact paragraph coverage and data-integrity notes while editor controls visuals",
+      "purpose": "Document paragraph coverage and evidence limits only; visual creative decisions belong to editor",
       "evidence_type": "illustration",
       "source_ids": []
     },
@@ -523,10 +668,10 @@
       "paragraphs": [
         {
           "paragraph_id": "P022",
-          "anchor": "So what does it take? A facility that earn"
+          "anchor": "Imagine graduating to larger sixty-five-th"
         }
       ],
-      "purpose": "Maintain exact paragraph coverage and data-integrity notes while editor controls visuals",
+      "purpose": "Document paragraph coverage and evidence limits only; visual creative decisions belong to editor",
       "evidence_type": "illustration",
       "source_ids": []
     },
@@ -535,10 +680,58 @@
       "paragraphs": [
         {
           "paragraph_id": "P023",
-          "anchor": "Go back to that ten-by-ten room. The custo"
+          "anchor": "One hundred and eighty such sites could be"
         }
       ],
-      "purpose": "Maintain exact paragraph coverage and data-integrity notes while editor controls visuals",
+      "purpose": "Document paragraph coverage and evidence limits only; visual creative decisions belong to editor",
+      "evidence_type": "illustration",
+      "source_ids": []
+    },
+    {
+      "id": "SC024",
+      "paragraphs": [
+        {
+          "paragraph_id": "P024",
+          "anchor": "Your job is to create returns beyond inves"
+        }
+      ],
+      "purpose": "Document paragraph coverage and evidence limits only; visual creative decisions belong to editor",
+      "evidence_type": "illustration",
+      "source_ids": []
+    },
+    {
+      "id": "SC025",
+      "paragraphs": [
+        {
+          "paragraph_id": "P025",
+          "anchor": "Then comes the last uncomfortable question"
+        }
+      ],
+      "purpose": "Document paragraph coverage and evidence limits only; visual creative decisions belong to editor",
+      "evidence_type": "illustration",
+      "source_ids": []
+    },
+    {
+      "id": "SC026",
+      "paragraphs": [
+        {
+          "paragraph_id": "P026",
+          "anchor": "The hopeful story isn't buying a thousand "
+        }
+      ],
+      "purpose": "Document paragraph coverage and evidence limits only; visual creative decisions belong to editor",
+      "evidence_type": "illustration",
+      "source_ids": []
+    },
+    {
+      "id": "SC027",
+      "paragraphs": [
+        {
+          "paragraph_id": "P027",
+          "anchor": "A customer pays every month for a little e"
+        }
+      ],
+      "purpose": "Document paragraph coverage and evidence limits only; visual creative decisions belong to editor",
       "evidence_type": "illustration",
       "source_ids": []
     }

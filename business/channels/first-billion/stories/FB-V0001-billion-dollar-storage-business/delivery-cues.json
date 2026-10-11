@@ -1,154 +1,190 @@
 {
   "schema_version": 2,
-  "script_version": 3,
+  "script_version": 4,
   "instructions_are_non_spoken": true,
-  "assumed_or_observed_wpm": 150,
+  "assumed_or_observed_wpm": 155,
   "silent_hold_seconds": 0,
   "cues": [
     {
       "paragraph_id": "P001",
-      "anchor": "A storage room is one of the strangest pro",
+      "anchor": "Imagine trying to build a billion-dollar s",
       "intent": "curious",
       "pace": "natural",
       "inflection": "neutral",
       "emphasis": [
-        "three different things"
+        "Not by building."
       ],
-      "pause_after_seconds": 0.4,
+      "pause_after_seconds": 0.3,
       "pronunciation_notes": []
     },
     {
-      "paragraph_id": "P002",
-      "anchor": "We're building a fictional American storag",
+      "paragraph_id": "P003",
+      "anchor": "The opportunity is hiding in plain sight. ",
       "intent": "matter_of_fact",
       "pace": "natural",
       "inflection": "neutral",
       "emphasis": [
-        "a founder's personal fortune"
+        "more than sixty-five thousand active American facilities"
       ],
       "pause_after_seconds": 0.3,
       "pronunciation_notes": []
     },
     {
       "paragraph_id": "P005",
-      "anchor": "Now pay for taxes, insurance, repairs, uti",
+      "anchor": "They may ask, reasonably, why a stranger d",
       "intent": "matter_of_fact",
       "pace": "slower",
       "inflection": "neutral",
       "emphasis": [
-        "That isn't money the owner can take home."
+        "why a stranger deserves access to customer data"
       ],
-      "pause_after_seconds": 0.4,
+      "pause_after_seconds": 0.3,
       "pronunciation_notes": []
     },
     {
-      "paragraph_id": "P007",
-      "anchor": "Here's the first twist. If buyers require ",
-      "intent": "curious",
+      "paragraph_id": "P006",
+      "anchor": "Assume that first facility earns fourteen ",
+      "intent": "matter_of_fact",
       "pace": "slower",
       "inflection": "neutral",
       "emphasis": [
-        "almost twelve-million-dollar asset"
+        "fourteen thousand dollars in annual revenue"
       ],
-      "pause_after_seconds": 0.4,
+      "pause_after_seconds": 0.3,
       "pronunciation_notes": []
     },
     {
       "paragraph_id": "P008",
-      "anchor": "But put yourself in the buyer's shoes. An ",
+      "anchor": "Now the first formidable opponent arrives.",
       "intent": "skeptical",
       "pace": "natural",
       "inflection": "neutral",
       "emphasis": [
-        "hasn't made you rich"
+        "You cannot outspend them online."
       ],
       "pause_after_seconds": 0.3,
       "pronunciation_notes": []
     },
     {
-      "paragraph_id": "P010",
-      "anchor": "So what could an operator do to actually c",
+      "paragraph_id": "P011",
+      "anchor": "There's no magical no-money-down loan. One",
       "intent": "matter_of_fact",
       "pace": "slower",
       "inflection": "neutral",
       "emphasis": [
-        "Before the cost of improvements."
+        "There's no magical no-money-down loan."
       ],
       "pause_after_seconds": 0.4,
       "pronunciation_notes": []
     },
     {
-      "paragraph_id": "P014",
-      "anchor": "Still, look at the math. One hundred and e",
+      "paragraph_id": "P012",
+      "anchor": "But this structure must be negotiated. A l",
+      "intent": "skeptical",
+      "pace": "natural",
+      "inflection": "neutral",
+      "emphasis": [
+        "If terms fail, there's no deal."
+      ],
+      "pause_after_seconds": 0.3,
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P013",
+      "anchor": "Debt is dangerous. Our example's one hundr",
       "intent": "matter_of_fact",
       "pace": "slower",
       "inflection": "neutral",
       "emphasis": [
-        "for all property equity holders together"
+        "Vacancy can break a thin deal"
       ],
-      "pause_after_seconds": 0.5,
+      "pause_after_seconds": 0.4,
       "pronunciation_notes": []
     },
     {
-      "paragraph_id": "P016",
-      "anchor": "Remember that extra fifty thousand dollars",
+      "paragraph_id": "P015",
+      "anchor": "What does success look like? Suppose opera",
       "intent": "curious",
       "pace": "slower",
       "inflection": "neutral",
       "emphasis": [
-        "one hundred and forty million dollars"
+        "before the cost of getting there"
       ],
       "pause_after_seconds": 0.4,
       "pronunciation_notes": []
     },
     {
-      "paragraph_id": "P017",
-      "anchor": "Even a huge portfolio isn't an unlimited c",
-      "intent": "matter_of_fact",
-      "pace": "slower",
+      "paragraph_id": "P018",
+      "anchor": "So choose markets with your eyes open. Che",
+      "intent": "reflective",
+      "pace": "natural",
       "inflection": "neutral",
       "emphasis": [
-        "Annual cash is not the same as the billion-dollar valuation."
-      ],
-      "pause_after_seconds": 0.4,
-      "pronunciation_notes": []
-    },
-    {
-      "paragraph_id": "P019",
-      "anchor": "Together those changes push modeled proper",
-      "intent": "skeptical",
-      "pace": "slower",
-      "inflection": "neutral",
-      "emphasis": [
-        "without selling a building"
-      ],
-      "pause_after_seconds": 0.5,
-      "pronunciation_notes": []
-    },
-    {
-      "paragraph_id": "P020",
-      "anchor": "There's one more catch. Suppose you founde",
-      "intent": "matter_of_fact",
-      "pace": "slower",
-      "inflection": "neutral",
-      "emphasis": [
-        "isn't automatic"
+        "Sometimes the strongest move is to skip an entire city."
       ],
       "pause_after_seconds": 0.3,
       "pronunciation_notes": []
     },
     {
+      "paragraph_id": "P022",
+      "anchor": "Imagine graduating to larger sixty-five-th",
+      "intent": "matter_of_fact",
+      "pace": "slower",
+      "inflection": "neutral",
+      "emphasis": [
+        "before property debt"
+      ],
+      "pause_after_seconds": 0.4,
+      "pronunciation_notes": []
+    },
+    {
       "paragraph_id": "P023",
-      "anchor": "Go back to that ten-by-ten room. The custo",
+      "anchor": "One hundred and eighty such sites could be",
+      "intent": "matter_of_fact",
+      "pace": "slower",
+      "inflection": "neutral",
+      "emphasis": [
+        "We have built a funded portfolio, not invented a billion dollars of profit."
+      ],
+      "pause_after_seconds": 0.5,
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P024",
+      "anchor": "Your job is to create returns beyond inves",
+      "intent": "skeptical",
+      "pace": "slower",
+      "inflection": "neutral",
+      "emphasis": [
+        "without losing a building"
+      ],
+      "pause_after_seconds": 0.3,
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P025",
+      "anchor": "Then comes the last uncomfortable question",
+      "intent": "reflective",
+      "pace": "slower",
+      "inflection": "neutral",
+      "emphasis": [
+        "Extraordinary, not automatic."
+      ],
+      "pause_after_seconds": 0.3,
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P027",
+      "anchor": "A customer pays every month for a little e",
       "intent": "reflective",
       "pace": "natural",
       "inflection": "neutral",
       "emphasis": [
-        "how much they have a right to keep"
+        "when you're useful enough to be let in"
       ],
       "pause_after_seconds": 0.2,
       "pronunciation_notes": []
     }
   ],
-  "script_sha256": "9a83fc52d4b7c8290fe43b17f00eb2e5e4e193d647e4f6036c96d78883268fba"
+  "script_sha256": "bbf14408bb7370d3272ceccf2b6ed5a239889c2bde5dc891dbeb1eed2ef8a2d9"
 }

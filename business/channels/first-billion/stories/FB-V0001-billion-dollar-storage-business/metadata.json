@@ -5,19 +5,19 @@
   "channel": "first-billion",
   "title": "What Would It Take to Build a Billion-Dollar Storage Business?",
   "status": "scripted",
-  "script_version": 3,
+  "script_version": 4,
   "created_at": "2026-10-11",
   "updated_at": "2026-10-11",
   "research_as_of": "2026-10-11",
-  "repository_context_commit": "d096ab0bce745e911d0fa340ef14fa061bdc1aeb",
+  "repository_context_commit": "01106e520b5efbb5a3df1f4cdab973b87bb2887d",
   "runtime": {
     "target_min_seconds": 480,
     "target_max_seconds": 600,
-    "word_count": 1323,
-    "assumed_or_observed_wpm": 150,
-    "extra_pause_seconds": 4.5,
+    "word_count": 1442,
+    "assumed_or_observed_wpm": 155,
+    "extra_pause_seconds": 4.999999999999999,
     "silent_hold_seconds": 0,
-    "estimated_seconds": 533.7,
+    "estimated_seconds": 563.19,
     "actual_video_seconds": null
   },
   "narration": {
@@ -60,6 +60,11 @@
       "date": "2026-10-11",
       "script_version": 3,
       "reason": "Owner-requested critical revision focused on value creation beyond purchased assets, realistic founder claim requirements, tighter spoken numbers and earned one-room ending."
+    },
+    {
+      "date": "2026-10-11",
+      "script_version": 4,
+      "reason": "Owner-directed substantive rewrite: accessible management-first entry, first small hypothetical seller rollover/JV, real 2026 consolidation and local oversupply obstacles, explicit mitigants, institutional scaling gates and founder economics."
     }
   ],
   "visual": {
@@ -68,12 +73,12 @@
     "reference_urls": [],
     "profile_version": 0
   },
-  "script_sha256": "9a83fc52d4b7c8290fe43b17f00eb2e5e4e193d647e4f6036c96d78883268fba",
+  "script_sha256": "bbf14408bb7370d3272ceccf2b6ed5a239889c2bde5dc891dbeb1eed2ef8a2d9",
   "editorial": {
     "passed": true,
-    "reviewed_by": "ChatGPT same-author text-only editorial re-review",
+    "reviewed_by": "ChatGPT same-author text-only final critical review; no audio audition",
     "reviewed_at": "2026-10-11",
-    "reviewed_script_sha256": "9a83fc52d4b7c8290fe43b17f00eb2e5e4e193d647e4f6036c96d78883268fba",
+    "reviewed_script_sha256": "bbf14408bb7370d3272ceccf2b6ed5a239889c2bde5dc891dbeb1eed2ef8a2d9",
     "blocking_issues": []
   },
   "production_review": {
