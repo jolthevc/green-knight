@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "workspace": "manual_business",
+  "id": "on-the-map",
+  "idea_prefix": "OTM-I",
+  "story_prefix": "OTM-V",
+  "name": "On the Map",
+  "language": "en",
+  "target_runtime_seconds": {
+    "min": 480,
+    "target": 540,
+    "max": 600
+  },
+  "publication_cadence": null,
+  "production_status": "setup",
+  "narration": {
+    "profile": "warm, observant, curious, precise, conversational",
+    "profile_id": "on_the_map_narrator",
+    "profile_path": "business/channels/on-the-map/narration.json"
+  },
+  "visual_direction_status": "editor_owned_unselected",
+  "automated_portfolio_registration": false,
+  "visual_profile": {
+    "version": 0,
+    "status": "proposed",
+    "approved_by": null,
+    "approved_at": null,
+    "reference_urls": []
+  },
+  "episode_formats": [
+    "industry_cluster",
+    "gateway_crossroads",
+    "destination_status",
+    "place_changing_decision",
+    "dependency_reinvention",
+    "competing_places"
+  ],
+  "geographic_scope_required": true
+}

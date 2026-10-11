@@ -16,6 +16,8 @@ Silver Spoon starts with a family fortune, succession, inheritance, control cont
 
 First Billion starts with an understandable path from a first viable unit to a defined wealth/business milestone. Vary historical fortunes, worked models, industry structures, comparisons, ownership and repeatability tests. Every card names its format, billion metric and evidence/modeling limits.
 
+On the Map starts with a place-based puzzle and a tangible entry. Vary its six formats. Each card defines geography/period, starting conditions, origin versus persistence hypothesis, plausible alternative, value capture, human stakes and the main uncertainty. Use channels/on-the-map/RESEARCH_STANDARD.md; do not substitute destination trivia for a causal story.
+
 Use LANE_ROUTING.md and the channel lanes to route concepts. A collapse belongs in Fallen Angels; a decisive strategic choice in Money Moves; a deception in Fool’s Gold; a discrete consequential deal in Changing Hands; a dynasty in Silver Spoon; an end-to-end wealth-building engine in First Billion. Pretty Penny can use company examples when the system is the subject.
 
 Do not confuse likely advertiser interest with proven RPM. Geography, audience, season, suitability and demand matter; validate monetization later with channel data.
@@ -44,7 +46,7 @@ Close with up to three recommendations (no more than X), why each deserves resea
 
 ## Ledger hygiene
 
-Read the selected channel.json and use its idea_prefix: PP-I#### for Pretty Penny, MM-I#### for Money Moves, FA-I#### for Fallen Angels, DH-I#### for Changing Hands, FG-I#### for Fool’s Gold, SS-I#### for Silver Spoon, FB-I#### for First Billion. Use the next unallocated ID and never reuse deleted/rejected IDs. Allocate against the latest registry. Persist all presented ideas as proposed; alternatives live in aliases, not separate rows. Record the canonical subject, mechanism and viewer promise so later chats can identify duplicates even after titles change. Use related_idea_ids for intentional revisits.
+Read the selected channel.json and use its idea_prefix: PP-I#### for Pretty Penny, MM-I#### for Money Moves, FA-I#### for Fallen Angels, DH-I#### for Changing Hands, FG-I#### for Fool’s Gold, SS-I#### for Silver Spoon, FB-I#### for First Billion, OTM-I#### for On the Map. Use the next unallocated ID and never reuse deleted/rejected IDs. Allocate against the latest registry. Persist all presented ideas as proposed; alternatives live in aliases, not separate rows. Record the canonical subject, mechanism and viewer promise so later chats can identify duplicates even after titles change. Use related_idea_ids for intentional revisits.
 
 If writing is unavailable, use provisional IDs clearly marked unsaved and provide the exact entries to add. An idea presented in chat alone is not durable state.
 

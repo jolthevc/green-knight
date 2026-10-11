@@ -8,7 +8,7 @@ from episode_check import inspect_story, load_json, number, paragraph_ref, scrip
 
 ROOT = Path(__file__).resolve().parents[2]
 BUSINESS = ROOT / "business"
-CHANNELS = {"pretty-penny", "money-moves", "fallen-angels", "changing-hands", "fools-gold", "silver-spoon", "first-billion"}
+CHANNELS = {"pretty-penny", "money-moves", "fallen-angels", "changing-hands", "fools-gold", "silver-spoon", "first-billion", "on-the-map"}
 STATUSES = {"proposed", "selected", "researching", "researched", "scripted",
             "production_ready", "in_production", "published", "blocked", "rejected", "archived"}
 COMPLETE = {"scripted", "production_ready", "in_production", "published"}
@@ -208,7 +208,8 @@ def validate():
             continue
         config = load_json(config_path)
         configs[slug] = config
-        for name in CHANNEL_FILES:
+        required_files = CHANNEL_FILES + (["RESEARCH_STANDARD.md"] if slug == "on-the-map" else [])
+        for name in required_files:
             if not (folder / name).is_file():
                 errors.append(f"Missing channel file: {slug}/{name}")
         if config.get("id") != slug or config.get("target_runtime_seconds") != {"min": 480, "target": 540, "max": 600}:
@@ -399,7 +400,7 @@ if __name__ == "__main__":
             print("ERROR:", problem)
         if problems:
             sys.exit(1)
-        print("Seven-channel configuration, profiles, ledger, stage gates and script-linked artifacts validated.")
+        print("Eight-channel configuration, profiles, ledger, stage gates and script-linked artifacts validated.")
         print("Source truth, subjective quality and actual listening still require inspection.")
     except (OSError, ValueError, TypeError, KeyError, AttributeError) as exc:
         sys.exit(f"ERROR: invalid input: {exc}")

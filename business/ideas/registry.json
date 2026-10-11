@@ -1211,6 +1211,87 @@
           "actor": "ChatGPT"
         }
       ]
+    },
+    {
+      "id": "OTM-I0001",
+      "channel": "on-the-map",
+      "title": "How a Bedspread Helped Build a Carpet Town",
+      "aliases": [],
+      "subject": "Dalton and the northwest Georgia carpet cluster",
+      "mechanism": "From tufted bedspreads through mechanization to a geographically concentrated carpet industry; test local skills, supplier links and persistence",
+      "viewer_promise": "Why a carpet-producing ecosystem emerged around Dalton and what sustained it",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-11",
+      "updated_at": "2026-10-11",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "episode_format": "industry_cluster",
+      "history": [
+        {
+          "date": "2026-10-11",
+          "status": "proposed",
+          "note": "Imported from channel-foundation discussion. Preliminary source leads only; not selected or fully researched. Hypothesis and scope require verification.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "OTM-I0002",
+      "channel": "on-the-map",
+      "title": "Why Your Package Goes Through Kentucky",
+      "aliases": [],
+      "subject": "Louisville and the UPS Worldport logistics ecosystem",
+      "mechanism": "Hub location economics and subsequent business co-location; distinguish original site selection from reasons activity persists nearby",
+      "viewer_promise": "Why this logistics activity concentrates in Louisville and how the surrounding place is affected",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-11",
+      "updated_at": "2026-10-11",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "episode_format": "gateway_crossroads",
+      "history": [
+        {
+          "date": "2026-10-11",
+          "status": "proposed",
+          "note": "Imported from channel-foundation discussion. Preliminary source leads only; not selected or fully researched. Hypothesis and scope require verification.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "OTM-I0003",
+      "channel": "on-the-map",
+      "title": "Where Do the People Who Run Aspen Live?",
+      "aliases": [],
+      "subject": "Aspen, Pitkin County and the relevant workforce housing/commuting catchment",
+      "mechanism": "Destination demand, housing constraints and workforce access, including institutional responses and their trade-offs",
+      "viewer_promise": "How a destination economy houses the people it depends on, who benefits and what limits the system",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-11",
+      "updated_at": "2026-10-11",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "episode_format": "destination_status",
+      "history": [
+        {
+          "date": "2026-10-11",
+          "status": "proposed",
+          "note": "Imported from channel-foundation discussion. Preliminary source leads only; not selected or fully researched. Hypothesis and scope require verification.",
+          "actor": "ChatGPT"
+        }
+      ]
     }
   ]
 }

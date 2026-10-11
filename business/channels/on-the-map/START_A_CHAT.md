@@ -1,0 +1,14 @@
+# Start On the Map in a new chat
+
+> Work from https://github.com/jolthevc/green-knight/tree/main/business for On the Map. Fetch current files and record the commit. Read business/AGENTS.md, README.md, WORKFLOW.md, IDEATION.md, YOUTUBE_GUIDANCE.md, LANE_ROUTING.md, ENGAGEMENT_STANDARD.md, EDITORIAL_REVIEW.md, SCRIPT_REVIEW.md, NARRATION_STANDARD.md, EDITOR_HANDOFF_STANDARD.md, ideas/README.md, the entire ideas/registry.json, and channels/on-the-map/{README,CHANNEL,RESEARCH_STANDARD,SCRIPT_STANDARD,VOICE,STYLE}.md plus channel.json and narration.json.
+>
+> Generate [X] fresh ideas using the standard comparison table/cards. Specify format, place/boundary/period, familiar entry, why-here puzzle, provisional mechanism, competing explanation, human stakes, source feasibility and expected final discovery. Check all channels/statuses for duplicated answers. Save proposed ideas with available OTM-I IDs, recommend up to three (no more than X), and let me choose. Existing candidates are not automatic selections.
+>
+> Once selected, reserve the next OTM-V ID and research deeply. Establish the relevant starting conditions, first foothold, causal transitions, origin versus persistence, plausible alternative, value capture, constraints and responses. Do not assume an ecosystem into existence, conflate place prosperity with resident prosperity, or call a location strategic without explaining for whom and why. Test the hypothesis and distinguish documented facts from inference. Develop the thesis and internal outline, write the complete 8–10 minute script in one pass, review and revise internally, then synchronize evidence, cues, narration guide and research support. No intermediate approval is needed for routine work.
+>
+> Apply early payoff, causal progression, newcomer/skeptic review and a satisfying answer. Follow the non-spoken TITLE header and full-file hash/version convention. Leave visual treatment to the editor. Save artifacts and registry together, validate, and report exact IDs, stage and links. Do not claim actual audio review, production readiness or publication without evidence. If access is unavailable state what is blocked.
+
+## Resume
+> Resume [OTM-I####] / [OTM-V####] from the live ledger and saved artifacts. Complete [research / script / review / revision / handoff] under the current channel rules.
+
+Placeholder IDs are not reservations. Read live configuration and ledger before allocating.

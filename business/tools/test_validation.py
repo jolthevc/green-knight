@@ -122,6 +122,18 @@ class WorkflowIntegrity(unittest.TestCase):
     def test_real_scaffold_passes(self):
         self.assertEqual(validator.validate(), [])
 
+    def test_on_the_map_research_standard_is_required(self):
+        (self.business / "channels/on-the-map/RESEARCH_STANDARD.md").unlink()
+        self.assert_error("Missing channel file: on-the-map/RESEARCH_STANDARD.md")
+
+    def test_on_the_map_idea_cannot_use_another_channel_prefix(self):
+        p = self.business / "ideas/registry.json"
+        ledger = self.read(p)
+        row = next(r for r in ledger["ideas"] if r["channel"] == "on-the-map")
+        row["id"] = "MM-I9002"
+        self.write(p, ledger)
+        self.assert_error("Wrong channel idea prefix: MM-I9002")
+
     def test_first_billion_configuration_is_required(self):
         (self.business / "channels/first-billion/channel.json").unlink()
         self.assert_error("Missing channel configuration: first-billion")

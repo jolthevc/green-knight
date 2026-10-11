@@ -21,10 +21,12 @@ Copy this directory, excluding README.md, into the selected channel's stories/<s
 | qa.md | Editorial checks, production checks and approval status |
 | performance.md | Verified upload and post-publication learning |
 
-Do not copy placeholder text into a voice generator. The intentionally empty template script.txt requires a real full script before status scripted. On completion, the title must be present as the very first line in **all seven channels**: `TITLE: Exact Episode Title`, then one blank line, then narration. The header is not narrated or included in word count, P001 cue references, captions or TTS input. The **entire file**, including the header, is hashed for metadata/evidence/cues. The validator rejects missing or mismatched title headers. Delivery cues do not need to exist for every paragraph; purposeful cues are sparse.
+Do not copy placeholder text into a voice generator. The intentionally empty template script.txt requires a real full script before status scripted. On completion, the title must be present as the very first line in **all eight channels**: `TITLE: Exact Episode Title`, then one blank line, then narration. The header is not narrated or included in word count, P001 cue references, captions or TTS input. The **entire file**, including the header, is hashed for metadata/evidence/cues. The validator rejects missing or mismatched title headers. Delivery cues do not need to exist for every paragraph; purposeful cues are sparse.
 
 metadata.status and registry.status must agree. Increase script_version when wording changes. Record meaningful changes in metadata.revision_history and registry.history. The final recording is timed by the editor; initial word-based estimates are provisional.
 
 Use [editorial review](../../EDITORIAL_REVIEW.md) for stage gates and [narration standard](../../NARRATION_STANDARD.md) for profiles and listening. voice-production.md is populated during production, not fabricated at scripted. evidence.json must be populated before researched; script references become mandatory at scripted.
 
 Follow EDITOR_HANDOFF_STANDARD.md. Do not send internal visual/packaging plans or full editorial audits as mandatory editor inputs.
+
+On the Map uses OTM-I####/OTM-V####. Keep its geographic scope, origin/persistence evidence, alternative explanation, beneficiaries and constraints in the existing brief/research/synthesis files; consult channels/on-the-map/RESEARCH_STANDARD.md. No additional storyboard is required.

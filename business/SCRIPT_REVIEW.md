@@ -1,6 +1,6 @@
 # Green Knight Script Review and Revision Protocol
 
-Version 1.0. Applies to all seven business channels. This is the canonical instruction for a standalone review or review-plus-revision of an existing script. Read it together with business/AGENTS.md, EDITORIAL_REVIEW.md, ENGAGEMENT_STANDARD.md, NARRATION_STANDARD.md, YOUTUBE_GUIDANCE.md, EDITOR_HANDOFF_STANDARD.md, the selected channel guides and the story's evidence/synthesis/packaging. It adds an independent editorial pass; it does not replace source verification or production listening.
+Version 1.0. Applies to all eight business channels. This is the canonical instruction for a standalone review or review-plus-revision of an existing script. Read it together with business/AGENTS.md, EDITORIAL_REVIEW.md, ENGAGEMENT_STANDARD.md, NARRATION_STANDARD.md, YOUTUBE_GUIDANCE.md, EDITOR_HANDOFF_STANDARD.md, the selected channel guides and the story's evidence/synthesis/packaging. It adds an independent editorial pass; it does not replace source verification or production listening.
 
 ## Mission
 
@@ -73,7 +73,7 @@ The narrator should sound like an informed, warm, confident guide telling a grea
 - Are stakes legible through a human goal, real cost, trade-off, conflict, risk, ambition, fairness or relatable behavior, rather than "billions" alone?
 - Is complexity made interesting through a concrete illustration, counterintuitive relationship, consequential choice or tested counterexplanation?
 - Check for sustained engagement without forced cliffhangers, fake villains, constant "but here's the crazy part" pivots, excessive questions or unsupported psychological motives.
-- Preserve individuality across episodes. One house style must not produce seven channels of interchangeable exposition.
+- Preserve individuality across episodes. One house style must not produce eight channels of interchangeable exposition.
 
 ### F. Truth, insight and fair interpretation
 
@@ -93,6 +93,8 @@ Fallen Angels: separate original advantage, fragility, warnings, trigger and out
 Changing Hands: clarify who owned/owed what, financing, leverage, timing, deal mechanics and actual outcome.
 Fool's Gold: distinguish appearance from reality, credibility mechanism, verification failure, evidence and consequences.
 Silver Spoon: distinguish family relationships, financial ownership, voting/control rights, transfer and valuation caveats.
+
+On the Map: define the place/boundary, period and outcome. Test starting conditions, first foothold and every key causal transition; distinguish origin from persistence. Challenge vague strategic-location claims, unsupported counterfactuals, promotional histories and city/metro metric mixing. Test value capture, resident outcomes, constraints and whether the ending actually answers why here. Read the channel research standard.
 
 First Billion: identify the episode format and defined billion metric; test the bridge from starting resources/unit economics through scale, financing and ownership. Check assumptions and downside in models, valuation versus cash, inherited advantages, survivorship and unsupported first-billion dates.
 

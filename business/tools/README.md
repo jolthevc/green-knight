@@ -6,7 +6,7 @@ Requires Python 3 standard library only. From the repository root:
 python3 business/tools/validate.py
 ```
 
-Checks all seven channel definitions and narrator profiles, shared registry, stable identifiers, orphan story folders, stage gates, script hashes, cue/claim anchors and visual coverage. Templates are not mistaken for completed episodes. It does not fact-check claims or replace listening to the final cut.
+Checks all eight channel definitions and narrator profiles, shared registry, stable identifiers, orphan story folders, stage gates, script hashes, cue/claim anchors and visual coverage. Templates are not mistaken for completed episodes. It does not fact-check claims or replace listening to the final cut.
 
 For a populated story, get a provisional timing calculation:
 
