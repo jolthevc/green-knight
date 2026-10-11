@@ -5,19 +5,19 @@
   "channel": "first-billion",
   "title": "What Would It Take to Build a Billion-Dollar Storage Business?",
   "status": "scripted",
-  "script_version": 1,
+  "script_version": 2,
   "created_at": "2026-10-11",
   "updated_at": "2026-10-11",
   "research_as_of": "2026-10-11",
-  "repository_context_commit": "5b11b78d966b286094ae52cb3c70875fc7a4c64b",
+  "repository_context_commit": "38bd2b6102c5dbb39220fd3267caee1ad1b996cb",
   "runtime": {
     "target_min_seconds": 480,
     "target_max_seconds": 600,
-    "word_count": 1355,
-    "assumed_or_observed_wpm": 160,
-    "extra_pause_seconds": 3.8999999999999995,
+    "word_count": 1313,
+    "assumed_or_observed_wpm": 155,
+    "extra_pause_seconds": 4.499999999999999,
     "silent_hold_seconds": 0,
-    "estimated_seconds": 512.02,
+    "estimated_seconds": 512.76,
     "actual_video_seconds": null
   },
   "narration": {
@@ -50,6 +50,11 @@
       "date": "2026-10-11",
       "script_version": 1,
       "reason": "Original researched and internally reviewed script."
+    },
+    {
+      "date": "2026-10-11",
+      "script_version": 2,
+      "reason": "Owner-authorized critical review and structural rewrite; repaired engagement spine, audio-only comprehension, fair-value purchase inference and ownership payoff. Evidence, cues, packaging and reviews reanchored to v2."
     }
   ],
   "visual": {
@@ -58,12 +63,12 @@
     "reference_urls": [],
     "profile_version": 0
   },
-  "script_sha256": "c5d94c16f54d2354b7a0e0c40fd9ed712b8a0044d66c9729981b9dde87810361",
+  "script_sha256": "7e4f404203045543a9809f2bbfe31252266eed2d76262f76dff74dce4fb6076a",
   "editorial": {
     "passed": true,
-    "reviewed_by": "ChatGPT internal desk review (no independent listener)",
+    "reviewed_by": "ChatGPT internal text review, same drafter; no independent listener",
     "reviewed_at": "2026-10-11",
-    "reviewed_script_sha256": "c5d94c16f54d2354b7a0e0c40fd9ed712b8a0044d66c9729981b9dde87810361",
+    "reviewed_script_sha256": "7e4f404203045543a9809f2bbfe31252266eed2d76262f76dff74dce4fb6076a",
     "blocking_issues": []
   },
   "production_review": {

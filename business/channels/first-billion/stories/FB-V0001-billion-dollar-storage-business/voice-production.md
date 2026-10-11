@@ -1,11 +1,11 @@
-# Voice production and listening: FB-V0001
+# Voice production record, FB-V0001, script v2
 
-**State:** NOT STARTED. **Script v1/hash:** `c5d94c16f54d2354b7a0e0c40fd9ed712b8a0044d66c9729981b9dde87810361`.
+**Canonical version:** 2. **Full-script hash:** `7e4f404203045543a9809f2bbfe31252266eed2d76262f76dff74dce4fb6076a`. **Stage:** not yet in audio production.
 
-- Channel narrator profile: `first_billion_narrator`, version 0, **unselected**.
-- Human/synthetic kind, provider/model/voice/person, locale/accent, settings and reference recording: **not selected, no audio tested**.
-- Pronunciation review queue: "net operating income" / "NOI", "cap rate", Public Storage, CubeSmart, Extra Space, numerical terms "six-and-a-half percent" and "one-point-zero-five billion"; authoritative actual readings and passage auditions not yet conducted.
-- Takes and retakes: none. Derived TTS input: none.
-- Planned coverage: P001–P022, 1,355 spoken words (excluding TITLE); estimated 512s at 160 WPM plus cues.
-- Reviewer, full narration audio URL, finished cut URL, selected take, reference comparison, retake-join test, phone/headphone mix, actual measured runtime and publisher approval: **unavailable**.
-- No claim is made that full narration was listened to, final edit reviewed or production ready achieved.
+- Channel profile: `first_billion_narrator` version 0, unselected; no real approved narrator reference exists.
+- No selected voice provider, language model, voice ID, human performer, accent, synthesis settings or pronunciation take.
+- Narration body: P001–P022, **1,313** repository-counted spoken words. Provisional **155 WPM** plus 4.5 seconds additional cue rests = **512.8 seconds** estimate. The `TITLE:` header must not be recorded.
+- Pronunciation and speech test queue: Public Storage, CubeSmart, Extra Space, cap rate, NOI, six-and-a-half percent, eleven-point-seven million, one-point-zero-five billion and comparison between valuation and annual cash.
+- Highest-risk audition passages: P007 buyer price and cap rate; P014–P016 gross property value, debt, equity and annual cash; P017–P019 loss scenario then founder allocation. Verify a listener understands without visuals. P022 requires settled, earned delivery without a motivational crescendo.
+- Recorded takes, retakes, audio URLs, date, final-cut asset URLs, full narration listening, reference comparison, pronunciation verification, joins/omissions, headphones/phone checks and actual video length: **none**.
+- No claim of live voice playback, external listener evaluation, media mix or accepted pilot.

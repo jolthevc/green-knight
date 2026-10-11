@@ -1,142 +1,142 @@
 {
   "schema_version": 2,
-  "script_version": 1,
+  "script_version": 2,
   "instructions_are_non_spoken": true,
-  "assumed_or_observed_wpm": 160,
+  "assumed_or_observed_wpm": 155,
   "silent_hold_seconds": 0,
   "cues": [
     {
       "paragraph_id": "P001",
-      "anchor": "Picture a self-storage building on the edg",
+      "anchor": "Think of a storage room the size of a spar",
       "pace": "natural",
       "intent": "curious",
       "inflection": "neutral",
       "emphasis": [
-        "who would actually own that billion?"
+        "a billion-dollar business?"
       ],
       "pause_after_seconds": 0.5,
       "pronunciation_notes": []
     },
     {
       "paragraph_id": "P002",
-      "anchor": "We're going to build a hypothetical Americ",
-      "pace": "slower",
+      "anchor": "We're building a fictional American storag",
+      "pace": "natural",
       "intent": "matter_of_fact",
       "inflection": "neutral",
       "emphasis": [
-        "equity value"
+        "not cash in anybody's pocket"
       ],
       "pause_after_seconds": 0.4,
       "pronunciation_notes": []
     },
     {
       "paragraph_id": "P005",
-      "anchor": "Eighteen dollars times sixty-five thousand",
-      "pace": "natural",
+      "anchor": "Then come taxes, staff, insurance, mainten",
+      "pace": "slower",
       "intent": "matter_of_fact",
       "inflection": "neutral",
       "emphasis": [
-        "It is not the owner's profit."
+        "That isn't profit in the owner's bank account."
       ],
       "pause_after_seconds": 0.3,
       "pronunciation_notes": []
     },
     {
       "paragraph_id": "P007",
-      "anchor": "Now comes the first powerful mechanism. Bu",
+      "anchor": "Now for the first surprise. An income stre",
       "pace": "slower",
       "intent": "curious",
       "inflection": "neutral",
       "emphasis": [
-        "capitalization rate"
+        "eleven-point-seven million"
+      ],
+      "pause_after_seconds": 0.4,
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P009",
+      "anchor": "Now imagine you're trying to build the com",
+      "pace": "natural",
+      "intent": "skeptical",
+      "inflection": "neutral",
+      "emphasis": [
+        "doesn't create eleven-point-seven million dollars of new wealth"
       ],
       "pause_after_seconds": 0.4,
       "pronunciation_notes": []
     },
     {
       "paragraph_id": "P010",
-      "anchor": "Here's the catch: the buildings' value isn",
+      "anchor": "And you need the purchase money. Suppose a",
       "pace": "slower",
       "intent": "matter_of_fact",
       "inflection": "neutral",
       "emphasis": [
-        "We've reached the billion-dollar target on paper."
+        "One viable storage building is not automatically a viable financing strategy."
+      ],
+      "pause_after_seconds": 0.4,
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P014",
+      "anchor": "Under that assumption, one hundred and eig",
+      "pace": "slower",
+      "intent": "matter_of_fact",
+      "inflection": "neutral",
+      "emphasis": [
+        "a little more than one billion dollars"
       ],
       "pause_after_seconds": 0.5,
       "pronunciation_notes": []
     },
     {
-      "paragraph_id": "P013",
-      "anchor": "Look at the actual scale of acquisitions. ",
-      "pace": "natural",
-      "intent": "skeptical",
-      "inflection": "neutral",
-      "emphasis": [
-        "not a verified asking price"
-      ],
-      "pause_after_seconds": 0.3,
-      "pronunciation_notes": []
-    },
-    {
       "paragraph_id": "P016",
-      "anchor": "Now examine the cash. Our portfolio produc",
+      "anchor": "Even the operating cash deserves a closer ",
       "pace": "slower",
       "intent": "matter_of_fact",
       "inflection": "neutral",
       "emphasis": [
-        "not a billion-dollar annual cash machine"
+        "forty-nine million dollars"
       ],
       "pause_after_seconds": 0.3,
       "pronunciation_notes": []
     },
     {
       "paragraph_id": "P018",
-      "anchor": "Subtract the original debt and equity is n",
+      "anchor": "Our modeled property value drops from abou",
       "pace": "slower",
       "intent": "skeptical",
       "inflection": "neutral",
       "emphasis": [
-        "without losing a building"
+        "without selling a single building"
       ],
       "pause_after_seconds": 0.5,
       "pronunciation_notes": []
     },
     {
       "paragraph_id": "P019",
-      "anchor": "There's a second trap in the phrase billio",
-      "pace": "natural",
+      "anchor": "And here's the question hidden inside our ",
+      "pace": "slower",
       "intent": "matter_of_fact",
       "inflection": "neutral",
       "emphasis": [
-        "but not a billionaire"
+        "but not a billion"
       ],
-      "pause_after_seconds": 0.3,
-      "pronunciation_notes": []
-    },
-    {
-      "paragraph_id": "P021",
-      "anchor": "So here's the complete answer. One represe",
-      "pace": "natural",
-      "intent": "reflective",
-      "inflection": "neutral",
-      "emphasis": [
-        "with real risk attached"
-      ],
-      "pause_after_seconds": 0.4,
+      "pause_after_seconds": 0.5,
       "pronunciation_notes": []
     },
     {
       "paragraph_id": "P022",
-      "anchor": "The quiet storage building is interesting ",
+      "anchor": "Return to that one rented room. Its monthl",
       "pace": "natural",
       "intent": "reflective",
       "inflection": "neutral",
       "emphasis": [
-        "what those doors earn"
+        "Buildings generate income. Markets put prices on income. Contracts decide who receives the value."
       ],
-      "pause_after_seconds": 0,
+      "pause_after_seconds": 0.3,
       "pronunciation_notes": []
     }
   ],
-  "script_sha256": "c5d94c16f54d2354b7a0e0c40fd9ed712b8a0044d66c9729981b9dde87810361"
+  "script_sha256": "7e4f404203045543a9809f2bbfe31252266eed2d76262f76dff74dce4fb6076a"
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "script_version": 1,
-  "script_sha256": "c5d94c16f54d2354b7a0e0c40fd9ed712b8a0044d66c9729981b9dde87810361",
+  "script_version": 2,
+  "script_sha256": "7e4f404203045543a9809f2bbfe31252266eed2d76262f76dff74dce4fb6076a",
   "sources": [
     {
       "id": "S001",
@@ -63,454 +63,463 @@
     {
       "id": "C001",
       "paragraph_id": "P002",
-      "anchor": "We're going to build a hypothetical Americ",
-      "claim": "Target billion is illustrative post-debt US equity value",
+      "anchor": "We're building a fictional American storag",
+      "claim": "The milestone is a hypothetical US $1bn property equity valuation after property debt, not cash or company revenue",
       "status": "illustrative",
       "source_ids": [],
-      "basis": "Derived from explicitly stated illustrative assumptions; reproduce in research.md."
+      "basis": "Scenario assumption or arithmetic reproduced in research.md; not an achieved result or market price."
     },
     {
       "id": "C002",
       "paragraph_id": "P003",
-      "anchor": "Start with one property containing sixty-f",
-      "claim": "65,000 NRSF representative existing store",
+      "anchor": "Start with one existing facility containin",
+      "claim": "First mature representative site holds assumed 65,000 net rentable square feet",
       "status": "illustrative",
       "source_ids": [],
-      "basis": "Derived from explicitly stated illustrative assumptions; reproduce in research.md."
+      "basis": "Scenario assumption or arithmetic reproduced in research.md; not an achieved result or market price."
     },
     {
       "id": "C003",
       "paragraph_id": "P004",
-      "anchor": "But a website's advertised monthly rent is",
-      "claim": "$18 effective annual revenue/available rentable foot input",
+      "anchor": "Assume annual revenue averages eighteen do",
+      "claim": "$18 annual effective revenue per available square foot, equivalent to $150 per ten-by-ten monthly across vacancy, generates $1.17m site revenue",
       "status": "illustrative",
       "source_ids": [],
-      "basis": "Derived from explicitly stated illustrative assumptions; reproduce in research.md."
+      "basis": "Scenario assumption or arithmetic reproduced in research.md; not an achieved result or market price."
     },
     {
       "id": "C004",
       "paragraph_id": "P005",
-      "anchor": "Eighteen dollars times sixty-five thousand",
-      "claim": "Per-store revenue $1.17m, NOI $760.5k at 65% margin",
+      "anchor": "Then come taxes, staff, insurance, mainten",
+      "claim": "35% modeled property expense ratio leaves $760,500 annual site NOI before financing and corporate costs",
       "status": "illustrative",
       "source_ids": [],
-      "basis": "Derived from explicitly stated illustrative assumptions; reproduce in research.md."
+      "basis": "Scenario assumption or arithmetic reproduced in research.md; not an achieved result or market price."
     },
     {
       "id": "C005",
       "paragraph_id": "P006",
-      "anchor": "Is that plausible? Public Storage's mature",
-      "claim": "Public Storage 2025 same-store NOI margin 75.1%; CubeSmart 2025 71.1%",
+      "anchor": "Does that sound plausible? In 2025, the ma",
+      "claim": "Public Storage FY2025 75.1% mature same-store property NOI margin; CubeSmart FY2025 71.1% comparable same-store margin",
       "status": "verified",
       "source_ids": [
         "S001",
         "S002"
       ],
-      "basis": "Original opened filing/release at the recorded locator."
+      "basis": "Confirmed using corresponding original-source supporting passage opened in the 2025 operator disclosures."
     },
     {
       "id": "C006",
       "paragraph_id": "P007",
-      "anchor": "Now comes the first powerful mechanism. Bu",
-      "claim": "6.5% illustrative cap yields $11.7m from $760,500 NOI",
+      "anchor": "Now for the first surprise. An income stre",
+      "claim": "At a modeled 6.5% capitalization rate, $760,500 site NOI corresponds to $11.7m property gross value",
       "status": "illustrative",
       "source_ids": [],
-      "basis": "Derived from explicitly stated illustrative assumptions; reproduce in research.md."
+      "basis": "Scenario assumption or arithmetic reproduced in research.md; not an achieved result or market price."
     },
     {
       "id": "C007",
-      "paragraph_id": "P009",
-      "anchor": "Now repeat the property one hundred eighty",
-      "claim": "180 stores imply $210.6m annual revenue, $136.89m NOI, $2.106bn property value",
+      "paragraph_id": "P008",
+      "anchor": "We've turned an unremarkable rental buildi",
+      "claim": "When demanded cap-rate return increases, fixed NOI yields lower appraised price",
       "status": "illustrative",
       "source_ids": [],
-      "basis": "Derived from explicitly stated illustrative assumptions; reproduce in research.md."
+      "basis": "Scenario assumption or arithmetic reproduced in research.md; not an achieved result or market price."
     },
     {
       "id": "C008",
-      "paragraph_id": "P010",
-      "anchor": "Here's the catch: the buildings' value isn",
-      "claim": "50% portfolio debt $1.053bn leaves $1.053bn property equity",
-      "status": "illustrative",
-      "source_ids": [],
-      "basis": "Derived from explicitly stated illustrative assumptions; reproduce in research.md."
+      "paragraph_id": "P009",
+      "anchor": "Now imagine you're trying to build the com",
+      "claim": "An acquisition at fair price does not itself generate immediate mark-up profit; ordinary rental income may still accrue",
+      "status": "inference",
+      "source_ids": [
+        "S001"
+      ],
+      "basis": "Inference supported by cited filings, with caveats in research.md."
     },
     {
       "id": "C009",
-      "paragraph_id": "P011",
-      "anchor": "Getting started is the first mountain. A s",
-      "claim": "Single building modeled initial equity $5.85m",
+      "paragraph_id": "P010",
+      "anchor": "And you need the purchase money. Suppose a",
+      "claim": "At assumed 50% initial financing, ~$5.85m debt and ~$5.85m investor equity are needed per modeled facility before costs",
       "status": "illustrative",
       "source_ids": [],
-      "basis": "Derived from explicitly stated illustrative assumptions; reproduce in research.md."
+      "basis": "Scenario assumption or arithmetic reproduced in research.md; not an achieved result or market price."
     },
     {
       "id": "C010",
-      "paragraph_id": "P012",
-      "anchor": "And you cannot simply copy and paste a bui",
-      "claim": "Buy/build/manage routes imply different financial claims and risks",
+      "paragraph_id": "P011",
+      "anchor": "There are three broad routes. Buy occupied",
+      "claim": "Acquiring existing, developing new, or managing another's building entail distinct risk and equity ownership claims",
       "status": "inference",
       "source_ids": [
         "S001",
         "S003"
       ],
-      "basis": "Reasoned distinction based on cited operating and financing structures."
+      "basis": "Inference supported by cited filings, with caveats in research.md."
     },
     {
       "id": "C011",
-      "paragraph_id": "P013",
-      "anchor": "Look at the actual scale of acquisitions. ",
-      "claim": "Public Storage bought 87 / 6.1m NRSF for $945.6m in 2025",
+      "paragraph_id": "P012",
+      "anchor": "This industry already operates at immense ",
+      "claim": "Public Storage bought 87 stores for $945.6m in 2025; Extra Space managed 1,856 third-party owned sites at end of 2025",
       "status": "verified",
       "source_ids": [
-        "S004"
+        "S004",
+        "S003"
       ],
-      "basis": "Original opened filing/release at the recorded locator."
+      "basis": "Confirmed using corresponding original-source supporting passage opened in the 2025 operator disclosures."
     },
     {
       "id": "C012",
-      "paragraph_id": "P014",
-      "anchor": "The hundredth acquisition also may not loo",
-      "claim": "Extra Space management described new supply and rent competition in 2025",
+      "paragraph_id": "P013",
+      "anchor": "So let's take the buying route to its extr",
+      "claim": "Extra Space management discussed recent 2025 competitive new supply and pricing headwinds",
       "status": "verified",
       "source_ids": [
         "S005"
       ],
-      "basis": "Original opened filing/release at the recorded locator."
+      "basis": "Confirmed using corresponding original-source supporting passage opened in the 2025 operator disclosures."
     },
     {
       "id": "C013",
-      "paragraph_id": "P015",
-      "anchor": "Scale can create advantages. Marketing, cu",
-      "claim": "Extra Space third-party managed 1,856 stores end 2025",
-      "status": "verified",
-      "source_ids": [
-        "S003"
-      ],
-      "basis": "Original opened filing/release at the recorded locator."
+      "paragraph_id": "P014",
+      "anchor": "Under that assumption, one hundred and eig",
+      "claim": "180 equal model sites valued at $2.106bn, minus modeled $1.053bn debt leaves $1.053bn total property equity",
+      "status": "illustrative",
+      "source_ids": [],
+      "basis": "Scenario assumption or arithmetic reproduced in research.md; not an achieved result or market price."
     },
     {
       "id": "C014",
-      "paragraph_id": "P016",
-      "anchor": "Now examine the cash. Our portfolio produc",
-      "claim": "Interest at modeled 6% is $63.18m; $10m G&A+$15m reserves leaves $48.71m",
+      "paragraph_id": "P015",
+      "anchor": "There's a deeper problem with celebrating.",
+      "claim": "At fair modeled purchase prices, funding a modeled $2.106bn property portfolio involves roughly $1.053bn equity and equal debt; it does not create instant founder wealth",
       "status": "illustrative",
       "source_ids": [],
-      "basis": "Derived from explicitly stated illustrative assumptions; reproduce in research.md."
+      "basis": "Scenario assumption or arithmetic reproduced in research.md; not an achieved result or market price."
     },
     {
       "id": "C015",
-      "paragraph_id": "P017",
-      "anchor": "And here's the stress test. Revenue per sq",
-      "claim": "Downside revenue $16.20/ft, NOI margin 60%, cap 7.5%",
+      "paragraph_id": "P016",
+      "anchor": "Even the operating cash deserves a closer ",
+      "claim": "180 units modeled property NOI $136.89m, cash interest $63.18m at 6%, corporate overhead $10m and recurring capex reserve $15m leave $48.71m before other payments",
       "status": "illustrative",
       "source_ids": [],
-      "basis": "Derived from explicitly stated illustrative assumptions; reproduce in research.md."
+      "basis": "Scenario assumption or arithmetic reproduced in research.md; not an achieved result or market price."
     },
     {
       "id": "C016",
-      "paragraph_id": "P018",
-      "anchor": "Subtract the original debt and equity is n",
-      "claim": "Downside property value $1.51632bn and equity $463.32m with fixed $1.053bn debt",
+      "paragraph_id": "P017",
+      "anchor": "Then imagine the market turns. Revenue per",
+      "claim": "Downside assumptions: effective revenue falls 10%, NOI margin falls to 60%, cap rate increases to 7.5%",
       "status": "illustrative",
       "source_ids": [],
-      "basis": "Derived from explicitly stated illustrative assumptions; reproduce in research.md."
+      "basis": "Scenario assumption or arithmetic reproduced in research.md; not an achieved result or market price."
     },
     {
       "id": "C017",
-      "paragraph_id": "P019",
-      "anchor": "There's a second trap in the phrase billio",
-      "claim": "Hypothetical 20% stake in $1bn equity is $200m before other rights",
+      "paragraph_id": "P018",
+      "anchor": "Our modeled property value drops from abou",
+      "claim": "Combined downside property value becomes $1.51632bn and modeled residual equity $463.32m after unchanged $1.053bn debt, 56.0% below base",
       "status": "illustrative",
       "source_ids": [],
-      "basis": "Derived from explicitly stated illustrative assumptions; reproduce in research.md."
+      "basis": "Scenario assumption or arithmetic reproduced in research.md; not an achieved result or market price."
     },
     {
       "id": "C018",
-      "paragraph_id": "P020",
-      "anchor": "Even a founder's paper stake isn't a bank ",
-      "claim": "Equity paper values need not equal cash proceeds",
-      "status": "inference",
-      "source_ids": [
-        "S001",
-        "S003"
-      ],
-      "basis": "Reasoned distinction based on cited operating and financing structures."
+      "paragraph_id": "P019",
+      "anchor": "And here's the question hidden inside our ",
+      "claim": "Hypothetical founder owns 20% after outside common investors own 80%; gross simple stake is around $210.6m, or ~$200m on a $1bn rounded base, before any preferences",
+      "status": "illustrative",
+      "source_ids": [],
+      "basis": "Scenario assumption or arithmetic reproduced in research.md; not an achieved result or market price."
     },
     {
       "id": "C019",
+      "paragraph_id": "P020",
+      "anchor": "There's no contradiction. A business can o",
+      "claim": "Real debt, equity priorities and liquidity rights must be separately negotiated and cannot be inferred from property valuation",
+      "status": "inference",
+      "source_ids": [
+        "S003"
+      ],
+      "basis": "Inference supported by cited filings, with caveats in research.md."
+    },
+    {
+      "id": "C020",
       "paragraph_id": "P021",
-      "anchor": "So here's the complete answer. One represe",
-      "claim": "Base-case 180 stores, debts and ownership bridge summarised",
+      "anchor": "So our answer is one viable building, repe",
+      "claim": "Milestone requires ~180 stores in this specific model and a genuinely risky large financed portfolio",
       "status": "illustrative",
       "source_ids": [],
-      "basis": "Derived from explicitly stated illustrative assumptions; reproduce in research.md."
+      "basis": "Scenario assumption or arithmetic reproduced in research.md; not an achieved result or market price."
     }
   ],
   "scenes": [
     {
       "id": "SC001",
-      "purpose": "Factual content coverage for narration paragraph, without prescribing visual treatment",
-      "evidence_type": "illustration",
-      "source_ids": [],
       "paragraphs": [
         {
           "paragraph_id": "P001",
-          "anchor": "Picture a self-storage building on the edg"
+          "anchor": "Think of a storage room the size of a spar"
         }
-      ]
+      ],
+      "purpose": "Track key economic explanation and accuracy boundary for the editor; editor retains creative visual control",
+      "evidence_type": "illustration",
+      "source_ids": []
     },
     {
       "id": "SC002",
-      "purpose": "Factual content coverage for narration paragraph, without prescribing visual treatment",
-      "evidence_type": "illustration",
-      "source_ids": [],
       "paragraphs": [
         {
           "paragraph_id": "P002",
-          "anchor": "We're going to build a hypothetical Americ"
+          "anchor": "We're building a fictional American storag"
         }
-      ]
+      ],
+      "purpose": "Track key economic explanation and accuracy boundary for the editor; editor retains creative visual control",
+      "evidence_type": "illustration",
+      "source_ids": []
     },
     {
       "id": "SC003",
-      "purpose": "Factual content coverage for narration paragraph, without prescribing visual treatment",
-      "evidence_type": "illustration",
-      "source_ids": [],
       "paragraphs": [
         {
           "paragraph_id": "P003",
-          "anchor": "Start with one property containing sixty-f"
+          "anchor": "Start with one existing facility containin"
         }
-      ]
+      ],
+      "purpose": "Track key economic explanation and accuracy boundary for the editor; editor retains creative visual control",
+      "evidence_type": "illustration",
+      "source_ids": []
     },
     {
       "id": "SC004",
-      "purpose": "Factual content coverage for narration paragraph, without prescribing visual treatment",
-      "evidence_type": "illustration",
-      "source_ids": [],
       "paragraphs": [
         {
           "paragraph_id": "P004",
-          "anchor": "But a website's advertised monthly rent is"
+          "anchor": "Assume annual revenue averages eighteen do"
         }
-      ]
+      ],
+      "purpose": "Track key economic explanation and accuracy boundary for the editor; editor retains creative visual control",
+      "evidence_type": "illustration",
+      "source_ids": []
     },
     {
       "id": "SC005",
-      "purpose": "Factual content coverage for narration paragraph, without prescribing visual treatment",
-      "evidence_type": "illustration",
-      "source_ids": [],
       "paragraphs": [
         {
           "paragraph_id": "P005",
-          "anchor": "Eighteen dollars times sixty-five thousand"
+          "anchor": "Then come taxes, staff, insurance, mainten"
         }
-      ]
+      ],
+      "purpose": "Track key economic explanation and accuracy boundary for the editor; editor retains creative visual control",
+      "evidence_type": "illustration",
+      "source_ids": []
     },
     {
       "id": "SC006",
-      "purpose": "Factual content coverage for narration paragraph, without prescribing visual treatment",
-      "evidence_type": "illustration",
-      "source_ids": [],
       "paragraphs": [
         {
           "paragraph_id": "P006",
-          "anchor": "Is that plausible? Public Storage's mature"
+          "anchor": "Does that sound plausible? In 2025, the ma"
         }
-      ]
+      ],
+      "purpose": "Track key economic explanation and accuracy boundary for the editor; editor retains creative visual control",
+      "evidence_type": "illustration",
+      "source_ids": []
     },
     {
       "id": "SC007",
-      "purpose": "Factual content coverage for narration paragraph, without prescribing visual treatment",
-      "evidence_type": "illustration",
-      "source_ids": [],
       "paragraphs": [
         {
           "paragraph_id": "P007",
-          "anchor": "Now comes the first powerful mechanism. Bu"
+          "anchor": "Now for the first surprise. An income stre"
         }
-      ]
+      ],
+      "purpose": "Track key economic explanation and accuracy boundary for the editor; editor retains creative visual control",
+      "evidence_type": "illustration",
+      "source_ids": []
     },
     {
       "id": "SC008",
-      "purpose": "Factual content coverage for narration paragraph, without prescribing visual treatment",
-      "evidence_type": "illustration",
-      "source_ids": [],
       "paragraphs": [
         {
           "paragraph_id": "P008",
-          "anchor": "The building collects roughly one-point-tw"
+          "anchor": "We've turned an unremarkable rental buildi"
         }
-      ]
+      ],
+      "purpose": "Track key economic explanation and accuracy boundary for the editor; editor retains creative visual control",
+      "evidence_type": "illustration",
+      "source_ids": []
     },
     {
       "id": "SC009",
-      "purpose": "Factual content coverage for narration paragraph, without prescribing visual treatment",
-      "evidence_type": "illustration",
-      "source_ids": [],
       "paragraphs": [
         {
           "paragraph_id": "P009",
-          "anchor": "Now repeat the property one hundred eighty"
+          "anchor": "Now imagine you're trying to build the com"
         }
-      ]
+      ],
+      "purpose": "Track key economic explanation and accuracy boundary for the editor; editor retains creative visual control",
+      "evidence_type": "illustration",
+      "source_ids": []
     },
     {
       "id": "SC010",
-      "purpose": "Factual content coverage for narration paragraph, without prescribing visual treatment",
-      "evidence_type": "illustration",
-      "source_ids": [],
       "paragraphs": [
         {
           "paragraph_id": "P010",
-          "anchor": "Here's the catch: the buildings' value isn"
+          "anchor": "And you need the purchase money. Suppose a"
         }
-      ]
+      ],
+      "purpose": "Track key economic explanation and accuracy boundary for the editor; editor retains creative visual control",
+      "evidence_type": "illustration",
+      "source_ids": []
     },
     {
       "id": "SC011",
-      "purpose": "Factual content coverage for narration paragraph, without prescribing visual treatment",
-      "evidence_type": "illustration",
-      "source_ids": [],
       "paragraphs": [
         {
           "paragraph_id": "P011",
-          "anchor": "Getting started is the first mountain. A s"
+          "anchor": "There are three broad routes. Buy occupied"
         }
-      ]
+      ],
+      "purpose": "Track key economic explanation and accuracy boundary for the editor; editor retains creative visual control",
+      "evidence_type": "illustration",
+      "source_ids": []
     },
     {
       "id": "SC012",
-      "purpose": "Factual content coverage for narration paragraph, without prescribing visual treatment",
-      "evidence_type": "illustration",
-      "source_ids": [],
       "paragraphs": [
         {
           "paragraph_id": "P012",
-          "anchor": "And you cannot simply copy and paste a bui"
+          "anchor": "This industry already operates at immense "
         }
-      ]
+      ],
+      "purpose": "Track key economic explanation and accuracy boundary for the editor; editor retains creative visual control",
+      "evidence_type": "illustration",
+      "source_ids": []
     },
     {
       "id": "SC013",
-      "purpose": "Factual content coverage for narration paragraph, without prescribing visual treatment",
-      "evidence_type": "illustration",
-      "source_ids": [],
       "paragraphs": [
         {
           "paragraph_id": "P013",
-          "anchor": "Look at the actual scale of acquisitions. "
+          "anchor": "So let's take the buying route to its extr"
         }
-      ]
+      ],
+      "purpose": "Track key economic explanation and accuracy boundary for the editor; editor retains creative visual control",
+      "evidence_type": "illustration",
+      "source_ids": []
     },
     {
       "id": "SC014",
-      "purpose": "Factual content coverage for narration paragraph, without prescribing visual treatment",
-      "evidence_type": "illustration",
-      "source_ids": [],
       "paragraphs": [
         {
           "paragraph_id": "P014",
-          "anchor": "The hundredth acquisition also may not loo"
+          "anchor": "Under that assumption, one hundred and eig"
         }
-      ]
+      ],
+      "purpose": "Track key economic explanation and accuracy boundary for the editor; editor retains creative visual control",
+      "evidence_type": "illustration",
+      "source_ids": []
     },
     {
       "id": "SC015",
-      "purpose": "Factual content coverage for narration paragraph, without prescribing visual treatment",
-      "evidence_type": "illustration",
-      "source_ids": [],
       "paragraphs": [
         {
           "paragraph_id": "P015",
-          "anchor": "Scale can create advantages. Marketing, cu"
+          "anchor": "There's a deeper problem with celebrating."
         }
-      ]
+      ],
+      "purpose": "Track key economic explanation and accuracy boundary for the editor; editor retains creative visual control",
+      "evidence_type": "illustration",
+      "source_ids": []
     },
     {
       "id": "SC016",
-      "purpose": "Factual content coverage for narration paragraph, without prescribing visual treatment",
-      "evidence_type": "illustration",
-      "source_ids": [],
       "paragraphs": [
         {
           "paragraph_id": "P016",
-          "anchor": "Now examine the cash. Our portfolio produc"
+          "anchor": "Even the operating cash deserves a closer "
         }
-      ]
+      ],
+      "purpose": "Track key economic explanation and accuracy boundary for the editor; editor retains creative visual control",
+      "evidence_type": "illustration",
+      "source_ids": []
     },
     {
       "id": "SC017",
-      "purpose": "Factual content coverage for narration paragraph, without prescribing visual treatment",
-      "evidence_type": "illustration",
-      "source_ids": [],
       "paragraphs": [
         {
           "paragraph_id": "P017",
-          "anchor": "And here's the stress test. Revenue per sq"
+          "anchor": "Then imagine the market turns. Revenue per"
         }
-      ]
+      ],
+      "purpose": "Track key economic explanation and accuracy boundary for the editor; editor retains creative visual control",
+      "evidence_type": "illustration",
+      "source_ids": []
     },
     {
       "id": "SC018",
-      "purpose": "Factual content coverage for narration paragraph, without prescribing visual treatment",
-      "evidence_type": "illustration",
-      "source_ids": [],
       "paragraphs": [
         {
           "paragraph_id": "P018",
-          "anchor": "Subtract the original debt and equity is n"
+          "anchor": "Our modeled property value drops from abou"
         }
-      ]
+      ],
+      "purpose": "Track key economic explanation and accuracy boundary for the editor; editor retains creative visual control",
+      "evidence_type": "illustration",
+      "source_ids": []
     },
     {
       "id": "SC019",
-      "purpose": "Factual content coverage for narration paragraph, without prescribing visual treatment",
-      "evidence_type": "illustration",
-      "source_ids": [],
       "paragraphs": [
         {
           "paragraph_id": "P019",
-          "anchor": "There's a second trap in the phrase billio"
+          "anchor": "And here's the question hidden inside our "
         }
-      ]
+      ],
+      "purpose": "Track key economic explanation and accuracy boundary for the editor; editor retains creative visual control",
+      "evidence_type": "illustration",
+      "source_ids": []
     },
     {
       "id": "SC020",
-      "purpose": "Factual content coverage for narration paragraph, without prescribing visual treatment",
-      "evidence_type": "illustration",
-      "source_ids": [],
       "paragraphs": [
         {
           "paragraph_id": "P020",
-          "anchor": "Even a founder's paper stake isn't a bank "
+          "anchor": "There's no contradiction. A business can o"
         }
-      ]
+      ],
+      "purpose": "Track key economic explanation and accuracy boundary for the editor; editor retains creative visual control",
+      "evidence_type": "illustration",
+      "source_ids": []
     },
     {
       "id": "SC021",
-      "purpose": "Factual content coverage for narration paragraph, without prescribing visual treatment",
-      "evidence_type": "illustration",
-      "source_ids": [],
       "paragraphs": [
         {
           "paragraph_id": "P021",
-          "anchor": "So here's the complete answer. One represe"
+          "anchor": "So our answer is one viable building, repe"
         }
-      ]
+      ],
+      "purpose": "Track key economic explanation and accuracy boundary for the editor; editor retains creative visual control",
+      "evidence_type": "illustration",
+      "source_ids": []
     },
     {
       "id": "SC022",
-      "purpose": "Factual content coverage for narration paragraph, without prescribing visual treatment",
-      "evidence_type": "illustration",
-      "source_ids": [],
       "paragraphs": [
         {
           "paragraph_id": "P022",
-          "anchor": "The quiet storage building is interesting "
+          "anchor": "Return to that one rented room. Its monthl"
         }
-      ]
+      ],
+      "purpose": "Track key economic explanation and accuracy boundary for the editor; editor retains creative visual control",
+      "evidence_type": "illustration",
+      "source_ids": []
     }
   ]
 }

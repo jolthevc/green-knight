@@ -1,24 +1,30 @@
-# Editor handoff: FB-V0001
+# Editor handoff: First Billion FB-V0001, revised v2
 
-**Channel:** First Billion. **Title:** What Would It Take to Build a Billion-Dollar Storage Business? **Story:** FB-V0001. **Status:** editorial script package prepared, not commissioned or in production.
+**Working title:** What Would It Take to Build a Billion-Dollar Storage Business? **Episode:** FB-I0001 / FB-V0001. **Status:** editorial script, not yet production ready. **Canonical v2 SHA-256:** `7e4f404203045543a9809f2bbfe31252266eed2d76262f76dff74dce4fb6076a`.
 
-**Promise:** In a clearly fictional worked example, explain the first rentable unit, site NOI, cap-rate property valuation, scaling to 180 buildings, debt/equity bridge, downside valuation and why the founder's stake differs from company worth.
+## Editorial mission
 
-**Target finished length:** 8–10 minutes. Script text estimate **8:32**, 1,355 body-only words at hypothetical 160 WPM plus 3.9s extra rests. Measure actual narration and edited video; do not stretch, rush or add filler.
+Explain why a chain of monthly storage payments can underwrite a hypothetical billion-dollar property-equity position, yet purchasing assets at fair value and arranging expensive outside funding does not magically create a billionaire founder. Start from one 100-square-foot rented room, follow the economic chain, test the downside, then land on income versus market valuation versus contract ownership.
 
-## Clean inputs for the editor
+**Target final video** 480–600 seconds. V2 body 1,313 repository-counted words, assumed 155 WPM plus 4.5 seconds planned extra pause, provisional 512.8 seconds (~8:33). Natural read and actual final-cut duration must be measured. A text estimate never proves runtime.
 
-- **script.txt**, exact v1/hash `c5d94c16f54d2354b7a0e0c40fd9ed712b8a0044d66c9729981b9dde87810361`. First line `TITLE: ...` is **non-spoken** and must be removed from narrator/TTS input. All following text is canonical narration.
-- **narration-guide.md**, readable intent, paragraph cues and checks for numeric clarity.
-- **research-for-editor.md**, the concise five-source support and crucial accuracy constraints.
-- **delivery-cues.json**, optional technical cues, **never spoken**. Same version/hash.
+## The only default editor-facing package
 
-The owner supplies no shot lists, descriptions, prompts, fonts, palettes or storyboards. **The editor proposes and owns visual conception, execution, sound design and packaging visual treatment**, subject to truthful distinction between illustrative and documented content. Research evidence is a factual guardrail, not a visual order.
+1. **script.txt**: authoritative narration with exact v2/hash above. **Do not read the initial non-spoken `TITLE:` line or insert cue words.**
+2. **narration-guide.md**: intended delivery personality, sparse exact paragraph cues, and critical number comprehension checks.
+3. **research-for-editor.md**: the five authentic 2025 original-source leads, precise source qualifications and hypothetical model guardrails.
+4. **delivery-cues.json**: optional machine-readable editorial intent sidecar, never narration input.
 
-## Voice and checks
+All separate internal research, audit and visual-plan documents remain available if requested, but are not obligatory editor reading.
 
-First Billion's narrator profile is unselected; request a short audition once commissioning is authorized, then a full-length voice pilot/listening check. Do not assume SSML, arbitrary emotion tags or any AI provider/model works without actual audition. Maintain consistent chosen profile, accurate names/number readings and clean narration. Check all paragraph coverage, 480–600s actual finished runtime, mix on phone and headphones, pronunciation, claims and source attribution. Substantive script edits return to script version/hash/evidence check first.
+## Editor owns actual visual and sound treatment
 
-## Production scope
+No creative visual direction is prescribed: no shots, prompts, palette, typography, animations or thumbnail specification in this handoff. The editor proposes and executes an original adult aesthetic and verifies asset rights. Never turn fictional modeled sites, loans or owner equity into ostensibly authentic archival evidence. Clearly distinguish illustrative outputs from real reported 2025 operator comparisons.
 
-No editor has been contacted and no order, fee, timeline or asset rights have been agreed. Record separately before production: narration provision, licensed/sourced media, research checks, edit/mix, thumbnail, captions, editable project, revision rounds, price, schedule and deliverable URLs. No YouTube or external portfolio state changed by this document.
+## Voice recording and change control
+
+The channel profile `first_billion_narrator` is still unselected (v0). Following an authorized commission, audition a 30–45-second passage that includes the hook, a number-heavy explanation and the closing, select a voice/profile with owner input once, and test full 8–10 minute endurance. Exact provider controls require verification; never assume SSML or emotion tags. Maintain clear pacing around P007, P014, P016–P019 and preserve source/number meaning.
+
+No editor has been hired, contacted or given a budget. Discuss scope, rights, price, rounds and deliverables separately before commissioning. Render, listen to complete assembled narration, check joins/omissions, assess the actual mix on headphones/phone and measure final cut. Changes to the spoken words or non-spoken title require version 3 with a regenerated hash, cues and evidence before production.
+
+**At handoff:** v2 internal editorial review is text-only; no actual voice audition, audio listening, visuals or verified finished runtime exists. Publication remains separate.

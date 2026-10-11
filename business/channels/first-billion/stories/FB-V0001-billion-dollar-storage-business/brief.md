@@ -26,3 +26,9 @@
 ## Learning contract
 
 A newcomer begins with a single understandable rental unit, learns how property revenue differs from NOI, learns NOI/cap rate asset valuation, then how leverage and minority ownership change equity value. First payoff: a ~$760,500-NOI building has an illustrative ~$11.7m asset value at a 6.5% cap. Second question: if assets are worth that much, why don't owners receive that much cash? The answer is debt, investor claims and liquidity.
+
+## V2 editorial brief supplement
+
+Script v2 SHA-256 `7e4f404203045543a9809f2bbfe31252266eed2d76262f76dff74dce4fb6076a`. The story angle is sharpened from "multiply one facility to reach $1bn" into **"why assembling a billion-dollar storage portfolio is a financing and ownership problem rather than an instant fortune"**. First viable room is translated into an effective monthly dollar equivalent; a hypothetical sponsor must decide how to raise capital and whether to buy, build, or manage; a fair-value acquisition is not characterized as instantaneous wealth creation. Ending: the opening room's payment now means three distinct things, **income, market price and contracted ownership**.
+
+Full spoken-body estimate: 1,313 repository-counted words at assumed 155 WPM plus 4.5 seconds extra cues, 512.8 seconds, unmeasured. No real founder, 2026 cap rate, real debt offer, asset sale or realized proceeds are claimed. Changed script version requires v2 cues, claims, packaging and handoff.

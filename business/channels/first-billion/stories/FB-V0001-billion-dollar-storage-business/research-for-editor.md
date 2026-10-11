@@ -1,19 +1,33 @@
-# Research references for the editor: FB-V0001
+# Concise factual support for editor: FB-V0001 v2
 
-**Script v1** SHA-256 `c5d94c16f54d2354b7a0e0c40fd9ed712b8a0044d66c9729981b9dde87810361`. The edit should preserve the distinction between a **hypothetical valuation model** and historical, publicly reported operator numbers. This file provides factual context and source access, **not visual descriptions**.
+**Canonical full script SHA-256** `7e4f404203045543a9809f2bbfe31252266eed2d76262f76dff74dce4fb6076a`. No audio or visual treatment has been selected. This document supports factual integrity only and does **not** prescribe images, typography, framing or editing.
 
-## What the episode means
+## Episode's premise and boundaries
 
-A representative hypothetical US property with 65,000 net rentable SF earns effective annual property revenue of $18 per available SF (assumption), 65% property NOI margin (assumption), implying $760,500 annual NOI. At a **hypothetical** 6.5% cap rate, gross property value equals $11.7m. At 180 equivalent properties gross value is $2.106bn; modeled 50% debt leaves $1.053bn property equity. Under a combined operational and cap-rate downside, unchanged debt leaves only $463.32m residual equity. **This is not a personal founder wealth model, market appraisal, construction estimate, or loan quote.**
+A hypothetical US storage sponsor starts with an assumed 65,000-net-rentable-square-foot existing site earning $18 annual effective revenue per available SF and a 65% property NOI margin. That's $1.17m annual property revenue and $760,500 property NOI. At an **assumed 6.5% cap rate**, a property could imply **$11.7m gross property value**. An **illustrative** 180 such sites correspond to ~$2.106bn properties minus ~$1.053bn modeled debt = ~$1.053bn collective property equity.
 
-## Five fact sources and uses
+**Cash reminder:** annual property NOI across the scenario ~$136.89m, annual interest at **assumed 6%** ~$63.18m, modeled HQ costs $10m, recurring capital reserves $15m, remainder ~$48.71m before other outlays, taxes, principal. This is not GAAP net income or a promised distribution.
 
-- S001 [Public Storage 2025 10-K, SEC](https://www.sec.gov/Archives/edgar/data/1393311/000162828026007696/psa-20251231.htm): Item 7 same-store 2,565 sites, annual revenue $3.7648bn, NOI $2.8289bn, 75.1% margin. Mature leader with strong operations, not an average.
-- S002 [CubeSmart 2025 earnings, SEC](https://www.sec.gov/Archives/edgar/data/1298675/000129867526000008/cube-20260226xex99d1.htm): 606 comparable stores, FY2025 revenue $938.048m, NOI $666.847m, 71.1% margin.
-- S003 [Extra Space 2025 10-K, SEC](https://www.sec.gov/Archives/edgar/data/1289490/000128949026000011/exr-20251231.htm): reports **1,856 third-party-managed** stores at 2025 year-end. These were managed, not all owned.
-- S004 [Public Storage FY2025 release, SEC](https://www.sec.gov/Archives/edgar/data/1393311/000162828026007684/psa-021226xex99_1.htm): 87 buildings with 6.1m rentable SF acquired for $945.6m in 2025. The ~$155/SF figure is arithmetic on that basket, not a generic price guide.
-- S005 [Extra Space 2025 annual report](https://annualreport.extraspace.com/annualreport/2025/): management commentary on recent new-supply and move-in-rent headwinds; attributed management perspective only.
+**Downside:** scenario decreases revenue/SF 10%, drops modeled NOI margin from 65% to 60%, and increases valuation cap 6.5% to 7.5% while holding debt fixed. Property value ~$1.516bn and residual equity ~$463m. The decline is model arithmetic, not a predicted future market outcome.
 
-**Accuracy guardrails:** All $18/SF, 65%, 6.5% cap, 50% debt ratio, 6.0% debt interest, $10m HQ overhead, $15m capex reserve, 180-site and stress-case assumptions must remain signposted as illustrative. NOI excludes depreciation/accounting net income, interest, company HQ, capex and taxes. The modeled $1.053bn belongs to **collective property equity** before holdco-level adjustments; a founder's ownership may be far lower. Do not depict actual ownership documents, quotations, buyer offers or facility photos as evidence of a fictional portfolio. Changes to numerical assertions or sourcing return for editorial review.
+**Founder:** even a paper billion-dollar property-equity position does not prove someone is personally a billionaire. The 20% founder ownership and 80% outside investors are fictitious; actual senior capital rights, fees, liquidity and tax are unspecified.
 
-Source URLs were opened in preparation October 2026. Actual media sourcing, permissions and treatment decisions belong to the editor.
+## Public originals rechecked for revision
+
+1. **Public Storage 2025 SEC Form 10-K**, Item 7, same-store property gross margin after property operating costs **75.1%** before depreciation: https://www.sec.gov/Archives/edgar/data/1393311/000162828026007696/psa-20251231.htm
+2. **CubeSmart 2025 earnings release**, same-store total revenues **$938.048m**, property NOI **$666.847m**, same-store margin **71.1%**: https://www.sec.gov/Archives/edgar/data/1298675/000129867526000008/cube-20260226xex99d1.htm
+3. **Extra Space Storage 2025 Form 10-K**, Item 1: 1,856 **third-party-managed** stores at 2025 year-end, not wholly owned by Extra Space: https://www.sec.gov/Archives/edgar/data/1289490/000128949026000011/exr-20251231.htm
+4. **Public Storage 2025 annual results**, 87 acquired properties for approximately $945.6m during 2025: https://www.sec.gov/Archives/edgar/data/1393311/000162828026007684/psa-021226xex99_1.htm
+5. **Extra Space 2025 annual report and CEO letter**: management observation about recent supply and pricing pressures: https://annualreport.extraspace.com/annualreport/2025/
+
+All above real-company data is historical **2025**, released 2026, and is **not** a quote of current 2026 purchase prices, cap rates, lending rates or availability. Actual market supply, financing, acquisition pipeline and founder economics of the model are not observed.
+
+## Meaning that must survive production
+
+- $150/month for a ten-by-ten area in P004 is an *illustrative effective revenue equivalent*, including vacancy effects, not advertised occupied-unit rent.
+- Buying a building at modeled fair value does not make its gross asset value a windfall. A fair-value buyer can **still earn ongoing rental investment returns**. The episode's point is about no instant wealth creation on purchase.
+- A loan is a creditor claim. Modeled residual property equity is not cash, not necessarily fully diluted common equity after further claims and not the sponsoring founder's entire stake.
+- Third-party **managed** properties are not automatically owned. The 180-site portfolio is a worked arithmetic model, not an assembled real company.
+- We supply voice cues, narrative context and research, while the **editor controls all visual choices**. Do not create historical-looking paperwork or imply fictional buildings, owners, loan contracts, prices or proceeds are documentary evidence.
+
+Source/caveat detail and exact paragraph IDs appear in `evidence.json` and `sources-and-claims.md` (internal reference available on request). Report any edit that changes a figure, date, ownership relationship or factual qualification for synchronized script/evidence review before final voice recording.

@@ -1139,6 +1139,12 @@
           "status": "scripted",
           "note": "Saved script v1 with full SHA-256, 19 claim mappings, 22 content coverage scenes, 11 non-spoken cues, packaging, editor handoff, and two text-only internal editorial reviews; no audio or final cut.",
           "actor": "ChatGPT"
+        },
+        {
+          "date": "2026-10-11",
+          "status": "scripted",
+          "note": "Owner-authorized REVIEW_AND_REVISE of FB-V0001: critical v1 audit, structural full script v2 (SHA-256 7e4f404203045543a9809f2bbfe31252266eed2d76262f76dff74dce4fb6076a), re-anchored evidence/cues/packaging/editor handoff and final text re-review. Source originals rechecked; text-only preflight passed. No human audio, visuals or published cut.",
+          "actor": "ChatGPT"
         }
       ]
     },

@@ -1,40 +1,52 @@
-# Sources and claims: FB-V0001, script v1
+# V2 source and claim map: FB-V0001
 
-Canonical owner: `evidence.json`, script SHA-256 `c5d94c16f54d2354b7a0e0c40fd9ed712b8a0044d66c9729981b9dde87810361`. This Markdown is a readable rendering of its current source/claim coverage, not a separate ledger.
+**Canonical script:** v2, full-file SHA-256 `7e4f404203045543a9809f2bbfe31252266eed2d76262f76dff74dce4fb6076a`, 22 spoken narration paragraphs P001–P022. **Canonical evidence ledger:** `evidence.json`, 20 exact-anchor claims and 22 content-coverage records; this page is only a human-readable mirror.
 
-## Primary evidence opened 2026-10-11 UTC
+## Opened source records
 
-| Source ID | Published source | Exact support | Evidentiary limit |
-| --- | --- | --- | --- |
-| S001 | [Public Storage 2025 SEC 10-K](https://www.sec.gov/Archives/edgar/data/1393311/000162828026007696/psa-20251231.htm) | Item 7, 2,565 same-store facilities, 175.349m NRSF, $3,764.833m revenue, $2,828.915m NOI, ~75.1% margin | Not an independent operator forecast; 2025 figures |
-| S002 | [CubeSmart 2025 results](https://www.sec.gov/Archives/edgar/data/1298675/000129867526000008/cube-20260226xex99d1.htm) | Same-store 606, 43.8m NRSF, $938.048m revenue, $666.847m NOI, 71.1% margin | Different public REIT and pool definitions |
-| S003 | [Extra Space 2025 10-K](https://www.sec.gov/Archives/edgar/data/1289490/000128949026000011/exr-20251231.htm) | Item 1, 1,856 **third-party managed** stores | Not 1,856 owned stores |
-| S004 | [Public Storage FY2025 results](https://www.sec.gov/Archives/edgar/data/1393311/000162828026007684/psa-021226xex99_1.htm) | 87 acquisitions / 6.1m NRSF / $945.6m | Aggregate comp only |
-| S005 | [Extra Space 2025 annual report](https://annualreport.extraspace.com/annualreport/2025/) | CEO letter comments on new supply and rent-pressure trends | Company perspective, not independent forecasting |
+- **S001:** Public Storage / SEC, [2025 Form 10-K](https://www.sec.gov/Archives/edgar/data/1393311/000162828026007696/psa-20251231.htm). Opened 2026-10-11 UTC. Source passage: Item 7 Same Store table, 2025 results and discussion. Caveat: Historical public company evidence or management perspective. Not validation of illustrative independent portfolio assumptions.
+- **S002:** CubeSmart / SEC, [Full-year 2025 earnings release](https://www.sec.gov/Archives/edgar/data/1298675/000129867526000008/cube-20260226xex99d1.htm). Opened 2026-10-11 UTC. Source passage: Same-Store Results 606 stores, 2025 full-year NOI and margin. Caveat: Historical public company evidence or management perspective. Not validation of illustrative independent portfolio assumptions.
+- **S003:** Extra Space Storage / SEC, [2025 Form 10-K](https://www.sec.gov/Archives/edgar/data/1289490/000128949026000011/exr-20251231.htm). Opened 2026-10-11 UTC. Source passage: Item 1 Business, 1,856 stores managed for third parties as of 2025-12-31. Caveat: Historical public company evidence or management perspective. Not validation of illustrative independent portfolio assumptions.
+- **S004:** Public Storage / SEC, [2025 full-year earnings release](https://www.sec.gov/Archives/edgar/data/1393311/000162828026007684/psa-021226xex99_1.htm). Opened 2026-10-11 UTC. Source passage: Highlights for year: 87 acquisitions, 6.1m square feet, $945.6m. Caveat: Historical public company evidence or management perspective. Not validation of illustrative independent portfolio assumptions.
+- **S005:** Extra Space Storage, [2025 annual report CEO letter](https://annualreport.extraspace.com/annualreport/2025/). Opened 2026-10-11 UTC. Source passage: CEO letter on new self-storage supply, 2025 move-in rents, pricing platform. Caveat: Historical public company evidence or management perspective. Not validation of illustrative independent portfolio assumptions.
 
-## Script anchor map
+All 2025 historical reports were reopened during the v2 research audit. They do not prove a real 2026 financing quote or acquisition program.
 
-| Paragraphs | Canonical claims | Status / source |
-| --- | --- | --- |
-| P001–P005 | First store, assumed 65k SF, $18/SF revenue, 35% expenses and $760,500 NOI | Scenario, C001–C004 |
-| P006 | Public Storage ~75.1%, CubeSmart ~71.1% mature same-store margins | Verified, C005, S001/S002 |
-| P007–P011 | 6.5% illustrative cap; $11.7m per site, 180 sites / $2.106bn value, 50% debt / $1.053bn modeled equity | Scenario, C006–C008 |
-| P012 | Distinguish acquisition, development and third-party management cash and ownership | Inference, C009, S001/S003 |
-| P013 | Public Storage 2025 acquired 87 / 6.1m SF / ~$945.6m | Verified, C010, S004 |
-| P014 | New supply and competitive rates create real downside | Verified management observation, C011, S005 |
-| P015 | Extra Space reported 1,856 **third-party managed** at 2025 year end | Verified, C012, S003 |
-| P016–P018 | 6% debt cost and cash remainder; 10% effective revenue contraction + margin reduction and cap widening leaves $463.32m equity | Scenario, C013–C015 |
-| P019–P020 | 20% illustrative founder ownership does not make individual a billionaire; liquidity limitations | Scenario/inference, C016–C017 |
-| P021–P022 | Modeled milestone summary and final causal insight | Scenario, C018; reasoned framing |
+## Spoken claim-to-paragraph map
 
-Numbers match research.md's tables and use nominal US dollars. Cite exact source paragraph locations in `evidence.json`; quote no purported remarks by actual people. No archival audio, participant reporting, real estate broker offer or actual property transaction record is claimed for the fictional model.
+| Claim ID | Paragraph | Claim | Evidence status | Supporting sources / scenario |
+| --- | --- | --- | --- | --- |
+| C001 | P002 | The milestone is a hypothetical US $1bn property equity valuation after property debt, not cash or company revenue | illustrative | model / arithmetic |
+| C002 | P003 | First mature representative site holds assumed 65,000 net rentable square feet | illustrative | model / arithmetic |
+| C003 | P004 | $18 annual effective revenue per available square foot, equivalent to $150 per ten-by-ten monthly across vacancy, generates $1.17m site revenue | illustrative | model / arithmetic |
+| C004 | P005 | 35% modeled property expense ratio leaves $760,500 annual site NOI before financing and corporate costs | illustrative | model / arithmetic |
+| C005 | P006 | Public Storage FY2025 75.1% mature same-store property NOI margin; CubeSmart FY2025 71.1% comparable same-store margin | verified | S001, S002 |
+| C006 | P007 | At a modeled 6.5% capitalization rate, $760,500 site NOI corresponds to $11.7m property gross value | illustrative | model / arithmetic |
+| C007 | P008 | When demanded cap-rate return increases, fixed NOI yields lower appraised price | illustrative | model / arithmetic |
+| C008 | P009 | An acquisition at fair price does not itself generate immediate mark-up profit; ordinary rental income may still accrue | inference | S001 |
+| C009 | P010 | At assumed 50% initial financing, ~$5.85m debt and ~$5.85m investor equity are needed per modeled facility before costs | illustrative | model / arithmetic |
+| C010 | P011 | Acquiring existing, developing new, or managing another's building entail distinct risk and equity ownership claims | inference | S001, S003 |
+| C011 | P012 | Public Storage bought 87 stores for $945.6m in 2025; Extra Space managed 1,856 third-party owned sites at end of 2025 | verified | S004, S003 |
+| C012 | P013 | Extra Space management discussed recent 2025 competitive new supply and pricing headwinds | verified | S005 |
+| C013 | P014 | 180 equal model sites valued at $2.106bn, minus modeled $1.053bn debt leaves $1.053bn total property equity | illustrative | model / arithmetic |
+| C014 | P015 | At fair modeled purchase prices, funding a modeled $2.106bn property portfolio involves roughly $1.053bn equity and equal debt; it does not create instant founder wealth | illustrative | model / arithmetic |
+| C015 | P016 | 180 units modeled property NOI $136.89m, cash interest $63.18m at 6%, corporate overhead $10m and recurring capex reserve $15m leave $48.71m before other payments | illustrative | model / arithmetic |
+| C016 | P017 | Downside assumptions: effective revenue falls 10%, NOI margin falls to 60%, cap rate increases to 7.5% | illustrative | model / arithmetic |
+| C017 | P018 | Combined downside property value becomes $1.51632bn and modeled residual equity $463.32m after unchanged $1.053bn debt, 56.0% below base | illustrative | model / arithmetic |
+| C018 | P019 | Hypothetical founder owns 20% after outside common investors own 80%; gross simple stake is around $210.6m, or ~$200m on a $1bn rounded base, before any preferences | illustrative | model / arithmetic |
+| C019 | P020 | Real debt, equity priorities and liquidity rights must be separately negotiated and cannot be inferred from property valuation | inference | S003 |
+| C020 | P021 | Milestone requires ~180 stores in this specific model and a genuinely risky large financed portfolio | illustrative | model / arithmetic |
 
-### Critical anti-misreading constraints
+## How to avoid misleading the editor and narrator
 
-- A **6.5% cap rate and 6.0% annual interest rate are assumptions**, not market evidence.
-- **NOI** is before corporate G&A, debt service and significant capital work; it is not GAAP net income or free cash flow.
-- **$1.053bn equity** is the modeled portfolio residual, not founder equity, liquidation proceeds, fully diluted public-company market cap or cash.
-- A 50% loan-to-value debt ratio on modeled property value is a scenario, not an approved mortgage commitment.
-- REIT best-in-class margins cannot be inherited by a small owner.
-- $155/SF acquisition arithmetic and $180/SF modeled implied value are **not** like-for-like appraisals.
-- No claim about a precise current 2026 cap-rate average or forecast interest curve is made.
+- The 100-square-foot, $150-per-month comparison at P004 is **effective revenue averaged across available area**, not the listed rent on an occupied unit.
+- The $18 annual revenue/SF, 65% modeled NOI margin, 6.5% cap, 50% initial debt, 6% interest, 180 equivalent sites and downturn are assumptions. None is a verified acquisition contract, marketplace price or lender approval.
+- The cited margin figures compare established same-store public operators, not a performance forecast for a new portfolio.
+- $11.7m is modeled *gross property* value; ~$5.85m is hypothetical property-equity funding **per building** at 50% debt; the cumulative billion is a property-equity residual, not automatically common equity after other senior capital.
+- The 2025 Public Storage actual purchase aggregate is a historical reference, not a price per site that can be offered now. Extra Space's 1,856 managed third-party facilities are not owned underlying equity.
+- P009 deliberately distinguishes **earning rental returns after investing** from **immediate incremental wealth by purchasing at fair value**. Don't simplify into "buying buildings makes a founder rich."
+- P016's ~$49m annual remainder is cash before further material charges, not profits, available dividends, or a reliable yield.
+- P018's scenario combines lower revenue, lower NOI margin and a wider cap rate. Debt remains fixed solely for the valuation snapshot; it may trigger financing/covenant problems in practice.
+- P019's illustrative founder owns 20% of common equity only under the expressly simplified no-further-senior-claims case; realized cash and rights are unknown.
+
+No separate historical photos, recreated invoices, alleged loan documents or real founder activity are evidence for this fictional modeled entity. See research.md for reproducible formulas and the detailed downside table.
