@@ -1,56 +1,41 @@
-# Packaging: OTM-V0001
+# Packaging v2: OTM-V0001
 
-## Honest title options
+**Current canonical title:** How a Dutch Town Became the World's Flower Marketplace. The town was historically a major hub, not mandatory physical transit point for every flower.
 
-1. **Chosen:** How a Dutch Town Became the World's Flower Marketplace. Promise: why Aalsmeer became a major trading system, not that it controls every flower on earth.
-2. **Searchable:** Why the Netherlands Became a Flower-Trading Hub. Less surprising, direct geographic description.
-3. **Curiosity:** How One Dutch Town Changed the Flower Business. Softer scale claim, still a meaningful promise.
+## Three titles
+1. **Recommended:** How a Dutch Town Became the World's Flower Marketplace. Direct, specific, broad, and the full script proves origin plus continued relevance.
+2. **Testable curiosity variant:** Why the World's Flower Trade Still Needs This Dutch Town. Slightly stronger current-day persistence claim; requires title audit against counterexamples before use.
+3. **Clear searchable variant:** How Aalsmeer Became a Global Flower Trading Hub. Most geographically precise but less familiar to potential viewers.
 
-**Avoid:** 'Every Rose Goes Through Holland' and 'The Airport That Created the Flower Market'. Both would be false or misleading.
+## Two distinct thumbnail message hypotheses (internal, editor executes)
+- **Geographic paradox:** a familiar rose and the surprising Dutch location. Optional text 'WHY HOLLAND?'. Any route would be a schematic/hypothesis, not documentary evidence of a particular shipment.
+- **Physical-versus-digital contradiction:** a price transaction versus delivery timing, with very few words, e.g., 'SOLD. NOW WHAT?'. This is rooted in the actual 2026 decision but not permission to create fake dated archival evidence.
 
-## Internal thumbnail hypothesis, editor owns execution
+**Preferred pairing:** Title 1 with geographically surprising rose logic. P001 immediately introduces rose, online sale and March 2026 place controversy, then P002 pays a useful answer. P019 revisits rose, ties 1911 cooperative to 2026 finding that price agreement and physical supply delivery are distinct. Thumbnail and real rendering not approved yet.
 
-A. **The object paradox:** familiar bouquet and a geographically surprising trading question; optional two-word phrase 'WHY HERE?'. Factual limitation: no invented exact route or claim every rose passes through the town.
-B. **The economic surprise:** flower lot and falling-price trade concept; optional 'WHO SETS IT?'. Factual limitation: no assertion of control over every retail price; auction-clock illustration not historical proof.
+## Description opening
 
-These are abstract message options for internal packaging evaluation only, not an editor-facing storyboard or approved layout/palette. Editor proposes and owner approves finished artwork separately.
+A rose grown in Kenya might be sold to a European florist without ever passing through Holland. So why does Aalsmeer, a small town near Amsterdam, still matter to the flower business? Go inside the century-long transformation of growers' cooperative flower auctions, the falling-price Dutch clock and the trading system that drew buyers and shipping to one place. Then follow a revealing 2026 decision: Royal FloraHolland explored making auctions less location-dependent and pulled back when physical logistics got complicated.
 
-## Package and opening alignment
+Not every flower physically passes through Aalsmeer. Royal FloraHolland's 2025 €5.4 billion traded value includes flowers **and plants**, not the cooperative's profit. The 2026 102,000-transaction figure refers to one exceptional peak day in Aalsmeer.
 
-P001 explicitly raises the bouquet-to-Aalsmeer paradox without inventing a specific path. P002 pays useful early value: organized trading rather than perfect flower soil. P019 returns to the bouquet and answers why the marketplace can outlast production geography.
-
-## YouTube description draft
-
-A bouquet can be grown in East Africa and sold through an extraordinary Dutch trading network. Why did the flower business build such a powerful marketplace around Aalsmeer, near Amsterdam? Follow the growers who formed cooperative auctions, the clock that made selling faster, the infrastructure and global logistics that followed, and the new threats from direct buying and digital trade.
-
-This is a history of economic geography, not an assertion that every flower physically passes through the Netherlands. The 2025 Royal FloraHolland figures refer to flowers and plants traded through the cooperative platform, not its profits.
-
-Sources for description/pinned research references:
+**Core references:**
 - https://link.springer.com/chapter/10.1007/978-3-658-52437-1_5
-- https://link.springer.com/chapter/10.1007/978-3-658-52437-1_6
-- https://www.bpnieuws.nl/article/9742558/vliegtuigpallets-vol-dozen-met-rozen-anjers-en-lelies-verwerken/
-- https://floriculture.co.ke/rfh-holds-strong-in-2025-as-market-headwinds-shape-a-focused-and-cautious-2026/
+- https://www.floraldaily.com/article/9823806/royal-floraholland-decides-not-to-proceed-with-the-current-central-auctioning-model/
+- https://www.floraldaily.com/article/9856726/flower-and-plant-market-holds-its-ground-despite-economic-and-geopolitical-uncertainty/
+- https://www.royalfloraholland.com/en/about-us/annual-report/annual-report-2025
 - https://www.fairtrade.net/en/get-involved/library/life-cycle-assessment-of-cut-roses--analysing-the-environmental-.html
-- https://riskmap.fairtrade.net/commodities/flowers
 
-## Draft chapters (indicative only, require actual cut times)
+## Draft chapters, placeholder *not actual timestamps*
+- 00:00 The rose and the strange Dutch detour
+- 00:55 Before the flower auctions
+- 01:55 Why the clock works backwards
+- 03:10 Why Aalsmeer kept the marketplace
+- 04:15 Flowers grown elsewhere
+- 05:05 The money and direct deals
+- 06:05 The 2026 experiment that failed to scale
+- 07:30 What location is still worth
 
-- 00:00 The unlikely journey of a bouquet
-- 01:05 Before the flower market
-- 02:45 The growers and the reverse clock
-- 04:40 A town becomes a trading system
-- 06:10 The global rose route and the money
-- 07:50 Can digital trade replace the town?
-- 08:45 What a flower marketplace really produces
+Chapters must be timed against actual cut and no subtitles/music/image claims are certified. Suggested tags: Aalsmeer, Royal FloraHolland, Netherlands flowers, Dutch auction, flower trade, economic geography, Schiphol, floriculture. One next-watch end screen invitation only after payoff and only linking a verified existing upload; no fabricated channel inventory.
 
-## Tags
-
-Aalsmeer, Dutch flower auction, Royal FloraHolland, Netherlands flowers, flower trade, economic geography, Schiphol, Floriday, how markets work.
-
-## CTA and end screen
-
-Script deliberately ends with payoff, not a long subscribe sequence. For launch-safe end screen, offer a relevant next On the Map episode only if an actual public URL exists. Otherwise use a brief generic channel invitation without an invented uploaded link. Actual end screen runs in the final 5–20 seconds, subject to footage and runtime review.
-
-## Asset originality, disclosure, and rights
-
-Original research and narration are distinct from interchangeable content; no upload has occurred. Before release identify actual music (including AI-generated), visual source authenticity, synthetic scene policy, narrator and rights. Recheck official YouTube monetization and altered/synthetic-content guidance at upload; do not pre-approve disclosure without final assets. All thumbnail treatments are unapproved until editor pilot and owner selection.
+**Rights and YouTube disclosure:** actual assets, synthetic content, music, narration, paid stock and usage licenses remain unreviewed. Apply current platform rules before upload, including any AI music disclosure and original-content checks. No upload or automation is implied.

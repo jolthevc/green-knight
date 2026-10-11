@@ -1,22 +1,24 @@
-# Narration guide: OTM-V0001
+# Narration guide: OTM-V0001, script v2
 
-Canonical script v1, SHA-256 `bee29f9f13cbf8825841cf5caa2601cdf8ec618fb4700b70740ab1393bf8199d`. Non-spoken title header must be removed before voice/TTS. Exactly 1489 spoken words in 19 paragraphs. **Provisional:** 160 WPM + 4.7 seconds extraordinary pauses = 563.1 seconds. Actual audio and cut not yet measured.
+**Canonical:** exact full `script.txt` bytes SHA-256 `a79d1ca6eb2e4a43ee7f327163f665b83d39f030989025a0b8530190cfcce79c`; first `TITLE:` line is **not spoken**. **1281 body words**, 19 body-only paragraphs. Time **519.4 seconds estimated**, 150 assumed WPM plus 7.0 seconds planned additional pauses. This is a model, not measured actual narration.
 
-**Voice:** warm, observant and curious, precise not showy. Narrator is unselected, profile `on_the_map_narrator` v0. No provider-specific tags, no invented accent or approved recording. Show curiosity through discoveries, not fake drama. Lighter emphasis when explaining the clock; quieter tone when discussing producer worker risks. The editor should audition the actual voice before production.
+**Voice target:** Warm, observant, confident, precise. The speaker should enjoy the surprise but not imitate a hype trailer. P006 needs a clean slow clock-choice explanation; P014–P016 remain factual and precise, not sensational; ending settles only after returning to the actual location-dependent buyer problem.
 
-| Paragraph / opening | Pace, intent | Emphasis | Extra pause / inflection |
+**Narrator:** `on_the_map_narrator`, version 0 unselected. No actual approved voice, model, synthetic control or sample. Test a Dutch-place-name passage, the auction choice, the 2026 numerical sentence and the quiet ending before accepting any narration workflow.
+
+| Paragraph/exact opening | Pace/intent | Emphasis | Pause and inflection |
 | --- | --- | --- | --- |
-| P001: Think of the last bouquet you bought. Maybe the roses g | slower, curious | not at an airport | 0.4s, neutral |
-| P002: Here is the first clue. The Netherlands did not build i | natural, curious | none | 0.3s, neutral |
-| P005: So, in the winter of nineteen eleven and nineteen twelv | brisk, curious | none | 0.5s, neutral |
-| P006: The mechanism was ingenious. In a conventional auction, | slower, amused | works in reverse | 0.6s, neutral |
-| P008: After the war, rising demand and easier European trade | natural, curious | none | 0.4s, neutral |
-| P011: Imagine a rose cut in Kenya and destined for a shop in | natural, curious | none | 0.4s, neutral |
-| P013: Now consider what the market actually earns. In twenty | slower, matter_of_fact | not five point four billion euros of profit | 0.6s, neutral |
-| P015: There is another twist. The physical trading hall is be | natural, curious | none | 0.4s, neutral |
-| P017: That concentration also has costs, and they do not fall | slower, skeptical | none | 0.5s, neutral |
-| P019: Return to the bouquet. What looks like a simple bunch o | slower, reflective | the market that brings the product | 0.6s, settled |
+| P001: A rose grown in Kenya can be sold to a European florist | natural; curious | why does a Dutch town still matter | 0.8s; neutral |
+| P003: Aalsmeer was a farming and fishing community long befor | natural; matter_of_fact | none | 0.4s; neutral |
+| P004: The trouble was selling what they grew. Flowers spoil, | slower; skeptical | none | 0.5s; neutral |
+| P006: The clock made transactions fast. Picture a lot of rose | slower; curious | Wait too long and someone else gets it | 0.7s; neutral |
+| P008: After the Second World War, demand and European trade e | natural; matter_of_fact | none | 0.5s; neutral |
+| P012: Consider its scale. Royal FloraHolland reported about f | slower; matter_of_fact | not the cooperative's profit | 0.9s; neutral |
+| P014: That brings us back to 2026. Royal FloraHolland explore | slower; skeptical | The hoped-for independence from location was creating new problems | 0.9s; neutral |
+| P016: The concentration has problems of its own. During the s | slower; matter_of_fact | none | 0.8s; neutral |
+| P018: The trade also has costs that the auction clock doesn't | natural; reflective | none | 0.7s; neutral |
+| P019: Now return to that rose. Whether it travels through Aal | slower; reflective | agreeing on a price is not the same as delivering fresh flowers on time | 0.8s; settled |
 
-**Pronunciation checks (unverified locally):** Aalsmeer, Haarlemmermeer, Schiphol, Naaldwijk, Rijnsburg, Royal FloraHolland, Floriday. Use authentic local or provider-tested pronunciation sources, keep captions correctly spelled, and record selected results under voice-production.md. Do not insert guesses into spoken script. Amounts to convey accurately: RFH product turnover **five point four billion euros in 2025**, *not profit*; after-tax cooperative profit **about twelve million euros**, not flower-retailer profit. These have different denominators. 'Winter nineteen eleven and nineteen twelve' is founding range, not separate single first-auction claim.
+**Verify pronunciations using Dutch/reference audio before recording:** Aalsmeer, Haarlemmermeer, Schiphol, Naaldwijk, Rijnsburg, Royal FloraHolland, Floriday, Liège. Do not guess phonetic spellings. **Spoken figures:** 'five point four billion euros' of flowers-and-plants product turnover in **2025** (not operator profit), 'about twelve million euros' after-tax result in 2025, and 'one hundred and two thousand' flower **transactions on one peak day of 2026**, not flowers, stems or a daily average. Historic years: 1852, 1911–12 and 1972. Pause after the 2026 actual auction strategy reversal; don't overdramatically stress it.
 
-**Retake logic:** Prefer coherent paragraph blocks rather than sentence-by-sentence patchwork. Verify cue support with selected provider; sidecar is not a TTS API. Any substantive script wording change requires a new version/hash/evidence/cue pass.
+**Provider controls:** cues are editorial intent, not SSML or API parameters. Regenerate coherent paragraph groups and actually listen to the full output; correct stumbles and links before measuring final video (must be 480–600 seconds). Script changes require v3/hash/evidence/cue synchronization.

@@ -1,37 +1,39 @@
-# Quality record: OTM-V0001
+# Editorial QA and revision record: OTM-V0001, v2
 
-**Internal editorial review:** 2026-10-11. **Script v1 SHA-256:** `bee29f9f13cbf8825841cf5caa2601cdf8ec618fb4700b70740ab1393bf8199d`. **Reviewer:** ChatGPT, text/source editorial review only. **Result:** PASS for scripted stage, no current blocking editorial issues. This is not a producer/audience/listening sign-off.
+**As of 2026-10-11.** Exact script SHA-256 `a79d1ca6eb2e4a43ee7f327163f665b83d39f030989025a0b8530190cfcce79c`. Status: `scripted` (not production ready). Reviewer: ChatGPT internal full text and source audit, not independent human review.
 
-## Passed editorial checks
+## Confirmed text/editorial checks
+- [x] User-selected idea and story IDs stable; On the Map place and causal question essential.
+- [x] Cold review of original v1 saved with exact v1 hash and paragraph anchors.
+- [x] Justified fixes applied in structure, opener, middle, causal claims and ending.
+- [x] First-sentence Kenyan rose route is conditional; all-flower-through-Aalsmeer legend rejected.
+- [x] Historic start includes earlier inhabitants, reclamation, local buyers and grower bargaining.
+- [x] Dutch clock method explained fully in spoken prose without visuals.
+- [x] Municipality retained larger 1972 auction complex, Schiphol's later role qualified.
+- [x] Contemporary 2026 RFH strategy decision and later spring peak delay independently tracked, not falsely made a causal sequence.
+- [x] Money separates flowers-and-plants product transaction value from after-tax cooperative profit.
+- [x] Direct buyer and other airport counterevidence plus worker/environment costs included without absolutist conclusions.
+- [x] Full v2 re-review saved and found no unresolved P0/P1 text-stage issues.
+- [x] 19 paragraphs mapped in updated evidence.json (19 claims, 8 content groups) and sparse voice sidecar.
+- [x] Source/link access status explicit, including 403 original pages and opened trade reprints.
+- [x] Full-file title/header/hash, word count, pause and planning duration recalculated.
+- [x] Programmatic JavaScript cross-file structural validation of the staged v2 script, IDs, paragraph anchors, emphasis, scene coverage and duration completed.
+- [ ] **Full repository `python3 business/tools/validate.py` not run**: GitHub network not reachable from container checkout; do not misreport a local validator pass.
 
-- [x] User-selected On the Map question, geography, period and distinctive payoff.
-- [x] Reviewed full cross-channel idea registry, no duplicate geographic causal answer.
-- [x] Primary scholarly history and independent/operational challenge to Schiphol-only and all-flowers mythology.
-- [x] Physical route versus digital trade distinguished, including competing European airports.
-- [x] Financial figures distinguish RFH product turnover from cooperative profit and plants from flowers.
-- [x] Source/claim records and content coverage span all 19 spoken paragraphs.
-- [x] Exactly one TITLE header, no spoken directions/citations, estimated audio in target 480–600s.
-- [x] Newcomer first-pass, skeptic first-pass and weakest-middle edits applied in synthesis.
-- [x] Opening answers part of the title early, ending returns to the bouquet with a specific insight.
+## Re-review judgments, limitations
+- **Newcomer:** P001 rose, P004 grower cash constraint, P006 clock, P012 platform economics, P015 delivery decision all understood in spoken words; hypothetical buyer clearly introduced as 'might'.
+- **Informed skeptic:** central auctioning pilot was not a universal failure of remote buying; 2026 transaction peak one day; direct routes bypass; environmental LCA not universal, S014 only partially retrievable.
+- **Weakest passage tested:** P011–P013 route, product value and direct buyer choice, each now answers how activity can move off the hub and sets up 2026 test.
+- **Ending:** P019 resolves both initial geographic question and today's persistence condition, rather than generic market-is-valuable aphorism.
+- **P0/P1:** none open under textual evidence review. **P2:** Dutch pronunciation and numerical pace need real audio.
+- **Actual viewer data/audio review:** none, and claims are not made.
 
-## Internal editorial findings and responses
+## Production gates, all still open
+- [ ] Approved reusable channel voice and tested reference recording / settings.
+- [ ] Approved editor visual pilot/reference.
+- [ ] Generated full spoken narration heard at normal speed, with words, figures and retake joins checked.
+- [ ] Actual video including closing measured 480–600 seconds.
+- [ ] Phone/headphone sound check; copyright/asset verification; factual visuals and captions reviewed.
+- [ ] Real upload URL/date, verified metadata, chapters and disclosure decisions.
 
-1. **Factual threat, high:** Generic title risks implying all imported flowers go through town. P009/P011/P012/P018 repeatedly correct this. No universal traffic share claimed.
-2. **Causality, high:** Airport-origin narrative is wrong; Aalsmeer cultivation and 1911–12 cooperative precede later hub investment. P003–P008 fixed.
-3. **Money math, high:** RFH €5.4bn is product flow including plants, not corporate revenue/profit. P013 explains €12m reported profit separately. No made-up retail margin.
-4. **Audio comprehension, medium:** Auction and contract/clock distinction needs one simple explanation, not a list of technical names; P006/P014 split them.
-5. **Retention, medium:** The middle initially listed war and merger history without progress. Redundant wartime paragraph removed; merged local site choice directly into the service-cluster reveal.
-6. **Distribution, high:** Added producer-worker wage/conditions caveat into P017; LCA example framed as scoped, not universal.
-7. **Reference consistency, medium:** Source S014 2025 financial landing partially inaccessible; full script claim is supported by opened 2026 management message at S003. Verify full annual accounts at production if exact €12.4m needed.
-
-## Still incomplete, correctly unchecked
-
-- [ ] Run repository `business/tools/validate.py` on a full fresh checkout (structural checks performed programmatically for generated files but no local Git clone/network access).
-- [ ] Audition/select actual narrator and record provider controls and tested pronunciation.
-- [ ] Approve visual identity and editor-proposed pilot treatment.
-- [ ] Produce, listen to full recorded narration and inspect entire final mixed cut.
-- [ ] Verify final duration 480–600s with actual assembled audio/video.
-- [ ] Verify source-asset rights, captions, chapters, thumbnail and YouTube disclosure decision.
-- [ ] Obtain verified upload URL and initial analytics.
-
-**Actual audience tests:** not conducted. **Audio/video inspected:** none produced. **Production status:** awaiting owner-selected narrator/visual pilot and editor production. **Editorial status:** scripted.
+**Editorial result:** post-revision text *EDITORIALLY_READY*. **Repository stage:** *scripted* pending actual producer and owner actions, no inferred production readiness.

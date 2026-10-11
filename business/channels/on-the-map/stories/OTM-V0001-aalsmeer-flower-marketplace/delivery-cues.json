@@ -1,103 +1,39 @@
 {
   "schema_version": 2,
-  "script_version": 1,
+  "script_version": 2,
   "instructions_are_non_spoken": true,
-  "assumed_or_observed_wpm": 160,
+  "assumed_or_observed_wpm": 150,
   "silent_hold_seconds": 0,
   "cues": [
     {
       "paragraph_id": "P001",
-      "anchor": "Think of the last bouquet you bought. Maybe the roses g",
-      "pace": "slower",
+      "anchor": "A rose grown in Kenya can be sold to a European florist",
+      "pace": "natural",
       "intent": "curious",
       "emphasis": [
-        "not at an airport"
+        "why does a Dutch town still matter"
       ],
-      "pause_after_seconds": 0.4,
+      "pause_after_seconds": 0.8,
       "inflection": "neutral",
       "pronunciation_notes": [
-        "Aalsmeer: verify local pronunciation before TTS"
+        "Aalsmeer: verify in a native audio reference"
       ]
     },
     {
-      "paragraph_id": "P002",
-      "anchor": "Here is the first clue. The Netherlands did not build i",
+      "paragraph_id": "P003",
+      "anchor": "Aalsmeer was a farming and fishing community long befor",
       "pace": "natural",
-      "intent": "curious",
-      "emphasis": [],
-      "pause_after_seconds": 0.3,
-      "inflection": "neutral",
-      "pronunciation_notes": []
-    },
-    {
-      "paragraph_id": "P005",
-      "anchor": "So, in the winter of nineteen eleven and nineteen twelv",
-      "pace": "brisk",
-      "intent": "curious",
-      "emphasis": [],
-      "pause_after_seconds": 0.5,
-      "inflection": "neutral",
-      "pronunciation_notes": []
-    },
-    {
-      "paragraph_id": "P006",
-      "anchor": "The mechanism was ingenious. In a conventional auction,",
-      "pace": "slower",
-      "intent": "amused",
-      "emphasis": [
-        "works in reverse"
-      ],
-      "pause_after_seconds": 0.6,
-      "inflection": "neutral",
-      "pronunciation_notes": []
-    },
-    {
-      "paragraph_id": "P008",
-      "anchor": "After the war, rising demand and easier European trade",
-      "pace": "natural",
-      "intent": "curious",
-      "emphasis": [],
-      "pause_after_seconds": 0.4,
-      "inflection": "neutral",
-      "pronunciation_notes": []
-    },
-    {
-      "paragraph_id": "P011",
-      "anchor": "Imagine a rose cut in Kenya and destined for a shop in",
-      "pace": "natural",
-      "intent": "curious",
-      "emphasis": [],
-      "pause_after_seconds": 0.4,
-      "inflection": "neutral",
-      "pronunciation_notes": []
-    },
-    {
-      "paragraph_id": "P013",
-      "anchor": "Now consider what the market actually earns. In twenty",
-      "pace": "slower",
       "intent": "matter_of_fact",
-      "emphasis": [
-        "not five point four billion euros of profit"
-      ],
-      "pause_after_seconds": 0.6,
-      "inflection": "neutral",
-      "pronunciation_notes": []
-    },
-    {
-      "paragraph_id": "P015",
-      "anchor": "There is another twist. The physical trading hall is be",
-      "pace": "natural",
-      "intent": "curious",
       "emphasis": [],
       "pause_after_seconds": 0.4,
       "inflection": "neutral",
       "pronunciation_notes": [
-        "Floriday: verify brand reading"
+        "Haarlemmermeer: verify local pronunciation"
       ]
     },
     {
-      "paragraph_id": "P017",
-      "anchor": "That concentration also has costs, and they do not fall",
+      "paragraph_id": "P004",
+      "anchor": "The trouble was selling what they grew. Flowers spoil,",
       "pace": "slower",
       "intent": "skeptical",
       "emphasis": [],
@@ -106,17 +42,85 @@
       "pronunciation_notes": []
     },
     {
+      "paragraph_id": "P006",
+      "anchor": "The clock made transactions fast. Picture a lot of rose",
+      "pace": "slower",
+      "intent": "curious",
+      "emphasis": [
+        "Wait too long and someone else gets it"
+      ],
+      "pause_after_seconds": 0.7,
+      "inflection": "neutral",
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P008",
+      "anchor": "After the Second World War, demand and European trade e",
+      "pace": "natural",
+      "intent": "matter_of_fact",
+      "emphasis": [],
+      "pause_after_seconds": 0.5,
+      "inflection": "neutral",
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P012",
+      "anchor": "Consider its scale. Royal FloraHolland reported about f",
+      "pace": "slower",
+      "intent": "matter_of_fact",
+      "emphasis": [
+        "not the cooperative's profit"
+      ],
+      "pause_after_seconds": 0.9,
+      "inflection": "neutral",
+      "pronunciation_notes": [
+        "Royal FloraHolland: test proper stress"
+      ]
+    },
+    {
+      "paragraph_id": "P014",
+      "anchor": "That brings us back to 2026. Royal FloraHolland explore",
+      "pace": "slower",
+      "intent": "skeptical",
+      "emphasis": [
+        "The hoped-for independence from location was creating new problems"
+      ],
+      "pause_after_seconds": 0.9,
+      "inflection": "neutral",
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P016",
+      "anchor": "The concentration has problems of its own. During the s",
+      "pace": "slower",
+      "intent": "matter_of_fact",
+      "emphasis": [],
+      "pause_after_seconds": 0.8,
+      "inflection": "neutral",
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P018",
+      "anchor": "The trade also has costs that the auction clock doesn't",
+      "pace": "natural",
+      "intent": "reflective",
+      "emphasis": [],
+      "pause_after_seconds": 0.7,
+      "inflection": "neutral",
+      "pronunciation_notes": []
+    },
+    {
       "paragraph_id": "P019",
-      "anchor": "Return to the bouquet. What looks like a simple bunch o",
+      "anchor": "Now return to that rose. Whether it travels through Aal",
       "pace": "slower",
       "intent": "reflective",
       "emphasis": [
-        "the market that brings the product"
+        "agreeing on a price is not the same as delivering fresh flowers on time"
       ],
-      "pause_after_seconds": 0.6,
+      "pause_after_seconds": 0.8,
       "inflection": "settled",
       "pronunciation_notes": []
     }
   ],
-  "script_sha256": "bee29f9f13cbf8825841cf5caa2601cdf8ec618fb4700b70740ab1393bf8199d"
+  "script_sha256": "a79d1ca6eb2e4a43ee7f327163f665b83d39f030989025a0b8530190cfcce79c"
 }

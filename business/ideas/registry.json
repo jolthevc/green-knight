@@ -1430,6 +1430,12 @@
           "status": "scripted",
           "note": "Completed v1 clean 8–10 minute script and synchronized metadata, evidence, cues, internal editorial reviews, packaging and clean editor handoff. Narrator/visual pilot and production not approved.",
           "actor": "ChatGPT"
+        },
+        {
+          "date": "2026-10-11",
+          "status": "scripted",
+          "note": "User-authorized review-and-revision: v1 cold audit, v2 rewrite, new 2026 sources and final re-review. Script SHA-256 a79d1ca6eb2e4a43ee7f327163f665b83d39f030989025a0b8530190cfcce79c. No audio production or publication.",
+          "actor": "ChatGPT"
         }
       ]
     },

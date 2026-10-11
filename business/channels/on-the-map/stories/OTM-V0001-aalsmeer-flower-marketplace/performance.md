@@ -1,11 +1,11 @@
-# Publication and learning
+# Post-publication performance record: OTM-V0001
 
-Episode: OTM-V0001; script version 1. **Unpublished.** URL/date: null. Production audio and cut: not available. Analytics: unavailable.
+**Current script version:** 2; SHA-256 `a79d1ca6eb2e4a43ee7f327163f665b83d39f030989025a0b8530190cfcce79c`. **Publication:** not yet occurred, no public URL/date, no final cut/audio nor measurable channel analytics.
 
-| Window | Impressions | Source-level CTR | First-30s retention | Watch duration/% | End-screen clicks | Caveats |
+| Actual review window after eventual publication | Impressions | CTR by source | 30-second retention | AVD / percent viewed | End-screen | Evidence |
 | --- | --- | --- | --- | --- | --- | --- |
-| 48 hours after eventual publication | Not available | Not available | Not available | Not available | Not available | No upload |
-| 7 days | Not available | Not available | Not available | Not available | Not available | No upload |
-| 28 days | Not available | Not available | Not available | Not available | Not available | Not available | No upload |
+| ~48 hours | Not available | Not available | Not available | Not available | Not available | No upload |
+| ~7 days | Not available | Not available | Not available | Not available | Not available | No upload |
+| ~28 days | Not available | Not available | Not available | Not available | Not available | No upload |
 
-**First test after publishing:** Do viewers correctly distinguish Dutch grower production from Dutch market intermediation, based on observed comments/voluntary pilot feedback? Compare comparable uploads only when they exist. No fabricated CTR, retention or satisfaction baseline.
+**v2 first real audience test:** Ask fresh viewers to explain the difference between digital price discovery and physical flower logistics, and why Aalsmeer formed its original market. During actual edit, verify whether P012 figures or P014–P016 logistics stress cause confusion. Compare comparable uploaded videos when data exist; no manufactured retention, download or comment evidence. This file creates no scheduled automation.

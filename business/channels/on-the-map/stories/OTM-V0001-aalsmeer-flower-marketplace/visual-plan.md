@@ -1,18 +1,16 @@
-# Editor-owned visual production record
+# Visual-content coverage record (editor-owned), OTM-V0001 v2
 
-**Status:** Awaiting editor treatment and owner-selected channel reference, as required by the business editor boundary. No shot list, image prompts, storyboard, palette, font, or animation direction is prescribed by editorial.
+**Canonical script hash:** `a79d1ca6eb2e4a43ee7f327163f665b83d39f030989025a0b8530190cfcce79c`. **Execution owner:** editor. No requested storyboard, illustrative prompt, thumbnail layout, footage selection, typography, palette, maps or sound design is approved. Content coverage is not visual direction.
 
-## Content coverage and verification, not execution direction
+| Coverage record | Narration paragraphs | Accuracy purpose |
+| --- | --- | --- |
+| SC001 | P001–P002 | Conditional Kenyan rose, March 2026 policy announcement, why Aalsmeer versus online transaction. |
+| SC002 | P003–P004 | Prior inhabitants, drainage, cultivation, grower bargaining. No 'empty swamp' invention. |
+| SC003 | P005–P007 | Two cooperative auctions 1911–12, falling-price clock, buyer/seller aggregation; distinguish authentic historical evidence from modern illustration. |
+| SC004 | P008–P009 | Municipality and 1972 complex, later nearby Schiphol and distinct Dutch regional hubs. |
+| SC005 | P010–P011 | Overseas flower production and **hypothetical** route; avoid fake tracked Kenyan cargo and a sole-airport map. |
+| SC006 | P012–P013 | €5.4bn traded value vs approx €12m after-tax operator profit, 2025; direct contract alternatives. |
+| SC007 | P014–P016 | March 2026 company decision and spring 2026 separately observed handling peaks; do **not** imply one caused the other. '102,000 transactions' applies to one peak day. |
+| SC008 | P017–P019 | Digital and rival trade paths, specific conditional labor/environment effects, final bouquet answer. |
 
-- SC001 P001–P002: distinguish illustrative bouquet from verified location economics. S001/S002.
-- SC002 P003–P004: geographic context, earlier residents, lake drainage, horticulture and trader position. S001/S002.
-- SC003 P005–P007: two cooperative origins, descending clock and coordination functions. S001/S004/S011.
-- SC004 P008–P009: postwar period, 1972 auction complex and national RFH locations. S001/S002/S005.
-- SC005 P010–P012: overseas production and possible routes. P011 is explicitly hypothetical. Do not represent a hypothetical shipment as actual tracked footage. S002/S005/S010.
-- SC006 P013–P014: €5.4bn product turnover including plants versus approximately €12m after-tax cooperative profit, 2025; and distinct direct-sale channels. S003/S002.
-- SC007 P015–P016: remote trading and physical sorting/logistics, not proof all products are in Aalsmeer. S005/S012.
-- SC008 P017–P019: scoped environmental LCA, labor risks, bypass alternatives and bouquet callback. S007/S008/S010.
-
-**Accuracy boundaries:** Aalsmeer city versus Dutch national trade; aerial Schiphol versus Liège/other airports; 1911/12 origin versus 1972 building; flowers versus plants; transaction versus physical goods. Any quantitative labels require evidence period/geography, any historic imagery/document must be authentic/rights-checked; schemes must be labeled if not cartographically measured.
-
-**Proposal, references and inspection:** Not yet supplied, reviewed or approved. Owner/editor will determine execution, then production verifies maps, credits, visual support and phone-screen readability.
+These IDs and exact paragraph anchors are authoritative in `evidence.json`. All sources are for factual reference only; asset rights, historic geography and actual captions require review after editor selection. Actual visual pilot proposal and owner approval: **not yet completed**.

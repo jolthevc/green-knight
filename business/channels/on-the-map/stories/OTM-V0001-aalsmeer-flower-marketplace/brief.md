@@ -20,3 +20,7 @@
 ## What changes for a broad viewer
 
 Initially: an expensive flower detour seems wasteful. First useful value: collective market access solved a bargaining problem before aviation. Later twist: the place can matter even when flowers grow elsewhere and buyers trade digitally. Deeper question: what remains location-bound and who bears hidden costs?
+
+## Script v2 editorial reframing, 2026-10-11
+
+The user-requested critical review found the original script did not fully test persistence. The documentary now opens with Royal FloraHolland's **March 2026 decision not to expand location-independent centralized auctions**, and later examines its **spring 2026 Aalsmeer peak delivery problems**. The geographical answer is: farmers first formed a cooperative marketplace near production and Amsterdam demand; municipality and transport retained activity as it expanded; today prices and deals can migrate digitally, but many physical services must match time-sensitive demand. The 2026 retreat is management's conditional strategic assessment, not proof every rose needs a Dutch hub. The buyer mixed-flowers example is explicitly illustrative. v2 is `scripted`, not recorded or production-ready.
