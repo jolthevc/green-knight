@@ -14,7 +14,9 @@ Fool’s Gold starts with a specific apparent-versus-real discrepancy in busines
 
 Silver Spoon starts with a family fortune, succession, inheritance, control contest or division of assets. Vary industries, places, generations and outcomes. Candidate cards identify the relevant rights/wealth transfer and why the story is broader than gossip or a rich-person biography.
 
-Use LANE_ROUTING.md and the channel lanes to route concepts. A collapse belongs in Fallen Angels; a decisive strategic choice in Money Moves; a deception in Fool’s Gold; a discrete consequential deal in Changing Hands; a dynasty in Silver Spoon. Pretty Penny can use company examples when the system is the subject.
+First Billion starts with an understandable path from a first viable unit to a defined wealth/business milestone. Vary historical fortunes, worked models, industry structures, comparisons, ownership and repeatability tests. Every card names its format, billion metric and evidence/modeling limits.
+
+Use LANE_ROUTING.md and the channel lanes to route concepts. A collapse belongs in Fallen Angels; a decisive strategic choice in Money Moves; a deception in Fool’s Gold; a discrete consequential deal in Changing Hands; a dynasty in Silver Spoon; an end-to-end wealth-building engine in First Billion. Pretty Penny can use company examples when the system is the subject.
 
 Do not confuse likely advertiser interest with proven RPM. Geography, audience, season, suitability and demand matter; validate monetization later with channel data.
 
@@ -30,6 +32,7 @@ Then provide one compact card per idea:
 - Who cares and why now or why evergreen.
 - Hypothesis, explicitly unverified until researched.
 - The economic or strategic mechanism and likely non-obvious payoff. For Money Moves, include the decision and real alternatives to investigate. For Fallen Angels, define the failure and suspected cause versus trigger. For Changing Hands, identify the position/transaction, obligations and financial constraint. For Fool’s Gold, identify the apparent promise, suspected discrepancy and evidence status to investigate. For Silver Spoon, identify the family/asset, transfer or control mechanism and valuation uncertainty.
+- For First Billion, include starting position, first viable unit, scale/funding/ownership path, milestone definition and the main uncertainty.
 - A 15–30 second hook concept, without fabricated statistics.
 - Three possible beats and the main audio/comprehension challenge. Leave visual treatment to the editor.
 - Source leads: two credible original-source leads when available, with URLs and access status. Label unopened leads as leads.
@@ -41,7 +44,7 @@ Close with up to three recommendations (no more than X), why each deserves resea
 
 ## Ledger hygiene
 
-Read the selected channel.json and use its idea_prefix: PP-I#### for Pretty Penny, MM-I#### for Money Moves, FA-I#### for Fallen Angels, DH-I#### for Changing Hands, FG-I#### for Fool’s Gold, SS-I#### for Silver Spoon. Use the next unallocated ID and never reuse deleted/rejected IDs. Allocate against the latest registry. Persist all presented ideas as proposed; alternatives live in aliases, not separate rows. Record the canonical subject, mechanism and viewer promise so later chats can identify duplicates even after titles change. Use related_idea_ids for intentional revisits.
+Read the selected channel.json and use its idea_prefix: PP-I#### for Pretty Penny, MM-I#### for Money Moves, FA-I#### for Fallen Angels, DH-I#### for Changing Hands, FG-I#### for Fool’s Gold, SS-I#### for Silver Spoon, FB-I#### for First Billion. Use the next unallocated ID and never reuse deleted/rejected IDs. Allocate against the latest registry. Persist all presented ideas as proposed; alternatives live in aliases, not separate rows. Record the canonical subject, mechanism and viewer promise so later chats can identify duplicates even after titles change. Use related_idea_ids for intentional revisits.
 
 If writing is unavailable, use provisional IDs clearly marked unsaved and provide the exact entries to add. An idea presented in chat alone is not durable state.
 

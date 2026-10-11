@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "workspace": "manual_business",
+  "id": "first-billion",
+  "idea_prefix": "FB-I",
+  "story_prefix": "FB-V",
+  "name": "First Billion",
+  "language": "en",
+  "target_runtime_seconds": {
+    "min": 480,
+    "target": 540,
+    "max": 600
+  },
+  "publication_cadence": null,
+  "production_status": "setup",
+  "narration": {
+    "profile": "warm, curious, assured, concrete, conversational",
+    "profile_id": "first_billion_narrator",
+    "profile_path": "business/channels/first-billion/narration.json"
+  },
+  "visual_direction_status": "editor_owned_unselected",
+  "automated_portfolio_registration": false,
+  "visual_profile": {
+    "version": 0,
+    "status": "proposed",
+    "approved_by": null,
+    "approved_at": null,
+    "reference_urls": []
+  },
+  "milestone_definition_required": true,
+  "episode_formats": [
+    "historical_fortune",
+    "worked_business_model",
+    "industry_fortunes",
+    "route_comparison",
+    "ownership_story",
+    "repeatability_test"
+  ]
+}

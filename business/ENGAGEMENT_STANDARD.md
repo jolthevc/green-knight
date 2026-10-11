@@ -4,7 +4,7 @@ Our creative target is “Harvard MBA + Netflix”: accessible entertainment wit
 
 Apply this alongside the channel's SCRIPT_STANDARD.md, NARRATION_STANDARD.md, evidence requirements and 8–10 minute runtime. These techniques are editorial hypotheses to test, not algorithm secrets or guaranteed view multipliers. Evidence and intelligibility take priority over dramatic effect.
 
-## One viewing experience, six story engines
+## One viewing experience, seven story engines
 
 | Channel | Audience experience | What drives the next beat | Knowledge earned through the story |
 | --- | --- | --- | --- |
@@ -14,6 +14,7 @@ Apply this alongside the channel's SCRIPT_STANDARD.md, NARRATION_STANDARD.md, ev
 | Changing Hands | Follow a financial contest | Ownership, obligations, funding or timing shift someone's leverage | How the position or deal works and which constraint decides it |
 | Fool’s Gold | Solve an appearance-versus-reality mystery | A credibility cue gives way to a verification gap and evidence | How trust was obtained, what was concealed and what exposed it |
 | Silver Spoon | Follow a family fortune and control saga | A transfer changes rights and incentives across people or generations | Ownership, voting control, inheritance and continuity |
+| First Billion | Follow a wealth-building engine from understandable beginnings to scale | Each step changes viable units, funding needs or who owns the value | Unit economics, scale, capital, ownership and milestone limits |
 
 Pretty Penny can be a narrative explanation without a single hero or chronological biography. Known endings can still be compelling: the mystery is how and why, not pretending the outcome is unknown. Do not force suspense, a villain or a redemption arc onto evidence that does not support it.
 

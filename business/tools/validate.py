@@ -1,4 +1,4 @@
-"""Validate six channel definitions, ledger, stage gates and script-linked evidence."""
+"""Validate configured business channel definitions, ledger, stage gates and script-linked evidence."""
 import re
 import sys
 from datetime import datetime
@@ -8,7 +8,7 @@ from episode_check import inspect_story, load_json, number, paragraph_ref, scrip
 
 ROOT = Path(__file__).resolve().parents[2]
 BUSINESS = ROOT / "business"
-CHANNELS = {"pretty-penny", "money-moves", "fallen-angels", "changing-hands", "fools-gold", "silver-spoon"}
+CHANNELS = {"pretty-penny", "money-moves", "fallen-angels", "changing-hands", "fools-gold", "silver-spoon", "first-billion"}
 STATUSES = {"proposed", "selected", "researching", "researched", "scripted",
             "production_ready", "in_production", "published", "blocked", "rejected", "archived"}
 COMPLETE = {"scripted", "production_ready", "in_production", "published"}
@@ -399,7 +399,7 @@ if __name__ == "__main__":
             print("ERROR:", problem)
         if problems:
             sys.exit(1)
-        print("Six-channel configuration, profiles, ledger, stage gates and script-linked artifacts validated.")
+        print("Seven-channel configuration, profiles, ledger, stage gates and script-linked artifacts validated.")
         print("Source truth, subjective quality and actual listening still require inspection.")
     except (OSError, ValueError, TypeError, KeyError, AttributeError) as exc:
         sys.exit(f"ERROR: invalid input: {exc}")

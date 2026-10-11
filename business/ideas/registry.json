@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-10",
+  "updated_at": "2026-10-11",
   "ideas": [
     {
       "id": "PP-I0001",
@@ -1089,6 +1089,84 @@
           "status": "proposed",
           "actor": "ChatGPT",
           "note": "Saved as unselected Fool's Gold idea after checking all 33 existing entries and channel routing. Full standard idea card: business/ideas/batches/2026-10-10-fools-gold-three-fresh-ideas.md. Source assessment and watch-outs: CFPB Sept 8 2016 100m penalty and 2m-plus potentially unauthorized accounts (screening estimate, NOT all definitively fake). OCC 35m penalty and restitution and 2017 independent board report identifies sales-culture and management-accountability failures. Never sum fines with customer damages or assert all employees took part. Opened leads https://www.consumerfinance.gov/archive/newsroom/consumer-financial-protection-bureau-fines-wells-fargo-100-million-widespread-illegal-practice-secretly-opening-unauthorized-accounts/ ; https://www.sec.gov/Archives/edgar/data/72971/000119312517118654/d375947ddefa14a.htm ; https://www.occ.gov/news-issuances/news-releases/2016/nr-occ-2016-106.html . Distinct from FG-I0005 manufactured reviews (false bank records and consent, not customer ratings) and Pretty Penny ordinary banking economics."
+        }
+      ]
+    },
+    {
+      "id": "FB-I0001",
+      "channel": "first-billion",
+      "title": "What Would It Take to Build a Billion-Dollar Storage Business?",
+      "aliases": [],
+      "subject": "Storage business worked model",
+      "mechanism": "Unit economics, expansion and financing requirements for an illustrative billion-dollar equity valuation",
+      "viewer_promise": "Understand the operating scale and ownership/capital assumptions a storage business model would require",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-11",
+      "updated_at": "2026-10-11",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-11",
+          "status": "proposed",
+          "note": "Imported from owner discussion at channel setup. Unselected, unresearched; title is a research/modeling question. Milestone assumptions must be verified or specified before scripting.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "FB-I0002",
+      "channel": "first-billion",
+      "title": "How Can an Ordinary Product Create a Billion-Dollar Fortune?",
+      "aliases": [],
+      "subject": "Ordinary-product fortune, specific historical subject not selected",
+      "mechanism": "A product business grows from first profitable unit through distribution, financing and retained ownership",
+      "viewer_promise": "Trace a documented personal-wealth path after selecting a supportable historical subject",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-11",
+      "updated_at": "2026-10-11",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-11",
+          "status": "proposed",
+          "note": "Imported from owner discussion at channel setup. Unselected, unresearched; title is a research/modeling question. Milestone assumptions must be verified or specified before scripting.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "FB-I0003",
+      "channel": "first-billion",
+      "title": "How Does Buying Small Businesses Become a Billion-Dollar Company?",
+      "aliases": [],
+      "subject": "Small-business acquisition model",
+      "mechanism": "Acquisition economics, integration, debt/equity funding and dilution on a path to a defined equity valuation",
+      "viewer_promise": "Understand the steps and limits of a modeled acquisition-led business-building path",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-11",
+      "updated_at": "2026-10-11",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-11",
+          "status": "proposed",
+          "note": "Imported from owner discussion at channel setup. Unselected, unresearched; title is a research/modeling question. Milestone assumptions must be verified or specified before scripting.",
+          "actor": "ChatGPT"
         }
       ]
     }

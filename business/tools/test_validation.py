@@ -40,6 +40,8 @@ class WorkflowIntegrity(unittest.TestCase):
             if name.endswith(".md"):
                 (self.path / name).write_text("# Synthetic fixture\n\nPopulated structural test material, not real reporting.\n")
         text = "This is a synthetic test passage. " + "A simple model explains the payment. " * 210
+        body = text
+        text = "TITLE: Synthetic fixture\n\n" + body
         (self.path / "script.txt").write_text(text)
         self.digest = hashlib.sha256(text.encode()).hexdigest()
         cue = self.read(self.path / "delivery-cues.json")
@@ -51,7 +53,7 @@ class WorkflowIntegrity(unittest.TestCase):
         meta = self.read(self.path / "metadata.json")
         # Count using the same documented word definition, independently from runtime metadata.
         import re
-        words = len(re.findall(r"\b[\w]+(?:['’-][\w]+)*\b", text))
+        words = len(re.findall(r"\b[\w]+(?:['’-][\w]+)*\b", body))
         meta.update(idea_id="PP-I9000", story_id="PP-V9000", channel="pretty-penny",
                     title="Synthetic fixture", status="scripted", script_version=1,
                     script_sha256=self.digest, created_at="2026-10-10", updated_at="2026-10-10")
@@ -119,6 +121,18 @@ class WorkflowIntegrity(unittest.TestCase):
 
     def test_real_scaffold_passes(self):
         self.assertEqual(validator.validate(), [])
+
+    def test_first_billion_configuration_is_required(self):
+        (self.business / "channels/first-billion/channel.json").unlink()
+        self.assert_error("Missing channel configuration: first-billion")
+
+    def test_first_billion_idea_cannot_use_another_channel_prefix(self):
+        p = self.business / "ideas/registry.json"
+        ledger = self.read(p)
+        row = next(r for r in ledger["ideas"] if r["channel"] == "first-billion")
+        row["id"] = "MM-I9001"
+        self.write(p, ledger)
+        self.assert_error("Wrong channel idea prefix: MM-I9001")
 
     def test_complete_scripted_fixture_passes(self):
         self.story()
