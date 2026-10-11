@@ -1100,10 +1100,10 @@
       "subject": "Storage business worked model",
       "mechanism": "Unit economics, expansion and financing requirements for an illustrative billion-dollar equity valuation",
       "viewer_promise": "Understand the operating scale and ownership/capital assumptions a storage business model would require",
-      "status": "proposed",
+      "status": "scripted",
       "related_idea_ids": [],
-      "story_id": null,
-      "story_path": null,
+      "story_id": "FB-V0001",
+      "story_path": "business/channels/first-billion/stories/FB-V0001-billion-dollar-storage-business",
       "created_at": "2026-10-11",
       "updated_at": "2026-10-11",
       "rejection_or_block_reason": null,
@@ -1114,6 +1114,30 @@
           "date": "2026-10-11",
           "status": "proposed",
           "note": "Imported from owner discussion at channel setup. Unselected, unresearched; title is a research/modeling question. Milestone assumptions must be verified or specified before scripting.",
+          "actor": "ChatGPT"
+        },
+        {
+          "date": "2026-10-11",
+          "status": "selected",
+          "note": "Owner explicitly commissioned worked storage business model with full script package on 2026-10-10 US Pacific.",
+          "actor": "User"
+        },
+        {
+          "date": "2026-10-11",
+          "status": "researching",
+          "note": "Opened 2025 public-operator original sources and assembled sourced assumptions, financing and downside ledger.",
+          "actor": "ChatGPT"
+        },
+        {
+          "date": "2026-10-11",
+          "status": "researched",
+          "note": "Recorded falsifiable thesis, five opened sources, model arithmetic, counterevidence and early value/ownership distinction.",
+          "actor": "ChatGPT"
+        },
+        {
+          "date": "2026-10-11",
+          "status": "scripted",
+          "note": "Saved script v1 with full SHA-256, 19 claim mappings, 22 content coverage scenes, 11 non-spoken cues, packaging, editor handoff, and two text-only internal editorial reviews; no audio or final cut.",
           "actor": "ChatGPT"
         }
       ]

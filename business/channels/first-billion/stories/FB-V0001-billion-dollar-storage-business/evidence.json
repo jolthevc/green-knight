@@ -1,0 +1,516 @@
+{
+  "schema_version": 1,
+  "script_version": 1,
+  "script_sha256": "c5d94c16f54d2354b7a0e0c40fd9ed712b8a0044d66c9729981b9dde87810361",
+  "sources": [
+    {
+      "id": "S001",
+      "publisher": "Public Storage / SEC",
+      "title": "2025 Form 10-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1393311/000162828026007696/psa-20251231.htm",
+      "locator": "Item 7 Same Store table, 2025 results and discussion",
+      "published_at": "2026-02-12",
+      "accessed_at": "2026-10-11",
+      "access_status": "opened",
+      "limitations": "Historical public company evidence or management perspective. Not validation of illustrative independent portfolio assumptions."
+    },
+    {
+      "id": "S002",
+      "publisher": "CubeSmart / SEC",
+      "title": "Full-year 2025 earnings release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1298675/000129867526000008/cube-20260226xex99d1.htm",
+      "locator": "Same-Store Results 606 stores, 2025 full-year NOI and margin",
+      "published_at": "2026-02-26",
+      "accessed_at": "2026-10-11",
+      "access_status": "opened",
+      "limitations": "Historical public company evidence or management perspective. Not validation of illustrative independent portfolio assumptions."
+    },
+    {
+      "id": "S003",
+      "publisher": "Extra Space Storage / SEC",
+      "title": "2025 Form 10-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1289490/000128949026000011/exr-20251231.htm",
+      "locator": "Item 1 Business, 1,856 stores managed for third parties as of 2025-12-31",
+      "published_at": "2026-02-26",
+      "accessed_at": "2026-10-11",
+      "access_status": "opened",
+      "limitations": "Historical public company evidence or management perspective. Not validation of illustrative independent portfolio assumptions."
+    },
+    {
+      "id": "S004",
+      "publisher": "Public Storage / SEC",
+      "title": "2025 full-year earnings release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1393311/000162828026007684/psa-021226xex99_1.htm",
+      "locator": "Highlights for year: 87 acquisitions, 6.1m square feet, $945.6m",
+      "published_at": "2026-02-12",
+      "accessed_at": "2026-10-11",
+      "access_status": "opened",
+      "limitations": "Historical public company evidence or management perspective. Not validation of illustrative independent portfolio assumptions."
+    },
+    {
+      "id": "S005",
+      "publisher": "Extra Space Storage",
+      "title": "2025 annual report CEO letter",
+      "url": "https://annualreport.extraspace.com/annualreport/2025/",
+      "locator": "CEO letter on new self-storage supply, 2025 move-in rents, pricing platform",
+      "published_at": "2026",
+      "accessed_at": "2026-10-11",
+      "access_status": "opened",
+      "limitations": "Historical public company evidence or management perspective. Not validation of illustrative independent portfolio assumptions."
+    }
+  ],
+  "claims": [
+    {
+      "id": "C001",
+      "paragraph_id": "P002",
+      "anchor": "We're going to build a hypothetical Americ",
+      "claim": "Target billion is illustrative post-debt US equity value",
+      "status": "illustrative",
+      "source_ids": [],
+      "basis": "Derived from explicitly stated illustrative assumptions; reproduce in research.md."
+    },
+    {
+      "id": "C002",
+      "paragraph_id": "P003",
+      "anchor": "Start with one property containing sixty-f",
+      "claim": "65,000 NRSF representative existing store",
+      "status": "illustrative",
+      "source_ids": [],
+      "basis": "Derived from explicitly stated illustrative assumptions; reproduce in research.md."
+    },
+    {
+      "id": "C003",
+      "paragraph_id": "P004",
+      "anchor": "But a website's advertised monthly rent is",
+      "claim": "$18 effective annual revenue/available rentable foot input",
+      "status": "illustrative",
+      "source_ids": [],
+      "basis": "Derived from explicitly stated illustrative assumptions; reproduce in research.md."
+    },
+    {
+      "id": "C004",
+      "paragraph_id": "P005",
+      "anchor": "Eighteen dollars times sixty-five thousand",
+      "claim": "Per-store revenue $1.17m, NOI $760.5k at 65% margin",
+      "status": "illustrative",
+      "source_ids": [],
+      "basis": "Derived from explicitly stated illustrative assumptions; reproduce in research.md."
+    },
+    {
+      "id": "C005",
+      "paragraph_id": "P006",
+      "anchor": "Is that plausible? Public Storage's mature",
+      "claim": "Public Storage 2025 same-store NOI margin 75.1%; CubeSmart 2025 71.1%",
+      "status": "verified",
+      "source_ids": [
+        "S001",
+        "S002"
+      ],
+      "basis": "Original opened filing/release at the recorded locator."
+    },
+    {
+      "id": "C006",
+      "paragraph_id": "P007",
+      "anchor": "Now comes the first powerful mechanism. Bu",
+      "claim": "6.5% illustrative cap yields $11.7m from $760,500 NOI",
+      "status": "illustrative",
+      "source_ids": [],
+      "basis": "Derived from explicitly stated illustrative assumptions; reproduce in research.md."
+    },
+    {
+      "id": "C007",
+      "paragraph_id": "P009",
+      "anchor": "Now repeat the property one hundred eighty",
+      "claim": "180 stores imply $210.6m annual revenue, $136.89m NOI, $2.106bn property value",
+      "status": "illustrative",
+      "source_ids": [],
+      "basis": "Derived from explicitly stated illustrative assumptions; reproduce in research.md."
+    },
+    {
+      "id": "C008",
+      "paragraph_id": "P010",
+      "anchor": "Here's the catch: the buildings' value isn",
+      "claim": "50% portfolio debt $1.053bn leaves $1.053bn property equity",
+      "status": "illustrative",
+      "source_ids": [],
+      "basis": "Derived from explicitly stated illustrative assumptions; reproduce in research.md."
+    },
+    {
+      "id": "C009",
+      "paragraph_id": "P011",
+      "anchor": "Getting started is the first mountain. A s",
+      "claim": "Single building modeled initial equity $5.85m",
+      "status": "illustrative",
+      "source_ids": [],
+      "basis": "Derived from explicitly stated illustrative assumptions; reproduce in research.md."
+    },
+    {
+      "id": "C010",
+      "paragraph_id": "P012",
+      "anchor": "And you cannot simply copy and paste a bui",
+      "claim": "Buy/build/manage routes imply different financial claims and risks",
+      "status": "inference",
+      "source_ids": [
+        "S001",
+        "S003"
+      ],
+      "basis": "Reasoned distinction based on cited operating and financing structures."
+    },
+    {
+      "id": "C011",
+      "paragraph_id": "P013",
+      "anchor": "Look at the actual scale of acquisitions. ",
+      "claim": "Public Storage bought 87 / 6.1m NRSF for $945.6m in 2025",
+      "status": "verified",
+      "source_ids": [
+        "S004"
+      ],
+      "basis": "Original opened filing/release at the recorded locator."
+    },
+    {
+      "id": "C012",
+      "paragraph_id": "P014",
+      "anchor": "The hundredth acquisition also may not loo",
+      "claim": "Extra Space management described new supply and rent competition in 2025",
+      "status": "verified",
+      "source_ids": [
+        "S005"
+      ],
+      "basis": "Original opened filing/release at the recorded locator."
+    },
+    {
+      "id": "C013",
+      "paragraph_id": "P015",
+      "anchor": "Scale can create advantages. Marketing, cu",
+      "claim": "Extra Space third-party managed 1,856 stores end 2025",
+      "status": "verified",
+      "source_ids": [
+        "S003"
+      ],
+      "basis": "Original opened filing/release at the recorded locator."
+    },
+    {
+      "id": "C014",
+      "paragraph_id": "P016",
+      "anchor": "Now examine the cash. Our portfolio produc",
+      "claim": "Interest at modeled 6% is $63.18m; $10m G&A+$15m reserves leaves $48.71m",
+      "status": "illustrative",
+      "source_ids": [],
+      "basis": "Derived from explicitly stated illustrative assumptions; reproduce in research.md."
+    },
+    {
+      "id": "C015",
+      "paragraph_id": "P017",
+      "anchor": "And here's the stress test. Revenue per sq",
+      "claim": "Downside revenue $16.20/ft, NOI margin 60%, cap 7.5%",
+      "status": "illustrative",
+      "source_ids": [],
+      "basis": "Derived from explicitly stated illustrative assumptions; reproduce in research.md."
+    },
+    {
+      "id": "C016",
+      "paragraph_id": "P018",
+      "anchor": "Subtract the original debt and equity is n",
+      "claim": "Downside property value $1.51632bn and equity $463.32m with fixed $1.053bn debt",
+      "status": "illustrative",
+      "source_ids": [],
+      "basis": "Derived from explicitly stated illustrative assumptions; reproduce in research.md."
+    },
+    {
+      "id": "C017",
+      "paragraph_id": "P019",
+      "anchor": "There's a second trap in the phrase billio",
+      "claim": "Hypothetical 20% stake in $1bn equity is $200m before other rights",
+      "status": "illustrative",
+      "source_ids": [],
+      "basis": "Derived from explicitly stated illustrative assumptions; reproduce in research.md."
+    },
+    {
+      "id": "C018",
+      "paragraph_id": "P020",
+      "anchor": "Even a founder's paper stake isn't a bank ",
+      "claim": "Equity paper values need not equal cash proceeds",
+      "status": "inference",
+      "source_ids": [
+        "S001",
+        "S003"
+      ],
+      "basis": "Reasoned distinction based on cited operating and financing structures."
+    },
+    {
+      "id": "C019",
+      "paragraph_id": "P021",
+      "anchor": "So here's the complete answer. One represe",
+      "claim": "Base-case 180 stores, debts and ownership bridge summarised",
+      "status": "illustrative",
+      "source_ids": [],
+      "basis": "Derived from explicitly stated illustrative assumptions; reproduce in research.md."
+    }
+  ],
+  "scenes": [
+    {
+      "id": "SC001",
+      "purpose": "Factual content coverage for narration paragraph, without prescribing visual treatment",
+      "evidence_type": "illustration",
+      "source_ids": [],
+      "paragraphs": [
+        {
+          "paragraph_id": "P001",
+          "anchor": "Picture a self-storage building on the edg"
+        }
+      ]
+    },
+    {
+      "id": "SC002",
+      "purpose": "Factual content coverage for narration paragraph, without prescribing visual treatment",
+      "evidence_type": "illustration",
+      "source_ids": [],
+      "paragraphs": [
+        {
+          "paragraph_id": "P002",
+          "anchor": "We're going to build a hypothetical Americ"
+        }
+      ]
+    },
+    {
+      "id": "SC003",
+      "purpose": "Factual content coverage for narration paragraph, without prescribing visual treatment",
+      "evidence_type": "illustration",
+      "source_ids": [],
+      "paragraphs": [
+        {
+          "paragraph_id": "P003",
+          "anchor": "Start with one property containing sixty-f"
+        }
+      ]
+    },
+    {
+      "id": "SC004",
+      "purpose": "Factual content coverage for narration paragraph, without prescribing visual treatment",
+      "evidence_type": "illustration",
+      "source_ids": [],
+      "paragraphs": [
+        {
+          "paragraph_id": "P004",
+          "anchor": "But a website's advertised monthly rent is"
+        }
+      ]
+    },
+    {
+      "id": "SC005",
+      "purpose": "Factual content coverage for narration paragraph, without prescribing visual treatment",
+      "evidence_type": "illustration",
+      "source_ids": [],
+      "paragraphs": [
+        {
+          "paragraph_id": "P005",
+          "anchor": "Eighteen dollars times sixty-five thousand"
+        }
+      ]
+    },
+    {
+      "id": "SC006",
+      "purpose": "Factual content coverage for narration paragraph, without prescribing visual treatment",
+      "evidence_type": "illustration",
+      "source_ids": [],
+      "paragraphs": [
+        {
+          "paragraph_id": "P006",
+          "anchor": "Is that plausible? Public Storage's mature"
+        }
+      ]
+    },
+    {
+      "id": "SC007",
+      "purpose": "Factual content coverage for narration paragraph, without prescribing visual treatment",
+      "evidence_type": "illustration",
+      "source_ids": [],
+      "paragraphs": [
+        {
+          "paragraph_id": "P007",
+          "anchor": "Now comes the first powerful mechanism. Bu"
+        }
+      ]
+    },
+    {
+      "id": "SC008",
+      "purpose": "Factual content coverage for narration paragraph, without prescribing visual treatment",
+      "evidence_type": "illustration",
+      "source_ids": [],
+      "paragraphs": [
+        {
+          "paragraph_id": "P008",
+          "anchor": "The building collects roughly one-point-tw"
+        }
+      ]
+    },
+    {
+      "id": "SC009",
+      "purpose": "Factual content coverage for narration paragraph, without prescribing visual treatment",
+      "evidence_type": "illustration",
+      "source_ids": [],
+      "paragraphs": [
+        {
+          "paragraph_id": "P009",
+          "anchor": "Now repeat the property one hundred eighty"
+        }
+      ]
+    },
+    {
+      "id": "SC010",
+      "purpose": "Factual content coverage for narration paragraph, without prescribing visual treatment",
+      "evidence_type": "illustration",
+      "source_ids": [],
+      "paragraphs": [
+        {
+          "paragraph_id": "P010",
+          "anchor": "Here's the catch: the buildings' value isn"
+        }
+      ]
+    },
+    {
+      "id": "SC011",
+      "purpose": "Factual content coverage for narration paragraph, without prescribing visual treatment",
+      "evidence_type": "illustration",
+      "source_ids": [],
+      "paragraphs": [
+        {
+          "paragraph_id": "P011",
+          "anchor": "Getting started is the first mountain. A s"
+        }
+      ]
+    },
+    {
+      "id": "SC012",
+      "purpose": "Factual content coverage for narration paragraph, without prescribing visual treatment",
+      "evidence_type": "illustration",
+      "source_ids": [],
+      "paragraphs": [
+        {
+          "paragraph_id": "P012",
+          "anchor": "And you cannot simply copy and paste a bui"
+        }
+      ]
+    },
+    {
+      "id": "SC013",
+      "purpose": "Factual content coverage for narration paragraph, without prescribing visual treatment",
+      "evidence_type": "illustration",
+      "source_ids": [],
+      "paragraphs": [
+        {
+          "paragraph_id": "P013",
+          "anchor": "Look at the actual scale of acquisitions. "
+        }
+      ]
+    },
+    {
+      "id": "SC014",
+      "purpose": "Factual content coverage for narration paragraph, without prescribing visual treatment",
+      "evidence_type": "illustration",
+      "source_ids": [],
+      "paragraphs": [
+        {
+          "paragraph_id": "P014",
+          "anchor": "The hundredth acquisition also may not loo"
+        }
+      ]
+    },
+    {
+      "id": "SC015",
+      "purpose": "Factual content coverage for narration paragraph, without prescribing visual treatment",
+      "evidence_type": "illustration",
+      "source_ids": [],
+      "paragraphs": [
+        {
+          "paragraph_id": "P015",
+          "anchor": "Scale can create advantages. Marketing, cu"
+        }
+      ]
+    },
+    {
+      "id": "SC016",
+      "purpose": "Factual content coverage for narration paragraph, without prescribing visual treatment",
+      "evidence_type": "illustration",
+      "source_ids": [],
+      "paragraphs": [
+        {
+          "paragraph_id": "P016",
+          "anchor": "Now examine the cash. Our portfolio produc"
+        }
+      ]
+    },
+    {
+      "id": "SC017",
+      "purpose": "Factual content coverage for narration paragraph, without prescribing visual treatment",
+      "evidence_type": "illustration",
+      "source_ids": [],
+      "paragraphs": [
+        {
+          "paragraph_id": "P017",
+          "anchor": "And here's the stress test. Revenue per sq"
+        }
+      ]
+    },
+    {
+      "id": "SC018",
+      "purpose": "Factual content coverage for narration paragraph, without prescribing visual treatment",
+      "evidence_type": "illustration",
+      "source_ids": [],
+      "paragraphs": [
+        {
+          "paragraph_id": "P018",
+          "anchor": "Subtract the original debt and equity is n"
+        }
+      ]
+    },
+    {
+      "id": "SC019",
+      "purpose": "Factual content coverage for narration paragraph, without prescribing visual treatment",
+      "evidence_type": "illustration",
+      "source_ids": [],
+      "paragraphs": [
+        {
+          "paragraph_id": "P019",
+          "anchor": "There's a second trap in the phrase billio"
+        }
+      ]
+    },
+    {
+      "id": "SC020",
+      "purpose": "Factual content coverage for narration paragraph, without prescribing visual treatment",
+      "evidence_type": "illustration",
+      "source_ids": [],
+      "paragraphs": [
+        {
+          "paragraph_id": "P020",
+          "anchor": "Even a founder's paper stake isn't a bank "
+        }
+      ]
+    },
+    {
+      "id": "SC021",
+      "purpose": "Factual content coverage for narration paragraph, without prescribing visual treatment",
+      "evidence_type": "illustration",
+      "source_ids": [],
+      "paragraphs": [
+        {
+          "paragraph_id": "P021",
+          "anchor": "So here's the complete answer. One represe"
+        }
+      ]
+    },
+    {
+      "id": "SC022",
+      "purpose": "Factual content coverage for narration paragraph, without prescribing visual treatment",
+      "evidence_type": "illustration",
+      "source_ids": [],
+      "paragraphs": [
+        {
+          "paragraph_id": "P022",
+          "anchor": "The quiet storage building is interesting "
+        }
+      ]
+    }
+  ]
+}
