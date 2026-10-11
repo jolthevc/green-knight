@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "idea_id": "OTM-I0007",
+  "story_id": "OTM-V0001",
+  "channel": "on-the-map",
+  "title": "How a Dutch Town Became the World's Flower Marketplace",
+  "status": "scripted",
+  "script_version": 1,
+  "created_at": "2026-10-11",
+  "updated_at": "2026-10-11",
+  "research_as_of": "2026-10-11",
+  "repository_context_commit": "7632f98bd92d952834867ef0049002e52322d44f",
+  "runtime": {
+    "target_min_seconds": 480,
+    "target_max_seconds": 600,
+    "word_count": 1489,
+    "assumed_or_observed_wpm": 160,
+    "extra_pause_seconds": 4.699999999999999,
+    "silent_hold_seconds": 0,
+    "estimated_seconds": 563.1,
+    "actual_video_seconds": null
+  },
+  "narration": {
+    "provider": null,
+    "voice_id": null,
+    "settings": null,
+    "audition_approved": false,
+    "pronunciations": [],
+    "profile_id": "on_the_map_narrator",
+    "profile_version": 0,
+    "kind": null,
+    "model_id": null,
+    "performer_name": null,
+    "locale": "en",
+    "accent": null,
+    "reference_audio_url": null,
+    "observed_wpm": null
+  },
+  "assets": {
+    "review_video_url": null,
+    "final_video_url": null,
+    "audio_url": null,
+    "thumbnail_url": null,
+    "project_url": null
+  },
+  "published_url": null,
+  "published_at": null,
+  "revision_history": [
+    {
+      "date": "2026-10-11",
+      "script_version": 1,
+      "note": "Complete first internally reviewed narration; removed redundant historical material, added explicit wage risk, finalized source and cue anchors."
+    }
+  ],
+  "visual": {
+    "direction": "editor_owned_unselected",
+    "approved": false,
+    "reference_urls": [],
+    "profile_version": 0
+  },
+  "script_sha256": "bee29f9f13cbf8825841cf5caa2601cdf8ec618fb4700b70740ab1393bf8199d",
+  "editorial": {
+    "passed": true,
+    "reviewed_by": "ChatGPT, internal text-and-source editorial review",
+    "reviewed_at": "2026-10-11",
+    "reviewed_script_sha256": "bee29f9f13cbf8825841cf5caa2601cdf8ec618fb4700b70740ab1393bf8199d",
+    "blocking_issues": []
+  },
+  "production_review": {
+    "passed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "reviewed_script_sha256": null,
+    "audio_url": null,
+    "final_cut_url": null,
+    "full_audio_listened": false
+  }
+}

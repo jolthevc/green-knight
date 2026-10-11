@@ -1,0 +1,122 @@
+{
+  "schema_version": 2,
+  "script_version": 1,
+  "instructions_are_non_spoken": true,
+  "assumed_or_observed_wpm": 160,
+  "silent_hold_seconds": 0,
+  "cues": [
+    {
+      "paragraph_id": "P001",
+      "anchor": "Think of the last bouquet you bought. Maybe the roses g",
+      "pace": "slower",
+      "intent": "curious",
+      "emphasis": [
+        "not at an airport"
+      ],
+      "pause_after_seconds": 0.4,
+      "inflection": "neutral",
+      "pronunciation_notes": [
+        "Aalsmeer: verify local pronunciation before TTS"
+      ]
+    },
+    {
+      "paragraph_id": "P002",
+      "anchor": "Here is the first clue. The Netherlands did not build i",
+      "pace": "natural",
+      "intent": "curious",
+      "emphasis": [],
+      "pause_after_seconds": 0.3,
+      "inflection": "neutral",
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P005",
+      "anchor": "So, in the winter of nineteen eleven and nineteen twelv",
+      "pace": "brisk",
+      "intent": "curious",
+      "emphasis": [],
+      "pause_after_seconds": 0.5,
+      "inflection": "neutral",
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P006",
+      "anchor": "The mechanism was ingenious. In a conventional auction,",
+      "pace": "slower",
+      "intent": "amused",
+      "emphasis": [
+        "works in reverse"
+      ],
+      "pause_after_seconds": 0.6,
+      "inflection": "neutral",
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P008",
+      "anchor": "After the war, rising demand and easier European trade",
+      "pace": "natural",
+      "intent": "curious",
+      "emphasis": [],
+      "pause_after_seconds": 0.4,
+      "inflection": "neutral",
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P011",
+      "anchor": "Imagine a rose cut in Kenya and destined for a shop in",
+      "pace": "natural",
+      "intent": "curious",
+      "emphasis": [],
+      "pause_after_seconds": 0.4,
+      "inflection": "neutral",
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P013",
+      "anchor": "Now consider what the market actually earns. In twenty",
+      "pace": "slower",
+      "intent": "matter_of_fact",
+      "emphasis": [
+        "not five point four billion euros of profit"
+      ],
+      "pause_after_seconds": 0.6,
+      "inflection": "neutral",
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P015",
+      "anchor": "There is another twist. The physical trading hall is be",
+      "pace": "natural",
+      "intent": "curious",
+      "emphasis": [],
+      "pause_after_seconds": 0.4,
+      "inflection": "neutral",
+      "pronunciation_notes": [
+        "Floriday: verify brand reading"
+      ]
+    },
+    {
+      "paragraph_id": "P017",
+      "anchor": "That concentration also has costs, and they do not fall",
+      "pace": "slower",
+      "intent": "skeptical",
+      "emphasis": [],
+      "pause_after_seconds": 0.5,
+      "inflection": "neutral",
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P019",
+      "anchor": "Return to the bouquet. What looks like a simple bunch o",
+      "pace": "slower",
+      "intent": "reflective",
+      "emphasis": [
+        "the market that brings the product"
+      ],
+      "pause_after_seconds": 0.6,
+      "inflection": "settled",
+      "pronunciation_notes": []
+    }
+  ],
+  "script_sha256": "bee29f9f13cbf8825841cf5caa2601cdf8ec618fb4700b70740ab1393bf8199d"
+}

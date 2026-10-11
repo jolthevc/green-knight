@@ -1,0 +1,572 @@
+{
+  "schema_version": 1,
+  "script_version": 1,
+  "script_sha256": "bee29f9f13cbf8825841cf5caa2601cdf8ec618fb4700b70740ab1393bf8199d",
+  "sources": [
+    {
+      "id": "S001",
+      "publisher": "Springer Nature / Lara Maria Espeter",
+      "title": "Process-Nature of the Cut Flowers Commodity Chain",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-658-52437-1_5",
+      "published_at": "2026-08-21",
+      "accessed_at": "2026-10-11",
+      "locator": "Sections 5.1–5.6; early horticulture and canals, bargaining, two cooperatives, merger, co-location, global production",
+      "access_status": "opened",
+      "limitations": "Scholarly historical synthesis; causal counterfactual not identified"
+    },
+    {
+      "id": "S002",
+      "publisher": "Springer Nature / Lara Maria Espeter",
+      "title": "The Cut Flower Commodity Chain in the Longue Durée",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-658-52437-1_6",
+      "published_at": "2026-08-21",
+      "accessed_at": "2026-10-11",
+      "locator": "Sections 6.2–6.5; historic transport, foreign farms, buyer channels, power structure",
+      "access_status": "opened",
+      "limitations": "Scholarly account; differing denominators for auctions and export shares"
+    },
+    {
+      "id": "S003",
+      "publisher": "Floriculture, republishing Royal FloraHolland management message",
+      "title": "RFH Holds Strong in 2025 as Market Headwinds Shape a Focused and Cautious 2026",
+      "url": "https://floriculture.co.ke/rfh-holds-strong-in-2025-as-market-headwinds-shape-a-focused-and-cautious-2026/",
+      "published_at": "2026-04-09",
+      "accessed_at": "2026-10-11",
+      "locator": "Lines 31–37; 2025 product turnover €5.4bn, after-tax profit about €12m, Floriday 2026 development",
+      "access_status": "opened",
+      "limitations": "Interested management source reproduced in trade publication"
+    },
+    {
+      "id": "S004",
+      "publisher": "Fleura",
+      "title": "How a Flower Auction Works: The Clock That Runs Backwards",
+      "url": "https://fleura.de/en/guides/how-flower-auctions-work",
+      "published_at": "2026-06-02",
+      "accessed_at": "2026-10-11",
+      "locator": "Lines 13–19; mechanism of descending-price first-buy auction",
+      "access_status": "opened",
+      "limitations": "Commercial trader; factual mechanics credible, cost/freshness marketing claims excluded"
+    },
+    {
+      "id": "S005",
+      "publisher": "BPnieuws / Royal FloraHolland",
+      "title": "Vliegtuigpallets vol dozen met rozen, anjers en lelies verwerken",
+      "url": "https://www.bpnieuws.nl/article/9742558/vliegtuigpallets-vol-dozen-met-rozen-anjers-en-lelies-verwerken/",
+      "published_at": "2025-06-19",
+      "accessed_at": "2026-10-11",
+      "locator": "Lines 71–85; Kenyan/Ethiopian imports via several airports, Aalsmeer/Naaldwijk/Rijnsburg facilities, sorting",
+      "access_status": "opened",
+      "limitations": "Reprints RFH operating narrative; not audited market-wide route shares"
+    },
+    {
+      "id": "S006",
+      "publisher": "Schiphol Airport Cargo",
+      "title": "Perishables & Flowers",
+      "url": "https://www.schiphol.nl/en/cargo/flowers/",
+      "published_at": "unknown",
+      "accessed_at": "2026-10-11",
+      "locator": "Air-cargo page, flowers from East Africa/South America and different onward destinations",
+      "access_status": "opened",
+      "limitations": "Airport promotional account; percentages not used in script"
+    },
+    {
+      "id": "S007",
+      "publisher": "Fairtrade International",
+      "title": "Life cycle assessment of cut roses",
+      "url": "https://www.fairtrade.net/en/get-involved/library/life-cycle-assessment-of-cut-roses--analysing-the-environmental-.html",
+      "published_at": "2024-02-06",
+      "accessed_at": "2026-10-11",
+      "locator": "Lines 306–315; scoped comparison of Kenyan air/sea and Dutch greenhouses for Swiss destination",
+      "access_status": "opened",
+      "limitations": "Interested commissioner; no universal result"
+    },
+    {
+      "id": "S008",
+      "publisher": "Fairtrade Risk Map",
+      "title": "Flowers: risks and root causes",
+      "url": "https://riskmap.fairtrade.net/commodities/flowers",
+      "published_at": "unknown",
+      "accessed_at": "2026-10-11",
+      "locator": "Lines 41–101; labor and environmental risks in cut-flower supply",
+      "access_status": "opened",
+      "limitations": "Advocacy source, sector risk map not universal outcomes"
+    },
+    {
+      "id": "S009",
+      "publisher": "Statistics Netherlands / CBS",
+      "title": "International trade in goods, Dutch Trade in Facts and Figures 2025",
+      "url": "https://longreads.cbs.nl/dutch-trade-in-facts-and-figures-2025/international-trade-in-goods/",
+      "published_at": "2025",
+      "accessed_at": "2026-10-11",
+      "locator": "Table 3.3.6; country-wide flowers-and-plants exports and re-exports for 2024",
+      "access_status": "opened",
+      "limitations": "Different boundary from RFH 2025 product trading and retail receipts"
+    },
+    {
+      "id": "S010",
+      "publisher": "Hogeschool van Amsterdam / Makhloufi and Wellens",
+      "title": "Competitiveness of Schiphol Airport as European HUB in the Cut Flower Supply-chain",
+      "url": "https://research.hva.nl/en/publications/competitiveness-of-schiphol-airport-as-european-hub-in-the-cut-fl/",
+      "published_at": "2019",
+      "accessed_at": "2026-10-11",
+      "locator": "Abstract lines 19–45; Liège, Brussels, Frankfurt and Paris competition with Schiphol",
+      "access_status": "opened",
+      "limitations": "2019 comparisons not 2026 current market shares"
+    },
+    {
+      "id": "S011",
+      "publisher": "AalsmeerVandaag / Joop Kok",
+      "title": "Column: van eerste veiling naar Oude Veiling",
+      "url": "https://aalsmeervandaag.nl/columns/joop-kok/column-van-eerste-veiling-naar-oude-veiling",
+      "published_at": "2020",
+      "accessed_at": "2026-10-11",
+      "locator": "Local retrospective on winter 1911/12 café auctions, local groups and water/rail",
+      "access_status": "opened",
+      "limitations": "Historical date conflict among sources, so script uses 1911–12 range"
+    },
+    {
+      "id": "S012",
+      "publisher": "Royal FloraHolland grower helpcenter",
+      "title": "What is RFH Auction View",
+      "url": "https://intercom.help/royal-floraholland-grower-helpcenter/en/articles/15553981-what-is-rfh-auction-view",
+      "published_at": "2026-07-15",
+      "accessed_at": "2026-10-11",
+      "locator": "Help center about shift of remote purchasing onto Floriday and phased replacement",
+      "access_status": "opened",
+      "limitations": "Provider implementation plan, not completed rollout statistics"
+    },
+    {
+      "id": "S013",
+      "publisher": "FloralDaily",
+      "title": "NL: Almost 5 billion flowers and plants traded via the clock in 2025",
+      "url": "https://www.floraldaily.com/article/9801629/nl-almost-5-billion-flowers-and-plants-traded-via-the-clock-in-2025/",
+      "published_at": "2026-01-15",
+      "accessed_at": "2026-10-11",
+      "locator": "News article on direct versus clock purchasing and 2025 traded volumes",
+      "access_status": "opened",
+      "limitations": "Trade press; a 50/50 ratio is not 2025 share of monetary product value"
+    },
+    {
+      "id": "S014",
+      "publisher": "Royal FloraHolland",
+      "title": "Annual Report 2025 landing page",
+      "url": "https://www.royalfloraholland.com/en/about-us/annual-report/annual-report-2025",
+      "published_at": "2026-04",
+      "accessed_at": "2026-10-11",
+      "locator": "Search-index preview of €5.4bn and €12.4m; main page 403, annual PDF download too large",
+      "access_status": "partial",
+      "limitations": "Not used alone for spoken financial claim; corroborative lead only"
+    }
+  ],
+  "claims": [
+    {
+      "id": "C001",
+      "paragraph_id": "P001",
+      "anchor": "Think of the last bouquet you bought. Maybe the roses g",
+      "claim": "Aalsmeer historically important to Dutch global flower trade and overseas flower production",
+      "source_ids": [
+        "S001",
+        "S002"
+      ],
+      "status": "inference",
+      "basis": "An important hub, not every flower in every bouquet."
+    },
+    {
+      "id": "C002",
+      "paragraph_id": "P002",
+      "anchor": "Here is the first clue. The Netherlands did not build i",
+      "claim": "Growers' shared trading center can persist when flowers are produced elsewhere",
+      "source_ids": [
+        "S001",
+        "S002"
+      ],
+      "status": "inference",
+      "basis": "Market concentration supported, counterfactual extent unmeasured."
+    },
+    {
+      "id": "C003",
+      "paragraph_id": "P003",
+      "anchor": "In the nineteenth century, Aalsmeer was not a global ma",
+      "claim": "Lake drainage, early vegetables, canals, greenhouses and horticulture education before modern aviation",
+      "source_ids": [
+        "S001",
+        "S002"
+      ],
+      "status": "verified",
+      "basis": "S001 Sections 5.1–5.2 and S002 6.2; correct historical area."
+    },
+    {
+      "id": "C004",
+      "paragraph_id": "P004",
+      "anchor": "Yet growers had a commercial problem. A farmer could sp",
+      "claim": "Grower price/power difficulties, perishability and documented payment concerns",
+      "source_ids": [
+        "S001"
+      ],
+      "status": "verified",
+      "basis": "S001 5.2–5.3 says trader power and some unreliable payments."
+    },
+    {
+      "id": "C005",
+      "paragraph_id": "P005",
+      "anchor": "So, in the winter of nineteen eleven and nineteen twelv",
+      "claim": "Two grower-run flower auction cooperatives founded around the winter of 1911–1912 and initially met in cafés",
+      "source_ids": [
+        "S001",
+        "S011"
+      ],
+      "status": "verified",
+      "basis": "Date range avoids local retrospective disagreements."
+    },
+    {
+      "id": "C006",
+      "paragraph_id": "P006",
+      "anchor": "The mechanism was ingenious. In a conventional auction,",
+      "claim": "Dutch descending-price clock is a falling price purchased by the first buyer who stops it",
+      "source_ids": [
+        "S004"
+      ],
+      "status": "verified",
+      "basis": "Buyer/operator explanation; no invented prices."
+    },
+    {
+      "id": "C007",
+      "paragraph_id": "P007",
+      "anchor": "The auction did more than announce a price. It assemble",
+      "claim": "Collective auction enabled buyer matching, prices, quality and settlement; attracts participants",
+      "source_ids": [
+        "S001",
+        "S002"
+      ],
+      "status": "inference",
+      "basis": "Market functions documented; compounding interpreted from evidence."
+    },
+    {
+      "id": "C008",
+      "paragraph_id": "P008",
+      "anchor": "After the war, rising demand and easier European trade",
+      "claim": "Postwar demand and trade, 1964 merger decision and 1972 facility enabled nearby services and local ownership stakes",
+      "source_ids": [
+        "S001",
+        "S002"
+      ],
+      "status": "verified",
+      "basis": "Historical period and merger distinguished."
+    },
+    {
+      "id": "C009",
+      "paragraph_id": "P009",
+      "anchor": "Later, the Aalsmeer auction became part of Royal FloraH",
+      "claim": "Royal FloraHolland operates a wider regional system including Aalsmeer, Naaldwijk, Rijnsburg",
+      "source_ids": [
+        "S002",
+        "S005"
+      ],
+      "status": "verified",
+      "basis": "Other sites exist; no all-through-one-building claim."
+    },
+    {
+      "id": "C010",
+      "paragraph_id": "P010",
+      "anchor": "Then the geography turned inside out. As production cos",
+      "claim": "Overseas growing expanded as Netherlands production conditions and costs changed",
+      "source_ids": [
+        "S001",
+        "S002"
+      ],
+      "status": "inference",
+      "basis": "Partial cost driver, not universal relocation reason."
+    },
+    {
+      "id": "C011",
+      "paragraph_id": "P011",
+      "anchor": "Imagine a rose cut in Kenya and destined for a shop in",
+      "claim": "Kenyan rose possible export/auction/direct/warehouse alternatives used as expressly illustrative route",
+      "source_ids": [
+        "S002",
+        "S005",
+        "S006"
+      ],
+      "status": "illustrative",
+      "basis": "Not asserting a tracked flower shipment."
+    },
+    {
+      "id": "C012",
+      "paragraph_id": "P012",
+      "anchor": "For some buyers, it is the ability to find many product",
+      "claim": "Buyer/seller service incentives, multi-airport African flower import flows and Schiphol non-exclusivity",
+      "source_ids": [
+        "S005",
+        "S006",
+        "S010"
+      ],
+      "status": "verified",
+      "basis": "Source identifies Belgian/German airports and other Dutch sites."
+    },
+    {
+      "id": "C013",
+      "paragraph_id": "P013",
+      "anchor": "Now consider what the market actually earns. In twenty",
+      "claim": "Royal FloraHolland 2025 €5.4bn product turnover flowers and plants versus about €12m after-tax cooperative profit",
+      "source_ids": [
+        "S003"
+      ],
+      "status": "verified",
+      "basis": "Actual management message; product transaction value is not company profit, not flower-only."
+    },
+    {
+      "id": "C014",
+      "paragraph_id": "P014",
+      "anchor": "And a large supermarket buyer may not want to rely on a",
+      "claim": "Direct contracting coexists with auction markets and large retailer buyer power",
+      "source_ids": [
+        "S002",
+        "S013"
+      ],
+      "status": "verified",
+      "basis": "S002 Section 6.5; avoid unsupported direct monetary share."
+    },
+    {
+      "id": "C015",
+      "paragraph_id": "P015",
+      "anchor": "There is another twist. The physical trading hall is be",
+      "claim": "Remote purchase and 2026 shift toward Floriday buying tools",
+      "source_ids": [
+        "S012",
+        "S003"
+      ],
+      "status": "verified",
+      "basis": "Rollout not marked universal or fully completed."
+    },
+    {
+      "id": "C016",
+      "paragraph_id": "P016",
+      "anchor": "Flowers still need to be checked, combined, stored, mov",
+      "claim": "Physical flower inspection/sorting/warehousing remain when buyers transact remotely",
+      "source_ids": [
+        "S005",
+        "S002"
+      ],
+      "status": "inference",
+      "basis": "Logistics support persistence in part; no elasticity estimate."
+    },
+    {
+      "id": "C017",
+      "paragraph_id": "P017",
+      "anchor": "That concentration also has costs, and they do not fall",
+      "claim": "Labor and water/energy risks; scoped comparative life-cycle assessment findings",
+      "source_ids": [
+        "S007",
+        "S008"
+      ],
+      "status": "verified",
+      "basis": "Fairtrade commissioned Swiss LCA is not universal proof."
+    },
+    {
+      "id": "C018",
+      "paragraph_id": "P018",
+      "anchor": "So could this system be replaced? Some trade already by",
+      "claim": "Competitive bypasses, digital platforms, direct contracts and rival airports challenge intermediary roles",
+      "source_ids": [
+        "S002",
+        "S010",
+        "S012"
+      ],
+      "status": "inference",
+      "basis": "Causal forecast qualified and testable."
+    },
+    {
+      "id": "C019",
+      "paragraph_id": "P019",
+      "anchor": "Return to the bouquet. What looks like a simple bunch o",
+      "claim": "Narrative synthesis of local cooperative to international market system",
+      "source_ids": [
+        "S001",
+        "S002",
+        "S005"
+      ],
+      "status": "inference",
+      "basis": "Final takeaway remains geographically necessary, not absolute."
+    }
+  ],
+  "scenes": [
+    {
+      "id": "SC001",
+      "paragraphs": [
+        {
+          "paragraph_id": "P001",
+          "anchor": "Think of the last bouquet you bought. Maybe the roses g"
+        },
+        {
+          "paragraph_id": "P002",
+          "anchor": "Here is the first clue. The Netherlands did not build i"
+        }
+      ],
+      "purpose": "Initial bouquet puzzle and useful answer",
+      "evidence_type": "document",
+      "source_ids": [
+        "S001",
+        "S002"
+      ]
+    },
+    {
+      "id": "SC002",
+      "paragraphs": [
+        {
+          "paragraph_id": "P003",
+          "anchor": "In the nineteenth century, Aalsmeer was not a global ma"
+        },
+        {
+          "paragraph_id": "P004",
+          "anchor": "Yet growers had a commercial problem. A farmer could sp"
+        }
+      ],
+      "purpose": "Relevant earlier settlement and problem",
+      "evidence_type": "document",
+      "source_ids": [
+        "S001",
+        "S002"
+      ]
+    },
+    {
+      "id": "SC003",
+      "paragraphs": [
+        {
+          "paragraph_id": "P005",
+          "anchor": "So, in the winter of nineteen eleven and nineteen twelv"
+        },
+        {
+          "paragraph_id": "P006",
+          "anchor": "The mechanism was ingenious. In a conventional auction,"
+        },
+        {
+          "paragraph_id": "P007",
+          "anchor": "The auction did more than announce a price. It assemble"
+        }
+      ],
+      "purpose": "Cooperatives and their concrete pricing mechanism",
+      "evidence_type": "document",
+      "source_ids": [
+        "S001",
+        "S011",
+        "S004",
+        "S002"
+      ]
+    },
+    {
+      "id": "SC004",
+      "paragraphs": [
+        {
+          "paragraph_id": "P008",
+          "anchor": "After the war, rising demand and easier European trade"
+        },
+        {
+          "paragraph_id": "P009",
+          "anchor": "Later, the Aalsmeer auction became part of Royal FloraH"
+        }
+      ],
+      "purpose": "Postwar local expansion and multi-hub system",
+      "evidence_type": "document",
+      "source_ids": [
+        "S001",
+        "S002",
+        "S005"
+      ]
+    },
+    {
+      "id": "SC005",
+      "paragraphs": [
+        {
+          "paragraph_id": "P010",
+          "anchor": "Then the geography turned inside out. As production cos"
+        },
+        {
+          "paragraph_id": "P011",
+          "anchor": "Imagine a rose cut in Kenya and destined for a shop in"
+        },
+        {
+          "paragraph_id": "P012",
+          "anchor": "For some buyers, it is the ability to find many product"
+        }
+      ],
+      "purpose": "Overseas production and real versus possible logistics",
+      "evidence_type": "reconstruction",
+      "source_ids": [
+        "S001",
+        "S002",
+        "S005",
+        "S006",
+        "S010"
+      ]
+    },
+    {
+      "id": "SC006",
+      "paragraphs": [
+        {
+          "paragraph_id": "P013",
+          "anchor": "Now consider what the market actually earns. In twenty"
+        },
+        {
+          "paragraph_id": "P014",
+          "anchor": "And a large supermarket buyer may not want to rely on a"
+        }
+      ],
+      "purpose": "Financial value versus cooperative profit and contract buying",
+      "evidence_type": "data",
+      "source_ids": [
+        "S003",
+        "S002",
+        "S013"
+      ]
+    },
+    {
+      "id": "SC007",
+      "paragraphs": [
+        {
+          "paragraph_id": "P015",
+          "anchor": "There is another twist. The physical trading hall is be"
+        },
+        {
+          "paragraph_id": "P016",
+          "anchor": "Flowers still need to be checked, combined, stored, mov"
+        }
+      ],
+      "purpose": "Digital buyer and physical handling distinction",
+      "evidence_type": "document",
+      "source_ids": [
+        "S012",
+        "S003",
+        "S005",
+        "S002"
+      ]
+    },
+    {
+      "id": "SC008",
+      "paragraphs": [
+        {
+          "paragraph_id": "P017",
+          "anchor": "That concentration also has costs, and they do not fall"
+        },
+        {
+          "paragraph_id": "P018",
+          "anchor": "So could this system be replaced? Some trade already by"
+        },
+        {
+          "paragraph_id": "P019",
+          "anchor": "Return to the bouquet. What looks like a simple bunch o"
+        }
+      ],
+      "purpose": "Costs, alternatives and resolution",
+      "evidence_type": "document",
+      "source_ids": [
+        "S007",
+        "S008",
+        "S002",
+        "S010",
+        "S012",
+        "S001",
+        "S005"
+      ]
+    }
+  ]
+}
