@@ -14,3 +14,9 @@ The entertainment is **recognition turning into disbelief**. A familiar purchase
 **Pilot test:** Can a non-expert explain where money goes after hearing once? Is the premise understandable as a fascinating everyday paradox in one title and one frame? Can we test a visual money flow without the animation doing all the storytelling?
 
 **Preferred opening experiment:** Run one object-centered cold open against one apparent-benefit-versus-real-payer cold open. Keep whichever is accurate and leads to a sharper second question.
+
+## Current director-led creative production rule (all eight channels)
+
+Green Knight now owns the title/thumbnail promise, first frame, detailed first 20–35 seconds, narration dynamics, story movements and breathing points, visual sequence design with recurring environments and transformations, selective evidence/text, and ending callback. The editor executes the work, rather than independently choosing the story's visual conception. Read business/EDITOR_HANDOFF_STANDARD.md and business/DIRECTOR_PACKET_REVIEW.md; these supersede any earlier channel-specific editor-owned guidance.
+
+Per story, release only the three fully reviewed final files in `editor-packet/`: `01_SCRIPT.txt`, `02_NARRATION_DIRECTOR.md`, `03_VISUAL_DIRECTOR.md`. Script, performance, visual plan and their integration MUST all pass independent and joined QA after all revisions. No formerly scripted episode automatically qualifies for packet approval. Preserve this channel's distinctive audience promise and visual identity; do not force identical transitions or formulaic “Chapter 1” cards.
