@@ -12,3 +12,6 @@
 > Resume [OTM-I####] / [OTM-V####] from the live ledger and saved artifacts. Complete [research / script / review / revision / handoff] under the current channel rules.
 
 Placeholder IDs are not reservations. Read live configuration and ledger before allocating.
+
+## Primary popcorn-good instruction for every new chat
+In addition to the referenced files above, **read business/POPCORN_STANDARD.md** before idea selection, writing or reviewing and use this channel's CREATIVE_CONTRACT.md. *Engagement and viewing satisfaction are the primary creative objective subject to evidence and trust.* Every idea/episode must make a novice need to keep watching AND reward a topic expert with defensible non-obvious strategic insight. The insight unfolds through the actual dramatic story, not as a detached lecture. On review/revise identify weakest middle, two viewer verdicts, and specific structural fixes. A factually impeccable but dull story is **not ready**.

@@ -25,3 +25,6 @@ Replace the first task above with:
 - “Log this upload URL and the available results. What should the next episode test?”
 
 These are request examples, not topic selections or new ID allocations. Resolve actual IDs through the current registry.
+
+## Primary popcorn-good instruction for every new chat
+In addition to the referenced files above, **read business/POPCORN_STANDARD.md** before idea selection, writing or reviewing and use this channel's CREATIVE_CONTRACT.md. *Engagement and viewing satisfaction are the primary creative objective subject to evidence and trust.* Every idea/episode must make a novice need to keep watching AND reward a topic expert with defensible non-obvious strategic insight. The insight unfolds through the actual dramatic story, not as a detached lecture. On review/revise identify weakest middle, two viewer verdicts, and specific structural fixes. A factually impeccable but dull story is **not ready**.

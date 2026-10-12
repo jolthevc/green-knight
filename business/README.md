@@ -52,3 +52,6 @@ The old editor-owned visual handoff summary above is superseded. Green Knight di
 
 ## Operational command shortcut
 See [OPERATIONS_QUICKSTART.md](OPERATIONS_QUICKSTART.md) for create → review/revise → editor delivery QA and the five agreed final deliverables. Voice Design prompts are exploratory; `narration.json` must actually be approved before a packet ships.
+
+## Primary creative success criterion: popcorn-good
+Read [POPCORN_STANDARD.md](POPCORN_STANDARD.md) at **every** channel-idea, episode-idea, research, scripting, review/revise and final-video QA gate. A novice should be riveted without homework; a veteran should still get surprising, defensible economics/strategy analysis built into a real story. Correctness and beautiful prose do not compensate for dullness. Scripts, 02 performance directions and 03 visual direction must *jointly* earn attention. The reviewer must name and structurally repair the weakest middle rather than stamp APPROVED.
