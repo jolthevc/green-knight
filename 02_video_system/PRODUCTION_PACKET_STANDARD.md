@@ -252,3 +252,6 @@ or:
 Creative questions are acceptable.
 
 Editorial ambiguity is not.
+
+## Entertainment-driven creative packet
+The editor's plan must preserve the selected scene's *reason to watch*: real tension, consequence, insight and authentic transformation of viewer belief. Narration, illustrations, maps, selective source overlays, pacing and audio should express causal discovery and strategic insight; generic b-roll, frenetic cuts and dramatic music are not substitutes. Use actual scene-level P/S or equivalent anchors and compare opening, weak middle and ending. For business/ episodes the released 01/02/03 instruction packet from business/EDITOR_HANDOFF_STANDARD.md governs exact editor-facing files, overriding incompatible older generic handoff shapes.

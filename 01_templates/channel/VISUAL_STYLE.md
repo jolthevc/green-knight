@@ -264,3 +264,6 @@ A visual standard should improve taste and consistency, not turn editing into as
 ## Completion Standard
 
 This document is ready when a new editor can produce a first cut that feels directionally on-brand without requiring the channel owner to specify every visual choice.
+
+## Watchability and meaningful visual change
+Visual identity must make **why it matters / what changed** intelligible to a newcomer, and must communicate the hidden mechanism to an expert through memorable constraints, competing options, comparisons or transformations. Specify how story-world assets recur and change, how silence and camera rhythm support actual tension, and how to avoid interchangeable noun-illustration slides, endless text labels or motion that teaches nothing. Design the thumbnail/first frame to match the story, and preserve editor technique freedom without surrendering the narrative.

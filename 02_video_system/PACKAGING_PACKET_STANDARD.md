@@ -217,3 +217,6 @@ Packaging passes when the chosen package:
 4. truthfully represents the video
 5. is materially different from weaker alternatives
 6. has an opening that fulfills its promise
+
+## Promise of irresistible substance
+Propose truthful title/thumbnail pairs that make a stranger ask a concrete urgent question and signal an angle even a familiar viewer hasn't already seen. Verify that the opening pays an early installment and the deeper insight pays the promised story; avoid packaging that relies on a sensational interpretation the evidence does not support. Packaging, script and ending are one contract to the viewer; generic provocative adjectives are not sufficient.

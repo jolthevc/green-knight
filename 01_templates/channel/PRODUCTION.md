@@ -285,3 +285,6 @@ Add channel-specific risks.
 ## Completion Standard
 
 This file is ready when a qualified production resource can understand exactly what Green Knight will provide, what they are responsible for, what quality means, and how final work is delivered.
+
+## Production exists to realize engaging causal storytelling
+Require enough creative direction that editor can show an actual *change in the story's meaning*: one selected thumbnail/opening, consequence-driven visual transformations, timing of strategic revelations and honest evidence sources. Camera moves or aesthetic polish cannot rescue slow structure. For business/ channels, use the exact three approved outgoing editor instructions and five agreed incoming deliverables, and the separate finished-video QC. The performance plan must reinforce a human watchable story, not a mechanical uniform ElevenLabs monologue. Channel production guidance should keep the expert/newcomer test at handoff and delivery gates.

@@ -511,3 +511,6 @@ Individual channels may add requirements where justified, but should not casuall
 If the shared lifecycle needs to change, update this canonical file rather than allowing each channel to create incompatible variants.
 
 The goal is one operating language across the portfolio.
+
+## Engagement is the governing stage criterion
+At channel/idea: test both newcomer pull and expert-value hypothesis. At research: test whether a better, source-supported causal story emerges; reframe if not. At outline and script: reject boring chronology, lack of reversals or generic lessons; find the weak middle and a structural fix. At production packet: ensure voice and visuals enhance genuine revelations, rather than trying to manufacture intrigue through editing tricks. At final QA: test the actual entertaining experience when accessible, not only instruction compliance. At postmortem: learn from observed first minute, middle and ending retention/satisfaction. For all steps, read business/POPCORN_STANDARD.md when in business/ scope. No new human gates for routine internal corrections.

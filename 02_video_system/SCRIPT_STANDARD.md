@@ -291,3 +291,6 @@ The script passes when:
 4. the channel voice is recognizable
 5. the approved Promise Lock is fulfilled
 6. there are no obvious unresolved editorial decisions
+
+## Popcorn-good is the primary creative objective, within factual integrity
+The spoken script is a **film worth watching** before it is polished prose or an exhaustive research explanation. Read business/POPCORN_STANDARD.md for business channel specifics. Newcomers must understand and love the story without subject prerequisites; veterans must get specific new primary evidence, causal synthesis, strategically useful mechanism or defensible lens. The central economic insight should make the story more gripping at the exact moment it is revealed. Audit the opening, transitions, weakest middle stretch and ending for an earned reason to keep watching. Prefer simple spoken language to literary flourishes if the latter interrupt momentum. Correct-but-boring prose or generic lessons are unacceptable; fix narrative structure, order of discoveries or research angle first. No fake tension, sensational unsupported claims or mandatory twists every 30 seconds.

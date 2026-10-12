@@ -236,3 +236,6 @@ Record material QA failures so recurring production problems can be identified.
 ## 13. Completion Gate
 
 A video is ready to publish only when there are no unresolved blockers and any accepted remaining issues are deliberate rather than overlooked.
+
+## Highest priority creative release test
+Technical perfection and factual accuracy are necessary but insufficient. Require **explicit dual-viewer verdicts**: newcomer comprehension/desire-to-continue and *already-informed expert* novel insight/surprise. Identify the weakest expected or actual middle section and check genuine revelation, causal movement, rhythm and ending payoff. A boring or predictably assembled video should return REVISE or REFRAME even when every formal checklist passes. Call out which defect is upstream script/story and which is editor execution; don't ask editors to fix bad research using zooms or transitions. Record actual watching/listening as distinct from text-only inspection and never make up retention metrics.

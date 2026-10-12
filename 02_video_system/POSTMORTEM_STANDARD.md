@@ -267,3 +267,6 @@ A postmortem is complete when Green Knight can state:
 4. how confident we are
 5. what we should do differently or repeat
 6. what should be remembered by the channel or portfolio
+
+## Retention and insight learning loop
+Separate *measured* 30-second viewer continuation, average view duration, middle dips/spikes/replays, traffic source and audience satisfaction from invented success scores. Test whether the story's best real strategic insight arrived early enough and was comprehensible; review viewer remarks for expert novelty AND newcomer clarity. Isolate packaging versus writing versus narration/visual execution when possible, while acknowledging confounders. Form one specific next-episode hypothesis: stronger premise, changed order/reveal, simplification, source-backed expert delta or visual causal metaphor. Do not automatically respond to dips with louder music or faster cuts.

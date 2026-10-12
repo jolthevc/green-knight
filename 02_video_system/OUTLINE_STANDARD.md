@@ -265,3 +265,6 @@ The outline passes when a reviewer can answer:
 6. Can the story be visualized?
 7. Does the evidence support the structure?
 8. Is the Promise Lock attractive, truthful, and supported by the outline?
+
+## Story-first non-compensatory outline gate
+The outline must track each major section's specific `question -> sourced event/choice/discovery -> changed viewer belief/stakes -> compelling next question`. Include first-time comprehension and an informed enthusiast's surprising strategic payoff, and flag the most likely dead middle sequence for structural rewrite. Don't promote fact-laden chronology that only becomes interesting with aggressive cuts. Deep mechanisms should emerge *through stakes and choices*, not a separate boring teaching segment. Honest evidence and the approved Promise Lock are immutable boundaries. No forced reversal frequency.

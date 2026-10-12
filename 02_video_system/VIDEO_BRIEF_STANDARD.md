@@ -168,3 +168,6 @@ The brief passes when a researcher can answer:
 6. What is intentionally unresolved?
 
 If those answers are unclear, do not advance to research.
+
+## Highest creative bar: popcorn-good for two viewers
+The brief must specify (1) **newcomer first-minute hook and first earned insight**; (2) **expert-level original/well-supported insight hypothesis**, exactly what familiar explanations omit and how to prove it; (3) a real story motor, consequential choices or causal reversals to fill the middle; (4) likely boredom trap and mitigation; (5) ending that reframes the opening rather than summarizes a generic lesson. Reject topics that are only appealing because of title, historic completeness or reputed monetization. Business channels follow business/POPCORN_STANDARD.md.
