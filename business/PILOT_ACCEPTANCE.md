@@ -52,3 +52,6 @@ In addition to the technical scorecard, read [CREATIVE_GREENLIGHT.md](CREATIVE_G
 
 ## Current director-led acceptance standard
 The former editor-led visual treatment provision is superseded. Require three reviewed editor-packet instructions; judge actual title/thumbnail at phone size, 0–30-second cinematic visual opening, varied narration pace and breaths, organic chapter-like visual/sonic dividers, persistent visual metaphors, visual causality (not image per sentence), music and silence, factual asset integrity and ending callback. Commission a short integrated sample before repeat batches. Keep true rendering/listening evidence separate from predictions.
+
+## Ongoing delivery acceptance
+The current post-production acceptance protocol is [DELIVERY_QA_STANDARD.md](DELIVERY_QA_STANDARD.md), governing first cuts and revised videos for all channels. Exactly five final episode deliverables are standard: MP4, thumbnail, clean narration audio, SEO title/description/tags/accurate chapters, and synchronized SRT. On draft cuts missing final attachments may be pending, but final approval is blocked. Use honest media inspection logs and timecoded revisions.

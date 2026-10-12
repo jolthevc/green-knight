@@ -58,3 +58,6 @@ Actual pilot participant feedback, if obtained (otherwise not conducted):
 Final-cut comprehension and momentum findings, once inspected:
 
 Do not check actual-viewing items from text review alone.
+
+## Editor-delivered production QC
+For a received cut, apply `business/DELIVERY_QA_STANDARD.md`. Store full timecoded, versioned report in `delivery-qa/YYYY-MM-DD-vN.md`. Five final deliverables: MP4 [ ], thumbnail [ ], clean narration [ ], SEO with final chapter timestamps [ ], synchronized SRT [ ]. Record actual inspection methods and limitations; verdict is PASS / REVISE / BLOCKED / PROVISIONAL. Check consolidated editor fixes and regression review before acceptance. Do not confuse director packet approval with finished film acceptance.

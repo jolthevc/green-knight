@@ -73,3 +73,6 @@ Develop title/thumbnail promise, first frame and visual cold-open before script 
 
 ## Final dispatch usability check
 Before any editor-packet release, remove internal title/thumbnail/hook alternatives, ambiguous creative jargon, placeholder voice profiles, vague “show this concept” instructions and contradictions between documents. Keep alternatives in internal packaging/visual-plan only. Confirm editor can identify the approved ElevenLabs narrator ID/version or blocked access, copy the exact narration from 01, use 02 for natural delivery/pauses, execute 03 using start/change/end visual directions and deliver an integrated sample without a fourth brief. Specific outcomes are mandatory; production technique remains flexible.
+
+## After Fiverr delivers a cut
+Follow [DELIVERY_QA_STANDARD.md](DELIVERY_QA_STANDARD.md). Review available MP4, thumbnail, separate clean narration, SEO package (with actual chapter timestamps) and synchronized SRT against the approved 01/02/03 editor instructions. Issue one consolidated, timecoded revision request, then verify changes and regressions on v2/v3. Keep dated QA artifacts in the story delivery-qa/ folder, never in editor-packet/. Final acceptance requires all five agreed items; don't imply unfinished/unavailable media was fully watched or listened to.

@@ -61,3 +61,6 @@ The former **Editor owns visual treatment** section is superseded. Mandatory: re
 
 ## Editor clarity override
 Read the **Editor clarity and decision hierarchy** section of EDITOR_HANDOFF_STANDARD.md. Internal exploration can contain alternatives; final 03 must contain ONE selected title, thumbnail and cold open, not creative options requiring the Fiverr editor to decide. Final 02 must identify the approved voice, separate non-spoken cues from full verbatim copy and tell editor to feed only 01 spoken body to TTS. Every visual scene must specify what starts on screen, what visibly changes, how it ends, relevant paragraph IDs, verified text/assets and editor freedom. Review packets as a fresh editor would, without access to our internal reasoning.
+
+## Finished editor delivery QC (mandatory)
+For a submitted editor video, thumbnail, narration audio, SEO or SRT, read [DELIVERY_QA_STANDARD.md](DELIVERY_QA_STANDARD.md) and the approved story editor-packet. Check the five agreed deliverables, audit exact speech/voice, executed visuals, technical issues, subtitles and upload chapters, and save versioned timecoded QC results. Distinguish inability to listen/view from a passing grade. This post-production gate does not add files to the three-document **instruction packet**. Consolidate one Fiverr revision request and verify subsequent cuts against it.
