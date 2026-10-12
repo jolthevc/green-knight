@@ -42,3 +42,7 @@ All eight channel workspaces are built. Voice selection, integrated visual pilot
 [Story-first engagement](ENGAGEMENT_STANDARD.md) defines the broad-audience learning experience, eight story engines and internal newcomer/skeptic review. Use it for ideation, outlines, scripts, production and learning.
 
 [Editor handoff boundary](EDITOR_HANDOFF_STANDARD.md): supply the clean script, audio guide and concise research references. Visual treatment belongs to the editor.
+
+## Creative north star and October 11 audit
+
+[Network creative charter](NETWORK_CREATIVE_CHARTER.md) defines the viewing experience: premium, cinematic, accessible entertainment with rigorously earned insight. [Creative greenlight](CREATIVE_GREENLIGHT.md) raises the bar at concept, research, outline, script and actual production stages. Every channel now also has a `CREATIVE_CONTRACT.md` defining its unique narrative pleasure, hook types, story motor and rejection tests. [The October 11 creative audit](CREATIVE_AUDIT_2026-10-11.md) examines all eight lane definitions and six canonical scripted pilot episodes, with candid areas needing improvement. No existing script, story stage, narration selection or publishing state was changed by that audit.

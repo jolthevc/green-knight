@@ -59,3 +59,7 @@ Before selecting a revisit, write the prior episode's answer and the proposed an
 ## Story-first candidate card additions
 
 Apply ENGAGEMENT_STANDARD.md. In each existing card include the recognizable situation or human stakes, the expected changed understanding, and the deeper question after the first payoff. State why a person without business training would care. Do not add a narrow prerequisite audience just to target finance advertisers. These are hypotheses until research; reject an angle that offers only trivia, generic lessons or a long chronology.
+
+## Mandatory pre-research creative greenlight
+
+Read [NETWORK_CREATIVE_CHARTER.md](NETWORK_CREATIVE_CHARTER.md), [CREATIVE_GREENLIGHT.md](CREATIVE_GREENLIGHT.md) and channels/<slug>/CREATIVE_CONTRACT.md. Before ranking an idea as a recommended commission, test its one-sentence nonexpert hook, familiar human stakes, honest package, non-obvious changed understanding, first payoff, major complication, source and production feasibility, lane distinctiveness and specific share impulse. Compare at least two materially different openings and three truthful title candidates during concept development; include the strongest in the existing requested idea card without making the user read a second redundant card. Mark boring-but-researchable ideas as REFRAME or REJECT rather than giving them favorable points for advertiser value. Ratings remain internal judgments and not predicted views. Do not reserve a story simply because the source packet is abundant.

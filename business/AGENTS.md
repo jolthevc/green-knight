@@ -51,3 +51,7 @@ Read ENGAGEMENT_STANDARD.md before ideation, outlining, scripting or reviewing. 
 ## Editor owns visual treatment
 
 Read EDITOR_HANDOFF_STANDARD.md. Create narration-guide.md and research-for-editor.md matching the exact script/cues/evidence. Send the clean package only, without visual descriptions, shot lists, prompts, palettes, fonts or storyboards. Keep internal content coverage separate; visual-plan.md records editor ownership and later actual proposals.
+
+## Network creative mandate (2026-10-11)
+
+Before proposing ideas or reviewing any of the eight business channels, also read [NETWORK_CREATIVE_CHARTER.md](NETWORK_CREATIVE_CHARTER.md), [CREATIVE_GREENLIGHT.md](CREATIVE_GREENLIGHT.md) and the chosen channel's `CREATIVE_CONTRACT.md`. These add a demanding mass-audience premise and creative greenlight to the existing evidence, editorial and production gates. They never authorize invented conflict, unsupported claims or changes to approved script wording. Reject merely worthy ideas with weak broad-audience appeal. Record a short evidence-grounded creative verdict before deep research and again before marking scripted. Existing scripts remain unchanged until a requested or otherwise authorized revision.
