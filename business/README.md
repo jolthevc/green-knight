@@ -55,3 +55,6 @@ See [OPERATIONS_QUICKSTART.md](OPERATIONS_QUICKSTART.md) for create → review/r
 
 ## Primary creative success criterion: popcorn-good
 Read [POPCORN_STANDARD.md](POPCORN_STANDARD.md) at **every** channel-idea, episode-idea, research, scripting, review/revise and final-video QA gate. A novice should be riveted without homework; a veteran should still get surprising, defensible economics/strategy analysis built into a real story. Correctness and beautiful prose do not compensate for dullness. Scripts, 02 performance directions and 03 visual direction must *jointly* earn attention. The reviewer must name and structurally repair the weakest middle rather than stamp APPROVED.
+
+## Editor sourcing, onboarding and managing the relationship
+Use [Editor Onboarding & Management Playbook](EDITOR_ONBOARDING_PLAYBOOK.md) and the companion [intake record](templates/editor/EDITOR_INTAKE_RECORD.md) and [Fiverr message patterns](templates/editor/FIVERR_MESSAGES.md) when engaging a new editor, scoping a pilot, negotiating a ten-video batch, or reviewing revision terms. This is the agent's internal relationship protocol, separate from the three editor-facing episode files.

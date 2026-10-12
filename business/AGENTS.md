@@ -8,6 +8,9 @@ Read README.md, WORKFLOW.md, IDEATION.md, YOUTUBE_GUIDANCE.md, ideas/README.md a
 
 This workspace implements the owner's manual ChatGPT process. Its local GitHub ledger and story artifacts are canonical here, even though the older portfolio system stores working artifacts elsewhere. Never imply that Sheets, Drive, n8n or YouTube were updated unless actually verified.
 
+## Editor onboarding and relationship coordination
+When the owner asks to find, contact, qualify, onboard or negotiate with an editor, or prepare Fiverr communications, read [EDITOR_ONBOARDING_PLAYBOOK.md](EDITOR_ONBOARDING_PLAYBOOK.md) and its linked editor templates. Treat it as the source of truth for relationship steps, terms needing confirmation, batch preparation, exactly three outgoing episode instructions, exactly five final deliverables and consolidated revisions. Owner authorizes external sending, commitments and payments. Do not invent agreement.
+
 ## Execute
 
 - New chats cannot rely on memory. Fetch actual current repository files and record the branch/commit read.

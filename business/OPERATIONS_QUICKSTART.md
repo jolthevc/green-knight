@@ -25,3 +25,8 @@ The owner may prepare and send all ten approved packets together. Five-plus-five
 ## Readiness
 
 Narrator profiles remain unselected unless actually approved in the channel narration.json. Old scripts are not automatically three-file editor packets. No amount of text QA constitutes a full watch/listen of an inaccessible or unplayed film. GitHub documents do not create or publish YouTube channels.
+
+## New editor onboarding agent command
+`Onboard a new editor for [CHANNEL]. Follow business/EDITOR_ONBOARDING_PLAYBOOK.md; prepare a concise first Fiverr message, an internal intake/terms checklist, pilot and milestone decisions, the three outgoing packet rules, and five required final files. Do not message, book or pay without my authorization.`
+
+For editor replies, use the same playbook to preserve confirmations and avoid repeating questions or introducing unsupported obligations. Maintain one evidence-backed editor-specific intake record where requested. A ten-video batch may be sent all at once when approved materials are ready, not as an invented date promise.

@@ -54,3 +54,6 @@ The former editor-led visual treatment provision is superseded. Require three re
 
 ## Ongoing delivery acceptance
 The current post-production acceptance protocol is [DELIVERY_QA_STANDARD.md](DELIVERY_QA_STANDARD.md), governing first cuts and revised videos for all channels. Exactly five final episode deliverables are standard: MP4, thumbnail, clean narration audio, SEO title/description/tags/accurate chapters, and synchronized SRT. On draft cuts missing final attachments may be pending, but final approval is blocked. Use honest media inspection logs and timecoded revisions.
+
+## Editor relationship coordination
+Before a new pilot/order or ten-video engagement, use [EDITOR_ONBOARDING_PLAYBOOK.md](EDITOR_ONBOARDING_PLAYBOOK.md) and the [editor intake template](templates/editor/EDITOR_INTAKE_RECORD.md). In particular, verify both the proposed first-five and all-ten deadline **definitions**, number of revisions included, five-file final deliverables, narrator access, rights and the owner's possible upfront ten-packet preference. Record what the editor actually agreed to, not defaults. An already accepted pilot does not need to be reopened solely to satisfy intake paperwork. Keep the relationship collaborative and QC feedback consolidated, with production changes and internal editorial defects clearly separated.

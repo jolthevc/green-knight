@@ -82,3 +82,6 @@ Follow [DELIVERY_QA_STANDARD.md](DELIVERY_QA_STANDARD.md). Review available MP4,
 
 ## One-command workflow interpretation
 A selected-episode creation request automatically includes initial complete working script, narration director and visual director, in addition to research and evidence. A review-and-revise request separately assesses all three and their integration and releases the final three-file packet **only** when a real approved narrator/profile and all QA gates are satisfied. A delivery-review request follows DELIVERY_QA_STANDARD.md. Follow AGENTS.md's one-command operating triggers. Do not treat a voice-unselected packet as ready to send; finish and save working drafts without publishing placeholder final files.
+
+## Editor onboarding and batch management
+For first editor contact, pilot scope/acceptance, Fiverr negotiations, and series production scheduling, follow [EDITOR_ONBOARDING_PLAYBOOK.md](EDITOR_ONBOARDING_PLAYBOOK.md). Prepare one warm external message plus an internal editor record; require owner action for sending/ordering/payment. The finalized per-video instructional handoff remains **exactly three** editor-packet files, with five agreed final output types. Post-delivery reviewing continues under DELIVERY_QA_STANDARD.md; the new playbook coordinates the relationship without replacing film QA.
