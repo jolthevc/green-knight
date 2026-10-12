@@ -45,3 +45,7 @@ Alongside technical scoring, inspect whether a curious newcomer can follow the o
 ## Editor-led treatment
 
 Apply EDITOR_HANDOFF_STANDARD.md. Give the editor the clean script, audio guide and concise research support. Let them select the visual treatment for the integrated pilot. Assess the actual result for clarity, fidelity and sustainable consistent identity; do not prescribe scenes, palette, fonts or animation.
+
+## Creative and mass-audience acceptance
+
+In addition to the technical scorecard, read [CREATIVE_GREENLIGHT.md](CREATIVE_GREENLIGHT.md) Gate 5 and the channel's `CREATIVE_CONTRACT.md`. Judge whether a previously uninterested but curious adult wants the next moment, whether the first minute delivers value, whether the middle genuinely changes stakes or understanding, whether the narration sounds like an exceptional documentary rather than generic explanatory content, and whether the ending resolves its exact promise. Compare the previewed phone-size title/thumbnail to the actual first 30 seconds. Editor visuals should enhance the story, not compensate for an incoherent script. Capture specific actual listener timestamps and reactions when such testing occurs, with no invented retention or audience response claims.
