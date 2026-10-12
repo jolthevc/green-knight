@@ -25,3 +25,13 @@ Template: replace all placeholders.
 - Deeper question after the first useful answer:
 
 Use the selected channel's actual lane, not a template's example channel name.
+
+## Popcorn-good promise: TWO viewers, ONE thrilling film
+- Newcomer: what precise immediately legible problem makes them click and keep watching?
+- Informed expert: what do they know already, and what **surprising defensible finding, synthesis or decision model** could genuinely reframe their view? Evidence path and possible disproof:
+- First surprising *earned* payoff / next question:
+- The main decisions, reversals, constraints and real human or business stakes (not dates only):
+- What conventional coverage gets wrong or misses; why ours is not another summary:
+- Why this angle can carry eight-to-ten **entertaining** minutes; where it risks becoming a lecture:
+- One sentence an expert would want to share, without pretending an unverified hypothesis is fact:
+- **Greenlight:** newcomer pull / expert value / story fuel PASS or REFRAME, with evidence-based rationale. Consult business/POPCORN_STANDARD.md.

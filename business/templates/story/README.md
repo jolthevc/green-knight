@@ -33,3 +33,6 @@ On the Map uses OTM-I####/OTM-V####. Keep its geographic scope, origin/persisten
 
 ## New mandatory editor packet template
 Copy editor-packet/ only as internal scaffolding; its placeholders are not approved deliverables. The *final*, after revisions editor-packet has precisely 01_SCRIPT.txt, 02_NARRATION_DIRECTOR.md, 03_VISUAL_DIRECTOR.md and nothing else. Only release after separate reviews of the script, full-text performance guide, visual thumbnail/opening/sequence guide and their integration (DIRECTOR_PACKET_REVIEW.md). Former “editor owns treatment” restrictions above are superseded.
+
+## Current highest creative requirement
+At channel idea, story creation and review/revise time, read business/POPCORN_STANDARD.md. All story-template fields must demonstrate BOTH accessible newcomer pull and real expert payoff. The editor three-file packet may be complete on paper yet fail review because its middle is boring or its economic takeaway is conventional. These are hard release gates; preserve source accuracy and versions.

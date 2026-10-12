@@ -49,3 +49,6 @@ For every sequence use this repeatable short format:
 **Questions to flag before work:** [only actual blockers, not routine creative decisions].
 **First checkpoint:** [30–90-second integrated sample with approved voice + one causal visual change + a transition, where commissioned].
 **Deliver:** [finished video, clean voice track, thumbnail, captions if in scope, editable assets if agreed].
+
+## Mandatory popcorn-good experience map
+Use POPCORN_STANDARD.md. Before release, ensure the selected final title/thumbnail, first 30 seconds, major scene transformations, vocal breathing points and ending all form one compelling story for both (a) a newcomer and (b) an expert who knows the usual account. For every S movement make the real on-screen change **advance a decision, reveal evidence or illustrate a specific strategic mechanism**. Identify the potentially boring middle sequence and the editorial fix. Do not simply increase image count, music intensity, cuts or cinematic adjectives to mask weak story substance. The editor executes our already-selected narrative while retaining production choices.

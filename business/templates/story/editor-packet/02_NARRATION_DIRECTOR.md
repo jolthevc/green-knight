@@ -24,3 +24,6 @@ Include the meaningful performance variations, not a cue for every sentence. Pau
 ## Pronunciation and final audio check — NON-SPOKEN
 [Exact term | Verified spoken reading | Paragraph | Test required. Include numbers/financial units and names most likely to be misread.]
 [Check: voice ID, model, access, unhurried pace, intentional pauses, no spoken cues, normal-speed listening, 8–10-minute target including silence, reference sample comparison.]
+
+## Popcorn-good performance mandate
+Read POPCORN_STANDARD.md and the approved 03 movement plan. Narration should feel like a fascinating story being told by a real person: varied, natural, emotionally responsive to **actual evidence and decisions**, precise enough for the novice and never didactic to the expert. Mark where surprise, tension, relief, irony or strategic revelation earns a change in pace/pauses. No manufactured trailer suspense, uninterrupted speed, forced drama every sentence or uniform 'podcast explainer' cadence. If the underlying script is dull, RETURN IT for structural revision rather than asking ElevenLabs performance to create content interest.

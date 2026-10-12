@@ -61,3 +61,20 @@ Do not check actual-viewing items from text review alone.
 
 ## Editor-delivered production QC
 For a received cut, apply `business/DELIVERY_QA_STANDARD.md`. Store full timecoded, versioned report in `delivery-qa/YYYY-MM-DD-vN.md`. Five final deliverables: MP4 [ ], thumbnail [ ], clean narration [ ], SEO with final chapter timestamps [ ], synchronized SRT [ ]. Record actual inspection methods and limitations; verdict is PASS / REVISE / BLOCKED / PROVISIONAL. Check consolidated editor fixes and regression review before acceptance. Do not confuse director packet approval with finished film acceptance.
+
+## Non-negotiable popcorn-good review and revise gate
+Read business/POPCORN_STANDARD.md before marking the script reviewed or a three-file packet ready.
+- [ ] A newcomer understands the premise, cast and stakes on first listen and receives a fast actual payoff.
+- [ ] An already informed expert gets a *specifically named*, warranted original model/insight, not generic lessons or familiar chronology.
+- [ ] Opening, every major story movement and ending have a concrete question, evidence/decision/reversal, changed interpretation and reason to continue.
+- [ ] The weakest 60–120-second middle interval is named with P anchors, and fixed structurally if dull.
+- [ ] Sophisticated mechanism is REVEALED through action/stakes/causality, not parked in an explanatory aside.
+- [ ] Title/thumbnail, script, voice performance and visual plan are one magnetic, honest experience.
+- [ ] No made-up cliffhangers, fake surprise quotas, manipulative claims or empty 'business lessons' to simulate engagement.
+Newcomer verdict + anchors:
+Expert verdict + anchors:
+Most predictable/boring passage and structural fix:
+Viewer-belief shift / best surprise:
+Popcorn-good release verdict (PASS / REVISE / RESEARCH-REFRAME / REJECT):
+Reviewer/date/version/evidence of testing (real vs simulated):
+An otherwise precise and complete script may NOT pass if these gates fail.

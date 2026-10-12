@@ -50,3 +50,18 @@ Apply ENGAGEMENT_STANDARD.md; these are editorial judgments, not observed audien
 - Specific final insight the viewer should be able to explain:
 
 A read-aloud or simulated lens does not count as actual audience testing or completed audio review.
+
+## Mandatory popcorn and double-audience architecture
+Use POPCORN_STANDARD.md. Develop the central causal insight *as a story revelation*, not a conclusion pasted after chronology.
+
+| Beat / estimated interval | Viewer wants to know | New choice, evidence, reversal or consequence | Changed belief + stakes | First-time listener clear? | Informed expert's fresh model | Why continue? | Keep/cut/research |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| [P/S anchors once available] | | | | | | | |
+
+- Strongest available expert-level strategic insight, and exact supporting sources/limits:
+- What an informed person already believes about this subject; what we change and how:
+- **Weakest middle stretch** (identify it even if current outline is good):
+- Structural repair (not more music, adjectives or a fake cliffhanger):
+- Would someone voluntarily watch without needing this information for work? Why:
+- **Newcomer PASS/FAIL; expert PASS/FAIL; POPCORN-GOOD GREENLIGHT/REVISE/REFRAME**, with anchored grounds.
+

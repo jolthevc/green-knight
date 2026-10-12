@@ -1,2 +1,5 @@
 # Internal director-owned visual plan
 Draft the full title-thumbnail-first-frame-opening promise, 4–6 dramatic movements, 6–9 connected visual sequences, persistent worlds, factual evidence assets, meaningful visual transformations and breath/sound transitions. Cross-reference script paragraphs and claims. This is the working internal document, not an editor-facing fourth file. Release finished direction in editor-packet/03_VISUAL_DIRECTOR.md only after final combined review. Read EDITOR_HANDOFF_STANDARD.md.
+
+## Engagement direction (not visual activity for its own sake)
+For S01 and every major S movement, record: `Viewer's starting belief / on-screen start / observable change / surprise or change in stakes / expert strategic reveal / ending state / next-beat curiosity / matching P anchors`. If a visual only illustrates a noun or repeats an established image without meaning, cut or rework it. Define the weakest anticipated middle stretch and a substantive *story or visual mechanism* fix, not fast cuts. Maintain newcomer legibility and expert reward with fresh facts/model. Consult POPCORN_STANDARD.md.

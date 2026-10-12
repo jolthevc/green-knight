@@ -28,3 +28,10 @@ Claims/title/thumbnail match the final script; links actually exist; timestamps 
 
 ## Actual asset and disclosure review
 Record the actual narration/imagery/music sources and the YouTube disclosure decision with reason and policy-check date. Distinguish evidence from reconstructions. Confirm each episode adds original research/storytelling rather than duplicating another channel's substance.
+
+## Irresistible but honest packaging test
+- Click promise intelligible without knowing the subject; curiosity about a vivid puzzle rather than keyword stuffing:
+- Why even an informed viewer thinks there is a fresh angle:
+- Exactly what the first 30 seconds *proves*, what it leaves open, and first actual payoff:
+- Distinctive expert-level revealed mechanism that pays off title without overselling:
+- Reject generic sensational phrases, thumbnail twist absent from video and titles that explain away all intrigue.
