@@ -596,3 +596,6 @@ The editor relationship is working when:
 The desired end state is not maximum control.
 
 It is reliable creative alignment.
+
+## Green Knight's primary creative production criterion
+The approved final edit must be **popcorn-good**, not merely technically polished. Preserve a newcomer-understandable predicament and an already-knowledgeable viewer's fresh evidence-backed strategy/economics payoff. Visuals, narration, music and rhythm should reveal choices and consequences, not manufacture urgency through endless cuts. Identify weak mid-film retention risk, source-backed reveals and audio-first comprehension. Business/ channel-specific creative direction and delivery QC are governed by business/EDITOR_HANDOFF_STANDARD.md, DIRECTOR_PACKET_REVIEW.md and DELIVERY_QA_STANDARD.md, not any legacy editor-owned story-treatment phrasing in generic docs.

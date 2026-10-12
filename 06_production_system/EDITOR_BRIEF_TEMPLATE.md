@@ -168,3 +168,6 @@ Green Knight wants creative editors, not robots.
 Use taste.
 
 The goal is to make the strongest possible version of the product while preserving the story, evidence, and channel identity.
+
+## Engagement / strategy director checkpoint
+State the selected title/thumbnail promise, early genuine answer, most important causal reversal, expected expert-level new insight and the weakest middle passage. Every major proposed visual beat should show observable start/change/end and *what belief changes*, so production enhances suspense and comprehension instead of replacing story with b-roll. If the script itself is boring, flag an upstream creative blocker; do not turn it into dramatic stock footage. For business/ episodes, only the finalized 01/02/03 files are sent to the editor; this generic template is not a fourth document.

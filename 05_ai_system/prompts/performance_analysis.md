@@ -43,3 +43,6 @@ Return:
 - possible portfolio relevance
 
 Do not convert one noisy result into a universal rule.
+
+## Popcorn-good learning must be observational
+Use only *actual* retention, click source, viewers' comments and available replay/average duration to identify whether promise, opening, middle, last insight or narration/visual pacing worked. Separate novice confusion from expert disappointment where feedback allows. Assess if the sophisticated causal payoff came late or was buried under textbook narration. Propose concrete changes to concept framing, order, script, insight or production for the next video and acknowledge confounders; do not claim causality from one upload or invent viewer reactions.

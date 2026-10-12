@@ -48,3 +48,6 @@ Use `SELECT` when a strong truthful package exists.
 Use `RETURN_TO_SCRIPT` when the strongest package would require a material opening or script change to fulfill honestly.
 
 Use `KILL` when the video cannot be packaged attractively without materially misrepresenting the story.
+
+## Engagement truth contract
+Title/thumbnail must inspire *specific* curiosity in a stranger and imply a refreshingly different angle to someone deeply familiar with the topic. The first 30–60 seconds must substantiate the promise; the final revelation must make it worthwhile. No fake mystery, false numbers, misleading who-won claim or unearned expert novelty. Reject attractive packages that can't be supported by the actual dramatic/casual economic story.

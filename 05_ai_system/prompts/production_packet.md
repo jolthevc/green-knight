@@ -33,3 +33,6 @@ For each major section, specify:
 Do not write "use relevant B-roll" as a substitute for visual thinking.
 
 Follow `PRODUCTION_PACKET_STANDARD.md`.
+
+## A watched film, not decorated narration
+Direct exactly how spoken explanation, evidence, graphics/illustration changes, emotional beats and silence express an authentic decision or surprising mechanism on screen. The weak middle should become an actual story development, not just more shots. Judge the novice's first-listen comprehension and the expert's non-obvious payoff. For business/ episodes follow business/EDITOR_HANDOFF_STANDARD.md: the final editor receives exactly 01_SCRIPT, 02_NARRATION_DIRECTOR and 03_VISUAL_DIRECTOR after independent/integrated reviews, rather than generic packets with contradictory creative ownership.

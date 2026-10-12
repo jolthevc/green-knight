@@ -230,3 +230,6 @@ Green Knight should publish fewer videos rather than knowingly lower the visual 
 The company is building owned media assets.
 
 Each video should strengthen the perceived quality of the library.
+
+## Substance-driven visual quality
+A beautifully rendered picture is still poor storytelling if the viewer learns nothing new and the stakes do not move. Require changing on-screen composition to represent real causal shifts, incentive flows, rights, decisions and measured comparisons, aligned with voice pause and payoff. Test first-timer readability AND veteran insight. Avoid generic illustration-per-noun, fake archival texture, repetitive float-in text and uncontrolled maximal movement. An authentic silent moment can be more compelling than another effect.
