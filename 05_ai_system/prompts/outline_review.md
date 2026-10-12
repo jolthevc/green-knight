@@ -41,3 +41,6 @@ If APPROVE, also return the approved Promise Lock: core viewer promise, stronges
 Return specific structural feedback.
 
 Do not perform cosmetic rewriting unless structure is already sound.
+
+## Popcorn-good narrative audit REQUIRED
+Run two distinct editorial readings: ignorant-but-smart newcomer and thoroughly informed veteran. Map each major scene to `viewer wants to know -> sourced development/decision -> change in belief or stakes -> new reason to watch`. Identify weakest 60–120-second prospective middle, specify a STRUCTURAL repair and the most powerful earned expert-level economic/strategic reveal *inside the story*. Dull chronology, disconnected info dumps, an obvious moral or middle without changing stakes earns REVISE/REFRAME even with accurate facts and strong prose. Do not promise audience retention or call a boring outline APPROVE because it is thorough.

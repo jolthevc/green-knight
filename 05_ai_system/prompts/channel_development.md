@@ -249,3 +249,6 @@ Keep notes concise.
 Do not create GitHub files, Drive folders, or Sheet tabs yourself.
 
 The orchestration workflow handles persistence after validation.
+
+## Top creative objective: engagement that experts still love
+Read business/POPCORN_STANDARD.md (for Green Knight business nonfiction) and encode its transferable two-viewer rules across **all channel template outputs**, not just the summary: repeatable dramatic motor, stranger entry point and early payoff, already-expert strategic revelation, natural first-listen sophistication, authentic midstory reversals, visual revelation, and a meaningful ending. Present at least TWO domain-specific BAD/GREAT paired episode examples and five attractive, genuinely different channel-native sample concepts; name what the channel rejects and what research would need to prove. A generic explainer channel with high-volume topics and pretty graphics is inadequate. Brand consistency must not force the same plot structure. This is not a promise of retention.

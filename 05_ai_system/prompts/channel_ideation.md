@@ -56,3 +56,6 @@ Do not assume a category is attractive merely because it has successful incumben
 Return structured concepts suitable for review and eventual insertion into `00_CHANNELS`.
 
 Do not create folders or approve launch automatically.
+
+## Governing popcorn-good creative filter
+The channel is not viable because its niche is lucrative or well researched. For EVERY idea show a **repeatable watchable story engine** that creates genuine tension and reveal; five plausible strong episodes; at least one concrete GOOD vs BAD framing; an honest first-minute hook for viewers with no prior knowledge; and a **substantial, source-checkable payoff for experts who already know the subject**. Rank audience delight and differentiating insight above literary sophistication, topical prestige and RPM guesses. If these cannot be demonstrated even hypothetically, mark REFRAME/REJECT. Treat speculative examples as unverified; never invent real results.

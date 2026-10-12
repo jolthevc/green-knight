@@ -56,3 +56,6 @@ Avoid:
 - ideas requiring evidence that is unlikely to exist
 
 Generate conceptual diversity rather than title variants.
+
+## Mandatory popcorn-good per-idea output
+For each video idea, provide: **outsider hook and real stakes**; the precise question/tension that makes watching the next minute desirable; **expert surprise hypothesis** (what someone familiar with the topic still doesn't know/hasn't synthesized, and candidate evidence to prove it); **story fuel** (real choices/reversals/constraints, not a timeline); first earned payoff, plausible ending reframing, worst potential boredom risk and differentiating mechanism. Recommend episodes for their entertaining *causal revelations*, not volume of supporting facts, complicated business vocabulary, big company names or SEO marketability alone. Mark expert payoff as unverified until research, and REFRAME/REJECT ideas that cannot serve both newcomer and expert.

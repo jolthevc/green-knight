@@ -178,3 +178,6 @@ Also return:
 The `review_summary` should be short and only identify meaningful changes or residual concerns.
 
 The complete file set should represent the final improved channel definition ready for persistence by the orchestration workflow.
+
+## Non-negotiable channel creative GREENLIGHT
+Conduct TWO full imagined viewer passes: (1) newcomer who knows nothing: would they immediately click/understand/stay? (2) extremely knowledgeable enthusiast: what *new, defensible* lens or substantive synthesis justifies watching the whole video? Examine five sample episode concepts for real reversals, durable differentiated insight and potential middle drag. If the output only shows great economics, visuals, authority or formal coherence, **REVISE/REFRAME**. Require specific changes to CHANNEL_CORE, AUDIENCE, CONTENT, PACKAGING, VOICE and EXAMPLES and repeat the critical review. Final output must include `NEWCOMER verdict`, `EXPERT verdict`, `POPCORN-GOOD verdict`, one BAD/GREAT example and unresolved research feasibility. Do not pad with generic praise. Ground the assessment in concrete entries; no actual retention claims.

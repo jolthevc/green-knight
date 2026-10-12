@@ -44,3 +44,6 @@ Return:
 - rationale
 - blocking issues
 - recommended next action
+
+## Engagement and expert novelty test
+After evidence review, ask: has research produced a genuinely new *causal storyline* and at least one evidence-supported strategic mechanism a knowledgeable viewer would find worth watching? What real choice, contradiction, counterargument or discovery changes the narrative middle? A complete source packet with nothing beyond a familiar Wikipedia explanation should return REFRAME or RESEARCH_MORE, not PROCEED. Avoid manufacturing novelty when research can't sustain it. Newcomer comprehensibility and continued curiosity are equal gates.
