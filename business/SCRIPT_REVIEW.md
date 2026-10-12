@@ -27,7 +27,7 @@ The reviewer should ideally work in a fresh context from the drafter, with no ob
 2. Obtain the selected channel and its story engine, current script version and exact UTF-8 SHA-256, current working title/thumbnail promise, target audience, supporting research/evidence, and synthesis. Read the exact current GitHub files, not a memory of a prior version.
 3. If packaging is unavailable, review the hook against the documented viewer promise and label packaging alignment "unverified." If research is unavailable, flag claims requiring verification instead of pretending to fact-check.
 4. Estimate narration time transparently from the **body-only spoken word count**, a stated plausible pace and any supplied holds/pauses. Do not include the `TITLE:` header as spoken text. Do not report estimated time as recorded time or manufacture timing by speeding up the voice.
-5. Review without relying on editor-generated visuals to rescue unclear narration. Creative visual treatment belongs to the editor.
+5. Review the narration as an independent, accessible story; the visual director cannot rescue an inherently dull or confusing script. Green Knight owns visual storytelling, with the editor implementing the approved director packet.
 
 ## Diagnostic passes
 
@@ -102,7 +102,7 @@ Do not force one channel's preferred narrative shape onto another. If the topic 
 
 ### I. Production feasibility and originality
 
-Check that the narration alone carries essential meaning, that difficult numbers and names can be spoken naturally, and that needed context has supporting references for the editor. Do not create shot lists, visual prompts, palettes, graphics directions or fictional archival evidence. The editor owns execution.
+Check that the narration alone carries essential meaning, numbers and names can be spoken naturally, and context has verified evidence. The separate working 03_VISUAL_DIRECTOR plan specifies selected visual beats, on-screen causal transformations and authentic asset limits; the editor owns the practical production execution. Never create fictional archival evidence.
 
 Ask what distinguishes this piece from generic mass-produced AI explainers. Specific primary evidence, a coherent question, fresh synthesis and a distinctive finding matter more than theatrical prose or artificial retention tricks. Respect copyright, attribution, allegations and platform originality/disclosure requirements.
 
@@ -190,4 +190,4 @@ Earlier prohibitions on creating visual direction are superseded by EDITOR_HANDO
 
 Record `NEWCOMER verdict`, `EXPERT verdict`, `POPCORN-GOOD verdict` with concrete failures/fixes and script line/paragraph anchors. The weakest single major movement must be stated, even if verdict passes. Avoid unearned 9/10s, superficial praise, cosmetic edits, magic-retention formulas and promises of virality. In REVIEW_AND_REVISE, actually change the structure where needed, then independently re-test the new full script. The reviewer must be willing to say DO NOT SHIP on boring work. Preserve source verification and exact script hash/version conventions.
 
-**Visual direction ownership correction:** any legacy direction here saying the editor owns the story's visuals is superseded by EDITOR_HANDOFF_STANDARD.md. Green Knight writes working performance and visual directors; final released 03 specifies what visibly changes and why, while editor chooses feasible implementation.
+**Creative division of labor:** Green Knight writes working performance and visual directors; final released 03 specifies what visibly changes and why, while the editor chooses feasible implementation.
