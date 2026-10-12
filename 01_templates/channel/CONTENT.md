@@ -266,3 +266,8 @@ This file is ready when:
 3. the channel has enough content supply to support a meaningful library
 4. the pillars are distinct but collectively coherent
 5. the framing philosophy is clearer than the subject category alone
+
+## Required popcorn-good editorial idea engine
+For every pillar and recurring format, identify: (1) a vivid outsider hook; (2) genuine human or business stakes; (3) probable evidence-backed decisions, reversals or discoveries to carry the middle; (4) a potential new expert-level strategy/economics insight worth rethinking the topic; (5) what makes this more than a subject summary; (6) how research could falsify/reframe the angle.
+
+Specify disqualifiers: competent but dull chronology, lists of facts, MBA language without specific mechanism, obvious punchline and topic ideas that can support a click but not an entertaining eight-minute film. Rank opportunities by **earned watchability and informed-viewer surprise** within source/ethical constraints, not by research volume, prestige or assumed RPM. Preserve distinct engines across episodes rather than a mandatory scripted formula.

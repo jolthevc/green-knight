@@ -240,3 +240,6 @@ Packaging should influence the script, not merely decorate it after completion.
 ## Completion Standard
 
 This document is ready when an AI or packaging specialist can generate many distinct options that feel native to the channel, and can explain why one pair is stronger than another without relying only on personal taste.
+
+## Truthful popcorn-first package and first-minute promise
+The first obligation of title+thumbnail is to create a *specific, irresistible* open question immediately legible to a newcomer; an expert must suspect something fresh or unusually revealing. Define exactly what opening scene substantiates the promise, what early actual answer arrives and which deeper question it raises. Never use contradictory clickbait, oversell the originality of a known fact or give away the full reveal in the package. Compare honest package variants by curiosity AND whether the finished film pays off, not by sensationalism. Quality writing cannot repair a concept nobody wants to click.

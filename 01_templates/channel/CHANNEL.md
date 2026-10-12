@@ -275,3 +275,8 @@ This document is ready when a new reader can explain:
 8. what major assumptions the launch is testing
 
 If those answers remain vague, the channel is not sufficiently defined.
+
+## Mandatory audience experience and popcorn-good creative thesis
+Define precisely **why viewers will love watching**, not only what they will learn. Name the recurring kind of true tension, reversal, predicament, discovery and final high-level causal insight that fuels a library of episodes. Describe the *felt experience* and how it varies so the channel is not one formula every week.
+
+Require the channel to win with BOTH a complete newcomer (fast understandable stakes, on-first-listen comprehension, constant earned curiosity) and a topic veteran (credible non-obvious insights, not reheated facts, plus still gripping narrative). Provide one specific BAD generic episode concept, a GOOD reframing with a consequential twist, and the evidence necessary to substantiate the expert payoff. If even excellent research leads only to a generic lecture, the channel thesis needs rethinking. Viewer engagement/satisfaction is the primary creative objective subject to truth and trust.

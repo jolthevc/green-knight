@@ -276,3 +276,10 @@ This file is ready when a writer can make a difficult editorial choice and answe
 > Which option will better serve the person this channel exists for?
 
 If the audience still feels like "everyone interested in X," this document is not finished.
+
+## Dual-viewer calibration, mandatory
+**Outsider scenario:** Pretend a smart viewer knows absolutely nothing about the famous name or topic. What does the first 10/30/60 seconds give them? Why is the next minute worth their time, and what jargon/cast overload would make them leave?
+
+**Highly informed scenario:** Pretend someone has followed the subject for years and already knows the conventional explanation. What genuinely warranted new interpretation, primary evidence, alternative, incentive or mechanism does the channel give them? Why is the presentation still a thriller rather than a revision lecture? Both should find the same film delightful, without condescension or insider-gated knowledge.
+
+**Reject:** attention tricks and overpolish that cannot repair missing narrative changes or insight; false certainty to create drama. Define real examples of what each viewer would find boring and which discoveries compel them.

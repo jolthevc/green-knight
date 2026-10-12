@@ -79,3 +79,9 @@ Examples:
 This file summarizes the deeper standards.
 
 If it conflicts with a deeper channel file, fix the inconsistency rather than maintaining two different truths.
+
+## Non-negotiable entertainment DNA
+[Explain the repeatable popcorn-good **story engine** in one vivid sentence: what keeps a stranger needing to know the next thing?]
+[State the promised reward for an already knowledgeable/expert viewer, e.g. a fresh documented fact, decision constraint, causal mechanism, incentive or counterfactual model. 'Deep dives' is not a differentiator.]
+[State what the channel rejects: accurate but boring briefings, Wikipedia chronology, generic industry morals, recycled explanations and artificial cliffhangers.]
+[Give the creator the dual Newcomer/Expert test and require review/revise of the *weakest middle*, not merely voice/polish. Apply business/POPCORN_STANDARD.md where relevant.]

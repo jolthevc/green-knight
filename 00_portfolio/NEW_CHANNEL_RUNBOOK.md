@@ -960,3 +960,8 @@ Once the process works cleanly end-to-end, n8n should automate the repetitive ha
 The runbook should remain canonical even after automation.
 
 n8n is an implementation of this process, not a replacement for understanding it.
+
+## Mandatory engagement-first channel creation gate (2026-10-11)
+Before any new channel idea is approved, folder is populated or pilot is commissioned, test its **repeatable ability to make people voluntarily watch**. The channel needs a distinctive *story engine*, not just a sector, advertiser category, tasteful branding or research supply. Require two simultaneously excellent hypothetical viewers: (a) an outsider who immediately understands and gets hooked, and (b) someone exceptionally familiar with the topic who gains a fresh sourced insight or useful causal model. Read business/POPCORN_STANDARD.md as the benchmark for business nonfiction.
+
+At concept and development review, generate **five sample episode premises**, each with a stranger hook, a substantive expert-level payoff hypothesis, real choice/reversal/story fuel, and credible evidence path. Include two contrasting **BAD / GOOD** episode framings for calibration. Reject channel concepts whose five examples are merely company biographies, generic explanations or repetitive recitations with different names. Encode this exact rule into CHANNEL_CORE, AUDIENCE, CONTENT, VOICE, PACKAGING and EXAMPLES, not a standalone marketing slogan. Establish how subsequent script/outline review can block boring work. Do not assume hypothetical hooks are verified facts; label uncertain claims. After publication use actual measured retention and satisfaction to refine, rather than claiming channel virality in advance.

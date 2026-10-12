@@ -244,3 +244,6 @@ Update the other canonical files when an example reveals a durable principle.
 ## Completion Standard
 
 This file should contain enough concrete material that a new creator can distinguish between "technically follows the rules" and "actually feels like this channel."
+
+## Mandatory BAD / GOOD entertainment calibration for every new channel
+Create at least **two paired, topic-specific examples** that expose the difference between (BAD) technically correct yet predictable research recaps or generic business morals and (GOOD) an immediately dramatic true predicament, consequential causal developments and a warranted expert-level twist that makes the ending reframe the beginning. Include 'what an existing topic expert already knows' and 'what we add' for the GOOD framing. Show how both a first-timer and expert remain interested through the weak middle. Keep examples explicitly illustrative until independently researched; never invent sourced facts.

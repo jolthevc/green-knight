@@ -258,3 +258,6 @@ Consider:
 ## Completion Standard
 
 This document is ready when two capable writers using it independently would produce work that feels recognizably part of the same brand without sounding mechanically identical.
+
+## Spoken entertainment priority
+Narration must sustain genuine long-form desire to listen: human variation, precise accessible explanation, irony or humor only when earned, measured tension and meaningful breaths. Sounding 'documentary premium' or literary is secondary to **being fascinating**. Write revelations to change what the viewer believes; simplify complex strategy without losing its edge for experts. A warm, polished voice cannot save a dull chronology. For each channel establish a BAD (TED-talk/MBA lecture or overdramatic AI suspense) and a GOOD (story-driven meaningful reveal) narrated example. When reviewing, fix structure before micro-polishing sentences.

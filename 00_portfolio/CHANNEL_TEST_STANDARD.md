@@ -139,3 +139,6 @@ Different channels may have different:
 As the portfolio matures, evidence may justify more specific channel-level benchmarks.
 
 Until then, use disciplined judgment rather than fake precision.
+
+## What our channel test primarily tests
+The principal creative hypothesis is that viewers will **choose** to watch and then stay because the story keeps rewarding attention. Don't confuse a feasible production niche with a watchable channel. At each first-five checkpoint separate packaging click reasons from first-minute retention, mid-video continuation and actual satisfaction; inspect expert responses on genuine insight as well as first-time viewer comprehension. These are empirical observations only when actual data/feedback exists. A premium-but-boring content engine calls for REPOSITION, even if evidence quality and visuals are strong. Do not use a fixed 'retention score' as a universal pass/fail without context.
