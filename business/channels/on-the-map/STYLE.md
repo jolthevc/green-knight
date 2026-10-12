@@ -1,7 +1,7 @@
-# Visual identity: editor-owned, unselected
+# Visual identity: director-owned, aesthetic pending pilot approval
 
-No palette, typography, map treatment, animation system or reference image is approved by this setup. The editor proposes a coherent, approachable adult identity during the pilot; the owner selects and records it in channel.json. Reuse the approved version afterward.
+The narrator and visual reference style are not automatically selected by channel setup. Green Knight specifies the documentary's **visual storytelling**: selected title/thumbnail, first frame and 0–30s opening, comprehensible geographic change, recurring maps/places/objects, sourced figures, sound transitions and closing image, all tied to canonical paragraphs and story sequences. Follow [EDITOR_HANDOFF_STANDARD.md](../../EDITOR_HANDOFF_STANDARD.md) and release only the approved three-file editor packet.
 
-Follow [EDITOR_HANDOFF_STANDARD.md](../../EDITOR_HANDOFF_STANDARD.md). Default episode handoffs supply audio direction and concise factual support, not scene descriptions, shot lists, image prompts, fonts, colors or storyboards. Internal packaging work stays internal unless requested.
+The editor can recommend a coherent adult illustration/map style, fonts, framing and efficient techniques during the pilot. Review together, record the approved style/profile in channel.json and reuse it. Do not treat style flexibility as permission to choose a different on-screen narrative.
 
-Factual constraints: locations, boundaries, routes, period labels and quantities must support the narration. Clearly distinguish schematic geography, illustrative reconstructions and authentic evidence. Do not invent archival documents or historical footage. These constraints leave execution to the editor. Review the actual delivered cut for factual consistency, phone-size comprehension, source/asset rights and audio/visual clarity.
+Geographic and historical constraints: actual locations, boundaries, routes, period labels and quantities must support the spoken evidence. Distinguish schematic geography, reconstructions and authentic archival sources. Never invent genuine-looking archival records or footage. Review the delivered cut for factual correctness, legibility, rights and continuity.

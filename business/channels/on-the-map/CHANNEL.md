@@ -47,4 +47,4 @@ Apply [lane routing](../../LANE_ROUTING.md). Remove the place name as a diagnost
 ## Editorial contract
 Reconstruct real choices without fabricated dialogue, motives or composite residents passed off as actual people. Distinguish documented history, analysis, causal inference and illustrative examples. Do not attribute all outcomes to one policy simply because it preceded them. Local promotional narratives require independent checks.
 
-Use [RESEARCH_STANDARD.md](RESEARCH_STANDARD.md) for evidence and [SCRIPT_STANDARD.md](SCRIPT_STANDARD.md) for delivery. The editor owns visuals; geography accuracy requirements do not authorize a supplied storyboard.
+Use [RESEARCH_STANDARD.md](RESEARCH_STANDARD.md) for evidence and [SCRIPT_STANDARD.md](SCRIPT_STANDARD.md) for delivery. Green Knight directs the actual visual storytelling, with geographically accurate maps, evidence and scene transformations in the approved 03_VISUAL_DIRECTOR.md. The editor retains flexibility in how to illustrate and animate these requirements. Follow business/EDITOR_HANDOFF_STANDARD.md.

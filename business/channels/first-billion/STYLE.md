@@ -1,9 +1,7 @@
-# Visual identity: editor-owned
+# Visual identity: director-owned, style open to pilot validation
 
-Visual treatment is unselected and awaits an editor-led pilot. No palette, typography, shot list, image prompt, animation approach or storyboard is prescribed.
+The visual brand/profile is not yet locked. Green Knight directs the full on-screen story: approved title/thumbnail, first frame and first 30 seconds, meaningful visual sequences, transformations and comparisons, key evidence, pauses and closing callback. Build that plan in working visual-plan.md and final 03_VISUAL_DIRECTOR.md per [EDITOR_HANDOFF_STANDARD.md](../../EDITOR_HANDOFF_STANDARD.md). Do not defer narrative visual conception to the editor.
 
-The owner supplies story, narration guidance and concise research support. Follow [EDITOR_HANDOFF_STANDARD.md](../../EDITOR_HANDOFF_STANDARD.md). Assess an actual proposal for a consistent adult identity, comprehensibility, source integrity and sustainable production.
+The editor retains practical art-direction and production freedom, including proposed palette, typography, reusable layouts and animation techniques, subject to feasibility and the chosen pilot style. Record actual approved reference/version in channel.json only after selection; no approved imagery or reference kit is being claimed here.
 
-Factual requirements apply to whatever the editor creates: distinguish modeled from historical results, valuations from cash, and enterprise value from owned equity. Do not invent evidence or historical records. These are accuracy constraints, not visual descriptions.
-
-Record approved references/version in channel.json only after actual selection. No approved imagery or reference kit is claimed.
+Accuracy constraints: distinguish models from historical outcomes, valuations from cash and enterprise value from owned equity. Never fabricate historical evidence or imply an illustrative scene is a real document.
