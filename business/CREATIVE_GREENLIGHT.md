@@ -1,4 +1,7 @@
 # Creative Greenlight: from an interesting topic to a must-watch story
+
+**GOVERNING AUDIENCE PRIORITY (2026-10-11):** Read [POPCORN_STANDARD.md](POPCORN_STANDARD.md). Within truthful/evidence constraints, **earned engagement is the primary creative objective**, with **mandatory newcomer *and* already-expert viewer value**. A precise but dull lecture or generic business takeaway is not publishable. Story beats must deliver genuine changing stakes, revealing strategic mechanisms and desire for the next minute. Critical review must actually reject/rework weak middle sections and generic insights; no empty claims of 'engaging.'
+
 Effective 2026-10-11 for new ideas and future revisions. Internal editorial review, not a predictive algorithm. Read with NETWORK_CREATIVE_CHARTER.md, IDEATION.md, ENGAGEMENT_STANDARD.md, SCRIPT_REVIEW.md and the selected channel CREATIVE_CONTRACT.md.
 
 ## Gate 1: Premise worth clicking

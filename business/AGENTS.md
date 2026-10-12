@@ -2,6 +2,8 @@
 
 ## Read before doing work
 
+Read POPCORN_STANDARD.md first for the primary creative objective and dual-viewer test, including in fresh chats and review/revise.
+
 Read README.md, WORKFLOW.md, IDEATION.md, YOUTUBE_GUIDANCE.md, ideas/README.md and ideas/registry.json. For the selected channel also read channels/<slug>/{README,CHANNEL,STYLE,VOICE,SCRIPT_STANDARD}.md and channel.json. Read the configured idea/story prefixes; Pretty Penny uses PP, Money Moves uses MM, Fallen Angels uses FA, Changing Hands uses DH, Fool’s Gold uses FG, Silver Spoon uses SS; First Billion uses FB; On the Map uses OTM. Also read NARRATION_STANDARD.md, EDITORIAL_REVIEW.md and LANE_ROUTING.md, plus the selected channel's narration.json. Follow the story templates when creating an episode.
 
 This workspace implements the owner's manual ChatGPT process. Its local GitHub ledger and story artifacts are canonical here, even though the older portfolio system stores working artifacts elsewhere. Never imply that Sheets, Drive, n8n or YouTube were updated unless actually verified.

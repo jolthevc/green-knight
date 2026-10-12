@@ -1,5 +1,8 @@
 # Standard idea presentation
 
+**GOVERNING AUDIENCE PRIORITY (2026-10-11):** Read [POPCORN_STANDARD.md](POPCORN_STANDARD.md). Within truthful/evidence constraints, **earned engagement is the primary creative objective**, with **mandatory newcomer *and* already-expert viewer value**. A precise but dull lecture or generic business takeaway is not publishable. Story beats must deliver genuine changing stakes, revealing strategic mechanisms and desire for the next minute. Critical review must actually reject/rework weak middle sections and generic insights; no empty claims of 'engaging.'
+
+
 ## Generate broad, differentiated candidates
 
 Pretty Penny starts with familiar spending and surprises: subscriptions, travel, food, tickets, retail, consumer finance, marketplaces, invisible suppliers and ownership economics. Vary the object, money mechanism and emotional entry. Avoid ten near-identical corporate profiles or a banking-only slate.

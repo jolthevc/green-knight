@@ -1,5 +1,8 @@
 # Story-first learning and engagement
 
+**GOVERNING AUDIENCE PRIORITY (2026-10-11):** Read [POPCORN_STANDARD.md](POPCORN_STANDARD.md). Within truthful/evidence constraints, **earned engagement is the primary creative objective**, with **mandatory newcomer *and* already-expert viewer value**. A precise but dull lecture or generic business takeaway is not publishable. Story beats must deliver genuine changing stakes, revealing strategic mechanisms and desire for the next minute. Critical review must actually reject/rework weak middle sections and generic insights; no empty claims of 'engaging.'
+
+
 Our creative target is “Harvard MBA + Netflix”: accessible entertainment with rigorous, earned business insight. This is an editorial ambition, not an affiliation or a claim that every episode teaches a course. A curious viewer needs no business education. An informed viewer should still discover something useful.
 
 Apply this alongside the channel's SCRIPT_STANDARD.md, NARRATION_STANDARD.md, evidence requirements and 8–10 minute runtime. These techniques are editorial hypotheses to test, not algorithm secrets or guaranteed view multipliers. Evidence and intelligibility take priority over dramatic effect.

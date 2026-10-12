@@ -1,5 +1,7 @@
 # Green Knight: Operations Quickstart
 
+**Highest creative bar:** [POPCORN_STANDARD.md](POPCORN_STANDARD.md), the two-viewer popcorn-good mandate. Episodes must be deeply entertaining AND reveal a non-obvious defensible business mechanism to viewers already familiar with the story. A script can pass evidence QA and still fail creative QA.
+
 These rules apply to all eight business channels. For details, follow AGENTS.md, WORKFLOW.md, EDITOR_HANDOFF_STANDARD.md, DIRECTOR_PACKET_REVIEW.md, and DELIVERY_QA_STANDARD.md.
 
 ## Episode lifecycle
