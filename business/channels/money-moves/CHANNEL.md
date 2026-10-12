@@ -58,3 +58,8 @@ Label counterfactuals as reasoning, not events. “Could have” needs evidence 
 ## Editorial view
 
 The payoff is a specific insight into the trade-off, not “be innovative,” “take risks” or “listen to customers.” Explain when the move works, what its costs are and why copying it might fail under different conditions. Claims of a moat, monopoly or unassailable advantage require evidence and qualification.
+
+## What this channel must feel like (2026-10-11)
+Read business/POPCORN_STANDARD.md. **Earned engagement is the first creative test, with truthful evidence as the minimum floor.** A first-timer experiences a high-stakes *choice* among real alternatives, under constraints. An expert encounters evidence of what decision makers knew at the time, why the rejected option was plausible, a misunderstood incentive or a causal mechanism behind the result. **BAD:** a company success timeline with 'leadership was visionary.' **GOOD:** a specific decision whose downside, opportunity cost and later strategic second-order consequences emerge as successive reversals.
+
+Run TWO explicit tests on every new channel concept, idea and scripted episode: **newcomer pull** (immediate human stakes, first-listen comprehension and real desire to continue) and **already-expert reward** (a specific warranted new lens or insightful causal model). Name the weakest likely middle sequence, create authentic reversals, and show how the best strategic insight *unfolds inside the plot*. A correct but predictable lecture, a generic takeaway or beautiful prose without audience momentum is REVISE/REFRAME, never 'ready.' Never invent twists or inflate unsourced certainty. On review/revise, record both verdicts and actual paragraph/beat fixes rather than praising general quality.
