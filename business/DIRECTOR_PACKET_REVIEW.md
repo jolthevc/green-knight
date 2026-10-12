@@ -24,3 +24,12 @@ No blockers, exact approved canonical spoken copy, all three final deliverables 
 
 ## Extra plain-English production-readiness test
 Evaluate whether 02 has a verified selected voice (or transparent blocker), a true spoken-copy versus NOT FOR TTS separation, numbered passage-to-pause mappings and practical retake approach. Evaluate whether 03 makes **one definite creative choice** for title, thumbnail and opening; gives start/change/end screen actions and exact anchors; and flags required versus suggested/optional assets. Internally archive alternate concepts in packaging.md and working visual-plan.md, not in the final director's packet. Confirm selected choice, source provenance, accurate text and integrated sample request. A vague instruction (“make the sequence feel cinematic”, “show something interesting”, “add drama”) fails review unless paired with an executable action.
+
+## Engagement-first integrated release gate (REQUIRED)
+Read POPCORN_STANDARD.md. **Do not release the packet because all three files technically agree.** 01, 02, 03 and their integration must create one continuously rewarding *viewing experience*. In addition to script accuracy and narrator identity:
+
+- Test a **newcomer** and an **already expert** as separate imagined viewers. For each, identify a truthful reason to continue in the opening, the weakest middle, and conclusion. An imagined test is editorial judgment, not real audience feedback.
+- For EACH major S sequence, record a real action/visual transformation or mood change; why it changes the viewer's understanding, expectation or emotional stake; the corresponding P insight; and whether screen activity is just decoration. Cut/change visually busy scenes with no narrative or explanatory job.
+- Explicitly identify the most boring 60–120-second anticipated interval and state whether 01 restructuring, 02 delivery, 03 visuals or re-research is the **right** fix. Never rely on faster cuts/music to conceal a repetitive plot.
+- Confirm the sharp expert-level business mechanism appears as a **story discovery** and is provable/reasonable, not a final mini-lecture.
+- Record dual-viewer verdicts and `POPCORN-GOOD PASS/REVISE` in the story's dated review. A boring middle, generic insight or weak click/first-minute payoff is a BLOCKER on creative release even when exact-copy, reference and factual tests pass. Re-review all three after substantive changes.

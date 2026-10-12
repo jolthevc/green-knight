@@ -84,3 +84,12 @@ After publication: record actual metrics at comparable age and traffic mix, actu
 **Overlap and lane distinction:**
 **Greatest narrative weakness:**
 **Verdict and required changes:**
+
+## Mandatory popcorn-good hard gates (highest creative priority)
+Read POPCORN_STANDARD.md **before Gate 1**. For every recommended new idea, record BOTH **newcomer pull** (accessible predicament, immediate tension, first payoff) and **expert surprise** (what knowledgeable viewers have not already heard or how a new substantiated mechanism changes their interpretation). No viable expert delta? Research/REFRAME, do not compensate with a big figure or clickbait packaging.
+
+Before scripting, the beat map must show a **belief or stakes change** at each major movement and a concrete reason to watch the next one; flag the **most boring plausible middle** and structurally repair it. Story must be exciting *because* a sophisticated causal/strategic insight unfolds, not despite an inserted MBA paragraph.
+
+For Gate 4, write two explicit verdicts `NEWCOMER: PASS/REVISE/FAIL` and `EXPERT: PASS/REVISE/FAIL`, with precise anchors, plus `POPCORN-GOOD: GREENLIGHT/REVISE/RESEARCH-REFRAME/REJECT`. A generic conclusion, low-stakes chronology, repetitive obstacle list or a dull-but-accurate script **cannot GREENLIGHT**. Do not grant a pass for strong research, elegant writing, editor effects or sheer factual density. Rewriting should prioritize reordering discoveries, strengthening causality and testing fresh angles **before** polishing words. Never fabricate drama or novelty.
+
+Gate 5 must audit the **actual viewer experience** at hook, worst middle stretch and ending (listen/watch; not just packet instructions). Record audience retention data only when genuinely available; simulated thoughts are not measured behavior.

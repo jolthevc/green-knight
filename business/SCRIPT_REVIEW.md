@@ -176,3 +176,18 @@ Official title/thumbnail reference: https://support.google.com/youtube/answer/12
 
 ## Current three-artifact review override
 Earlier prohibitions on creating visual direction are superseded by EDITOR_HANDOFF_STANDARD.md. On any user request to review and revise, perform original script cold diagnosis and full 01/02/03/integration pass using DIRECTOR_PACKET_REVIEW.md. All three may be revised as appropriate. Regenerate hash-dependent cue/evidence links when spoken script changes; otherwise preserve canonical words. No automatic packet release before passed independent and combined final review.
+
+## Hard creative override: dual-viewer popcorn review
+**This is now the primary editorial pass under POPCORN_STANDARD.md, not an optional aesthetic consideration.** A technically accurate and beautiful script can earn REVISE or REFRAME because a viewer would not voluntarily watch it. Audit the full work as an entertaining documentary, not a case-study assignment.
+
+**Pass A, newcomer:** read from cold; name first confusion, first real hook/reward, where you would be tempted to click away, and how a novice understands the actual economics without rewinding.
+
+**Pass B, informed veteran:** presume the viewer knows the headline, chronology, conventional take and famous outcome. Identify the specific **verified or carefully reasoned new strategic lens** (incentives, contractual rights, counterfactual alternatives and their costs, valuation vs ownership, second-order effects, misunderstood causal constraint). Explain the *evidence and paragraph anchors*. If the answer is merely 'product-market fit matters,' 'leadership failed' or repeated facts, fail expert.
+
+**Pass C, popcorn test:** create an opening + major-movement beat-by-beat audit (especially the slowest 60–120 seconds): `P anchor | audience expectation before | new evidence/choice/reversal | expectation after | precise reason to watch next | keep/cut/reorder/re-research`. Need not force a revelation each 30 seconds, but DO require development rather than list-of-events. For known stories, create suspense about HOW/WHY, not pretend WHO/WHAT is unknown.
+
+**Pass D, integration:** prove the highest-value insight unfolds *through* story/characters/decisions, not via a detached conclusion. If a sophisticated point is unwatchably abstruse, use an intelligible comparison/real decision. If a plot beat carries no intellectual reward, make it earn its time or cut it.
+
+Record `NEWCOMER verdict`, `EXPERT verdict`, `POPCORN-GOOD verdict` with concrete failures/fixes and script line/paragraph anchors. The weakest single major movement must be stated, even if verdict passes. Avoid unearned 9/10s, superficial praise, cosmetic edits, magic-retention formulas and promises of virality. In REVIEW_AND_REVISE, actually change the structure where needed, then independently re-test the new full script. The reviewer must be willing to say DO NOT SHIP on boring work. Preserve source verification and exact script hash/version conventions.
+
+**Visual direction ownership correction:** any legacy direction here saying the editor owns the story's visuals is superseded by EDITOR_HANDOFF_STANDARD.md. Green Knight writes working performance and visual directors; final released 03 specifies what visibly changes and why, while editor chooses feasible implementation.
