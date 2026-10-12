@@ -20,7 +20,7 @@ Names do not justify duplicate lanes. A company can feature on several channels 
 1. Read [AGENTS.md](AGENTS.md), then the chosen channel's README and start-a-chat prompt.
 2. Read the [workflow](WORKFLOW.md) and [shared idea registry](ideas/registry.json).
 3. Generate ideas in the [standard format](IDEATION.md), then let the user select.
-4. Research, synthesize, write one complete script with a non-spoken first-line `TITLE: <metadata.title>` header, revise internally, and produce separate audio guidance and research references, with visual treatment left to the editor.
+4. Research, synthesize and develop the script, working narration direction and working visual direction together (including thumbnail and opening); review and finalize all three before editor-packet release.
 5. Save the actual artifacts and update the registry in the same commit.
 
 [Narration production](NARRATION_STANDARD.md), [editorial stage gates](EDITORIAL_REVIEW.md) and [lane routing](LANE_ROUTING.md) govern quality and consistency. [YouTube guidance](YOUTUBE_GUIDANCE.md) separates official platform guidance from our editorial hypotheses. [Templates](templates/story/README.md) give every story the same files. [Pilot acceptance](PILOT_ACCEPTANCE.md) gives us a consistent way to compare editors before ordering batches.
@@ -41,7 +41,7 @@ All eight channel workspaces are built. Voice selection, integrated visual pilot
 
 [Story-first engagement](ENGAGEMENT_STANDARD.md) defines the broad-audience learning experience, eight story engines and internal newcomer/skeptic review. Use it for ideation, outlines, scripts, production and learning.
 
-[Editor handoff boundary](EDITOR_HANDOFF_STANDARD.md): supply the clean script, audio guide and concise research references. Visual treatment belongs to the editor.
+[Director-owned editor handoff](EDITOR_HANDOFF_STANDARD.md): Green Knight directs the documentary's spoken and visual story; the editor executes it with technique flexibility. Only three approved instruction files are sent.
 
 ## Creative north star and October 11 audit
 
@@ -49,3 +49,6 @@ All eight channel workspaces are built. Voice selection, integrated visual pilot
 
 ## Director-owned three-file packet (current rule)
 The old editor-owned visual handoff summary above is superseded. Green Knight directs story, thumbnail, first frame, cinematic opening, performance and visual narrative; the editor executes. See EDITOR_HANDOFF_STANDARD.md and DIRECTOR_PACKET_REVIEW.md. Each fully revised, individually and jointly approved video delivers exactly three editor-facing files in story/editor-packet/: 01_SCRIPT.txt, 02_NARRATION_DIRECTOR.md and 03_VISUAL_DIRECTOR.md. Working evidence, research, packaging, QA and registry remain separate. Legacy scripted episodes must pass the new gate before editor packet release.
+
+## Operational command shortcut
+See [OPERATIONS_QUICKSTART.md](OPERATIONS_QUICKSTART.md) for create → review/revise → editor delivery QA and the five agreed final deliverables. Voice Design prompts are exploratory; `narration.json` must actually be approved before a packet ships.

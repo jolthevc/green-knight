@@ -11,7 +11,7 @@ This workspace implements the owner's manual ChatGPT process. Its local GitHub l
 - New chats cannot rely on memory. Fetch actual current repository files and record the branch/commit read.
 - Read the entire global ledger, including rejected, archived, scripted and published ideas, before ideation. Check both topic and mechanism, not just title similarity.
 - Present exactly the number of ideas requested in the documented format. Persist proposals if repository writing is available. Do not select a topic for the user unless delegated.
-- Once a topic is selected, reserve its idea and story IDs, research deeply, develop a defensible thesis and internal outline, write the complete spoken draft in one go, review it, then add audio guidance and concise research references, leaving visual treatment to the editor.
+- Once a topic is selected, reserve its idea and story IDs, research deeply, develop a defensible thesis and internal outline, write the complete spoken draft in one go, then develop corresponding working narration and visual directors and underlying evidence. The editor executes the approved story treatment rather than inventing it.
 - Do not require approvals for research, outline, each paragraph or routine revisions. Ask only when an unresolved decision materially changes the selected concept, budget or editorial premise.
 - Browse original sources for research. Never fabricate facts, quotes, URLs, footage, analytics or source access. If browsing is unavailable, mark research blocked and explain what is missing.
 - Money Moves research must establish the constraint, alternatives, information available at the time, execution, causal mechanism and competing explanations. Do not invent decisions, dialogue or hindsight certainty.
@@ -48,9 +48,8 @@ Published: verified public URL and publication date recorded.
 
 Read ENGAGEMENT_STANDARD.md before ideation, outlining, scripting or reviewing. Use a familiar entry, earned early value and discoveries that change understanding. Apply its newcomer and informed-skeptic lenses before marking scripted; record the results in synthesis-and-outline.md and qa.md. These are internal editorial judgments unless real participants were consulted. Never substitute suspense or visual activity for missing explanation.
 
-## Editor owns visual treatment
-
-Read EDITOR_HANDOFF_STANDARD.md. Create narration-guide.md and research-for-editor.md matching the exact script/cues/evidence. Send the clean package only, without visual descriptions, shot lists, prompts, palettes, fonts or storyboards. Keep internal content coverage separate; visual-plan.md records editor ownership and later actual proposals.
+## Director owns visual direction
+Read EDITOR_HANDOFF_STANDARD.md and DIRECTOR_PACKET_REVIEW.md. Prepare full working narration and visual directions at episode creation, then release only the three approved final editor-packet instructions after independent and integrated QA. The editor retains practical execution freedom. Research and internal reviews are not editor-facing documents.
 
 ## Network creative mandate (2026-10-11)
 
@@ -64,3 +63,13 @@ Read the **Editor clarity and decision hierarchy** section of EDITOR_HANDOFF_STA
 
 ## Finished editor delivery QC (mandatory)
 For a submitted editor video, thumbnail, narration audio, SEO or SRT, read [DELIVERY_QA_STANDARD.md](DELIVERY_QA_STANDARD.md) and the approved story editor-packet. Check the five agreed deliverables, audit exact speech/voice, executed visuals, technical issues, subtitles and upload chapters, and save versioned timecoded QC results. Distinguish inability to listen/view from a passing grade. This post-production gate does not add files to the three-document **instruction packet**. Consolidate one Fiverr revision request and verify subsequent cuts against it.
+
+## One-command operating triggers (all eight channels)
+An instruction to **create an episode / write the script** after an idea is selected means do the research and complete initial development of all three creative components: exact canonical script, a full **working** narrator director (verbatim spoken text and usable non-spoken performance instructions), and a **working** visual director (one selected title/thumbnail concept, concrete first frame and opening, scene-by-scene P/S transformations, factual asset/text limits and sound/transition cues). Save these drafts outside the final `editor-packet/`; no separate user prompt for narration and visual direction is needed. An explicit script-only request overrides this default.
+
+A command to **review and revise** means cold-review script, narration director, visual director and their integration; implement justified changes, re-review and synchronize version/hash/anchors. Release exactly three final `editor-packet/` files only after all gates pass. **Unselected voice is a release blocker**, not an excuse to skip preparing thorough working drafts. State NOT READY and the precise blocker rather than silently releasing placeholders.
+
+A command to **review editor delivery** means compare available MP4/thumbnail/clean narration/SEO chapters/SRT against the released three-file packet under DELIVERY_QA_STANDARD.md; log findings with actual timestamps and inspection methods, write one clear editor revision request, and recheck revisions. Film acceptance and publishing are distinct from editor-packet approval and require owner direction.
+
+For batch operation, the owner may prepare all ten approved packets at once and negotiate two five-video milestones. Do not assume a daily script-send cadence, production deadlines, revision count, overlapping work, payment terms or ElevenLabs sharing until agreed. The first film should establish alignment before parallel production.
+

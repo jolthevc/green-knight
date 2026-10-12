@@ -42,9 +42,8 @@ Publishing is a separate action. A reviewed production sample cannot justify set
 
 Alongside technical scoring, inspect whether a curious newcomer can follow the opening and money/control mechanism, whether each major beat earns continued interest, and whether the final insight changes understanding. Apply ENGAGEMENT_STANDARD.md. If feasible, obtain voluntary feedback from a real newcomer and an informed viewer: what did they learn, where did they become confused or want to stop, and what can they explain afterward? Record actual participant feedback and timestamps separately from internal editorial judgments. This is useful qualitative feedback, not proof of future retention or virality.
 
-## Editor-led treatment
-
-Apply EDITOR_HANDOFF_STANDARD.md. Give the editor the clean script, audio guide and concise research support. Let them select the visual treatment for the integrated pilot. Assess the actual result for clarity, fidelity and sustainable consistent identity; do not prescribe scenes, palette, fonts or animation.
+## Director-led treatment
+Apply EDITOR_HANDOFF_STANDARD.md and the three reviewed instructions. Green Knight directs the opening, visual storytelling, thumbnail and voice performance. The editor may propose practical equivalent techniques but not replace the narrative concept unilaterally. Evaluate the actual rendered and audible result; a paper review does not substitute for real inspection.
 
 ## Creative and mass-audience acceptance
 

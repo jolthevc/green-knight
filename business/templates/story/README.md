@@ -13,11 +13,11 @@ Copy this directory, excluding README.md, into the selected channel's stories/<s
 | script.txt | First line `TITLE: <metadata.title>`, blank line, then complete clean spoken narration; the header is not spoken |
 | delivery-cues.json | Non-spoken directions tied to exact script hash/version |
 | voice-production.md | Pronunciations, takes, retakes and actual listening record |
-| visual-plan.md | Internal editor-owned record awaiting actual proposal |
+| visual-plan.md | Internal Green Knight-directed visual sequence and action plan |
 | packaging.md | Titles, thumbnails, description, chapters and CTA |
 | narration-guide.md | Readable audio directions matching canonical cues |
 | research-for-editor.md | Concise factual support for the editor |
-| handoff.md | Clean audio/research handoff without visual descriptions |
+| handoff.md | Internal three-file release log and unresolved blocker status |
 | qa.md | Editorial checks, production checks and approval status |
 | performance.md | Verified upload and post-publication learning |
 
@@ -27,7 +27,7 @@ metadata.status and registry.status must agree. Increase script_version when wor
 
 Use [editorial review](../../EDITORIAL_REVIEW.md) for stage gates and [narration standard](../../NARRATION_STANDARD.md) for profiles and listening. voice-production.md is populated during production, not fabricated at scripted. evidence.json must be populated before researched; script references become mandatory at scripted.
 
-Follow EDITOR_HANDOFF_STANDARD.md. Do not send internal visual/packaging plans or full editorial audits as mandatory editor inputs.
+Follow EDITOR_HANDOFF_STANDARD.md. Develop full working narration and visual directions upon episode creation. Send only three approved final editor-packet instructions; never send internal reviews or alternative concepts as editor requirements.
 
 On the Map uses OTM-I####/OTM-V####. Keep its geographic scope, origin/persistence evidence, alternative explanation, beneficiaries and constraints in the existing brief/research/synthesis files; consult channels/on-the-map/RESEARCH_STANDARD.md. No additional storyboard is required.
 
