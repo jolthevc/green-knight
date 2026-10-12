@@ -22,3 +22,6 @@
 Name and 8–10 minute runtime are set. Illustrated case-file storytelling, with miniature-style scenes, real documents and selective movement, is the direction discussed with the editor. Exact colors and fonts below are pilot recommendations, not previously approved production assets.
 
 Voice, price, cadence and final visual sample remain open. Five earlier sample topics are imported as proposed and unresearched; no episode is selected or completed. Familiar downfall myths are questions to investigate, not premises to accept.
+
+## Current production and delivery rules
+An episode-creation request develops the research, script, full **working narration director**, and **working visual director** together. Review/revise checks all three and integration, releasing only the three final editor-packet files after approval. The selected narrator must be genuinely approved, not inferred from ElevenLabs prompt drafts. Completed video QA follows [network Delivery QA](../../DELIVERY_QA_STANDARD.md): MP4, thumbnail, clean narration, SEO title/description/tags/verified chapters, and synchronized SRT. Read [Operations Quickstart](../../OPERATIONS_QUICKSTART.md). The editor executes our visual narrative with reasonable production freedom.

@@ -24,3 +24,6 @@
 Runtime is 8–10 minutes. The financial-caper visual direction below is a new pilot proposal, not a recovered approved reference. Name, exact art direction, voice, pricing and cadence remain open.
 
 Five earlier finance-story topics are imported as proposed and unresearched. No episode has been selected or produced. DH is the stable identifier prefix for this deal-history workspace; it avoids confusion with the existing portfolio's CH identifiers.
+
+## Current production and delivery rules
+An episode-creation request develops the research, script, full **working narration director**, and **working visual director** together. Review/revise checks all three and integration, releasing only the three final editor-packet files after approval. The selected narrator must be genuinely approved, not inferred from ElevenLabs prompt drafts. Completed video QA follows [network Delivery QA](../../DELIVERY_QA_STANDARD.md): MP4, thumbnail, clean narration, SEO title/description/tags/verified chapters, and synchronized SRT. Read [Operations Quickstart](../../OPERATIONS_QUICKSTART.md). The editor executes our visual narrative with reasonable production freedom.
