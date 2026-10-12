@@ -1,21 +1,27 @@
-# Editor handoff boundary
+# Green Knight director-owned editor packet standard
 
-We supply the researched story and audio direction. The editor owns visual conception and execution. This owner instruction supersedes earlier requirements to send shot lists, image prompts, typography, palettes, animation directions or scene descriptions with each episode.
+**This document supersedes every older editor-owned visual-treatment and multi-file handoff rule throughout business/, channel instructions, templates and reviews.** All eight channels apply it.
 
-## Default package
-- handoff.md: concise premise, exact inputs, runtime, agreed scope and review requirements.
-- script.txt: the first line is the required **non-spoken** `TITLE: <metadata.title>`, then a blank line and the sole authoritative narration body. Editors/voice engines must exclude that header from audio and timing.
-- narration-guide.md: readable tone, sparse paragraph cues, timing and pronunciation checks.
-- research-for-editor.md: concise factual context, useful source links and accuracy limits.
-- delivery-cues.json: optional technical companion, never spoken input.
+## Role division
+Green Knight owns researched truth, exact narration, dramatic movements, title/thumbnail/click promise, visually choreographed first frame and 20–35 second cold open, recurrent imagery, transformations, shot intentions, on-screen editorial text, sound/breathing points, and factual constraints. The editor produces illustrations/assets, animation, voice takes, compositing, music mix and final film within agreed economics. Encourage editor execution improvements, but do not delegate construction of the documentary's core visual argument.
 
-The readable guide and cue JSON must match the same script version/hash. Do not maintain a rewritten narration copy. Voice-production.md is the internal profile/takes/listening record.
+## Exactly three editor-facing documents
+Only the final three documents belong in each video folder's `editor-packet/`:
+- **01_SCRIPT.txt**: byte-identical to approved canonical `script.txt`, including non-spoken TITLE header. Narration body after first blank line is the single authoritative spoken copy, no cue markup.
+- **02_NARRATION_DIRECTOR.md**: the COMPLETE unchanged narration body with clearly separate non-spoken directives and exact paragraph/sequence IDs, including phrasing, emphasis, varied speed, breath, numerical pronunciation, pauses, section-level dramatic intent and emotional restraint. Spoken text must equal 01 exactly. Never paste voice directions into TTS as spoken text; actual AI voices may need segmented takes, timing edits and supported controls.
+- **03_VISUAL_DIRECTOR.md**: title and thumbnail direction (3 truthful title approaches, 2 distinct thumbnail concepts, a selected pairing and actual phone-size composition); thumbnail-title-first-frame-opening payoff alignment; two plausible visual hooks considered, chosen beat-by-beat cold open; 4–6 flexible dramatic movements with narrator and image breathing points; roughly 6–9 connected visual sequences (flexible), persistent environments and recurring objects, transformations and meaningful comparison rather than literal noun-by-noun stills, documentary evidence/asset sourcing, exact key on-screen text, selective short emphasis cards, audio/music/silence cues, section dividers, final image callback and budget/production feasibility. The packet is a director's treatment, not fifty prescriptive asset prompts.
 
-Keep research.md, sources-and-claims.md, evidence.json, synthesis-and-outline.md, packaging.md and qa.md internal. Provide deeper research when requested, rather than making every file required editor reading. Do not link visual descriptions indirectly through the handoff. Existing channel style guides remain internal proposals or records; share references separately only when the owner requests them.
+Never put a fourth file in editor-packet; internal research, evidence, metadata, packaging, QA, cue JSON, detailed reviews and editor-source history remain outside. Any concise editor-needed verified source links and usage limitations belong in 03. Video, thumbnail, clean audio, optional caption track and agreed editable sources are RETURN deliverables, not instruction documents.
 
-## Creative ownership and accuracy
-The editor proposes visual treatment, scene choices, imagery, graphics, typography, motion and sound design within agreed scope. Factual constraints still apply: distinguish illustration from evidence, allegations from findings and announced terms from completed transactions. Never invent documents, quotations, events or historical labels. These are accuracy requirements, not visual prescriptions.
+## Narrative grammar and creative standard
+Design the opening as its own miniature cinematic sequence, not a slow intro or logo. Thumbnail is a composed miniature poster, not a random still, and cannot misrepresent the story. Opening must quickly fulfill its click promise, supply an earned partial answer, and lead into escalating consequence.
 
-visual-plan.md remains for compatibility as an internal editor-owned production record. At scripted it can explicitly record that treatment awaits the editor. Evidence scene records provide paragraph/content coverage and sources, not a required storyboard. Omit optional visual/on-screen-text/effort fields that prescribe execution. Existing internal packaging concepts are not sent as thumbnail instructions.
+Movements have distinct dramatic jobs and appropriately restrained transition beats. A pause can be a held composition, a music shift, silence, a return to an earlier image, or very brief editorial lettering. Avoid forced Chapter 1/2 cards, generic interstitials, or arbitrary timing quotas. Use the same illustrated universe as it changes on screen: accumulate, remove, transfer, contrast, reveal, return. Selective documentary evidence adds texture; fictional archival artifacts masquerading as genuine evidence are forbidden. Accurate selectable closed captions are good; default permanent full word-for-word subtitles are not. Short facts/figures/quotes must be accurate and readable on a phone.
 
-Initial voice selection and visual identity review continue through the existing editor-led pilot, without adding a new per-episode approval gate. No commissioning, communication or publication is implied.
+## Review and revision: all three, every time
+Read [DIRECTOR_PACKET_REVIEW.md](DIRECTOR_PACKET_REVIEW.md). Every user-requested review/revise/finalize call performs an independent pass on **script**, **narration direction**, **visual direction**, then a shared-film integration pass. If a file is still missing, report NOT READY and create/revise its working draft instead of silently approving. Cross-check same version/full-byte script SHA256, exact narrated words, paragraph and sequence IDs, promise/payoff, movement breaks, music/pause/image choreography and fact provenance. Record specific verdicts/fixes for 01, 02, 03 and combined integration, then re-review after revisions; keep reports in story `reviews/` and summary in `qa.md`. Do not claim actual listening without audio.
+
+Script or title changes increment script_version and change SHA; resynchronize evidence/claims/cues/metadata, regenerate and re-review 02 and 03. Performance or visual-only edits preserve spoken hash but still require integration review. Previously scripted episodes are not assumed packet-ready. **Only produce the three final files in editor-packet/ after all revisions, no blockers and recorded integrated approval.** If a released upstream source changes, mark packet STALE in internal QA and regenerate/re-review before handing it to the editor. The existing registry statuses are unchanged absent actual stage transition; packet release is a separate gate.
+
+## Initial execution test
+Before commissioning a whole episode from an unproven editor, inspect a real 30–90-second integrated sample with narration pace, a visual transformation and movement transition. Then review the completed 8–10 minute cut, thumbnail, sound, runtime, captions and sourcing honestly. Do not invent view data, approved edits or licensing.

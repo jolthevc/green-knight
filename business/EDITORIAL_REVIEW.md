@@ -55,3 +55,6 @@ Apply ENGAGEMENT_STANDARD.md during the existing internal editorial review, not 
 ## Handoff ownership
 
 Apply EDITOR_HANDOFF_STANDARD.md. Content coverage is not an approved storyboard. A script-stage visual-plan.md may explicitly await the editor's proposal. Narration-guide.md must match canonical cues; research-for-editor.md must match evidence. Sending visual descriptions is outside the default handoff.
+
+## Final editor-packet readiness
+Supersedes editor-ownership language above. Scripted stage does not imply editor-packet-ready. Assess script, full text + directed narration, thumbnail/opening + sequence visual plan, and integration separately, document four verdicts in reviews/ and qa.md, then create exactly three final export files. If 01 changes version/hash, recheck evidence/cues and rebuild 02/03; if 02 or 03 changes, redo combined review. Unapproved legacy stories remain pending.

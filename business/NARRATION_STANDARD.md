@@ -75,3 +75,6 @@ Check omissions, repeated lines, added words, cues spoken aloud, pronunciation, 
 Keep music below clearly intelligible speech, especially beneath evidence and calculations. Avoid pumping levels and mask-free claims without listening. Supply a clean voice track and agreed master/export formats; do not pretend upsampling adds recorded detail.
 
 Record actual audio/video URLs, duration, script hash, reviewer/date and corrections in metadata and voice-production.md. Final approval is tied to the exact cut and script, not to an earlier audition.
+
+## Current directed performance output
+Production takes the full-text 02_NARRATION_DIRECTOR.md from the reviewed editor-packet, not raw transcript plus generic “curious” tone. Mark cues as non-spoken; include dynamic pace and deliberate pauses for comprehension, transitions, factual figures and ending. AI voices may require separately rendered takes and manual editing. Narration pauses coordinate with 03_VISUAL_DIRECTOR.md. Do not accelerate full text merely to fit runtime; measured audio gates actual release.

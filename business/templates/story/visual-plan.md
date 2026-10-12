@@ -1,11 +1,2 @@
-# Editor-owned visual production record
-
-Internal record, excluded from the default editor package.
-
-Treatment: awaiting editor proposal. No scene descriptions, shot list, typography, palette or animation directives are supplied.
-
-Evidence.json owns paragraph/content coverage and source relationships, not visual execution. Review actual editor-proposed assets for factual accuracy, readability and agreed identity.
-
-Actual proposal/reference, once supplied:
-Review/date, once performed:
-No proposal or production inspection is claimed at template stage.
+# Internal director-owned visual plan
+Draft the full title-thumbnail-first-frame-opening promise, 4–6 dramatic movements, 6–9 connected visual sequences, persistent worlds, factual evidence assets, meaningful visual transformations and breath/sound transitions. Cross-reference script paragraphs and claims. This is the working internal document, not an editor-facing fourth file. Release finished direction in editor-packet/03_VISUAL_DIRECTOR.md only after final combined review. Read EDITOR_HANDOFF_STANDARD.md.

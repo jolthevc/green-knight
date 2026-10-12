@@ -30,3 +30,6 @@ Use [editorial review](../../EDITORIAL_REVIEW.md) for stage gates and [narration
 Follow EDITOR_HANDOFF_STANDARD.md. Do not send internal visual/packaging plans or full editorial audits as mandatory editor inputs.
 
 On the Map uses OTM-I####/OTM-V####. Keep its geographic scope, origin/persistence evidence, alternative explanation, beneficiaries and constraints in the existing brief/research/synthesis files; consult channels/on-the-map/RESEARCH_STANDARD.md. No additional storyboard is required.
+
+## New mandatory editor packet template
+Copy editor-packet/ only as internal scaffolding; its placeholders are not approved deliverables. The *final*, after revisions editor-packet has precisely 01_SCRIPT.txt, 02_NARRATION_DIRECTOR.md, 03_VISUAL_DIRECTOR.md and nothing else. Only release after separate reviews of the script, full-text performance guide, visual thumbnail/opening/sequence guide and their integration (DIRECTOR_PACKET_REVIEW.md). Former “editor owns treatment” restrictions above are superseded.
