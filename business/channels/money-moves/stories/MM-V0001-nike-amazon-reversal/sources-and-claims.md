@@ -14,7 +14,7 @@ Canonical machine ledger: evidence.json. All accessed 2026-10-12.
 - **S008** NIKE Investor Relations, 2026-07-15: Fiscal 2026 10-K. https://investors.nike.com/sec-filings/all-sec-filings/content/0000320187-26-000088/nke-20260531.htm. Locator: Form 10-K pp32-33, FY2026 Nike Brand channel revenues. 
 - **S009** NIKE Investor Relations, 2026-10-02: Fiscal 2027 Q1 10-Q. https://investors.nike.com/sec-filings/all-sec-filings/content/0000320187-26-000193/nke-20260831.htm. Locator: Item 2 Nike Brand channels and North American segment pp22-26. 
 - **S010** NIKE Corporate editorial, undated: Nike's CEO of Sport is Taking the Swoosh Back to Its Roots. https://about.nike.com/en/magazine/elliott-hill-ceo-of-sport-interview. Locator: paragraph around retailer relations and wholesalers as product feedback. Company retrospective; not independent causal proof
-- **S011** MarketBeat, 2025-06-26: Nike fiscal Q4 2025 earnings call transcript. https://www.marketbeat.com/earnings/reports/2025-6-26-nike-inc-stock/. Locator: Amazon Q&A; small start and not a material near-term needle mover. Third-party call transcript, confirm official webcast before packet release
+- **S011** NIKE, Inc. investor relations, 2025-06-26: NIKE, Inc. FY25 Q4 earnings conference call official transcript. https://s1.q4cdn.com/806093406/files/doc_financials/2025/q4/NIKE-Inc-Q4FY25-OFFICIAL-Transcript_-FINAL.pdf. Locator: Official PDF p. 23 (zero-based 22), Matt Friend's response to Adrienne Yih: Amazon Q1 start small, not a material needle mover. Verified directly against the official transcript.
 
 ## Claims crosswalk
 
