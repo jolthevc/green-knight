@@ -14,6 +14,6 @@ Story MM-V0001, idea MM-I0003, script version 1, SHA 6754e64961fd3af7f0094493631
 
 **NEWCOMER: PASS** as internal editorial judgment, not live test. **EXPERT: PASS WITH CAUSAL QUALIFICATIONS:** Differentiates continued third-party Amazon selling from direct supply, customer-discovery/feedback from margin-only economics, and worldwide versus local outcomes. Specific incremental Nike discovery effect is hypothesized, not measured. **POPCORN-GOOD: DEVELOPMENT PASS**, not approved film.
 
-**Not production-ready:** Narrator profile v0 remains unselected; visual profile v0 not approved. Working 02 full-text narration and 03 scene-by-scene visual treatment exist, but neither has been auditioned/rendered, and no independent cold final packet review or actual listening has occurred. Source S011 is a reproduced call transcript and should be cross-checked against official Nike call recording prior to editor release.
+**Not production-ready:** Narrator profile v0 remains unselected; visual profile v0 not approved. Working 02 full-text narration and 03 scene-by-scene visual treatment exist, but neither has been auditioned/rendered, and no independent cold final packet review or actual listening has occurred. S011 is Nike's official earnings-call transcript, verified on PDF page 23.
 
 **Verdicts:** Script text STRONG for development; narration plan complete but voice blocked; visual plan complete but approved reference blocked; conceptual integration coherent, untested on actual cut. Final editor-packet **NOT RELEASED**.
