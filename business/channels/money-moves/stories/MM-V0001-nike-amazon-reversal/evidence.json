@@ -1,0 +1,691 @@
+{
+  "schema_version": 1,
+  "script_version": 1,
+  "script_sha256": "6754e64961fd3af7f009449363145e0248b7a4f95e810e181392bc275bf6e0da",
+  "sources": [
+    {
+      "id": "S001",
+      "publisher": "GeekWire",
+      "title": "Nike confirms plan to sell products on Amazon starting with limited pilot",
+      "url": "https://www.geekwire.com/2017/nike-confirms-plan-sell-products-amazon-starting-limited-pilot/",
+      "published_at": "2017-06-29",
+      "accessed_at": "2026-10-12",
+      "access_status": "opened",
+      "locator": "paras 6-12; 2017 Parker earnings comments",
+      "limitations": null
+    },
+    {
+      "id": "S002",
+      "publisher": "Retail Dive",
+      "title": "Nike to stop selling on Amazon",
+      "url": "https://www.retaildive.com/news/nike-to-stop-selling-on-amazon/567240/",
+      "published_at": "2019-11-13",
+      "accessed_at": "2026-10-12",
+      "access_status": "opened",
+      "locator": "Dive Brief; quoted Nike statement ending Amazon Retail pilot",
+      "limitations": null
+    },
+    {
+      "id": "S003",
+      "publisher": "NIKE Investor Relations",
+      "title": "Fiscal 2020 10-K",
+      "url": "https://investors.nike.com/sec-filings/all-sec-filings/content/0000320187-20-000047/nke-531202010k.htm",
+      "published_at": "2020-07-24",
+      "accessed_at": "2026-10-12",
+      "access_status": "opened",
+      "locator": "Item 7, Consumer Direct Acceleration",
+      "limitations": null
+    },
+    {
+      "id": "S004",
+      "publisher": "NIKE SEC Filing",
+      "title": "Fiscal 2022 10-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/320187/000032018722000038/nke-20220531.htm",
+      "published_at": "2022-07-08",
+      "accessed_at": "2026-10-12",
+      "access_status": "opened",
+      "locator": "Business section; NIKE Direct 42% / fewer wholesale accounts",
+      "limitations": null
+    },
+    {
+      "id": "S005",
+      "publisher": "NIKE Investor Relations",
+      "title": "Fiscal 2025 10-K",
+      "url": "https://investors.nike.com/sec-filings/all-sec-filings/content/0000320187-25-000047/nke-20250531.htm",
+      "published_at": "2025-07-17",
+      "accessed_at": "2026-10-12",
+      "access_status": "opened",
+      "locator": "Fiscal 2025 Financial Highlights and Supplemental Nike Brand Revenues",
+      "limitations": null
+    },
+    {
+      "id": "S006",
+      "publisher": "Associated Press via OPB",
+      "title": "Nike to start selling its products directly on Amazon's US website again",
+      "url": "https://www.opb.org/article/2025/05/22/nike-to-start-selling-its-products-directly-on-amazon-s-us-website-again/",
+      "published_at": "2025-05-22",
+      "accessed_at": "2026-10-12",
+      "access_status": "opened",
+      "locator": "paras 37-46; statements from Nike and Amazon on resuming direct sourcing",
+      "limitations": null
+    },
+    {
+      "id": "S007",
+      "publisher": "Reuters",
+      "title": "Nike set to raise prices next week plans to sell on Amazon again",
+      "url": "https://www.reuters.com/business/retail-consumer/nike-raise-prices-by-next-week-return-selling-amazon-media-reports-say-2025-05-21/",
+      "published_at": "2025-05-21",
+      "accessed_at": "2026-10-12",
+      "access_status": "opened",
+      "locator": "BACK AT AMAZON section paras 175-185",
+      "limitations": null
+    },
+    {
+      "id": "S008",
+      "publisher": "NIKE Investor Relations",
+      "title": "Fiscal 2026 10-K",
+      "url": "https://investors.nike.com/sec-filings/all-sec-filings/content/0000320187-26-000088/nke-20260531.htm",
+      "published_at": "2026-07-15",
+      "accessed_at": "2026-10-12",
+      "access_status": "opened",
+      "locator": "Form 10-K pp32-33, FY2026 Nike Brand channel revenues",
+      "limitations": null
+    },
+    {
+      "id": "S009",
+      "publisher": "NIKE Investor Relations",
+      "title": "Fiscal 2027 Q1 10-Q",
+      "url": "https://investors.nike.com/sec-filings/all-sec-filings/content/0000320187-26-000193/nke-20260831.htm",
+      "published_at": "2026-10-02",
+      "accessed_at": "2026-10-12",
+      "access_status": "opened",
+      "locator": "Item 2 Nike Brand channels and North American segment pp22-26",
+      "limitations": null
+    },
+    {
+      "id": "S010",
+      "publisher": "NIKE Corporate editorial",
+      "title": "Nike's CEO of Sport is Taking the Swoosh Back to Its Roots",
+      "url": "https://about.nike.com/en/magazine/elliott-hill-ceo-of-sport-interview",
+      "published_at": null,
+      "accessed_at": "2026-10-12",
+      "access_status": "opened",
+      "locator": "paragraph around retailer relations and wholesalers as product feedback",
+      "limitations": "Company retrospective; not independent causal proof"
+    },
+    {
+      "id": "S011",
+      "publisher": "MarketBeat",
+      "title": "Nike fiscal Q4 2025 earnings call transcript",
+      "url": "https://www.marketbeat.com/earnings/reports/2025-6-26-nike-inc-stock/",
+      "published_at": "2025-06-26",
+      "accessed_at": "2026-10-12",
+      "access_status": "opened",
+      "locator": "Amazon Q&A; small start and not a material near-term needle mover",
+      "limitations": "Third-party call transcript, confirm official webcast before packet release"
+    }
+  ],
+  "claims": [
+    {
+      "id": "C001",
+      "paragraph_id": "P001",
+      "anchor": "In 2019, Nike walked away from selling directly to A",
+      "claim": "In 2019, Nike walked away from selling directly to Amazon. The world's most famous sportswear company wanted more control over its products and custom",
+      "source_ids": [
+        "S002",
+        "S006"
+      ],
+      "status": "verified",
+      "basis": "Contemporaneous report, management statement or reported SEC-filing metric; source has date and locator"
+    },
+    {
+      "id": "C002",
+      "paragraph_id": "P002",
+      "anchor": "Search for Nike sneakers during those years and you ",
+      "claim": "Search for Nike sneakers during those years and you could still find them. Independent merchants were selling Nike products on Amazon's marketplace. N",
+      "source_ids": [
+        "S006"
+      ],
+      "status": "verified",
+      "basis": "Contemporaneous report, management statement or reported SEC-filing metric; source has date and locator"
+    },
+    {
+      "id": "C003",
+      "paragraph_id": "P003",
+      "anchor": "Imagine you're looking for running shoes. You might ",
+      "claim": "Imagine you're looking for running shoes. You might open Nike's app because you know exactly which model you want. Or you might open a giant online st",
+      "source_ids": [
+        "S006"
+      ],
+      "status": "inference",
+      "basis": "Carefully qualified strategic inference / illustrative hypothetical; not quantified as observed Nike causal result"
+    },
+    {
+      "id": "C004",
+      "paragraph_id": "P004",
+      "anchor": "To understand why Nike was willing to leave, we have",
+      "claim": "To understand why Nike was willing to leave, we have to go back to 2017. Nike agreed to a limited pilot selling products directly to Amazon. Its chief",
+      "source_ids": [
+        "S001"
+      ],
+      "status": "verified",
+      "basis": "Contemporaneous report, management statement or reported SEC-filing metric; source has date and locator"
+    },
+    {
+      "id": "C005",
+      "paragraph_id": "P005",
+      "anchor": "The relationship also sat inside a thornier problem.",
+      "claim": "The relationship also sat inside a thornier problem. Amazon had a marketplace filled with independent sellers. Some offered genuine shoes acquired thr",
+      "source_ids": [
+        "S001",
+        "S006"
+      ],
+      "status": "inference",
+      "basis": "Carefully qualified strategic inference / illustrative hypothetical; not quantified as observed Nike causal result"
+    },
+    {
+      "id": "C006",
+      "paragraph_id": "P006",
+      "anchor": "Then came 2019. Nike announced it was ending that li",
+      "claim": "Then came 2019. Nike announced it was ending that limited pilot to focus on closer, more personal relationships with customers. It would still work wi",
+      "source_ids": [
+        "S002"
+      ],
+      "status": "verified",
+      "basis": "Contemporaneous report, management statement or reported SEC-filing metric; source has date and locator"
+    },
+    {
+      "id": "C007",
+      "paragraph_id": "P007",
+      "anchor": "There were real alternatives. Nike could keep the Am",
+      "claim": "There were real alternatives. Nike could keep the Amazon pilot, push for different marketplace terms, restrict the assortment, or concentrate on its o",
+      "source_ids": [
+        "S001",
+        "S002"
+      ],
+      "status": "inference",
+      "basis": "Carefully qualified strategic inference / illustrative hypothetical; not quantified as observed Nike causal result"
+    },
+    {
+      "id": "C008",
+      "paragraph_id": "P008",
+      "anchor": "The strongest argument for Nike's own stores is easy",
+      "claim": "The strongest argument for Nike's own stores is easy to understand. A customer visits Nike's website. Nike controls the photographs, the surrounding p",
+      "source_ids": [
+        "S003"
+      ],
+      "status": "inference",
+      "basis": "Carefully qualified strategic inference / illustrative hypothetical; not quantified as observed Nike causal result"
+    },
+    {
+      "id": "C009",
+      "paragraph_id": "P009",
+      "anchor": "There is an appealing financial argument too. When a",
+      "claim": "There is an appealing financial argument too. When a brand sells through a retailer, the retailer needs a margin. When it sells directly, the brand ma",
+      "source_ids": [
+        "S003"
+      ],
+      "status": "inference",
+      "basis": "Carefully qualified strategic inference / illustrative hypothetical; not quantified as observed Nike causal result"
+    },
+    {
+      "id": "C010",
+      "paragraph_id": "P010",
+      "anchor": "So the gamble was not simply about keeping more doll",
+      "claim": "So the gamble was not simply about keeping more dollars from a shoe. It was about doing more of the retail job. If customers already knew what they wa",
+      "source_ids": [
+        "S003"
+      ],
+      "status": "inference",
+      "basis": "Carefully qualified strategic inference / illustrative hypothetical; not quantified as observed Nike causal result"
+    },
+    {
+      "id": "C011",
+      "paragraph_id": "P011",
+      "anchor": "The pandemic initially made a digital-first future s",
+      "claim": "The pandemic initially made a digital-first future seem close at hand. In 2020, Nike announced its Consumer Direct Acceleration, emphasizing its own d",
+      "source_ids": [
+        "S003",
+        "S004"
+      ],
+      "status": "verified",
+      "basis": "Contemporaneous report, management statement or reported SEC-filing metric; source has date and locator"
+    },
+    {
+      "id": "C012",
+      "paragraph_id": "P012",
+      "anchor": "At this point the strategy seemed to offer the best ",
+      "claim": "At this point the strategy seemed to offer the best of both worlds: a powerful brand, millions of consumers to reach directly, and less dependence on ",
+      "source_ids": [
+        "S004"
+      ],
+      "status": "inference",
+      "basis": "Carefully qualified strategic inference / illustrative hypothetical; not quantified as observed Nike causal result"
+    },
+    {
+      "id": "C013",
+      "paragraph_id": "P013",
+      "anchor": "Now picture a different shoe buyer. She enters a spo",
+      "claim": "Now picture a different shoe buyer. She enters a sporting goods store wanting something for a first marathon. She does not know which brand fits. The ",
+      "source_ids": [
+        "S010"
+      ],
+      "status": "inference",
+      "basis": "Carefully qualified strategic inference / illustrative hypothetical; not quantified as observed Nike causal result"
+    },
+    {
+      "id": "C014",
+      "paragraph_id": "P014",
+      "anchor": "That is the overlooked job of distribution. A retail",
+      "claim": "That is the overlooked job of distribution. A retailer can offer convenience, comparison, staff recommendations, local presence, and the chance to enc",
+      "source_ids": [
+        "S010"
+      ],
+      "status": "inference",
+      "basis": "Carefully qualified strategic inference / illustrative hypothetical; not quantified as observed Nike causal result"
+    },
+    {
+      "id": "C015",
+      "paragraph_id": "P015",
+      "anchor": "Giving up a retail relationship may therefore cost m",
+      "claim": "Giving up a retail relationship may therefore cost more than the sales recorded at that account. It can also cost a brand moments of discovery. That i",
+      "source_ids": [
+        "S004",
+        "S010"
+      ],
+      "status": "inference",
+      "basis": "Carefully qualified strategic inference / illustrative hypothetical; not quantified as observed Nike causal result"
+    },
+    {
+      "id": "C016",
+      "paragraph_id": "P016",
+      "anchor": "Meanwhile, the market was changing. New running-shoe",
+      "claim": "Meanwhile, the market was changing. New running-shoe competitors gained attention. Nike had to manage product freshness, demand for established styles",
+      "source_ids": [
+        "S005",
+        "S010"
+      ],
+      "status": "inference",
+      "basis": "Carefully qualified strategic inference / illustrative hypothetical; not quantified as observed Nike causal result"
+    },
+    {
+      "id": "C017",
+      "paragraph_id": "P017",
+      "anchor": "Nike's fiscal 2025 numbers made the pressure visible",
+      "claim": "Nike's fiscal 2025 numbers made the pressure visible. Total company revenue fell from about fifty-one billion dollars in fiscal 2024 to roughly forty-",
+      "source_ids": [
+        "S005"
+      ],
+      "status": "verified",
+      "basis": "Contemporaneous report, management statement or reported SEC-filing metric; source has date and locator"
+    },
+    {
+      "id": "C018",
+      "paragraph_id": "P018",
+      "anchor": "In October 2024, veteran Nike executive Elliott Hill",
+      "claim": "In October 2024, veteran Nike executive Elliott Hill became chief executive. His turnaround focused on sport and rebuilding partner relationships. Nik",
+      "source_ids": [
+        "S010"
+      ],
+      "status": "verified",
+      "basis": "Contemporaneous report, management statement or reported SEC-filing metric; source has date and locator"
+    },
+    {
+      "id": "C019",
+      "paragraph_id": "P019",
+      "anchor": "Then, in May 2025, came the reversal. Nike announced",
+      "claim": "Then, in May 2025, came the reversal. Nike announced it would again sell directly through Amazon in the United States, alongside an expansion to other",
+      "source_ids": [
+        "S006",
+        "S007"
+      ],
+      "status": "verified",
+      "basis": "Contemporaneous report, management statement or reported SEC-filing metric; source has date and locator"
+    },
+    {
+      "id": "C020",
+      "paragraph_id": "P020",
+      "anchor": "Here is the twist. In 2017, Nike joined Amazon hopin",
+      "claim": "Here is the twist. In 2017, Nike joined Amazon hoping for a better brand presentation and more control over the shopping experience. In 2019, it left ",
+      "source_ids": [
+        "S001",
+        "S002",
+        "S006"
+      ],
+      "status": "verified",
+      "basis": "Contemporaneous report, management statement or reported SEC-filing metric; source has date and locator"
+    },
+    {
+      "id": "C021",
+      "paragraph_id": "P021",
+      "anchor": "And Amazon was not presented as some magic cure. On ",
+      "claim": "And Amazon was not presented as some magic cure. On Nike's fiscal 2025 year-end earnings call, management described the new relationship as beginning ",
+      "source_ids": [
+        "S011"
+      ],
+      "status": "verified",
+      "basis": "Contemporaneous report, management statement or reported SEC-filing metric; source has date and locator"
+    },
+    {
+      "id": "C022",
+      "paragraph_id": "P022",
+      "anchor": "By fiscal 2026, that broader shift was visible in th",
+      "claim": "By fiscal 2026, that broader shift was visible in the channel numbers. Nike Brand wholesale revenue rose six percent on a reported basis, to about twe",
+      "source_ids": [
+        "S008"
+      ],
+      "status": "verified",
+      "basis": "Contemporaneous report, management statement or reported SEC-filing metric; source has date and locator"
+    },
+    {
+      "id": "C023",
+      "paragraph_id": "P023",
+      "anchor": "The first quarter of fiscal 2027 added a warning aga",
+      "claim": "The first quarter of fiscal 2027 added a warning against declaring victory. Globally, wholesale revenue was roughly flat on a reported basis and down ",
+      "source_ids": [
+        "S009"
+      ],
+      "status": "verified",
+      "basis": "Contemporaneous report, management statement or reported SEC-filing metric; source has date and locator"
+    },
+    {
+      "id": "C024",
+      "paragraph_id": "P024",
+      "anchor": "It is tempting to call the old plan a mistake and th",
+      "claim": "It is tempting to call the old plan a mistake and the return a correction. That is too easy. Direct channels gave Nike important capabilities, includi",
+      "source_ids": [
+        "S001",
+        "S006",
+        "S009"
+      ],
+      "status": "inference",
+      "basis": "Carefully qualified strategic inference / illustrative hypothetical; not quantified as observed Nike causal result"
+    },
+    {
+      "id": "C025",
+      "paragraph_id": "P025",
+      "anchor": "The stronger answer is that the balance was wrong fo",
+      "claim": "The stronger answer is that the balance was wrong for the conditions Nike eventually faced. Not every customer wants to begin shopping inside a brand'",
+      "source_ids": [
+        "S008",
+        "S009"
+      ],
+      "status": "inference",
+      "basis": "Carefully qualified strategic inference / illustrative hypothetical; not quantified as observed Nike causal result"
+    },
+    {
+      "id": "C026",
+      "paragraph_id": "P026",
+      "anchor": "Could Nike have avoided the pain by never ending its",
+      "claim": "Could Nike have avoided the pain by never ending its Amazon pilot? We cannot know. No public filing gives us the missing counterfactual. Nike's produc",
+      "source_ids": [
+        "S003",
+        "S008",
+        "S009"
+      ],
+      "status": "inference",
+      "basis": "Carefully qualified strategic inference / illustrative hypothetical; not quantified as observed Nike causal result"
+    },
+    {
+      "id": "C027",
+      "paragraph_id": "P027",
+      "anchor": "So the lesson is not that every brand should sell ev",
+      "claim": "So the lesson is not that every brand should sell everywhere. Some products really do need controlled distribution, and a poor retail experience can d",
+      "source_ids": [
+        "S003",
+        "S010"
+      ],
+      "status": "inference",
+      "basis": "Carefully qualified strategic inference / illustrative hypothetical; not quantified as observed Nike causal result"
+    },
+    {
+      "id": "C028",
+      "paragraph_id": "P028",
+      "anchor": "Remember the shopper searching for sneakers on Amazo",
+      "claim": "Remember the shopper searching for sneakers on Amazon in 2019. Nike had stepped away from the direct deal, but the customer had not stepped away from ",
+      "source_ids": [
+        "S002",
+        "S006"
+      ],
+      "status": "inference",
+      "basis": "Carefully qualified strategic inference / illustrative hypothetical; not quantified as observed Nike causal result"
+    },
+    {
+      "id": "C029",
+      "paragraph_id": "P029",
+      "anchor": "And those are not always the same people.",
+      "claim": "And those are not always the same people.",
+      "source_ids": [
+        "S006"
+      ],
+      "status": "inference",
+      "basis": "Carefully qualified strategic inference / illustrative hypothetical; not quantified as observed Nike causal result"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "SC001",
+      "purpose": "2019 exit but Nike shoes remain searchable",
+      "paragraphs": [
+        {
+          "paragraph_id": "P001",
+          "anchor": "In 2019, Nike walked away from selling directly to A"
+        },
+        {
+          "paragraph_id": "P002",
+          "anchor": "Search for Nike sneakers during those years and you "
+        },
+        {
+          "paragraph_id": "P003",
+          "anchor": "Imagine you're looking for running shoes. You might "
+        }
+      ],
+      "evidence_type": "illustration",
+      "source_ids": [
+        "S002",
+        "S006"
+      ]
+    },
+    {
+      "id": "SC002",
+      "purpose": "2017 limited Amazon pilot and marketplace control problem",
+      "paragraphs": [
+        {
+          "paragraph_id": "P004",
+          "anchor": "To understand why Nike was willing to leave, we have"
+        },
+        {
+          "paragraph_id": "P005",
+          "anchor": "The relationship also sat inside a thornier problem."
+        }
+      ],
+      "evidence_type": "document",
+      "source_ids": [
+        "S001",
+        "S006"
+      ]
+    },
+    {
+      "id": "SC003",
+      "purpose": "2019 decision with supported alternatives",
+      "paragraphs": [
+        {
+          "paragraph_id": "P006",
+          "anchor": "Then came 2019. Nike announced it was ending that li"
+        },
+        {
+          "paragraph_id": "P007",
+          "anchor": "There were real alternatives. Nike could keep the Am"
+        }
+      ],
+      "evidence_type": "document",
+      "source_ids": [
+        "S002"
+      ]
+    },
+    {
+      "id": "SC004",
+      "purpose": "Brand-owned retail economics and obligations",
+      "paragraphs": [
+        {
+          "paragraph_id": "P008",
+          "anchor": "The strongest argument for Nike's own stores is easy"
+        },
+        {
+          "paragraph_id": "P009",
+          "anchor": "There is an appealing financial argument too. When a"
+        },
+        {
+          "paragraph_id": "P010",
+          "anchor": "So the gamble was not simply about keeping more doll"
+        }
+      ],
+      "evidence_type": "illustration",
+      "source_ids": [
+        "S003"
+      ]
+    },
+    {
+      "id": "SC005",
+      "purpose": "2020/22 Direct strategy and incomplete success metric",
+      "paragraphs": [
+        {
+          "paragraph_id": "P011",
+          "anchor": "The pandemic initially made a digital-first future s"
+        },
+        {
+          "paragraph_id": "P012",
+          "anchor": "At this point the strategy seemed to offer the best "
+        }
+      ],
+      "evidence_type": "data",
+      "source_ids": [
+        "S003",
+        "S004"
+      ]
+    },
+    {
+      "id": "SC006",
+      "purpose": "Customer discovery via independent retail and search",
+      "paragraphs": [
+        {
+          "paragraph_id": "P013",
+          "anchor": "Now picture a different shoe buyer. She enters a spo"
+        },
+        {
+          "paragraph_id": "P014",
+          "anchor": "That is the overlooked job of distribution. A retail"
+        },
+        {
+          "paragraph_id": "P015",
+          "anchor": "Giving up a retail relationship may therefore cost m"
+        }
+      ],
+      "evidence_type": "illustration",
+      "source_ids": [
+        "S010"
+      ]
+    },
+    {
+      "id": "SC007",
+      "purpose": "Product pressure and fiscal 2025 results",
+      "paragraphs": [
+        {
+          "paragraph_id": "P016",
+          "anchor": "Meanwhile, the market was changing. New running-shoe"
+        },
+        {
+          "paragraph_id": "P017",
+          "anchor": "Nike's fiscal 2025 numbers made the pressure visible"
+        }
+      ],
+      "evidence_type": "data",
+      "source_ids": [
+        "S005"
+      ]
+    },
+    {
+      "id": "SC008",
+      "purpose": "Leadership change and May 2025 Amazon return",
+      "paragraphs": [
+        {
+          "paragraph_id": "P018",
+          "anchor": "In October 2024, veteran Nike executive Elliott Hill"
+        },
+        {
+          "paragraph_id": "P019",
+          "anchor": "Then, in May 2025, came the reversal. Nike announced"
+        },
+        {
+          "paragraph_id": "P020",
+          "anchor": "Here is the twist. In 2017, Nike joined Amazon hopin"
+        },
+        {
+          "paragraph_id": "P021",
+          "anchor": "And Amazon was not presented as some magic cure. On "
+        }
+      ],
+      "evidence_type": "document",
+      "source_ids": [
+        "S006",
+        "S007",
+        "S010",
+        "S011"
+      ]
+    },
+    {
+      "id": "SC009",
+      "purpose": "Fiscal 2026 and Q1 fiscal 2027 channel comparison",
+      "paragraphs": [
+        {
+          "paragraph_id": "P022",
+          "anchor": "By fiscal 2026, that broader shift was visible in th"
+        },
+        {
+          "paragraph_id": "P023",
+          "anchor": "The first quarter of fiscal 2027 added a warning aga"
+        },
+        {
+          "paragraph_id": "P024",
+          "anchor": "It is tempting to call the old plan a mistake and th"
+        },
+        {
+          "paragraph_id": "P025",
+          "anchor": "The stronger answer is that the balance was wrong fo"
+        },
+        {
+          "paragraph_id": "P026",
+          "anchor": "Could Nike have avoided the pain by never ending its"
+        }
+      ],
+      "evidence_type": "data",
+      "source_ids": [
+        "S008",
+        "S009"
+      ]
+    },
+    {
+      "id": "SC010",
+      "purpose": "Qualified counterfactual and closing search-box callback",
+      "paragraphs": [
+        {
+          "paragraph_id": "P027",
+          "anchor": "So the lesson is not that every brand should sell ev"
+        },
+        {
+          "paragraph_id": "P028",
+          "anchor": "Remember the shopper searching for sneakers on Amazo"
+        },
+        {
+          "paragraph_id": "P029",
+          "anchor": "And those are not always the same people."
+        }
+      ],
+      "evidence_type": "illustration",
+      "source_ids": [
+        "S002",
+        "S006"
+      ]
+    }
+  ]
+}
