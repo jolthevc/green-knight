@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-11",
+  "updated_at": "2026-10-12",
   "ideas": [
     {
       "id": "PP-I0001",
@@ -1464,6 +1464,151 @@
           "date": "2026-10-11",
           "status": "proposed",
           "note": "Presented in five-idea On the Map batch; source leads preliminary and user selection pending.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "MM-I0003",
+      "channel": "money-moves",
+      "title": "Nike Stopped Selling Directly on Amazon. Then It Came Back.",
+      "aliases": [
+        "Nike Left Amazon. Why Did It Return?",
+        "The Bet Nike Had to Reverse"
+      ],
+      "subject": "Nike's 2019 exit from direct Amazon selling and 2025 return in the context of its broader wholesale and direct-to-consumer reset.",
+      "mechanism": "Trade-off between direct control over product presentation/customer relationships and reach through large retailers and online marketplaces; subsequent reinvestment in wholesale distribution.",
+      "viewer_promise": "Understand why Nike stopped selling directly to Amazon, why it resumed six years later, and what the reversal teaches about distribution control versus consumer discovery.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Five-idea pitch batch; preliminary source leads checked; awaiting owner selection. No story reserved or episode research completed.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "MM-I0004",
+      "channel": "money-moves",
+      "title": "Why a Tire Company Started Rating Restaurants",
+      "aliases": [
+        "The Tire Company Behind the World's Most Famous Restaurant Stars",
+        "Why Michelin Created a Restaurant Guide"
+      ],
+      "subject": "Michelin's 1900 free motorists' guide and later decisions to sell it, inspect restaurants, and assign stars.",
+      "mechanism": "Using travel information and credible restaurant ratings to make driving more attractive and ultimately support demand for automobiles and tires; causality to tire sales requires further evidence.",
+      "viewer_promise": "Understand the strategic choice that transformed a tire maker's promotional travel guide into an influential restaurant-rating institution, and what is known about its economic rationale.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Five-idea pitch batch; preliminary source leads checked; awaiting owner selection. No story reserved or episode research completed.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "MM-I0005",
+      "channel": "money-moves",
+      "title": "Why Nintendo Refused the Graphics Race",
+      "aliases": [
+        "The Wii Won Without Winning the Graphics War",
+        "Nintendo's Riskiest Console Decision"
+      ],
+      "subject": "Nintendo's Wii development and 2006 release during the Xbox 360/PlayStation 3 era.",
+      "mechanism": "Deliberate hardware/control design choices emphasized lower-power efficient hardware, novel controls and broader household participation over a direct specifications contest.",
+      "viewer_promise": "Understand why Nintendo chose a different hardware and audience strategy for Wii, what trade-offs engineers confronted, and which outcomes can be attributed to execution rather than sheer console specifications.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Five-idea pitch batch; preliminary source leads checked; awaiting owner selection. No story reserved or episode research completed.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "MM-I0006",
+      "channel": "money-moves",
+      "title": "Why CVS Chose to Stop Selling Cigarettes",
+      "aliases": [
+        "Why CVS Walked Away From Billions in Sales",
+        "The Drugstore That Stopped Selling Tobacco"
+      ],
+      "subject": "CVS's 2014 decision to remove tobacco products from its US retail pharmacies.",
+      "mechanism": "Giving up tobacco-shopper revenue to align pharmacy retail with a broader healthcare identity, accompanied by cessation programs, with distinct revenue/profit and public-health outcomes.",
+      "viewer_promise": "Understand why a large drugstore chain voluntarily discontinued tobacco sales, what it truly cost, and what can and cannot be established about the resulting commercial and health effects.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Five-idea pitch batch; preliminary source leads checked; awaiting owner selection. No story reserved or episode research completed.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "MM-I0007",
+      "channel": "money-moves",
+      "title": "The Software Bet That Put Nvidia Ahead of AI",
+      "aliases": [
+        "Why Nvidia Built Software for Chips It Already Sold",
+        "The GPU Gamble Before ChatGPT"
+      ],
+      "subject": "Nvidia's 2006 CUDA platform decision and the long development of a GPU computing developer ecosystem.",
+      "mechanism": "Developer-facing programming platform makes graphics processors useful in scientific and machine-learning workloads beyond gaming, with cumulative hardware/software adoption and switching-cost effects.",
+      "viewer_promise": "Understand why Nvidia enabled general-purpose GPU programming years before today's AI demand, what alternatives and investment costs existed, and how much of its subsequent position can reasonably be traced to that decision.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Five-idea pitch batch; preliminary source leads checked; awaiting owner selection. No story reserved or episode research completed.",
           "actor": "ChatGPT"
         }
       ]
