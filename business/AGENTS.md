@@ -78,3 +78,8 @@ A command to **review editor delivery** means compare available MP4/thumbnail/cl
 
 For batch operation, the owner may prepare all ten approved packets at once and negotiate two five-video milestones. Do not assume a daily script-send cadence, production deadlines, revision count, overlapping work, payment terms or ElevenLabs sharing until agreed. The first film should establish alignment before parallel production.
 
+
+
+## Noninteractive automation mode (Green Knight Studio)
+
+When a job explicitly specifies `automation_mode=true`, follow [automation/AUTOMATION_CONTRACT.md](automation/AUTOMATION_CONTRACT.md) and its versioned schemas/API contract. This changes orchestration only, never lowers editorial, evidence, channel, voice or QA standards. Route dynamically from live channel config/registry based on channel slug or ID; use one shared function workflow across channels. After an owner selects ideas, complete entire research, full script, both directors, independent review, justified revision, integration re-review and validation without routine chat approvals. Publish exactly the three approved editor-facing packet files only on a verified pass. Stop with a truthful BLOCKED state for source, approval, voice, factual, creative or validator blockers; a partial attempt is not a finished package. Preserve the existing registry status enum; track queue progress and editor/calendar state separately. Use idempotency, reserved identifiers, durable checkpoints, version-aware commits and concurrency-safe registry updates. Do not send Fiverr messages, approve payment, hand off, approve final edits, schedule or publish without appropriate user authorization.
