@@ -2401,6 +2401,786 @@
           "actor": "ChatGPT"
         }
       ]
+    },
+    {
+      "id": "MM-I0008",
+      "channel": "money-moves",
+      "title": "The Shipping Club Amazon Was Willing to Lose Money On",
+      "aliases": [],
+      "subject": "Amazon Prime membership launch in 2005",
+      "mechanism": "Upfront membership payment subsidizing shipping to reduce checkout friction and encourage frequency",
+      "viewer_promise": "Why deliberately expensive fast shipping could alter Amazon shopping habits.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Vendor-operated Money Moves topic scouting. Unselected hypothesis, not a fully researched or approved episode. Freelancer may change creative treatment within channel brief.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "MM-I0009",
+      "channel": "money-moves",
+      "title": "Netflix Spent Years Without Ads. Then It Sold Them.",
+      "aliases": [],
+      "subject": "Netflix launch of ad-supported membership tier in 2022",
+      "mechanism": "Ad-supported price segmentation alongside full-price subscriptions",
+      "viewer_promise": "Why Netflix introduced advertising and the economic trade-offs of lower subscription prices.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Vendor-operated Money Moves topic scouting. Unselected hypothesis, not a fully researched or approved episode. Freelancer may change creative treatment within channel brief.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "MM-I0010",
+      "channel": "money-moves",
+      "title": "Adobe Stopped Selling Photoshop. Customers Kept Paying.",
+      "aliases": [],
+      "subject": "Adobe Creative Cloud subscription transition in 2013",
+      "mechanism": "Migration from perpetual software licensing to recurring subscription access",
+      "viewer_promise": "Why a one-time software purchase became a subscription and what it changed.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Vendor-operated Money Moves topic scouting. Unselected hypothesis, not a fully researched or approved episode. Freelancer may change creative treatment within channel brief.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "MM-I0011",
+      "channel": "money-moves",
+      "title": "Why Spotify Gives Away the Product It Sells",
+      "aliases": [],
+      "subject": "Spotify free ad-supported and Premium membership tiers",
+      "mechanism": "Freemium listener acquisition and subscription conversion under music licensing costs",
+      "viewer_promise": "Why allowing free listening may strengthen paid distribution rather than simply cannibalize it.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Vendor-operated Money Moves topic scouting. Unselected hypothesis, not a fully researched or approved episode. Freelancer may change creative treatment within channel brief.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "MM-I0012",
+      "channel": "money-moves",
+      "title": "Domino’s Told America Its Pizza Was Bad",
+      "aliases": [],
+      "subject": "Domino’s 2009-2010 core recipe overhaul and campaign",
+      "mechanism": "Product reformulation backed by marketing that acknowledged customer criticism",
+      "viewer_promise": "Why Domino’s risked attacking its own product to support an actual change.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Vendor-operated Money Moves topic scouting. Unselected hypothesis, not a fully researched or approved episode. Freelancer may change creative treatment within channel brief.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "MM-I0013",
+      "channel": "money-moves",
+      "title": "Apple Fired Intel From the Mac",
+      "aliases": [],
+      "subject": "Apple transition from Intel to Apple silicon in 2020",
+      "mechanism": "Vertical integration of processor architecture and software with transition costs",
+      "viewer_promise": "Why Apple took processor design inside and how the trade-off altered Mac products.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Vendor-operated Money Moves topic scouting. Unselected hypothesis, not a fully researched or approved episode. Freelancer may change creative treatment within channel brief.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "MM-I0014",
+      "channel": "money-moves",
+      "title": "Netflix Let You Watch an Entire Season in One Night",
+      "aliases": [],
+      "subject": "Netflix House of Cards full-season release in 2013",
+      "mechanism": "All-at-once release strategy versus weekly television distribution",
+      "viewer_promise": "Why Netflix chose binge release and what it meant for viewer habits and retention.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Vendor-operated Money Moves topic scouting. Unselected hypothesis, not a fully researched or approved episode. Freelancer may change creative treatment within channel brief.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "MM-I0015",
+      "channel": "money-moves",
+      "title": "Target Turned Its Stores Into Online Warehouses",
+      "aliases": [],
+      "subject": "Target Drive Up pickup and store-based fulfillment rollout",
+      "mechanism": "Leveraging store proximity for online order fulfillment while shifting operating costs",
+      "viewer_promise": "Why a physical retail footprint became a potential online advantage.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Vendor-operated Money Moves topic scouting. Unselected hypothesis, not a fully researched or approved episode. Freelancer may change creative treatment within channel brief.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "MM-I0016",
+      "channel": "money-moves",
+      "title": "Why Amazon Started Renting Out Its Computers",
+      "aliases": [],
+      "subject": "Amazon Web Services S3 and EC2 launches in 2006",
+      "mechanism": "Pay-as-you-go software infrastructure sold to external developers",
+      "viewer_promise": "Why Amazon sold computing services and how that changed the economics for customers.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Vendor-operated Money Moves topic scouting. Unselected hypothesis, not a fully researched or approved episode. Freelancer may change creative treatment within channel brief.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "MM-I0017",
+      "channel": "money-moves",
+      "title": "Tesla Opened a Door Its Rivals Could Use",
+      "aliases": [],
+      "subject": "Tesla opening its North American Charging System design in 2022",
+      "mechanism": "Moving a proprietary connector toward common adoption and a larger charging ecosystem",
+      "viewer_promise": "Why inviting rivals to use Tesla’s charging connector could strengthen the network.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Vendor-operated Money Moves topic scouting. Unselected hypothesis, not a fully researched or approved episode. Freelancer may change creative treatment within channel brief.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "MM-I0018",
+      "channel": "money-moves",
+      "title": "YouTube Decided Creators Should Get Paid",
+      "aliases": [],
+      "subject": "YouTube Partner Program launch and 2007 expansion",
+      "mechanism": "Advertising revenue-sharing to incentivize original creator supply",
+      "viewer_promise": "Why sharing ad revenue with creators changed platform incentives.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Vendor-operated Money Moves topic scouting. Unselected hypothesis, not a fully researched or approved episode. Freelancer may change creative treatment within channel brief.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "MM-I0019",
+      "channel": "money-moves",
+      "title": "Patagonia Paid for an Ad That Said “Don’t Buy This Jacket”",
+      "aliases": [],
+      "subject": "Patagonia Black Friday 2011 anti-consumption ad",
+      "mechanism": "Environmental brand positioning and product longevity promoted through anti-purchase creative",
+      "viewer_promise": "Why Patagonia used anti-consumption messaging to communicate its value proposition.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Vendor-operated Money Moves topic scouting. Unselected hypothesis, not a fully researched or approved episode. Freelancer may change creative treatment within channel brief.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "MM-I0020",
+      "channel": "money-moves",
+      "title": "Toyota Bet on a Car With Two Engines",
+      "aliases": [],
+      "subject": "Toyota Prius hybrid research and 1997 Japanese launch",
+      "mechanism": "Hybrid propulsion investment as alternative to conventional engines or EV-only bets",
+      "viewer_promise": "Why Toyota pursued a hybrid system despite engineering complexity.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Vendor-operated Money Moves topic scouting. Unselected hypothesis, not a fully researched or approved episode. Freelancer may change creative treatment within channel brief.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "MM-I0021",
+      "channel": "money-moves",
+      "title": "Instagram Copied the Feature Everyone Loved on Snapchat",
+      "aliases": [],
+      "subject": "Instagram Stories launch in 2016",
+      "mechanism": "Ephemeral sharing features deployed inside an existing photo social network",
+      "viewer_promise": "Why Instagram embraced disappearing stories and changed the nature of sharing.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Vendor-operated Money Moves topic scouting. Unselected hypothesis, not a fully researched or approved episode. Freelancer may change creative treatment within channel brief.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "MM-I0022",
+      "channel": "money-moves",
+      "title": "Starbucks Let Customers Use Its Stores as Offices",
+      "aliases": [],
+      "subject": "Starbucks free in-store Wi-Fi rollout in 2010",
+      "mechanism": "Increasing store visit value and dwell time with free connectivity",
+      "viewer_promise": "Why a coffee chain invited customers to linger for long work sessions.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Vendor-operated Money Moves topic scouting. Unselected hypothesis, not a fully researched or approved episode. Freelancer may change creative treatment within channel brief.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "MM-I0023",
+      "channel": "money-moves",
+      "title": "LEGO Won by Making Less LEGO",
+      "aliases": [],
+      "subject": "LEGO restructuring and product complexity reduction after early-2000s losses",
+      "mechanism": "Portfolio simplification and operating focus versus proliferating product lines",
+      "viewer_promise": "Why LEGO narrowed parts of its assortment and operating complexity.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Vendor-operated Money Moves topic scouting. Unselected hypothesis, not a fully researched or approved episode. Freelancer may change creative treatment within channel brief.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "MM-I0024",
+      "channel": "money-moves",
+      "title": "Costco Refused to Raise the Price of a Hot Dog",
+      "aliases": [],
+      "subject": "Costco enduring food-court hot dog combo price",
+      "mechanism": "Symbolic pricing and customer trust versus cost pressures",
+      "viewer_promise": "Why one unusually sticky price can matter beyond the product itself.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Vendor-operated Money Moves topic scouting. Unselected hypothesis, not a fully researched or approved episode. Freelancer may change creative treatment within channel brief.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "MM-I0025",
+      "channel": "money-moves",
+      "title": "Southwest Chose the Route Other Airlines Avoided",
+      "aliases": [],
+      "subject": "Southwest early short-haul point-to-point network model",
+      "mechanism": "High-utilization scheduling, fast turns and route selection as airline design",
+      "viewer_promise": "Why a different route structure supported Southwest’s early economics.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Vendor-operated Money Moves topic scouting. Unselected hypothesis, not a fully researched or approved episode. Freelancer may change creative treatment within channel brief.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "MM-I0026",
+      "channel": "money-moves",
+      "title": "Ryanair Bet on Airports No One Wanted",
+      "aliases": [],
+      "subject": "Ryanair secondary-airport network strategy",
+      "mechanism": "Lower airport cost and turnaround efficiency in exchange for passenger travel inconvenience",
+      "viewer_promise": "Why serving less convenient airports can support lower fares.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Vendor-operated Money Moves topic scouting. Unselected hypothesis, not a fully researched or approved episode. Freelancer may change creative treatment within channel brief.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "MM-I0027",
+      "channel": "money-moves",
+      "title": "Chipotle Refused to Franchise",
+      "aliases": [],
+      "subject": "Chipotle largely company-operated restaurant growth model",
+      "mechanism": "Restaurant ownership versus franchise capital efficiency and operational control",
+      "viewer_promise": "Why Chipotle prioritized company-operated execution over franchising.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Vendor-operated Money Moves topic scouting. Unselected hypothesis, not a fully researched or approved episode. Freelancer may change creative treatment within channel brief.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "MM-I0028",
+      "channel": "money-moves",
+      "title": "Disney Started Charging for a Faster Line",
+      "aliases": [],
+      "subject": "Disney introduction of paid Genie+ and Lightning Lane products",
+      "mechanism": "Pricing scarce queue priority and balancing throughput with guest experience",
+      "viewer_promise": "Why Disney moved certain line-skipping privileges behind paid options.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Vendor-operated Money Moves topic scouting. Unselected hypothesis, not a fully researched or approved episode. Freelancer may change creative treatment within channel brief.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "MM-I0029",
+      "channel": "money-moves",
+      "title": "Nintendo Put Two Consoles Into One",
+      "aliases": [],
+      "subject": "Nintendo Switch hybrid console launch in 2017",
+      "mechanism": "Handheld/home hybrid product design as competitive positioning",
+      "viewer_promise": "Why Nintendo fused handheld and living-room gaming instead of following a hardware race.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Vendor-operated Money Moves topic scouting. Unselected hypothesis, not a fully researched or approved episode. Freelancer may change creative treatment within channel brief.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "MM-I0030",
+      "channel": "money-moves",
+      "title": "Ford Built America’s Truck Out of Aluminum",
+      "aliases": [],
+      "subject": "Ford F-150 aluminum-body redesign for 2015 model year",
+      "mechanism": "Lightweight material choice under fuel economy, manufacturing and repair trade-offs",
+      "viewer_promise": "Why Ford changed body materials on its flagship pickup.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Vendor-operated Money Moves topic scouting. Unselected hypothesis, not a fully researched or approved episode. Freelancer may change creative treatment within channel brief.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "MM-I0031",
+      "channel": "money-moves",
+      "title": "Apple Removed the Headphone Jack",
+      "aliases": [],
+      "subject": "Apple iPhone 7 removal of headphone jack in 2016",
+      "mechanism": "Connector simplification and wireless audio ecosystem trade-offs",
+      "viewer_promise": "Why Apple removed a familiar hardware feature and what customers had to change.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Vendor-operated Money Moves topic scouting. Unselected hypothesis, not a fully researched or approved episode. Freelancer may change creative treatment within channel brief.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "MM-I0032",
+      "channel": "money-moves",
+      "title": "Dropbox Paid Users in Storage Instead of Cash",
+      "aliases": [],
+      "subject": "Dropbox referral incentives granting additional storage",
+      "mechanism": "Product-native referral reward for acquisition and usage expansion",
+      "viewer_promise": "Why storage credits could create a more powerful referral loop than cash incentives.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Vendor-operated Money Moves topic scouting. Unselected hypothesis, not a fully researched or approved episode. Freelancer may change creative treatment within channel brief.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "MM-I0033",
+      "channel": "money-moves",
+      "title": "Airbnb Solved a Marketplace Problem With a Camera",
+      "aliases": [],
+      "subject": "Airbnb early professional listing-photography initiative",
+      "mechanism": "Visual listing trust and conversion improvements in a two-sided marketplace",
+      "viewer_promise": "Why better product presentation could improve home booking confidence.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Vendor-operated Money Moves topic scouting. Unselected hypothesis, not a fully researched or approved episode. Freelancer may change creative treatment within channel brief.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "MM-I0034",
+      "channel": "money-moves",
+      "title": "T-Mobile Stopped Making Customers Sign Contracts",
+      "aliases": [],
+      "subject": "T-Mobile US Un-carrier contract and device payment changes in 2013",
+      "mechanism": "Reducing carrier contract lock-in through changed service and handset financing",
+      "viewer_promise": "Why T-Mobile rejected conventional contracts and reshaped wireless competition.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Vendor-operated Money Moves topic scouting. Unselected hypothesis, not a fully researched or approved episode. Freelancer may change creative treatment within channel brief.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "MM-I0035",
+      "channel": "money-moves",
+      "title": "Fortnite Made Its Biggest Game Free",
+      "aliases": [],
+      "subject": "Epic’s free Fortnite Battle Royale release in 2017",
+      "mechanism": "Free-to-play online audience aggregation monetized through cosmetic goods",
+      "viewer_promise": "Why Epic moved multiplayer access toward free and how it charged elsewhere.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Vendor-operated Money Moves topic scouting. Unselected hypothesis, not a fully researched or approved episode. Freelancer may change creative treatment within channel brief.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "MM-I0036",
+      "channel": "money-moves",
+      "title": "Coca-Cola Changed Its Secret Formula. Then Reversed Course.",
+      "aliases": [],
+      "subject": "Coca-Cola New Coke launch and Coca-Cola Classic return in 1985",
+      "mechanism": "Taste-testing decision colliding with emotional brand attachment",
+      "viewer_promise": "Why Coca-Cola reformulated its flagship product and then restored the original.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Vendor-operated Money Moves topic scouting. Unselected hypothesis, not a fully researched or approved episode. Freelancer may change creative treatment within channel brief.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "MM-I0037",
+      "channel": "money-moves",
+      "title": "Trader Joe’s Chose the Store Brand Over the Famous Brand",
+      "aliases": [],
+      "subject": "Trader Joe’s high private-label assortment",
+      "mechanism": "Differentiation and sourcing control through retailer-owned labels",
+      "viewer_promise": "Why a supermarket would prefer products customers cannot find elsewhere.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Vendor-operated Money Moves topic scouting. Unselected hypothesis, not a fully researched or approved episode. Freelancer may change creative treatment within channel brief.",
+          "actor": "ChatGPT"
+        }
+      ]
     }
   ]
 }
