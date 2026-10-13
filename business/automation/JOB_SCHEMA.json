@@ -1,0 +1,134 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Green Knight automation job",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "job_id",
+    "function",
+    "status",
+    "stage",
+    "idempotency_key",
+    "input",
+    "created_at",
+    "updated_at",
+    "attempt"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": 1
+    },
+    "job_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "batch_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "function": {
+      "enum": [
+        "generate_ideas",
+        "produce_episodes",
+        "export_packets",
+        "update_production",
+        "delivery_qa",
+        "schedule_monitor"
+      ]
+    },
+    "channel_slug": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "idea_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "story_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "status": {
+      "enum": [
+        "queued",
+        "running",
+        "blocked",
+        "failed",
+        "completed",
+        "cancelled"
+      ]
+    },
+    "stage": {
+      "type": "string"
+    },
+    "idempotency_key": {
+      "type": "string",
+      "minLength": 1
+    },
+    "input": {
+      "type": "object"
+    },
+    "output": {
+      "type": [
+        "object",
+        "null"
+      ]
+    },
+    "checkpoint": {
+      "type": [
+        "object",
+        "null"
+      ]
+    },
+    "error": {
+      "type": [
+        "object",
+        "null"
+      ],
+      "properties": {
+        "code": {
+          "type": "string"
+        },
+        "message": {
+          "type": "string"
+        },
+        "action": {
+          "type": "string"
+        }
+      }
+    },
+    "attempt": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "lease_token": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "source_commit_sha": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "updated_at": {
+      "type": "string",
+      "format": "date-time"
+    }
+  }
+}
