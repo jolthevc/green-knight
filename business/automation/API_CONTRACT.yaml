@@ -1,0 +1,162 @@
+openapi: 3.0.3
+info:
+  title: Green Knight Studio Backend
+  version: 1.0.0
+  description: Contract for the console and reusable n8n-powered backend. Specification only; not deployed.
+servers:
+  - url: https://BACKEND_HOST.example/v1
+security:
+  - sessionAuth: []
+paths:
+  /channels:
+    get:
+      operationId: listChannels
+      responses:
+        '200': {description: Live channel configurations}
+  /ideas:
+    get:
+      operationId: listIdeas
+      parameters:
+        - {name: channel_slug, in: query, schema: {type: string}}
+        - {name: status, in: query, schema: {type: string}}
+      responses:
+        '200': {description: Ideas from canonical registry}
+  /ideas/generate:
+    post:
+      operationId: generateIdeas
+      parameters:
+        - {$ref: '#/components/parameters/IdempotencyKey'}
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [channel_slug, count]
+              properties:
+                channel_slug: {type: string}
+                count: {type: integer, minimum: 1, maximum: 20}
+                direction: {type: string}
+      responses:
+        '202': {$ref: '#/components/responses/AcceptedJob'}
+  /episodes/produce:
+    post:
+      operationId: produceSelected
+      parameters:
+        - {$ref: '#/components/parameters/IdempotencyKey'}
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [idea_ids]
+              properties:
+                idea_ids: {type: array, minItems: 1, uniqueItems: true, items: {type: string}}
+      responses:
+        '202': {$ref: '#/components/responses/AcceptedJob'}
+  /jobs/{job_id}:
+    get:
+      operationId: getJob
+      parameters:
+        - {name: job_id, in: path, required: true, schema: {type: string}}
+      responses:
+        '200': {description: Current durable job state and stage}
+  /jobs/{job_id}/retry:
+    post:
+      operationId: retryJob
+      parameters:
+        - {name: job_id, in: path, required: true, schema: {type: string}}
+        - {$ref: '#/components/parameters/IdempotencyKey'}
+      responses:
+        '202': {$ref: '#/components/responses/AcceptedJob'}
+  /episodes:
+    get:
+      operationId: listEpisodes
+      responses:
+        '200': {description: Joined canonical editorial and operational status}
+  /episodes/{story_id}:
+    get:
+      operationId: getEpisode
+      parameters:
+        - {name: story_id, in: path, required: true, schema: {type: string}}
+      responses:
+        '200': {description: Episode and artifact references}
+    patch:
+      operationId: updateEpisodeProduction
+      parameters:
+        - {name: story_id, in: path, required: true, schema: {type: string}}
+        - {$ref: '#/components/parameters/IdempotencyKey'}
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: {type: object, description: Validated changes to operational production record}
+      responses:
+        '200': {description: Persisted operational record}
+  /episodes/{story_id}/export:
+    post:
+      operationId: exportEpisode
+      parameters:
+        - {name: story_id, in: path, required: true, schema: {type: string}}
+        - {$ref: '#/components/parameters/IdempotencyKey'}
+      responses:
+        '202': {$ref: '#/components/responses/AcceptedJob'}
+  /episodes/{story_id}/deliveries:
+    post:
+      operationId: registerDelivery
+      parameters:
+        - {name: story_id, in: path, required: true, schema: {type: string}}
+        - {$ref: '#/components/parameters/IdempotencyKey'}
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: {type: object, description: Drive file IDs/links and delivery version}
+      responses:
+        '200': {description: Delivery registered}
+  /episodes/{story_id}/qa:
+    post:
+      operationId: runDeliveryQa
+      parameters:
+        - {name: story_id, in: path, required: true, schema: {type: string}}
+        - {$ref: '#/components/parameters/IdempotencyKey'}
+      responses:
+        '202': {$ref: '#/components/responses/AcceptedJob'}
+  /dashboard:
+    get:
+      operationId: getDashboard
+      responses:
+        '200': {description: Status and inventory metrics}
+  /calendar:
+    get:
+      operationId: getCalendar
+      parameters:
+        - {name: start, in: query, schema: {type: string, format: date}}
+        - {name: end, in: query, schema: {type: string, format: date}}
+      responses:
+        '200': {description: Planned releases, actual releases and gaps}
+components:
+  securitySchemes:
+    sessionAuth:
+      type: http
+      scheme: bearer
+      description: Authenticated API gateway/session; tokens never embedded in frontend source.
+  parameters:
+    IdempotencyKey:
+      name: Idempotency-Key
+      in: header
+      required: true
+      schema: {type: string, minLength: 1}
+  responses:
+    AcceptedJob:
+      description: Durable job accepted, not finished
+      content:
+        application/json:
+          schema:
+            type: object
+            required: [job_id, status]
+            properties:
+              job_id: {type: string}
+              batch_id: {type: string, nullable: true}
+              status: {type: string, enum: [queued, running]}
