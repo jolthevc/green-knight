@@ -1,0 +1,13 @@
+# Development QA and exact-version review
+
+MM-I0003 | MM-V0001 | Script v1 | SHA 6754e64961fd3af7f009449363145e0248b7a4f95e810e181392bc275bf6e0da
+
+Status **scripted** only, not packet-ready. Canonical TITLE header, 29 body paragraphs P001-P029, 1566 spoken words, SHA 6754e64961fd3af7f009449363145e0248b7a4f95e810e181392bc275bf6e0da across full script including header. Estimated 583.3 seconds: 1566 words / 166 assumed WPM plus 13.3s extra cue pauses and 4s picture holds. Final actual audio/video unmeasured. Evidence records 11 opened sources, 29 paragraph-linked claims, 10 scenes covering all P paragraphs, no missing coverage. Exact director verbatim paragraph content generated from saved canonical script.
+
+**NEWCOMER (internal editorial judgment) PASS:** P001-P003 immediate mystery, P002 immediate honest payoff, P013 concrete undecided shoe buyer. **EXPERT (internal judgment) PASS WITH LIMITS:** dual-channel economics, meaningful wholesale discovery/feedback, 2017 trial versus 2019 exit, third-party persistence and geography-contingent FY2026/27 outcome. Discovery incrementality and lost revenue are expressly hypotheses, not proven Nike causal estimates. **POPCORN-GOOD SCRIPT-DEVELOPMENT PASS:** no generic business lesson pasted on; the 2019 supplier/customer mismatch is revisited and transformed by closing.
+
+**Weakest middle identified:** P008-P012 could devolve into generic margins; P013-P015 changes subject to actual customer discovery and gives another real question. P022-P023 densest numbers; show only single simple pairs, quiet delivery, no text soup. P016/P024-P026 foreground strongest alternatives: innovation, competition, inventories, geography, and product issues. Nike 2025/26 results are never labeled 'Amazon losses'.
+
+**One-pass QA judgments:** 01 script STRONG for initial text package, 02 working full-text narration STRONG structurally but selected performer missing, 03 working visual treatment STRONG as plan but prototype/approved visual reference missing; cross-file text coverage coherent. No real listeners, editor delivery review or viewer analytics.
+
+**Blocking packet prerequisites (not blocking scripted):** channel voice unselected v0; visual profile v0 unapproved; S011 third-party earnings transcript ought to be checked against Nike's official webcast before final three-file release; licensed assets need to be secured; no audio take, scene preview, completed film or measured runtime. `business/tools/validate.py` could not be run from remote connector session. Checked exact title/hash/cues and coverage programmatically; do not label full local validator as passed.
