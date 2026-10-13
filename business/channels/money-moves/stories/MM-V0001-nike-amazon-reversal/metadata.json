@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "idea_id": "MM-I0003",
+  "story_id": "MM-V0001",
+  "channel": "money-moves",
+  "title": "Nike Left Amazon. Why Did It Come Back?",
+  "status": "scripted",
+  "script_version": 1,
+  "created_at": "2026-10-12",
+  "updated_at": "2026-10-12",
+  "research_as_of": "2026-10-12",
+  "repository_context_commit": "53f729c9e25509b2d0c8db0542544111d46ef8f5",
+  "runtime": {
+    "target_min_seconds": 480,
+    "target_max_seconds": 600,
+    "word_count": 1566,
+    "assumed_or_observed_wpm": 166,
+    "extra_pause_seconds": 13.3,
+    "silent_hold_seconds": 4,
+    "estimated_seconds": 583.3,
+    "actual_video_seconds": null
+  },
+  "narration": {
+    "provider": null,
+    "voice_id": null,
+    "settings": {},
+    "audition_approved": false,
+    "pronunciations": [],
+    "profile_id": "money_moves_narrator",
+    "profile_version": 0,
+    "kind": null,
+    "model_id": null,
+    "performer_name": null,
+    "locale": "en",
+    "accent": null,
+    "reference_audio_url": null,
+    "observed_wpm": null
+  },
+  "assets": {
+    "review_video_url": null,
+    "final_video_url": null,
+    "audio_url": null,
+    "thumbnail_url": null,
+    "project_url": null
+  },
+  "published_url": null,
+  "published_at": null,
+  "revision_history": [
+    {
+      "date": "2026-10-12",
+      "version": 1,
+      "note": "Original fully source-linked canonical script plus detailed working narrator and visual director; no final editor packet released."
+    }
+  ],
+  "visual": {
+    "direction": "Working monochrome stick-character strategic decision story; definite thumbnail and first frame; visual profile not approved",
+    "approved": false,
+    "reference_urls": [],
+    "profile_version": 0
+  },
+  "script_sha256": "6754e64961fd3af7f009449363145e0248b7a4f95e810e181392bc275bf6e0da",
+  "editorial": {
+    "passed": true,
+    "reviewed_by": "ChatGPT internal text editorial review",
+    "reviewed_at": "2026-10-12",
+    "reviewed_script_sha256": "6754e64961fd3af7f009449363145e0248b7a4f95e810e181392bc275bf6e0da",
+    "blocking_issues": []
+  },
+  "production_review": {
+    "passed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "reviewed_script_sha256": null,
+    "audio_url": null,
+    "final_cut_url": null,
+    "full_audio_listened": false
+  }
+}
