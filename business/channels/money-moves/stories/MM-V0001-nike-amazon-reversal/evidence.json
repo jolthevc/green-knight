@@ -115,14 +115,14 @@
     },
     {
       "id": "S011",
-      "publisher": "MarketBeat",
-      "title": "Nike fiscal Q4 2025 earnings call transcript",
-      "url": "https://www.marketbeat.com/earnings/reports/2025-6-26-nike-inc-stock/",
+      "publisher": "NIKE, Inc. investor relations",
+      "title": "NIKE, Inc. FY25 Q4 earnings conference call official transcript",
+      "url": "https://s1.q4cdn.com/806093406/files/doc_financials/2025/q4/NIKE-Inc-Q4FY25-OFFICIAL-Transcript_-FINAL.pdf",
       "published_at": "2025-06-26",
       "accessed_at": "2026-10-12",
       "access_status": "opened",
-      "locator": "Amazon Q&A; small start and not a material near-term needle mover",
-      "limitations": "Third-party call transcript, confirm official webcast before packet release"
+      "locator": "PDF p. 23 (zero-based 22), Matt Friend response to Adrienne Yih. Nike will go live on Amazon in Q1, starting small, 'not a material needle mover'.",
+      "limitations": "Contemporaneous NIKE management expectations, not actual Amazon-only revenue"
     }
   ],
   "claims": [
