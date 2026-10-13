@@ -3181,6 +3181,786 @@
           "actor": "ChatGPT"
         }
       ]
+    },
+    {
+      "id": "PP-I0006",
+      "channel": "pretty-penny",
+      "title": "Why Movie Theaters Need You to Buy Popcorn",
+      "aliases": [],
+      "subject": "Movie theater ticket and concessions economics",
+      "mechanism": "Film rental fees and concession cost structure create different margins",
+      "viewer_promise": "Explain why a concession purchase can matter enormously to movie theater economics.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Producer-led ten-video trial topic bank. Hypothesis and research starting point, not fully researched or scripted. Freelancer has independent creative execution latitude.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "PP-I0007",
+      "channel": "pretty-penny",
+      "title": "The Surprising Number of Ways a Delivery App Gets Paid",
+      "aliases": [],
+      "subject": "Online food-delivery platform transaction economics",
+      "mechanism": "Merchant commissions, consumer fees, courier payouts, subscriptions, advertising and promotions",
+      "viewer_promise": "Follow a takeout order to see who receives money and why the economics are difficult.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Producer-led ten-video trial topic bank. Hypothesis and research starting point, not fully researched or scripted. Freelancer has independent creative execution latitude.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "PP-I0008",
+      "channel": "pretty-penny",
+      "title": "What Happens to the Online Purchase You Return?",
+      "aliases": [],
+      "subject": "Retail reverse logistics after an online return",
+      "mechanism": "Reverse shipping, grading, restocking, liquidation, resale and disposal",
+      "viewer_promise": "Reveal the second business journey behind a seemingly free return.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Producer-led ten-video trial topic bank. Hypothesis and research starting point, not fully researched or scripted. Freelancer has independent creative execution latitude.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "PP-I0009",
+      "channel": "pretty-penny",
+      "title": "How Can a Gym Charge $15 a Month?",
+      "aliases": [],
+      "subject": "Low-cost fitness membership and franchise unit economics",
+      "mechanism": "Recurring dues, operating capacity, fixed costs, franchise royalties and equipment revenue",
+      "viewer_promise": "Explain how a gym with affordable monthly dues can support a large physical footprint.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Producer-led ten-video trial topic bank. Hypothesis and research starting point, not fully researched or scripted. Freelancer has independent creative execution latitude.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "PP-I0010",
+      "channel": "pretty-penny",
+      "title": "Why McDonald’s Collects Rent From Burger Restaurants",
+      "aliases": [],
+      "subject": "McDonald’s franchised restaurant landlord economics",
+      "mechanism": "Royalties and real-estate rents from franchisees alongside property ownership and leased sites",
+      "viewer_promise": "Reveal the franchisor's simultaneous role as brand owner and property counterparty.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Producer-led ten-video trial topic bank. Hypothesis and research starting point, not fully researched or scripted. Freelancer has independent creative execution latitude.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "PP-I0011",
+      "channel": "pretty-penny",
+      "title": "The Gift Card Money Nobody Ever Spends",
+      "aliases": [],
+      "subject": "Retail gift-card unredeemed balances and accounting",
+      "mechanism": "Advance cash, deferred revenue, redemption liabilities and breakage",
+      "viewer_promise": "Explain what happens to money loaded onto gift cards that customers never redeem.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Producer-led ten-video trial topic bank. Hypothesis and research starting point, not fully researched or scripted. Freelancer has independent creative execution latitude.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "PP-I0012",
+      "channel": "pretty-penny",
+      "title": "Why the Same Prescription Can Have Different Prices",
+      "aliases": [],
+      "subject": "Prescription drug pricing and pharmacy benefit managers",
+      "mechanism": "Drug list/net prices, rebates, insurer payments, PBM arrangements and pharmacy reimbursements",
+      "viewer_promise": "Explain why the identical drug can produce different bills and payouts.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Producer-led ten-video trial topic bank. Hypothesis and research starting point, not fully researched or scripted. Freelancer has independent creative execution latitude.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "PP-I0013",
+      "channel": "pretty-penny",
+      "title": "Why Your Car Dealer Wants to Talk About Monthly Payments",
+      "aliases": [],
+      "subject": "Dealership auto finance and add-on product economics",
+      "mechanism": "Indirect financing income, loan terms, warranties and finance-and-insurance products",
+      "viewer_promise": "Reveal business lines that sit behind the negotiated vehicle price.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Producer-led ten-video trial topic bank. Hypothesis and research starting point, not fully researched or scripted. Freelancer has independent creative execution latitude.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "PP-I0014",
+      "channel": "pretty-penny",
+      "title": "Why Hotel Resort Fees Used to Appear at Checkout",
+      "aliases": [],
+      "subject": "Mandatory resort fees and lodging price disclosure",
+      "mechanism": "Headline-price display, mandatory ancillary fees and total-price rules",
+      "viewer_promise": "Explain the historical incentives for splitting hotel prices and current disclosure changes.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Producer-led ten-video trial topic bank. Hypothesis and research starting point, not fully researched or scripted. Freelancer has independent creative execution latitude.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "PP-I0015",
+      "channel": "pretty-penny",
+      "title": "Why Buying Now and Paying Later Can Be Interest-Free",
+      "aliases": [],
+      "subject": "Buy now pay later checkout finance economics",
+      "mechanism": "Merchant fees, interest-free instalment credit, underwriting losses and other provider fees",
+      "viewer_promise": "Explain how some consumer financing can carry no interest while lenders still operate a business.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Producer-led ten-video trial topic bank. Hypothesis and research starting point, not fully researched or scripted. Freelancer has independent creative execution latitude.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "PP-I0016",
+      "channel": "pretty-penny",
+      "title": "Why the Gas Station Wants You to Buy Lunch",
+      "aliases": [],
+      "subject": "Convenience-store fuel versus in-store economics",
+      "mechanism": "Gasoline gross profit contribution versus higher-margin store merchandise and foodservice",
+      "viewer_promise": "Explain why a fuel retailer invests so much in food and beverages.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Producer-led ten-video trial topic bank. Hypothesis and research starting point, not fully researched or scripted. Freelancer has independent creative execution latitude.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "PP-I0017",
+      "channel": "pretty-penny",
+      "title": "Why Brands Pay to Get Onto a Grocery Shelf",
+      "aliases": [],
+      "subject": "Retail grocery slotting and trade allowances",
+      "mechanism": "Manufacturer slotting fees, promotional allowances and distributor space scarcity",
+      "viewer_promise": "Reveal the financial negotiation behind product placement in supermarkets.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Producer-led ten-video trial topic bank. Hypothesis and research starting point, not fully researched or scripted. Freelancer has independent creative execution latitude.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "PP-I0018",
+      "channel": "pretty-penny",
+      "title": "Why Airline Bags Cost Extra",
+      "aliases": [],
+      "subject": "Airline checked baggage ancillary revenue",
+      "mechanism": "Unbundled ticket prices and separate baggage services and fees",
+      "viewer_promise": "Explain how unbundling baggage changes what different air travelers pay.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Producer-led ten-video trial topic bank. Hypothesis and research starting point, not fully researched or scripted. Freelancer has independent creative execution latitude.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "PP-I0019",
+      "channel": "pretty-penny",
+      "title": "Why Airline Tickets Change Price So Often",
+      "aliases": [],
+      "subject": "Airline revenue management and perishable seat inventory",
+      "mechanism": "Seat inventory, price buckets and expected future demand",
+      "viewer_promise": "Explain how airlines price the same flight differently over time.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Producer-led ten-video trial topic bank. Hypothesis and research starting point, not fully researched or scripted. Freelancer has independent creative execution latitude.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "PP-I0020",
+      "channel": "pretty-penny",
+      "title": "Why Your Hotel Booking Pays a Middleman",
+      "aliases": [],
+      "subject": "Online travel agency commission and merchant model",
+      "mechanism": "Agency commissions, merchant revenue and customer acquisition economics",
+      "viewer_promise": "Show how booking sites get paid for bringing hotels customers.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Producer-led ten-video trial topic bank. Hypothesis and research starting point, not fully researched or scripted. Freelancer has independent creative execution latitude.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "PP-I0021",
+      "channel": "pretty-penny",
+      "title": "Why Your Printer Can Be Cheap but the Ink Is Not",
+      "aliases": [],
+      "subject": "Printer hardware and consumables business model",
+      "mechanism": "Upfront printer pricing against recurring consumable purchases and compatibility",
+      "viewer_promise": "Explain the total lifetime economics of a home printer.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Producer-led ten-video trial topic bank. Hypothesis and research starting point, not fully researched or scripted. Freelancer has independent creative execution latitude.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "PP-I0022",
+      "channel": "pretty-penny",
+      "title": "Why a Dollar Store Is Not Always the Cheapest Store",
+      "aliases": [],
+      "subject": "Discount retail package-size and unit pricing",
+      "mechanism": "Package sizing, smaller cash price, supply chain and price-per-unit tradeoffs",
+      "viewer_promise": "Show why the cheapest item on the shelf might not offer the lowest unit price.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Producer-led ten-video trial topic bank. Hypothesis and research starting point, not fully researched or scripted. Freelancer has independent creative execution latitude.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "PP-I0023",
+      "channel": "pretty-penny",
+      "title": "What Happens After Your Free Trial Ends?",
+      "aliases": [],
+      "subject": "Free trial conversion and recurring subscription economics",
+      "mechanism": "Promotional acquisition, conversion, recurring billing, retention and cancellation",
+      "viewer_promise": "Explain the unit economics behind free-to-paid subscription offers.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Producer-led ten-video trial topic bank. Hypothesis and research starting point, not fully researched or scripted. Freelancer has independent creative execution latitude.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "PP-I0024",
+      "channel": "pretty-penny",
+      "title": "Why It Can Cost Money to Withdraw Your Own Cash",
+      "aliases": [],
+      "subject": "ATM operator economics",
+      "mechanism": "Surcharge, interchange, network processing, cash replenishment and site fees",
+      "viewer_promise": "Reveal how banks and ATM owners get paid to distribute cash.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Producer-led ten-video trial topic bank. Hypothesis and research starting point, not fully researched or scripted. Freelancer has independent creative execution latitude.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "PP-I0025",
+      "channel": "pretty-penny",
+      "title": "How a Casino Can Give You a Free Hotel Room",
+      "aliases": [],
+      "subject": "Casino resort complimentary-room economics",
+      "mechanism": "Gaming customer expected value, room marginal costs and loyalty offers",
+      "viewer_promise": "Explain why a casino might rationally give a hotel room away.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Producer-led ten-video trial topic bank. Hypothesis and research starting point, not fully researched or scripted. Freelancer has independent creative execution latitude.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "PP-I0026",
+      "channel": "pretty-penny",
+      "title": "Why Your Car Insurance Quote Changes When You Move",
+      "aliases": [],
+      "subject": "Geographic auto insurance pricing",
+      "mechanism": "Insurance territory rating and differing expected claims frequency and severity",
+      "viewer_promise": "Explain why place matters to auto insurance premiums.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Producer-led ten-video trial topic bank. Hypothesis and research starting point, not fully researched or scripted. Freelancer has independent creative execution latitude.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "PP-I0027",
+      "channel": "pretty-penny",
+      "title": "Why Ski Resorts Sell Winter Before the Snow Falls",
+      "aliases": [],
+      "subject": "Advance ski-pass sales and resort economics",
+      "mechanism": "Upfront pass cash, weather uncertainty, seasonal utilization and deferred revenue",
+      "viewer_promise": "Explain why ski resorts sell passes long before the season starts.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Producer-led ten-video trial topic bank. Hypothesis and research starting point, not fully researched or scripted. Freelancer has independent creative execution latitude.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "PP-I0028",
+      "channel": "pretty-penny",
+      "title": "Why a Funeral Has So Many Separate Prices",
+      "aliases": [],
+      "subject": "Funeral service prices and FTC itemization requirements",
+      "mechanism": "Funeral home basic services, optional goods and third-party disbursement charges",
+      "viewer_promise": "Understand the economics and rights behind an itemized funeral bill.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Producer-led ten-video trial topic bank. Hypothesis and research starting point, not fully researched or scripted. Freelancer has independent creative execution latitude.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "PP-I0029",
+      "channel": "pretty-penny",
+      "title": "Why a Sandwich Costs So Much at the Airport",
+      "aliases": [],
+      "subject": "Airport concession restaurant economics",
+      "mechanism": "Airport lease terms, captive demand, security logistics and labor restrictions",
+      "viewer_promise": "Explain the cost and pricing mechanisms behind airport food.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Producer-led ten-video trial topic bank. Hypothesis and research starting point, not fully researched or scripted. Freelancer has independent creative execution latitude.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "PP-I0030",
+      "channel": "pretty-penny",
+      "title": "Why Self-Storage Rent Can Rise After You Move In",
+      "aliases": [],
+      "subject": "Self-storage rental and retention economics",
+      "mechanism": "Introductory rents, occupancy, recurring price changes and physical moving costs",
+      "viewer_promise": "Explain the tenant-level economics of small storage units.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Producer-led ten-video trial topic bank. Hypothesis and research starting point, not fully researched or scripted. Freelancer has independent creative execution latitude.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "PP-I0031",
+      "channel": "pretty-penny",
+      "title": "What Happens to Your Old Phone After Trade-In?",
+      "aliases": [],
+      "subject": "Consumer phone trade-in and refurbishment value chain",
+      "mechanism": "Device inspection, refurbishing, resale, recycling, trade-in credits and residual values",
+      "viewer_promise": "Follow a used phone through its second economic life.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Producer-led ten-video trial topic bank. Hypothesis and research starting point, not fully researched or scripted. Freelancer has independent creative execution latitude.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "PP-I0032",
+      "channel": "pretty-penny",
+      "title": "Why Colleges Have a Sticker Price and a Net Price",
+      "aliases": [],
+      "subject": "College posted tuition versus grants and actual net cost",
+      "mechanism": "Published tuition, grants, institutional aid and tuition price discrimination",
+      "viewer_promise": "Explain why different students can pay different net prices at the same school.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Producer-led ten-video trial topic bank. Hypothesis and research starting point, not fully researched or scripted. Freelancer has independent creative execution latitude.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "PP-I0033",
+      "channel": "pretty-penny",
+      "title": "Were Those Outlet Clothes Ever Sold at Full Price?",
+      "aliases": [],
+      "subject": "Factory outlet apparel economics",
+      "mechanism": "Made-for-outlet products, true clearance merchandise and reference pricing",
+      "viewer_promise": "Explain how outlet merchandise and discounts work in practice.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Producer-led ten-video trial topic bank. Hypothesis and research starting point, not fully researched or scripted. Freelancer has independent creative execution latitude.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "PP-I0034",
+      "channel": "pretty-penny",
+      "title": "Why a Single Restaurant Tip Can Become Many Paychecks",
+      "aliases": [],
+      "subject": "Restaurant tipping and tip pooling",
+      "mechanism": "Voluntary tips, service charges, tip pooling, card payments and tipped wages",
+      "viewer_promise": "Explain where restaurant tipping money actually goes.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Producer-led ten-video trial topic bank. Hypothesis and research starting point, not fully researched or scripted. Freelancer has independent creative execution latitude.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "PP-I0035",
+      "channel": "pretty-penny",
+      "title": "Why a Rental Car Counter Sells You More Than a Car",
+      "aliases": [],
+      "subject": "Rental-car coverage waiver and ancillary fees",
+      "mechanism": "Rental base price, coverage waivers, optional extras and vehicle loss risk",
+      "viewer_promise": "Explain what is being offered at rental counter after booking a car.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-12",
+      "updated_at": "2026-10-12",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-12",
+          "status": "proposed",
+          "note": "Producer-led ten-video trial topic bank. Hypothesis and research starting point, not fully researched or scripted. Freelancer has independent creative execution latitude.",
+          "actor": "ChatGPT"
+        }
+      ]
     }
   ]
 }
