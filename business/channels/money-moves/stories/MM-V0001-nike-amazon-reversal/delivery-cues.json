@@ -1,0 +1,166 @@
+{
+  "schema_version": 2,
+  "script_version": 1,
+  "script_sha256": "6754e64961fd3af7f009449363145e0248b7a4f95e810e181392bc275bf6e0da",
+  "instructions_are_non_spoken": true,
+  "assumed_or_observed_wpm": 166,
+  "silent_hold_seconds": 4,
+  "cues": [
+    {
+      "paragraph_id": "P001",
+      "anchor": "In 2019, Nike walked away from selling directly to A",
+      "pace": "natural",
+      "intent": "curious",
+      "inflection": "question",
+      "emphasis": [
+        "Six years later"
+      ],
+      "pause_after_seconds": 1,
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P002",
+      "anchor": "Search for Nike sneakers during those years and you ",
+      "pace": "natural",
+      "intent": "matter_of_fact",
+      "inflection": "neutral",
+      "emphasis": [
+        "never actually left Amazon"
+      ],
+      "pause_after_seconds": 1.1,
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P006",
+      "anchor": "Then came 2019. Nike announced it was ending that li",
+      "pace": "natural",
+      "intent": "matter_of_fact",
+      "inflection": "neutral",
+      "emphasis": [
+        "closer, more personal"
+      ],
+      "pause_after_seconds": 0.7,
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P010",
+      "anchor": "So the gamble was not simply about keeping more doll",
+      "pace": "slower",
+      "intent": "reflective",
+      "inflection": "settled",
+      "emphasis": [
+        "retail job"
+      ],
+      "pause_after_seconds": 0.6,
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P012",
+      "anchor": "At this point the strategy seemed to offer the best ",
+      "pace": "slower",
+      "intent": "skeptical",
+      "inflection": "neutral",
+      "emphasis": [
+        "does not, by itself"
+      ],
+      "pause_after_seconds": 0.8,
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P015",
+      "anchor": "Giving up a retail relationship may therefore cost m",
+      "pace": "natural",
+      "intent": "curious",
+      "inflection": "question",
+      "emphasis": [
+        "middleman"
+      ],
+      "pause_after_seconds": 1,
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P017",
+      "anchor": "Nike's fiscal 2025 numbers made the pressure visible",
+      "pace": "natural",
+      "intent": "matter_of_fact",
+      "inflection": "neutral",
+      "emphasis": [
+        "worldwide figures"
+      ],
+      "pause_after_seconds": 1.1,
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P019",
+      "anchor": "Then, in May 2025, came the reversal. Nike announced",
+      "pace": "natural",
+      "intent": "matter_of_fact",
+      "inflection": "neutral",
+      "emphasis": [
+        "reversal"
+      ],
+      "pause_after_seconds": 0.9,
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P021",
+      "anchor": "And Amazon was not presented as some magic cure. On ",
+      "pace": "slower",
+      "intent": "skeptical",
+      "inflection": "neutral",
+      "emphasis": [
+        "not a material"
+      ],
+      "pause_after_seconds": 0.8,
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P023",
+      "anchor": "The first quarter of fiscal 2027 added a warning aga",
+      "pace": "natural",
+      "intent": "matter_of_fact",
+      "inflection": "neutral",
+      "emphasis": [
+        "North American wholesale"
+      ],
+      "pause_after_seconds": 1.1,
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P026",
+      "anchor": "Could Nike have avoided the pain by never ending its",
+      "pace": "slower",
+      "intent": "skeptical",
+      "inflection": "neutral",
+      "emphasis": [
+        "We cannot know"
+      ],
+      "pause_after_seconds": 1,
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P028",
+      "anchor": "Remember the shopper searching for sneakers on Amazo",
+      "pace": "slower",
+      "intent": "reflective",
+      "inflection": "settled",
+      "emphasis": [
+        "who could influence"
+      ],
+      "pause_after_seconds": 1.6,
+      "pronunciation_notes": []
+    },
+    {
+      "paragraph_id": "P029",
+      "anchor": "And those are not always the same people.",
+      "pace": "slower",
+      "intent": "reflective",
+      "inflection": "settled",
+      "emphasis": [
+        "not always the same"
+      ],
+      "pause_after_seconds": 1.6,
+      "pronunciation_notes": []
+    }
+  ]
+}
