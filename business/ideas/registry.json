@@ -1471,18 +1471,19 @@
     {
       "id": "MM-I0003",
       "channel": "money-moves",
-      "title": "Nike Stopped Selling Directly on Amazon. Then It Came Back.",
+      "title": "Nike Left Amazon. Why Did It Come Back?",
       "aliases": [
         "Nike Left Amazon. Why Did It Return?",
-        "The Bet Nike Had to Reverse"
+        "The Bet Nike Had to Reverse",
+        "Nike Stopped Selling Directly on Amazon. Then It Came Back."
       ],
       "subject": "Nike's 2019 exit from direct Amazon selling and 2025 return in the context of its broader wholesale and direct-to-consumer reset.",
       "mechanism": "Trade-off between direct control over product presentation/customer relationships and reach through large retailers and online marketplaces; subsequent reinvestment in wholesale distribution.",
       "viewer_promise": "Understand why Nike stopped selling directly to Amazon, why it resumed six years later, and what the reversal teaches about distribution control versus consumer discovery.",
-      "status": "proposed",
+      "status": "scripted",
       "related_idea_ids": [],
-      "story_id": null,
-      "story_path": null,
+      "story_id": "MM-V0001",
+      "story_path": "business/channels/money-moves/stories/MM-V0001-nike-amazon-reversal",
       "created_at": "2026-10-12",
       "updated_at": "2026-10-12",
       "rejection_or_block_reason": null,
@@ -1494,6 +1495,12 @@
           "status": "proposed",
           "note": "Five-idea pitch batch; preliminary source leads checked; awaiting owner selection. No story reserved or episode research completed.",
           "actor": "ChatGPT"
+        },
+        {
+          "date": "2026-10-12",
+          "status": "scripted",
+          "actor": "ChatGPT",
+          "note": "Owner-selected episode researched and saved with 1566-word canonical script v1, 11 sources, 29 claims, 10 scenes, full working narration and visual directors, selected title/thumbnail/opening, editorial review; no final editor packet without approved narrator and visual profile."
         }
       ]
     },
