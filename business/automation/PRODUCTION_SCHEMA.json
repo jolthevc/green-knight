@@ -1,0 +1,177 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Green Knight production record",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "story_id",
+    "channel_slug",
+    "production_status",
+    "final_edit_approved",
+    "updated_at"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": 1
+    },
+    "story_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "channel_slug": {
+      "type": "string",
+      "minLength": 1
+    },
+    "production_status": {
+      "enum": [
+        "not_started",
+        "packet_pending",
+        "packet_ready",
+        "with_editor",
+        "draft_received",
+        "revision_requested",
+        "final_edit_approved",
+        "scheduled",
+        "published"
+      ]
+    },
+    "editor_name": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "fiverr_order_reference": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "handoff_at": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "due_at": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "delivery_version": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "drive_folder_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "drive_url": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "final_video_file_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "final_edit_approved": {
+      "type": "boolean"
+    },
+    "final_edit_approved_at": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "planned_publish_at": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "published_at": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "youtube_url": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "uri"
+    },
+    "notes": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "updated_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "history": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "production_status": {
+            "const": "scheduled"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "final_edit_approved": {
+            "const": true
+          },
+          "planned_publish_at": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "production_status": {
+            "const": "published"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "published_at": {
+            "type": "string"
+          },
+          "youtube_url": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  ]
+}
