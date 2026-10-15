@@ -58,3 +58,6 @@ This is an entry-shape illustration, not a new proposal. PP-I0001 is already in 
 ```
 
 On selection, story_path uses a repository-relative path such as business/channels/pretty-penny/stories/PP-V0001-short-slug. Use real dates and available IDs, not the example placeholders.
+
+## Hard Costs ninth channel
+HC-I#### / HC-V####. Its first 12 examples (2026-10-14) are **proposed, unselected and unresearched** seeds, not story commissions. See channels/hard-costs/PILOT_SLATE.md, apply ordinary history/duplicate/selection gates and only allocate HC-V on owner selection.

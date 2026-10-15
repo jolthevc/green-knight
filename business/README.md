@@ -12,6 +12,7 @@ Every channel in this business umbrella targets **8–10 minutes per finished ep
 | Silver Spoon | Understand how family fortunes are built, inherited, kept or lost | [Built sixth](channels/silver-spoon/README.md) |
 | First Billion | Trace the steps, economics and ownership that build a defined billion-dollar outcome | [Built seventh](channels/first-billion/README.md) |
 | On the Map | Discover why economic activity began here, stayed and shaped the place | [Built eighth](channels/on-the-map/README.md) |
+| Hard Costs | The economics, operators and extraordinary stories behind what gets built | [Built ninth](channels/hard-costs/README.md) |
 
 Names do not justify duplicate lanes. A company can feature on several channels only when each episode answers a different central question.
 
@@ -58,3 +59,6 @@ Read [POPCORN_STANDARD.md](POPCORN_STANDARD.md) at **every** channel-idea, episo
 
 ## Editor sourcing, onboarding and managing the relationship
 Use [Editor Onboarding & Management Playbook](EDITOR_ONBOARDING_PLAYBOOK.md) and the companion [intake record](templates/editor/EDITOR_INTAKE_RECORD.md) and [Fiverr message patterns](templates/editor/FIVERR_MESSAGES.md) when engaging a new editor, scoping a pilot, negotiating a ten-video batch, or reviewing revision terms. This is the agent's internal relationship protocol, separate from the three editor-facing episode files.
+
+## Hard Costs (ninth channel, 2026-10-14)
+The construction channel uses HC-I#### / HC-V####, 19 editorial categories, a working Industrial Editorial visual brief and unselected narrator profile. [Read its setup](channels/hard-costs/README.md). Shared evidence, story, popcorn-good and director-owned three-file packet requirements apply. It has 12 unselected **proposed ideas**, not approved video production or a public YouTube channel.

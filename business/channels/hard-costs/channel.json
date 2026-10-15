@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "workspace": "manual_business",
+  "id": "hard-costs",
+  "idea_prefix": "HC-I",
+  "story_prefix": "HC-V",
+  "name": "Hard Costs",
+  "language": "en",
+  "target_runtime_seconds": {
+    "min": 480,
+    "target": 540,
+    "max": 600
+  },
+  "publication_cadence": null,
+  "production_status": "setup",
+  "branding_status": "working_name_unverified",
+  "narration": {
+    "profile": "assured, curious, conversational, cinematic, grounded in operator economics",
+    "profile_id": "hard_costs_narrator",
+    "profile_path": "business/channels/hard-costs/narration.json"
+  },
+  "visual_direction_status": "director_owned_proposed",
+  "automated_portfolio_registration": false,
+  "visual_profile": {
+    "version": 0,
+    "status": "proposed",
+    "approved_by": null,
+    "approved_at": null,
+    "reference_urls": []
+  },
+  "episode_formats": [
+    "operator_playbook",
+    "operator_profile",
+    "money_flow",
+    "construction_economics",
+    "industry_company",
+    "hidden_empire",
+    "iconic_structure",
+    "project_failure",
+    "construction_deal",
+    "supply_chain",
+    "invisible_building",
+    "industry_rivalry",
+    "labor_market",
+    "building_future",
+    "construction_experiment",
+    "permission_bottleneck"
+  ],
+  "editorial_category_count": 19
+}

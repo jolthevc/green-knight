@@ -70,3 +70,6 @@ Each brand owns a different central question and viewing pleasure. Read LANE_ROU
 Track real returning viewers, impressions and CTR by source, 30-second retention, average view duration, satisfaction signals where available, audience comments and whether viewers can actually explain the story. Assess also story originality, verified insight, licensing, clarity, visual quality and production economics. Small samples are directional, not proof.
 
 See CREATIVE_GREENLIGHT.md for a mandatory internal commissioning and script-pass test. Review real pilot cuts before calling any channel visually proven.
+
+## Hard Costs extension (2026-10-14)
+The ninth channel inherits this charter and all non-negotiable evidence, drama, newcomer/expert and independent editorial rules. Its particular reward combines physical construction stories with rigorous financial mechanisms and genuinely useful operator playbooks. See channels/hard-costs/CREATIVE_CONTRACT.md.

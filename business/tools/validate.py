@@ -8,7 +8,7 @@ from episode_check import inspect_story, load_json, number, paragraph_ref, scrip
 
 ROOT = Path(__file__).resolve().parents[2]
 BUSINESS = ROOT / "business"
-CHANNELS = {"pretty-penny", "money-moves", "fallen-angels", "changing-hands", "fools-gold", "silver-spoon", "first-billion", "on-the-map"}
+CHANNELS = {"pretty-penny", "money-moves", "fallen-angels", "changing-hands", "fools-gold", "silver-spoon", "first-billion", "on-the-map", "hard-costs"}
 STATUSES = {"proposed", "selected", "researching", "researched", "scripted",
             "production_ready", "in_production", "published", "blocked", "rejected", "archived"}
 COMPLETE = {"scripted", "production_ready", "in_production", "published"}

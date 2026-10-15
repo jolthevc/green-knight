@@ -12,6 +12,7 @@ Use this before reserving a story. The subject alone does not determine the chan
 | Silver Spoon | These rights and transfers explain how the family kept, divided or lost wealth/control | Family/ownership/rights map |
 | First Billion | These steps, unit economics, capital and ownership explain a defined wealth/business milestone | Starting resources, scale and ownership bridge |
 | On the Map | These location-specific conditions and reinforcing effects explain why activity began, persisted or changed here and who benefited | Starting geography, foothold, transitions, alternatives, value capture and constraints |
+| Hard Costs | This construction-specific project, company, deal or operator growth mechanism works or fails because of these money flows, decisions and physical constraints | Real asset/job/operating unit, contract/cash chain, labor/capital bottlenecks, changes with scale, replicable and nonreplicable lessons |
 
 ## Resolve overlaps
 
@@ -28,3 +29,6 @@ Examples of framing, not researched facts:
 - Concealment mechanics are Fool’s Gold; a broader operating collapse is Fallen Angels.
 
 If research changes the lane, preserve the idea ID/history, record the reframe, and allocate a destination-channel idea linked to the original if a new story is commissioned. Archive the original proposal rather than silently changing its prefix/channel. Before story creation the user should understand a material change in the selected promise; routine narrowing within the promise does not need another gate.
+
+## Hard Costs overlap
+Hard Costs follows construction economics, physical project risk, trades and practical operator growth. First Billion is a broad defined-billion milestone path where construction mechanisms are incidental. Pretty Penny is familiar consumer spending. On the Map needs location and regional clustering to drive the explanation. Fallen Angels owns a company collapse when loss of advantage is the answer; Money Moves owns one consequential strategic choice. Landmark histories belong in Hard Costs when construction/financing is the mechanism, rather than tourism, geography or company biography. Check the final takeaway, not the subject's industry.

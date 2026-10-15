@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-12",
+  "updated_at": "2026-10-14",
   "ideas": [
     {
       "id": "PP-I0001",
@@ -3959,6 +3959,318 @@
           "status": "proposed",
           "note": "Producer-led ten-video trial topic bank. Hypothesis and research starting point, not fully researched or scripted. Freelancer has independent creative execution latitude.",
           "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "HC-I0001",
+      "channel": "hard-costs",
+      "title": "How Plumbers Build $100 Million Businesses",
+      "aliases": [],
+      "subject": "Plumbing operator economics",
+      "mechanism": "First-paying work, crews, service agreements, dispatch, local expansion and acquisitions; $100M annual revenue is a hypothesis to verify",
+      "viewer_promise": "How some plumbing operators reach substantial scale, and what a smaller owner could genuinely learn.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-14",
+      "updated_at": "2026-10-14",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-14",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Owner-discussed initial Hard Costs setup candidate; no research, selection, script, factual confirmation, editor commission or approval yet."
+        }
+      ]
+    },
+    {
+      "id": "HC-I0002",
+      "channel": "hard-costs",
+      "title": "Why Contractors Go Broke on Profitable Projects",
+      "aliases": [],
+      "subject": "Contractor working capital",
+      "mechanism": "Profit versus billing, retainage, pay apps, cash collection and job financing",
+      "viewer_promise": "How reported profitable construction work can still produce a cash crisis.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-14",
+      "updated_at": "2026-10-14",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-14",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Owner-discussed initial Hard Costs setup candidate; no research, selection, script, factual confirmation, editor commission or approval yet."
+        }
+      ]
+    },
+    {
+      "id": "HC-I0003",
+      "channel": "hard-costs",
+      "title": "Who Actually Gets Paid When You Build a Skyscraper?",
+      "aliases": [],
+      "subject": "Project value chain",
+      "mechanism": "Owner and lender funds through GC, specialty subs, suppliers and workers; risk and timing",
+      "viewer_promise": "Where skyscraper construction money and obligations really go.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-14",
+      "updated_at": "2026-10-14",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-14",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Owner-discussed initial Hard Costs setup candidate; no research, selection, script, factual confirmation, editor commission or approval yet."
+        }
+      ]
+    },
+    {
+      "id": "HC-I0004",
+      "channel": "hard-costs",
+      "title": "The Hidden Giants Selling America's Rock",
+      "aliases": [],
+      "subject": "Aggregates and building materials",
+      "mechanism": "Local quarry reserves, distance, transport, capital and customer demand",
+      "viewer_promise": "Why ubiquitous rock can support sizable, durable construction enterprises.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-14",
+      "updated_at": "2026-10-14",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-14",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Owner-discussed initial Hard Costs setup candidate; no research, selection, script, factual confirmation, editor commission or approval yet."
+        }
+      ]
+    },
+    {
+      "id": "HC-I0005",
+      "channel": "hard-costs",
+      "title": "The Empire State Building's Financial Gamble",
+      "aliases": [],
+      "subject": "Iconic landmark construction",
+      "mechanism": "Historical financing, construction costs, leasing demand and project risk",
+      "viewer_promise": "What the iconic building's financial decisions reveal about the era and its builders.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-14",
+      "updated_at": "2026-10-14",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-14",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Owner-discussed initial Hard Costs setup candidate; no research, selection, script, factual confirmation, editor commission or approval yet."
+        }
+      ]
+    },
+    {
+      "id": "HC-I0006",
+      "channel": "hard-costs",
+      "title": "Why Empty Land Cannot Always Be Built On",
+      "aliases": [],
+      "subject": "Utilities and entitlements",
+      "mechanism": "Land ownership versus electrical/water/sewer capacity, permission and infrastructure time",
+      "viewer_promise": "Why development rights and infrastructure access determine which land can be built.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-14",
+      "updated_at": "2026-10-14",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-14",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Owner-discussed initial Hard Costs setup candidate; no research, selection, script, factual confirmation, editor commission or approval yet."
+        }
+      ]
+    },
+    {
+      "id": "HC-I0007",
+      "channel": "hard-costs",
+      "title": "From One Truck to a Regional Contracting Business",
+      "aliases": [],
+      "subject": "Trades small-business growth",
+      "mechanism": "First customers, service-unit economics, scheduling, foremen, branches and capital",
+      "viewer_promise": "How a small trade operator might earn viable steps toward a regional business.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-14",
+      "updated_at": "2026-10-14",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-14",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Owner-discussed initial Hard Costs setup candidate; no research, selection, script, factual confirmation, editor commission or approval yet."
+        }
+      ]
+    },
+    {
+      "id": "HC-I0008",
+      "channel": "hard-costs",
+      "title": "The Business Behind America's Elevators",
+      "aliases": [],
+      "subject": "Building services and trades",
+      "mechanism": "Installation versus recurring maintenance, parts, code obligations and service",
+      "viewer_promise": "How the economics of installed elevator systems extend long past construction.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-14",
+      "updated_at": "2026-10-14",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-14",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Owner-discussed initial Hard Costs setup candidate; no research, selection, script, factual confirmation, editor commission or approval yet."
+        }
+      ]
+    },
+    {
+      "id": "HC-I0009",
+      "channel": "hard-costs",
+      "title": "Why Equipment Rental Is a Giant Business",
+      "aliases": [],
+      "subject": "Equipment rental industry",
+      "mechanism": "Utilization, fleet financing, maintenance, transport, asset residuals and margin",
+      "viewer_promise": "How owners earn money by renting heavy machinery and what could break the model.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-14",
+      "updated_at": "2026-10-14",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-14",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Owner-discussed initial Hard Costs setup candidate; no research, selection, script, factual confirmation, editor commission or approval yet."
+        }
+      ]
+    },
+    {
+      "id": "HC-I0010",
+      "channel": "hard-costs",
+      "title": "Inside a $100 Million Electrical Contractor",
+      "aliases": [],
+      "subject": "Commercial electrical contracting",
+      "mechanism": "Bid pipeline, bonded contracts, labor leadership, working capital, execution risks",
+      "viewer_promise": "What a large electrical contractor needs beyond adding projects and employees.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-14",
+      "updated_at": "2026-10-14",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-14",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Owner-discussed initial Hard Costs setup candidate; no research, selection, script, factual confirmation, editor commission or approval yet."
+        }
+      ]
+    },
+    {
+      "id": "HC-I0011",
+      "channel": "hard-costs",
+      "title": "Why Major Construction Projects Go Over Budget",
+      "aliases": [],
+      "subject": "Megaproject contract economics",
+      "mechanism": "Scope, design changes, procurement, labor markets and contract risk allocation",
+      "viewer_promise": "Why estimated costs diverge from final costs and who bears the difference.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-14",
+      "updated_at": "2026-10-14",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-14",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Owner-discussed initial Hard Costs setup candidate; no research, selection, script, factual confirmation, editor commission or approval yet."
+        }
+      ]
+    },
+    {
+      "id": "HC-I0012",
+      "channel": "hard-costs",
+      "title": "The Long Journey of a Steel Beam",
+      "aliases": [],
+      "subject": "Structural steel supply chain",
+      "mechanism": "Mill, fabrication, distribution, freight, scheduling and site installation",
+      "viewer_promise": "How supply-chain constraints and economics shape a familiar construction material.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-14",
+      "updated_at": "2026-10-14",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-14",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Owner-discussed initial Hard Costs setup candidate; no research, selection, script, factual confirmation, editor commission or approval yet."
         }
       ]
     }
