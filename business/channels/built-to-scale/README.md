@@ -1,17 +1,20 @@
 # Built to Scale
-**How great businesses are built, run, and made better.**
+**The growth playbook for construction and the trades.**
 
-The tenth Green Knight business channel in `business/`. Produce 8–10 minute nonfiction stories about how remarkable trade, contracting and field-service businesses **grow, operate, make consequential choices and improve**. This is a separate brand and prospective editor experiment from Hard Costs, not an alternate edit of the same documentaries.
+The tenth Green Knight business channel in `business/`. Premium, compelling documentaries that answer a durable question: **How does a capable tradesperson or small contractor build a larger, stronger, more valuable business without breaking it?**
 
-**Viewers:** broadly curious business viewers and ambitious people who work in the trades, including owners, employees, operators and future entrepreneurs. They need not want to become millionaires or foremen. **Editorial ideal:** instructional in substance, never lecturing in form. Show real decisions, differences, processes and stakes; don't prescribe a list of tips.
+**The scale promise is broader than revenue.** Growth can mean more paying customers, a second crew, repeat work, larger contracts, stronger hiring/management, better service capacity, sound financing, another branch, an acquisition, geographic reach, less founder dependence, greater durability or improved owner equity. Revenue/millionaire titles are optional, not the entire channel.
 
-Initial coverage: HVAC, plumbing, electrical, roofing, restoration, landscaping, facilities and adjacent services. Potentially expand beyond construction into other fragmented owner-operated industries if audiences show demand.
+**Audience:** ambitious people in construction, plumbing, HVAC, electrical, roofing and field services: small business owners, aspiring founders, tradespeople interested in ownership, managers and business-curious outsiders. Stories must be fascinating to a general viewer, useful to a knowledgeable operator, and never a foreman-only course or financial get-rich pitch.
 
-## Working documents
-- [Channel doctrine](CHANNEL.md), [27 story frames across four pillars](EDITORIAL_FRAMES.md), [creative contract](CREATIVE_CONTRACT.md)
-- [Research](RESEARCH_STANDARD.md), [script standards](SCRIPT_STANDARD.md), [narration](VOICE.md), [narrator profile](narration.json)
-- [The Operator's Blueprint visual style](STYLE.md), [diagram system](VISUAL_SYSTEM.md)
-- [Commercial experiment](LAUNCH_AND_MONETIZATION.md), [candidate slate](PILOT_SLATE.md), [start a new chat](START_A_CHAT.md), [configuration](channel.json), [stories](stories/README.md)
-- [Business agents](../../AGENTS.md), [popcorn-good](../../POPCORN_STANDARD.md), [registry](../../ideas/registry.json), [workflow](../../WORKFLOW.md)
+**Six growth engines:** customers and sales; hiring/people; financing/capital; repeatable operating systems; expansion/acquisitions; growing without breaking. **Four film franchises:** Growth Playbook, Built From Nothing, The Big Decision and Growing Pains. Real historical company case studies, financial models and trade-specific playbooks share the slate.
 
-**Status:** channel setup and proposed idea bank only; name and handle not checked for availability. No approved visual profile, narrator, editor, commissioned episode, newsletter, automation, YouTube channel, published content or claims of performance. BTS-I#### ideas; BTS-V#### story IDs allocated only after owner selection. Shared Green Knight evidence, creative, script, audio, three-file director packet and delivery QA rules apply.
+## Editorial/production guides
+- [Channel constitution](CHANNEL.md), [growth engines and story franchises](EDITORIAL_FRAMES.md), [creative contract](CREATIVE_CONTRACT.md), [research standard](RESEARCH_STANDARD.md), [script standard](SCRIPT_STANDARD.md)
+- [Operator's Blueprint visual direction](STYLE.md), [animated models and visuals](VISUAL_SYSTEM.md), [narration direction](VOICE.md), [narration profile](narration.json)
+- [Initial growth-first episode bank](PILOT_SLATE.md), [named-company case-study leads](CASE_STUDIES.md), [prospective producer/editor workflow](EDITOR_WORKFLOW.md), [launch hypothesis](LAUNCH_AND_MONETIZATION.md), [start a chat](START_A_CHAT.md), [channel configuration](channel.json), [story directory](stories/README.md)
+- [Parent agents](../../AGENTS.md), [popcorn-good mandate](../../POPCORN_STANDARD.md), [shared registry](../../ideas/registry.json), [workflow](../../WORKFLOW.md)
+
+**Status:** updated growth positioning and proposed ideas only. No selected story, verified case-study research, editor contract, approved narrator, approved design pilot, account or publishing. BTS-I#### ideas and BTS-V#### selected story IDs; full shared stage/evidence/three-file producer QA applies. The original 12 proposed ideas remain in the ledger for provenance; growth-focused concepts from BTS-I0013 onward are the preferred new test slate.
+
+**Hard Costs stays separate:** wide-angle documentary about the construction economy, its projects and industries. Built to Scale is the growth **mechanism/playbook** for operators. Distinguish actual decision, sources and viewer promise before reusing any subject.

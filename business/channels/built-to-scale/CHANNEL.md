@@ -1,21 +1,30 @@
-# Built to Scale: a documentary about better businesses
-## The promise
-Explain how the best service and contracting businesses actually work, and how their decisions, operations, customer relationships, people and strategy differ from the rest. At the end, a business owner may find an actionable idea, but a non-owner should have enjoyed an excellent story. **Never a lecture, trade-skills course, content farm or wealth-flex channel.**
+# Built to Scale: growth without breaking
+## Unmistakable thesis
+**The growth playbook for construction and trade businesses.** How do you find your first customers, move beyond doing every job yourself, hire and manage people, finance expansion, win bigger work, build a durable operating system, enter new markets, acquire competitors and eventually own an enterprise rather than just a demanding job?
 
-## Four broad pillars
-1. **Build the Business:** growth, distribution, expansion, repeat clients, acquisitions, economics and owner choices, sometimes without a financial milestone.
-2. **Run the Business:** how scheduling, staffing, job selection, quality, customer service, planning, hiring, training and dependable systems make companies better.
-3. **Make the Big Decision:** why operators choose one customer, employee, branch, workflow, acquisition or investment over another, and what trade-offs emerge.
-4. **Why They Succeed or Fail:** evidence-backed business comparisons, breaking points, turnarounds, superior operating models and avoidable organizational mistakes.
+The story must teach **how scale happens** through concrete decisions, people, numbers, risks and outcomes. Scale does NOT just mean `$X million`. It may mean reliable service delivery, a repeat customer base, second/third crew, superior capacity, new markets, professional management, meaningful profit, improved resilience or the option to sell.
 
-The middle ground is crucial: not every video is "$100M business" and not every video needs an apprentice/foreman/PM audience. An operator's time, reputation, training, customer trust, reliability and quality can matter as much as dollars. A video about why the best contractors reject work or why some jobs run like clockwork can fascinate anyone.
+## Six connected engines
+1. **Get and retain customers:** reputation, paid/organic leads, commercial relationships, repeat work, cross-selling, service agreements, bidding, customer concentration, distribution economics.
+2. **Hire and build leadership:** when the founder stops doing the work, recruiting, training, dispatch, foremen/managers, sales, estimators, incentives, delegation, accountability and quality across crews.
+3. **Finance growth:** working capital, receivables/retainage, project cash cycles, customer deposits, equipment leases/loans, revolvers/lines of credit, surety bonding, personal guarantees, equity partners, SBA/other lending where applicable, lender covenants and downside.
+4. **Systematize operations:** repeatable crew economics, estimating, job costing, scheduling, service quality, dispatch, technician utilization, safety, project controls, customer experience and reliable execution. Operational topics matter because they **enable or constrain scale**, not because they are generic productivity tips.
+5. **Expand and acquire:** second branch, route density, entering a new region, trade adjacency, buy-versus-build, acquisition sourcing/valuation/integration, roll-ups, franchise/network structures and founder equity outcomes.
+6. **Survive scale:** the first management layer, overhead, cash crises, customer service, cultural fracture, growth ceilings, contract risk, succession and building a company that runs without the founder.
 
-## Channel boundary
-**Hard Costs** remains the broad documentary about the construction industry's buildings, infrastructure, players, financial flows, hidden empires and project economics. It may cover operators, but its central question is what happened in the built world and why. **Built to Scale** is a direct, generalizable investigation of a managerial or entrepreneurial choice: what made a business better, for whom, and under what conditions could a similar choice work?
+**Do not treat these as separate courses.** One gripping documentary often combines several engines around a single growth obstacle.
 
-Do not duplicate existing Hard Costs concepts, especially HC-I0001 ($100M plumbers), HC-I0007 (one truck to regional firm) or HC-I0010 ($100M electricians), under a different channel name. Only commission both where the central causal mechanism, examples and viewer insight genuinely differ. First Billion owns defined-billion wealth paths; Money Moves a particular corporate strategy; Fallen Angels whole-company deterioration; Pretty Penny consumer item economics.
+## Four recurring story franchises
+- **The Growth Playbook:** step-by-step *economic and operational* journey of a trade/service company from one believable stage to another. Ground the steps in real companies and clearly marked scenario assumptions.
+- **Built From Nothing:** real entrepreneurs and actual company histories; how the first customers, hires, deals and systems transformed a business. No invented founder stories.
+- **The Big Decision:** borrow or bootstrap, hire or subcontract, open branch or acquire, accept or refuse a large contract, buy or lease equipment. Explicit alternatives, limits and failure scenarios.
+- **The Growing Pains:** why a popular business hits a ceiling, runs out of cash, breaks quality or collapses under growth, and what a credible fix really requires.
 
-## Source, ethics and craft
-A real story means sourceable people, businesses, real decisions or a transparently illustrative model, never fake private P&Ls, invented owner interviews, fabricated growth outcomes or correlation presented as proof. Tell the viewer what they can and cannot transfer; consider geography, business model, worker/safety duties and scale. Distinguish revenue, cash, margin, enterprise value and owner's proceeds.
+## Two audiences; one engaging film
+A working tradesperson considering ownership, a small contractor with six employees, an established owner pursuing acquisitions, and a general business-documentary viewer should all understand the stakes. No narrow foreman training, generic corporate management class, ten-tip list or aspirational guru sermon. Every film follows a desire, choice, source-backed consequence and a hard-earned transferable insight.
 
-Every episode passes the Green Knight curious-newcomer AND informed-expert test. Story, decisions and dramatic pressure reveal strategy; no ten-item recitations or unsourced motivational advice. Commercial independence and conflicts rules in the business charter always apply.
+**Case studies matter:** Quanta Services (acquisition/decentralization hypothesis), A1 Garage Door Service (regional expansion/customer acquisition), Comfort Systems USA (commercial specialization/portfolio), Roto-Rooter (specialization/franchise/network), Neighborly (brand/franchise structure). These are **research leads**; names do not verify founding stories, acquisition counts, geography or growth causation. See CASE_STUDIES.md.
+
+**Hard Costs boundary:** Hard Costs investigates why structures/projects/industries function financially and historically; Built to Scale investigates the **repeatable operator growth decisions and constraints**. Hard Costs has proposed HC-I0001, HC-I0007 and HC-I0010 related to scaling, so a similar BTS topic must have a materially different company, specific mechanism, narrative and payoff. Never deliver two edits of the same documentary. First Billion owns broad billion-dollar paths not tied to contractor operator learning; other global routes stay governed by ../../LANE_ROUTING.md.
+
+**Non-negotiables:** differentiate revenue, enterprise value and owner proceeds; real cases need evidence, dates and counterarguments; real debt terms/credit/surety vary and personal guarantees carry risk; illustrative cases must be labeled aloud and visually; no guaranteed growth claims, unsourced “secrets” or sponsor/editorial conflicts. Follow all shared storytelling, evidence, narration, packet and final-cut QA rules.

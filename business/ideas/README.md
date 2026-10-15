@@ -64,3 +64,6 @@ HC-I#### / HC-V####. Its first 12 examples (2026-10-14) are **proposed, unselect
 
 ## Built to Scale
 Tenth business channel, BTS-I#### / BTS-V####. Its 2026-10-14 proposed topic bank is not fact-checked, selected or scripted. See channels/built-to-scale/EDITORIAL_FRAMES.md and PILOT_SLATE.md. Follow live global ledger selection, source/evidence, history and cross-channel deduplication protocols.
+
+## Built to Scale growth focus (2026-10-14)
+The original BTS-I0001–BTS-I0012 remain proposed for provenance, but the **current preferential topic bank** is BTS-I0013–BTS-I0026: customer acquisition, management hires, bonding/bigger contracts, working capital and credit, regional service scale, acquisitions, expansion risk and documented company histories. Their statuses are still proposed/unselected/unresearched. See channels/built-to-scale/PILOT_SLATE.md and CASE_STUDIES.md. Dedupe by mechanism against both Hard Costs and earlier BTS proposals. The shift in programming is not authority to invent selected stories or completed scripts.

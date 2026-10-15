@@ -4585,6 +4585,390 @@
           "note": "Built to Scale setup idea agreed in discussion. Unresearched and unselected. Requires cross-channel check, sources, editorial greenlight before any story or production."
         }
       ]
+    },
+    {
+      "id": "BTS-I0013",
+      "channel": "built-to-scale",
+      "title": "How to Build a 100-Truck HVAC Company",
+      "aliases": [],
+      "subject": "HVAC service business regional growth",
+      "mechanism": "Step changes in truck/route density, recurring demand, marketing, management layers and branch economics; distinguish HC-I0007's general one-truck narrative",
+      "viewer_promise": "Explore how many profitable service teams become an organized multi-market HVAC operation and where the model breaks.",
+      "status": "proposed",
+      "related_idea_ids": [
+        "HC-I0007",
+        "BTS-I0002"
+      ],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-14",
+      "updated_at": "2026-10-14",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-14",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Owner-directed 2026-10-14 growth-playbook repositioning. Research lead only: no company numbers, outcome, source claim, production authorization or selected script established. Distinguish any related Hard Costs/BTS proposal before greenlight."
+        }
+      ]
+    },
+    {
+      "id": "BTS-I0014",
+      "channel": "built-to-scale",
+      "title": "How to Win Your First 100 Plumbing Customers",
+      "aliases": [],
+      "subject": "Plumbing business customer acquisition",
+      "mechanism": "First local demand, reputation, lead conversion, customer acquisition costs, referral loops and sufficient tech/dispatch capacity, distinct from HC-I0001's end-to-end huge-scale company",
+      "viewer_promise": "Understand how a small plumbing operator can build a sustainable initial customer base and which channels depend on market conditions.",
+      "status": "proposed",
+      "related_idea_ids": [
+        "HC-I0001",
+        "BTS-I0005"
+      ],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-14",
+      "updated_at": "2026-10-14",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-14",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Owner-directed 2026-10-14 growth-playbook repositioning. Research lead only: no company numbers, outcome, source claim, production authorization or selected script established. Distinguish any related Hard Costs/BTS proposal before greenlight."
+        }
+      ]
+    },
+    {
+      "id": "BTS-I0015",
+      "channel": "built-to-scale",
+      "title": "The First Five Hires That Let a Contractor Scale",
+      "aliases": [],
+      "subject": "First management and skilled hires",
+      "mechanism": "Sequence of apprentices/technicians, crew leaders, dispatcher, sales/estimator and managers conditional on trade/scale; new overhead vs founder freedom",
+      "viewer_promise": "Discover which early hires remove scale bottlenecks, and why the wrong hiring sequence can make growth worse.",
+      "status": "proposed",
+      "related_idea_ids": [
+        "BTS-I0002"
+      ],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-14",
+      "updated_at": "2026-10-14",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-14",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Owner-directed 2026-10-14 growth-playbook repositioning. Research lead only: no company numbers, outcome, source claim, production authorization or selected script established. Distinguish any related Hard Costs/BTS proposal before greenlight."
+        }
+      ]
+    },
+    {
+      "id": "BTS-I0016",
+      "channel": "built-to-scale",
+      "title": "How Small Contractors Win Their First $10 Million Job",
+      "aliases": [],
+      "subject": "Transformative commercial contract",
+      "mechanism": "Bidding qualification, track record, surety/bonding, capacity, staff and project finance with decision downside",
+      "viewer_promise": "Follow how a small subcontractor can qualify for larger work without assuming a $10M contract is itself a profitable win.",
+      "status": "proposed",
+      "related_idea_ids": [
+        "HC-I0010"
+      ],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-14",
+      "updated_at": "2026-10-14",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-14",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Owner-directed 2026-10-14 growth-playbook repositioning. Research lead only: no company numbers, outcome, source claim, production authorization or selected script established. Distinguish any related Hard Costs/BTS proposal before greenlight."
+        }
+      ]
+    },
+    {
+      "id": "BTS-I0017",
+      "channel": "built-to-scale",
+      "title": "How Contractors Actually Finance Growth",
+      "aliases": [],
+      "subject": "Capital structures for trades businesses",
+      "mechanism": "Compare bank credit, line of credit, equipment finance, supplier terms, equity and personal risk as capital-intensive growth tools, distinct from contractor failure diagnosis",
+      "viewer_promise": "Reveal how different expansion paths change financing needs, collateral, debt service, dilution and owner risk.",
+      "status": "proposed",
+      "related_idea_ids": [
+        "HC-I0002"
+      ],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-14",
+      "updated_at": "2026-10-14",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-14",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Owner-directed 2026-10-14 growth-playbook repositioning. Research lead only: no company numbers, outcome, source claim, production authorization or selected script established. Distinguish any related Hard Costs/BTS proposal before greenlight."
+        }
+      ]
+    },
+    {
+      "id": "BTS-I0018",
+      "channel": "built-to-scale",
+      "title": "Why Contractors Get Stuck at $5 Million",
+      "aliases": [],
+      "subject": "Founder and management scaling ceiling",
+      "mechanism": "First leader/manager layer, role specialization and cash/quality systems required to break a hypothetical revenue threshold",
+      "viewer_promise": "Understand why owner-managed practices can become a barrier as a business grows, and how the transition works under real conditions.",
+      "status": "proposed",
+      "related_idea_ids": [
+        "BTS-I0006"
+      ],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-14",
+      "updated_at": "2026-10-14",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-14",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Owner-directed 2026-10-14 growth-playbook repositioning. Research lead only: no company numbers, outcome, source claim, production authorization or selected script established. Distinguish any related Hard Costs/BTS proposal before greenlight."
+        }
+      ]
+    },
+    {
+      "id": "BTS-I0019",
+      "channel": "built-to-scale",
+      "title": "How to Buy Your First HVAC Competitor",
+      "aliases": [],
+      "subject": "First trade-business acquisition",
+      "mechanism": "Acquisition sourcing, price/earnings assumptions, financing, customer/worker retention and integration, narrower than branch-vs-acquisition comparison",
+      "viewer_promise": "Understand the process and risks of going from growing organically to buying a competing service company.",
+      "status": "proposed",
+      "related_idea_ids": [
+        "BTS-I0008"
+      ],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-14",
+      "updated_at": "2026-10-14",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-14",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Owner-directed 2026-10-14 growth-playbook repositioning. Research lead only: no company numbers, outcome, source claim, production authorization or selected script established. Distinguish any related Hard Costs/BTS proposal before greenlight."
+        }
+      ]
+    },
+    {
+      "id": "BTS-I0020",
+      "channel": "built-to-scale",
+      "title": "How Quanta Services Built a Contracting Empire",
+      "aliases": [],
+      "subject": "Quanta Services expansion case study",
+      "mechanism": "Documented acquisition financing and decentralized business-unit management; investigate rather than assert sources of success",
+      "viewer_promise": "Reconstruct the growth choices and management structures of a major contractor platform and what local operators can realistically adapt.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-14",
+      "updated_at": "2026-10-14",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-14",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Owner-directed 2026-10-14 growth-playbook repositioning. Research lead only: no company numbers, outcome, source claim, production authorization or selected script established. Distinguish any related Hard Costs/BTS proposal before greenlight."
+        }
+      ]
+    },
+    {
+      "id": "BTS-I0021",
+      "channel": "built-to-scale",
+      "title": "How A1 Garage Door Service Expanded Across America",
+      "aliases": [],
+      "subject": "A1 Garage Door Service founder/operator case",
+      "mechanism": "Investigate customer acquisition, branding, service-system building, market expansion and acquisitions using sources beyond promoter claims",
+      "viewer_promise": "Learn how a service company pursues new markets, people and systems while controlling service quality; chronology and extent need verification.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-14",
+      "updated_at": "2026-10-14",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-14",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Owner-directed 2026-10-14 growth-playbook repositioning. Research lead only: no company numbers, outcome, source claim, production authorization or selected script established. Distinguish any related Hard Costs/BTS proposal before greenlight."
+        }
+      ]
+    },
+    {
+      "id": "BTS-I0022",
+      "channel": "built-to-scale",
+      "title": "How Roto-Rooter Scaled a Plumbing Service Across America",
+      "aliases": [],
+      "subject": "Roto-Rooter historical trade business growth",
+      "mechanism": "Investigate specialization, recognizable brand, franchise/company-owned service capacity and process standardization",
+      "viewer_promise": "Trace real company history and why a repeatable specialized service could expand beyond one local market.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-14",
+      "updated_at": "2026-10-14",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-14",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Owner-directed 2026-10-14 growth-playbook repositioning. Research lead only: no company numbers, outcome, source claim, production authorization or selected script established. Distinguish any related Hard Costs/BTS proposal before greenlight."
+        }
+      ]
+    },
+    {
+      "id": "BTS-I0023",
+      "channel": "built-to-scale",
+      "title": "Why New Branches Break Growing Service Businesses",
+      "aliases": [],
+      "subject": "Multi-location service business expansion failures",
+      "mechanism": "Greenfield territory economics, branch managers, marketing, ramp losses, capacity and cross-market organizational complexity",
+      "viewer_promise": "Understand how a strong first location can fail to translate into a successful second and how to assess the risk.",
+      "status": "proposed",
+      "related_idea_ids": [
+        "BTS-I0008"
+      ],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-14",
+      "updated_at": "2026-10-14",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-14",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Owner-directed 2026-10-14 growth-playbook repositioning. Research lead only: no company numbers, outcome, source claim, production authorization or selected script established. Distinguish any related Hard Costs/BTS proposal before greenlight."
+        }
+      ]
+    },
+    {
+      "id": "BTS-I0024",
+      "channel": "built-to-scale",
+      "title": "How to Fund a Second Crew Before Customers Pay",
+      "aliases": [],
+      "subject": "Growth working capital for subcontractors",
+      "mechanism": "Payroll/equipment/material commitments versus invoice/revenue recognition, financing tools and personal risk at the second-crew transition",
+      "viewer_promise": "Explore financing a new productive crew without letting payment timing choke a young company.",
+      "status": "proposed",
+      "related_idea_ids": [
+        "HC-I0002"
+      ],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-14",
+      "updated_at": "2026-10-14",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-14",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Owner-directed 2026-10-14 growth-playbook repositioning. Research lead only: no company numbers, outcome, source claim, production authorization or selected script established. Distinguish any related Hard Costs/BTS proposal before greenlight."
+        }
+      ]
+    },
+    {
+      "id": "BTS-I0025",
+      "channel": "built-to-scale",
+      "title": "How Comfort Systems USA Built a Multi-Market Mechanical Business",
+      "aliases": [],
+      "subject": "Comfort Systems USA documented growth case",
+      "mechanism": "Analyze real commercial specialization, operating-unit organization, contracts, organic expansion and acquisitions through publicly sourced evidence",
+      "viewer_promise": "Investigate the steps behind a major mechanical-services platform, including conditions smaller contractors cannot copy.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-14",
+      "updated_at": "2026-10-14",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-14",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Owner-directed 2026-10-14 growth-playbook repositioning. Research lead only: no company numbers, outcome, source claim, production authorization or selected script established. Distinguish any related Hard Costs/BTS proposal before greenlight."
+        }
+      ]
+    },
+    {
+      "id": "BTS-I0026",
+      "channel": "built-to-scale",
+      "title": "How Neighborly Built a Network of Home-Service Brands",
+      "aliases": [],
+      "subject": "Neighborly franchise/brand portfolio case",
+      "mechanism": "Investigate franchising and brand acquisition, operator incentives, integration, consumer trust and local service economics",
+      "viewer_promise": "Understand how a home-services network grows through independent operators and brands instead of owning every service crew.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-14",
+      "updated_at": "2026-10-14",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-14",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Owner-directed 2026-10-14 growth-playbook repositioning. Research lead only: no company numbers, outcome, source claim, production authorization or selected script established. Distinguish any related Hard Costs/BTS proposal before greenlight."
+        }
+      ]
     }
   ]
 }

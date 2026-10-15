@@ -1,19 +1,21 @@
 # Built to Scale style: The Operator's Blueprint
-**Agreed conceptual direction for a pilot. Actual approved kit/reference footage/voice/editor remains unselected.**
+**Proposed identity pending an actual integrated style sample and owner approval.**
 
-A premium **business documentary x elegantly animated operating infographic** hybrid. Distinct from Hard Costs' more cinematic Industrial Editorial. Built to Scale places slightly more weight on operating systems, side-by-side business comparisons, decision trees, customer flow and unit economics, while staying anchored in real services, teams and workplaces.
+A premium Modern MBA-style entrepreneurial documentary with Wendover-like animated systems and maps, Wall Street Journal-style finance diagrams, and authentic construction/trades/services footage (The B1M as tangible-industry reference). Different from Hard Costs, which is a wider-angle construction economy and landmark documentary.
 
-Reference functions, not templates to copy:
-- **Modern MBA:** grounded economic storytelling and real operating-company case studies.
-- **Wendover Productions:** causal diagrams, maps and networks that evolve as mechanisms are revealed.
-- **WSJ / The Economics Of:** lucid typography, crisp financial breakdowns, credible evidence presentation.
-- **The B1M / authentic trades photography:** tangible environments, fleets, workers, shops and actual projects; less landmark-focused than Hard Costs.
-- **Practical Engineering** as a secondary reference for making invisible mechanisms intuitive.
+**What this new editorial focus needs to show:**
+- An owner wins the first customer, hires a crew, begins delegating and opens the next location.
+- A service area grows from one route to many with clustered customer demand and service capacity.
+- Cash moving through work won -> payroll/materials -> invoice -> payment while credit fills gaps.
+- The debt/equity decision: borrowing, collateral, interest, repayment, risks and alternatives.
+- How bonding/backlog/crew constraints determine whether a small contractor can bid on larger work.
+- A second branch versus purchasing a competitor, with integration and ownership consequences.
+- Authentic real-company archival records and acquisitions on a map, not generic animated business icons.
 
-**Suggested flexible average:** ~35% original/licensed real-world footage and photography, ~40% operating and financial graphics, ~15% authentic records, company images and archival texture, ~10% maps/schematics. Not quotas; a worker-culture story may demand far more real footage.
+**Function references:** Modern MBA (real companies, causal economics), Wendover (clear progression maps/flows), WSJ *The Economics Of* (clean operating/financial charts), The B1M (real industrial imagery), Practical Engineering (physical-process clarity). Use ideas, not copied assets.
 
-Working palette: graphite, warm ivory, muted teal and restrained amber; crisp editorial typography, phone-legible numbers, confident whitespace and subtle motion. No cartoon mascots, neon business hacks, generic stock-footage parade, fake company dashboards, universal blueprint-grid overlays or continuous on-screen word subtitles.
+**Suggested nonbinding visual mix:** original/licensed documentary footage and photography ~35%; tasteful animated operating/financial models ~40%; sourced real records and company material ~15%; maps/physical schematics ~10%. A historic company story may need more archival images; an acquisition or financing challenge can be infographic-heavy.
 
-The signature shot is a model that **changes**: one choice branches into two, a job moves through steps, customer lifetime value accumulates, hidden cost appears, an owner delegates, a crew's idle time becomes visible. 2–4 strong explanatory animations beat dozens of filler charts.
+Proposed graphite/ivory/teal/amber palette; minimal noise and clear on-phone numbers. Avoid get-rich content tropes, generic stock montage, fake contracts, fabricated P&Ls, over-animated subtitles, clip misuse, and visually sophisticated but incomprehensible dashboards. A strong episode has a few evolving **storytelling diagrams**, not endless charts.
 
-Visual_profile remains version 0 / proposed. Actual color/brand/asset approval requires a real 30–90-second integrated sample and owner signoff.
+Production economy: reusable components for customer growth, crew scale, payroll/cash timing, debt amortization, branch expansion and acquisitions. The exact typography, music, logo, sample references and produced graphic profile remain unapproved (channel.json visual_profile version 0).

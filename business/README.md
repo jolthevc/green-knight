@@ -13,7 +13,7 @@ Every channel in this business umbrella targets **8–10 minutes per finished ep
 | First Billion | Trace the steps, economics and ownership that build a defined billion-dollar outcome | [Built seventh](channels/first-billion/README.md) |
 | On the Map | Discover why economic activity began here, stayed and shaped the place | [Built eighth](channels/on-the-map/README.md) |
 | Hard Costs | The economics, operators and extraordinary stories behind what gets built | [Built ninth](channels/hard-costs/README.md) |
-| Built to Scale | Understand how exceptional trade/service businesses operate, grow and decide | [Built tenth](channels/built-to-scale/README.md) |
+| Built to Scale | The growth playbook for construction/trade business owners and aspiring operators | [Built tenth](channels/built-to-scale/README.md) |
 
 Names do not justify duplicate lanes. A company can feature on several channels only when each episode answers a different central question.
 
@@ -66,3 +66,6 @@ The construction channel uses HC-I#### / HC-V####, 19 editorial categories, a wo
 
 ## Built to Scale (tenth channel, 2026-10-14)
 Built to Scale investigates better business operations, growth, critical decisions and performance differences. It uses distinct BTS-I#### and BTS-V#### IDs and a proposed Operator's Blueprint, infographic-forward documentary visual identity. See [its workspace](channels/built-to-scale/README.md). The 12 initial ideas are proposed only; no video, narrator, editor, account or production asset is approved.
+
+### Built to Scale growth charter update (2026-10-14)
+The revised channel emphasizes how to acquire customers, hire and delegate, finance work with debt/credit/equity, win large contracts, systematize operations, open branches, acquire firms and grow without breaking. Four story formats include operator playbooks, real company histories, major growth decisions and growing pains. Read [its channel brief](channels/built-to-scale/CHANNEL.md), [company leads](channels/built-to-scale/CASE_STUDIES.md) and [producer approval plan](channels/built-to-scale/EDITOR_WORKFLOW.md). BTS-I0013–BTS-I0026 are new, proposed growth-first ideas; earlier 12 remain in history. No episodes or editor commitments are approved.

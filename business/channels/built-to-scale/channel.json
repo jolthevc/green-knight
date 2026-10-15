@@ -30,22 +30,25 @@
   },
   "editor_assignment_status": "unselected_distinct_editor_test",
   "episode_formats": [
-    "operator_choice",
-    "operational_mystery",
-    "customer_engine",
-    "company_comparison",
-    "managerial_system",
-    "growth_case",
-    "tradeoff",
-    "turnaround",
-    "business_xray",
-    "acquisition_model",
-    "people_and_training"
+    "growth_playbook",
+    "built_from_nothing_company_case",
+    "big_decision",
+    "growing_pains"
   ],
   "editorial_pillars": [
-    "how_businesses_grow",
-    "how_great_businesses_operate",
-    "decisions_that_matter",
-    "why_businesses_succeed_or_fail"
-  ]
+    "customers_and_sales",
+    "people_and_leadership",
+    "capital_and_financing",
+    "repeatable_operations",
+    "expansion_and_acquisitions",
+    "surviving_scale"
+  ],
+  "positioning": "the_growth_playbook_for_construction_and_trades",
+  "primary_story_franchises": [
+    "growth_playbook",
+    "built_from_nothing",
+    "the_big_decision",
+    "the_growing_pains"
+  ],
+  "producer_workflow_status": "prospective_external_producer_owner_script_and_voice_approval_required"
 }
