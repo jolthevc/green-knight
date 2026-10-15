@@ -93,3 +93,6 @@ See [automation/README.md](automation/README.md) and [automation/AUTOMATION_CONT
 
 ## Hard Costs ninth channel
 All steps above apply to HC-I#### / HC-V####. Read channels/hard-costs/{README,CHANNEL,EDITORIAL_LANES,CREATIVE_CONTRACT,RESEARCH_STANDARD,STYLE,VISUAL_SYSTEM,VOICE,SCRIPT_STANDARD}.md and the channel config/profiles. Original references to eight channels document the legacy roster, not an exemption for Hard Costs. Its initial ideas are proposed only. No editor-facing packet before a genuine selected voice/visual and integrated review.
+
+## Built to Scale addition
+The full Green Knight workflow applies to BTS-I#### and BTS-V####. Read all channel-specific guides, channel.json and narration.json and the complete cross-channel idea ledger. Its initial proposals do not select an episode, approve an editor or allow near-duplicate uploads of Hard Costs scripts. All director-owned three-file editor-packet and actual audio/visual approval requirements remain binding. Earlier references to eight channels are historical, not exclusions.

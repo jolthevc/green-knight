@@ -1,0 +1,2 @@
+# Built to Scale stories
+No BTS-V#### story is selected or created. BTS-I0001 through BTS-I0012 are proposal IDs only. When the owner selects an idea, allocate the next BTS-V from the live shared registry and copy `business/templates/story/` with real metadata, evidence, exact script and director drafts. Preserve all shared stage, hash, full narration and three-file editor-packet review gates. No simulated completion or publishing.

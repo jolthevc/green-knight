@@ -13,6 +13,7 @@ Every channel in this business umbrella targets **8–10 minutes per finished ep
 | First Billion | Trace the steps, economics and ownership that build a defined billion-dollar outcome | [Built seventh](channels/first-billion/README.md) |
 | On the Map | Discover why economic activity began here, stayed and shaped the place | [Built eighth](channels/on-the-map/README.md) |
 | Hard Costs | The economics, operators and extraordinary stories behind what gets built | [Built ninth](channels/hard-costs/README.md) |
+| Built to Scale | Understand how exceptional trade/service businesses operate, grow and decide | [Built tenth](channels/built-to-scale/README.md) |
 
 Names do not justify duplicate lanes. A company can feature on several channels only when each episode answers a different central question.
 
@@ -62,3 +63,6 @@ Use [Editor Onboarding & Management Playbook](EDITOR_ONBOARDING_PLAYBOOK.md) and
 
 ## Hard Costs (ninth channel, 2026-10-14)
 The construction channel uses HC-I#### / HC-V####, 19 editorial categories, a working Industrial Editorial visual brief and unselected narrator profile. [Read its setup](channels/hard-costs/README.md). Shared evidence, story, popcorn-good and director-owned three-file packet requirements apply. It has 12 unselected **proposed ideas**, not approved video production or a public YouTube channel.
+
+## Built to Scale (tenth channel, 2026-10-14)
+Built to Scale investigates better business operations, growth, critical decisions and performance differences. It uses distinct BTS-I#### and BTS-V#### IDs and a proposed Operator's Blueprint, infographic-forward documentary visual identity. See [its workspace](channels/built-to-scale/README.md). The 12 initial ideas are proposed only; no video, narrator, editor, account or production asset is approved.

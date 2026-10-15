@@ -61,3 +61,6 @@ On selection, story_path uses a repository-relative path such as business/channe
 
 ## Hard Costs ninth channel
 HC-I#### / HC-V####. Its first 12 examples (2026-10-14) are **proposed, unselected and unresearched** seeds, not story commissions. See channels/hard-costs/PILOT_SLATE.md, apply ordinary history/duplicate/selection gates and only allocate HC-V on owner selection.
+
+## Built to Scale
+Tenth business channel, BTS-I#### / BTS-V####. Its 2026-10-14 proposed topic bank is not fact-checked, selected or scripted. See channels/built-to-scale/EDITORIAL_FRAMES.md and PILOT_SLATE.md. Follow live global ledger selection, source/evidence, history and cross-channel deduplication protocols.

@@ -1,0 +1,8 @@
+# Built to Scale: start a new chat
+> Work at https://github.com/jolthevc/green-knight/tree/main/business. Read the live branch, POPCORN_STANDARD.md first, AGENTS.md, README.md, WORKFLOW.md, IDEATION.md, YOUTUBE_GUIDANCE.md, ideas/README.md and the complete ideas/registry.json. Also read ENGAGEMENT_STANDARD.md, NETWORK_CREATIVE_CHARTER.md, CREATIVE_GREENLIGHT.md, NARRATION_STANDARD.md, EDITORIAL_REVIEW.md, LANE_ROUTING.md, EDITOR_HANDOFF_STANDARD.md, DIRECTOR_PACKET_REVIEW.md. Read channels/built-to-scale/{README,CHANNEL,EDITORIAL_FRAMES,CREATIVE_CONTRACT,RESEARCH_STANDARD,STYLE,VISUAL_SYSTEM,VOICE,SCRIPT_STANDARD}.md and channel.json and narration.json.
+>
+> This is not a course and not exclusively "how to make $100M." Investigate how businesses grow, run, decide and improve, through vivid industry stories useful to trade owners, professionals and general viewers. Don't narrow to foremen; distinguish from Hard Costs by central economic mechanism. For new ideas use BTS-I####, check every ledger status/topic/mechanism and provide exactly the number requested, then let owner select.
+>
+> For a selected story reserve BTS-V####, research original evidence and alternatives, create canonical title-header script, full working narrated performance and visual directors, selected thumbnail/first-frame/cold-open design, exact evidence/claim/scene/paragraph hashes, newcomer and expert creative review plus independently integrated QA. Validate and release exactly three final editor-facing files only after approved voice, visual and all review gates. Do not fabricate performance, source access, editor contracts, account creation or publishing.
+
+Current state: all 12 ideas proposed, no selected story, no approved narrator or rendered visual sample.

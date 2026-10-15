@@ -4273,6 +4273,318 @@
           "note": "Owner-discussed initial Hard Costs setup candidate; no research, selection, script, factual confirmation, editor commission or approval yet."
         }
       ]
+    },
+    {
+      "id": "BTS-I0001",
+      "channel": "built-to-scale",
+      "title": "Why the Best Contractors Turn Down Work",
+      "aliases": [],
+      "subject": "Strategic project/customer selection",
+      "mechanism": "Capacity and opportunity cost versus risk-adjusted contribution",
+      "viewer_promise": "Understand why refusing apparently attractive work may protect business quality and when it would not.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-14",
+      "updated_at": "2026-10-14",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-14",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Built to Scale setup idea agreed in discussion. Unresearched and unselected. Requires cross-channel check, sources, editorial greenlight before any story or production."
+        }
+      ]
+    },
+    {
+      "id": "BTS-I0002",
+      "channel": "built-to-scale",
+      "title": "How Great Contracting Companies Run Without Their Owners",
+      "aliases": [],
+      "subject": "Organization and delegation",
+      "mechanism": "Management structure, decision rights and dependable operating controls",
+      "viewer_promise": "Understand how a founder-dependent business becomes a capable, resilient organization.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-14",
+      "updated_at": "2026-10-14",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-14",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Built to Scale setup idea agreed in discussion. Unresearched and unselected. Requires cross-channel check, sources, editorial greenlight before any story or production."
+        }
+      ]
+    },
+    {
+      "id": "BTS-I0003",
+      "channel": "built-to-scale",
+      "title": "Why Some Construction Jobs Run Like Clockwork",
+      "aliases": [],
+      "subject": "Reliable job execution",
+      "mechanism": "Coordinated sequencing, materials, schedules, responsibilities and buffers",
+      "viewer_promise": "Understand the systems behind exceptionally reliable project delivery.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-14",
+      "updated_at": "2026-10-14",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-14",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Built to Scale setup idea agreed in discussion. Unresearched and unselected. Requires cross-channel check, sources, editorial greenlight before any story or production."
+        }
+      ]
+    },
+    {
+      "id": "BTS-I0004",
+      "channel": "built-to-scale",
+      "title": "Two Busy Crews. Why Does One Finish the Job First?",
+      "aliases": [],
+      "subject": "Comparable field-team productivity",
+      "mechanism": "Distinguish hours worked from usable output, preparation, rework and task allocation",
+      "viewer_promise": "Understand why equally busy teams can have different results without blaming workers.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-14",
+      "updated_at": "2026-10-14",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-14",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Built to Scale setup idea agreed in discussion. Unresearched and unselected. Requires cross-channel check, sources, editorial greenlight before any story or production."
+        }
+      ]
+    },
+    {
+      "id": "BTS-I0005",
+      "channel": "built-to-scale",
+      "title": "Why Great Service Businesses Are Obsessed With Repeat Customers",
+      "aliases": [],
+      "subject": "Customer retention and long-term service",
+      "mechanism": "Referral economics, installed base, maintenance and reliable experience",
+      "viewer_promise": "Understand how repeat relationships change a service business's incentives and quality.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-14",
+      "updated_at": "2026-10-14",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-14",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Built to Scale setup idea agreed in discussion. Unresearched and unselected. Requires cross-channel check, sources, editorial greenlight before any story or production."
+        }
+      ]
+    },
+    {
+      "id": "BTS-I0006",
+      "channel": "built-to-scale",
+      "title": "What Happens When a Contracting Company Gets Too Big?",
+      "aliases": [],
+      "subject": "Organizational diseconomies of scale",
+      "mechanism": "Management layers, complexity, quality and coordination costs",
+      "viewer_promise": "Understand how scale can make an initially successful company worse at its job.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-14",
+      "updated_at": "2026-10-14",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-14",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Built to Scale setup idea agreed in discussion. Unresearched and unselected. Requires cross-channel check, sources, editorial greenlight before any story or production."
+        }
+      ]
+    },
+    {
+      "id": "BTS-I0007",
+      "channel": "built-to-scale",
+      "title": "Why Some Companies Are So Much Better at Training People",
+      "aliases": [],
+      "subject": "Human capability and organizational learning",
+      "mechanism": "Mentorship, apprenticeship, documented practice, feedback and incentives",
+      "viewer_promise": "Understand how some companies turn skill into a reliable organizational advantage.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-14",
+      "updated_at": "2026-10-14",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-14",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Built to Scale setup idea agreed in discussion. Unresearched and unselected. Requires cross-channel check, sources, editorial greenlight before any story or production."
+        }
+      ]
+    },
+    {
+      "id": "BTS-I0008",
+      "channel": "built-to-scale",
+      "title": "Should a Contractor Open a Second Branch or Buy a Competitor?",
+      "aliases": [],
+      "subject": "Expansion decision",
+      "mechanism": "Organic new location versus acquired operations, financing and integration cost",
+      "viewer_promise": "Understand what changes when choosing a branch or acquisition under realistic constraints.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-14",
+      "updated_at": "2026-10-14",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-14",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Built to Scale setup idea agreed in discussion. Unresearched and unselected. Requires cross-channel check, sources, editorial greenlight before any story or production."
+        }
+      ]
+    },
+    {
+      "id": "BTS-I0009",
+      "channel": "built-to-scale",
+      "title": "Why the Biggest Jobs Aren't Always the Best Jobs",
+      "aliases": [],
+      "subject": "Contracting job selection economics",
+      "mechanism": "Project risk, labor capacity, project mix, quality and opportunity cost",
+      "viewer_promise": "Understand why a larger customer contract may not be the best choice for the business.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-14",
+      "updated_at": "2026-10-14",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-14",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Built to Scale setup idea agreed in discussion. Unresearched and unselected. Requires cross-channel check, sources, editorial greenlight before any story or production."
+        }
+      ]
+    },
+    {
+      "id": "BTS-I0010",
+      "channel": "built-to-scale",
+      "title": "How Better Dispatch Can Change a Service Business",
+      "aliases": [],
+      "subject": "Field-service dispatch operations",
+      "mechanism": "Routing, travel time, first-time fixes, technician time and customer reliability",
+      "viewer_promise": "Understand how scheduling becomes a core competitive differentiator for service companies.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-14",
+      "updated_at": "2026-10-14",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-14",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Built to Scale setup idea agreed in discussion. Unresearched and unselected. Requires cross-channel check, sources, editorial greenlight before any story or production."
+        }
+      ]
+    },
+    {
+      "id": "BTS-I0011",
+      "channel": "built-to-scale",
+      "title": "Why Good Businesses Sometimes Stop Growing",
+      "aliases": [],
+      "subject": "Deliberate restraint and strategy",
+      "mechanism": "New locations versus core-business returns, capital, quality and owner goals",
+      "viewer_promise": "Understand why disciplined businesses sometimes choose reliability over more sales.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-14",
+      "updated_at": "2026-10-14",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-14",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Built to Scale setup idea agreed in discussion. Unresearched and unselected. Requires cross-channel check, sources, editorial greenlight before any story or production."
+        }
+      ]
+    },
+    {
+      "id": "BTS-I0012",
+      "channel": "built-to-scale",
+      "title": "Why Two Service Companies With Similar Sales Can Operate So Differently",
+      "aliases": [],
+      "subject": "Operating-model comparison",
+      "mechanism": "Service mix, customer retention, labor, overhead and management choices",
+      "viewer_promise": "Understand why similar reported revenue may disguise different business strengths.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-14",
+      "updated_at": "2026-10-14",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-14",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Built to Scale setup idea agreed in discussion. Unresearched and unselected. Requires cross-channel check, sources, editorial greenlight before any story or production."
+        }
+      ]
     }
   ]
 }

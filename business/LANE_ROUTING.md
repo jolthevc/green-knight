@@ -13,6 +13,7 @@ Use this before reserving a story. The subject alone does not determine the chan
 | First Billion | These steps, unit economics, capital and ownership explain a defined wealth/business milestone | Starting resources, scale and ownership bridge |
 | On the Map | These location-specific conditions and reinforcing effects explain why activity began, persisted or changed here and who benefited | Starting geography, foothold, transitions, alternatives, value capture and constraints |
 | Hard Costs | This construction-specific project, company, deal or operator growth mechanism works or fails because of these money flows, decisions and physical constraints | Real asset/job/operating unit, contract/cash chain, labor/capital bottlenecks, changes with scale, replicable and nonreplicable lessons |
+| Built to Scale | This specific operator choice or organizational process helps explain how a business grows, works better or fails and what others can learn conditionally | Source-led operating dilemma, real options and their cost, comparable outcomes, causal mechanism and limits on transfer |
 
 ## Resolve overlaps
 
@@ -32,3 +33,6 @@ If research changes the lane, preserve the idea ID/history, record the reframe, 
 
 ## Hard Costs overlap
 Hard Costs follows construction economics, physical project risk, trades and practical operator growth. First Billion is a broad defined-billion milestone path where construction mechanisms are incidental. Pretty Penny is familiar consumer spending. On the Map needs location and regional clustering to drive the explanation. Fallen Angels owns a company collapse when loss of advantage is the answer; Money Moves owns one consequential strategic choice. Landmark histories belong in Hard Costs when construction/financing is the mechanism, rather than tourism, geography or company biography. Check the final takeaway, not the subject's industry.
+
+## Hard Costs vs Built to Scale
+Hard Costs asks what the business and economics behind a physical project, structure or construction industry are. Built to Scale asks which **operating choice, customer system or organizational process** made a business better, for whom, and under which circumstances the idea transfers. Hard Costs retains its broad construction focus, including existing operator stories. Do not commission a BTS version of HC-I0001, HC-I0007 or HC-I0010 with the same mechanism under a new label. A famous bridge's funding is Hard Costs; why a service company runs reliably without its founder is Built to Scale. A defined wealth-billion outcome normally belongs in First Billion. Cross-link any genuinely distinct related concepts; only archive or reroute with owner agreement.
