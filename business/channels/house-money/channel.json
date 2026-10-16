@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "workspace": "manual_business",
+  "id": "house-money",
+  "idea_prefix": "HM-I",
+  "story_prefix": "HM-V",
+  "name": "House Money",
+  "language": "en",
+  "target_runtime_seconds": {
+    "min": 480,
+    "target": 540,
+    "max": 600
+  },
+  "publication_cadence": null,
+  "production_status": "setup",
+  "branding_status": "working_name_unverified",
+  "narration": {
+    "profile": "curious, precise, inviting housing-economics documentary narrator",
+    "profile_id": "house_money_narrator",
+    "profile_path": "business/channels/house-money/narration.json"
+  },
+  "visual_direction_status": "director_owned_proposed",
+  "automated_portfolio_registration": false,
+  "visual_profile": {
+    "version": 0,
+    "status": "proposed",
+    "approved_by": null,
+    "approved_at": null,
+    "reference_urls": []
+  },
+  "editor_assignment_status": "unselected",
+  "positioning": "the_business_of_housing",
+  "editorial_pillars": [
+    "homebuilding",
+    "mortgage_finance",
+    "renting",
+    "transactions",
+    "ownership_costs",
+    "land_and_supply",
+    "housing_models"
+  ],
+  "episode_formats": [
+    "follow_the_money",
+    "hidden_business",
+    "housing_empire",
+    "housing_paradox",
+    "big_bet"
+  ]
+}

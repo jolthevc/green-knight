@@ -67,3 +67,6 @@ Tenth business channel, BTS-I#### / BTS-V####. Its 2026-10-14 proposed topic ban
 
 ## Built to Scale growth focus (2026-10-14)
 The original BTS-I0001–BTS-I0012 remain proposed for provenance, but the **current preferential topic bank** is BTS-I0013–BTS-I0026: customer acquisition, management hires, bonding/bigger contracts, working capital and credit, regional service scale, acquisitions, expansion risk and documented company histories. Their statuses are still proposed/unselected/unresearched. See channels/built-to-scale/PILOT_SLATE.md and CASE_STUDIES.md. Dedupe by mechanism against both Hard Costs and earlier BTS proposals. The shift in programming is not authority to invent selected stories or completed scripts.
+
+## House Money eleventh channel (2026-10-15)
+HM-I#### / HM-V####. Its initial 14 episode ideas are all **proposed**, unresearched and not yet selected or in production. The initial list covers the seven editorial pillars of the housing economy: homebuilding, mortgage finance, renting, home transactions, ownership costs, land/supply and new models. Read channels/house-money/PILOT_SLATE.md, CHANNEL.md and LANE_ROUTING.md before selecting. Cross-reference HC-I0006 land buildability, FA-I0033 developer collapse and other shared concepts; create a House Money episode only if the final economic question is independently distinctive.

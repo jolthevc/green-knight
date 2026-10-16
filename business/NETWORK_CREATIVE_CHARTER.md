@@ -76,3 +76,6 @@ The ninth channel inherits this charter and all non-negotiable evidence, drama, 
 
 ## Built to Scale (2026-10-14)
 This tenth channel inherits all network creative and integrity requirements. The reward is practical business intelligence made gripping through human decisions and consequences, not a management lecture. The four pillars are growth, operating excellence, consequential decisions and causes of performance differences. General viewers and informed operators must both benefit. See channels/built-to-scale/CREATIVE_CONTRACT.md and EDITORIAL_FRAMES.md.
+
+## House Money eleventh-channel extension (2026-10-15)
+House Money traces a familiar home or residential decision through **real property rights, cash, financing and business incentives**. The promise is “The Business of Housing,” across development, mortgages, renting, transactions, ownership costs, land/supply and housing models. Its film must move from a recognizable resident experience to a source-grounded financial reveal, including who gains, who bears costs, counterarguments, geographic differences and consequences for the people living there. No routine affordability punditry, purchase advice, unsupported monopoly claims or generic construction overlap. See channels/house-money/CREATIVE_CONTRACT.md and CHANNEL.md. All mandatory popcorn-good dual-viewer and audio/visual review gates apply.

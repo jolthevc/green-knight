@@ -1,5 +1,5 @@
 # Popcorn-Good: the Green Knight engagement mandate
-**Effective 2026-10-11. Governs the original eight business channels, Hard Costs as the ninth, Built to Scale as the tenth, new channel creation, idea selection, episodes, review/revise, direction and delivered-video QA.**
+**Effective 2026-10-11. Governs the original eight business channels, Hard Costs as the ninth, Built to Scale as the tenth, House Money as the eleventh, new channel creation, idea selection, episodes, review/revise, direction and delivered-video QA.**
 
 ## The north star
 **Make business documentaries so absorbing that people *want* the next minute, while the deepest economic or strategic insight makes the story more exciting rather than interrupting it.**

@@ -14,6 +14,7 @@ Every channel in this business umbrella targets **8–10 minutes per finished ep
 | On the Map | Discover why economic activity began here, stayed and shaped the place | [Built eighth](channels/on-the-map/README.md) |
 | Hard Costs | The economics, operators and extraordinary stories behind what gets built | [Built ninth](channels/hard-costs/README.md) |
 | Built to Scale | The growth playbook for construction/trade business owners and aspiring operators | [Built tenth](channels/built-to-scale/README.md) |
+| House Money | Discover the businesses, financing and money flows behind where we live | [Built eleventh](channels/house-money/README.md) |
 
 Names do not justify duplicate lanes. A company can feature on several channels only when each episode answers a different central question.
 
@@ -69,3 +70,6 @@ Built to Scale investigates better business operations, growth, critical decisio
 
 ### Built to Scale growth charter update (2026-10-14)
 The revised channel emphasizes how to acquire customers, hire and delegate, finance work with debt/credit/equity, win large contracts, systematize operations, open branches, acquire firms and grow without breaking. Four story formats include operator playbooks, real company histories, major growth decisions and growing pains. Read [its channel brief](channels/built-to-scale/CHANNEL.md), [company leads](channels/built-to-scale/CASE_STUDIES.md) and [producer approval plan](channels/built-to-scale/EDITOR_WORKFLOW.md). BTS-I0013–BTS-I0026 are new, proposed growth-first ideas; earlier 12 remain in history. No episodes or editor commitments are approved.
+
+## House Money (eleventh channel, 2026-10-15)
+[House Money — The Business of Housing](channels/house-money/README.md) covers homebuilders, mortgages and servicing, renters/landlords, home transactions, ownership insurance/HOAs, land-to-housing supply and newer housing business models. Unlike Hard Costs' construction project/industry economics or Built to Scale's contractor growth playbooks, House Money tracks the economic machinery behind residential property and the people who live in it. See its [seven lanes](channels/house-money/EDITORIAL_LANES.md), [creative constitution](channels/house-money/CHANNEL.md), [initial slate](channels/house-money/PILOT_SLATE.md). Proposed seeds HM-I0001–HM-I0014; no approved narrator, editor, pilot or selected episode.

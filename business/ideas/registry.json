@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-14",
+  "updated_at": "2026-10-15",
   "ideas": [
     {
       "id": "PP-I0001",
@@ -4967,6 +4967,374 @@
           "status": "proposed",
           "actor": "ChatGPT",
           "note": "Owner-directed 2026-10-14 growth-playbook repositioning. Research lead only: no company numbers, outcome, source claim, production authorization or selected script established. Distinguish any related Hard Costs/BTS proposal before greenlight."
+        }
+      ]
+    },
+    {
+      "id": "HM-I0001",
+      "channel": "house-money",
+      "title": "Why So Few Starter Homes Get Built",
+      "aliases": [],
+      "subject": "Entry-level for-sale housing supply",
+      "mechanism": "Land/lot costs, zoning, financing, construction inputs, density and demand interact with entry-level home feasibility",
+      "viewer_promise": "Why does the modern new-home market often struggle to produce a genuinely affordable entry-level house, and how much does each constraint matter?",
+      "status": "proposed",
+      "related_idea_ids": [
+        "HC-I0006"
+      ],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-15",
+      "updated_at": "2026-10-15",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-15",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Initial House Money channel editorial setup. Unresearched hypothesis/working title; no episode commissioned, source claim verified, narrator/editor appointed or final title approved. Must differentiate against related Green Knight episodes."
+        }
+      ]
+    },
+    {
+      "id": "HM-I0002",
+      "channel": "house-money",
+      "title": "How D.R. Horton Makes Money Building Houses",
+      "aliases": [],
+      "subject": "Public production-homebuilder economics",
+      "mechanism": "Publicly verifiable homebuilding/land inventory, lot control, construction economics, buyer incentives and closings",
+      "viewer_promise": "Open up a major homebuilder's business model, showing the land, labor, customer and financing decisions behind its residential sales.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-15",
+      "updated_at": "2026-10-15",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-15",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Initial House Money channel editorial setup. Unresearched hypothesis/working title; no episode commissioned, source claim verified, narrator/editor appointed or final title approved. Must differentiate against related Green Knight episodes."
+        }
+      ]
+    },
+    {
+      "id": "HM-I0003",
+      "channel": "house-money",
+      "title": "What Happens to Your Mortgage After Closing?",
+      "aliases": [],
+      "subject": "Mortgage sale and servicing system",
+      "mechanism": "Mortgage origination, secondary market sales, servicing rights and borrower payment remittance",
+      "viewer_promise": "Why can the party collecting your mortgage payment be different from the lender who first wrote the loan, and who bears the underlying risk?",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-15",
+      "updated_at": "2026-10-15",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-15",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Initial House Money channel editorial setup. Unresearched hypothesis/working title; no episode commissioned, source claim verified, narrator/editor appointed or final title approved. Must differentiate against related Green Knight episodes."
+        }
+      ]
+    },
+    {
+      "id": "HM-I0004",
+      "channel": "house-money",
+      "title": "Why Homebuilders Offer Cheaper Mortgage Rates",
+      "aliases": [],
+      "subject": "Homebuilder lender incentives and mortgage buydowns",
+      "mechanism": "Builder-paid temporary/permanent interest-rate buydowns, sales incentives, disclosed costs and buyer tradeoffs",
+      "viewer_promise": "Uncover why a developer might subsidize financing instead of cutting the home's sticker price, and when a deal actually benefits a buyer.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-15",
+      "updated_at": "2026-10-15",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-15",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Initial House Money channel editorial setup. Unresearched hypothesis/working title; no episode commissioned, source claim verified, narrator/editor appointed or final title approved. Must differentiate against related Green Knight episodes."
+        }
+      ]
+    },
+    {
+      "id": "HM-I0005",
+      "channel": "house-money",
+      "title": "The Business of America's Mobile Home Parks",
+      "aliases": [],
+      "subject": "Manufactured-home communities and land lease economics",
+      "mechanism": "Separate ownership of homes versus land, ground rents, site improvements, operator finance and relocation constraints",
+      "viewer_promise": "Explain who owns the home versus the land in manufactured communities, how parks operate, and why it matters for residents and investors.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-15",
+      "updated_at": "2026-10-15",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-15",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Initial House Money channel editorial setup. Unresearched hypothesis/working title; no episode commissioned, source claim verified, narrator/editor appointed or final title approved. Must differentiate against related Green Knight episodes."
+        }
+      ]
+    },
+    {
+      "id": "HM-I0006",
+      "channel": "house-money",
+      "title": "How Institutional Investors Built Rental-Home Portfolios",
+      "aliases": [],
+      "subject": "Single-family rental acquisition and operation",
+      "mechanism": "Scattered-site acquisitions, leverage, maintenance/tenant operations, underwriting, local density and actual market share",
+      "viewer_promise": "Explain how institutionally operated rental-home portfolios work, why scale is complicated, and what evidence does or doesn't show about local effects.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-15",
+      "updated_at": "2026-10-15",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-15",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Initial House Money channel editorial setup. Unresearched hypothesis/working title; no episode commissioned, source claim verified, narrator/editor appointed or final title approved. Must differentiate against related Green Knight episodes."
+        }
+      ]
+    },
+    {
+      "id": "HM-I0007",
+      "channel": "house-money",
+      "title": "Who Gets Paid When You Buy a $500,000 House?",
+      "aliases": [],
+      "subject": "Residential closing transaction economics",
+      "mechanism": "Actual buyer/seller funds through lender, escrow/title, representation/commission, taxes and fees; $500,000 is an illustrative purchase price",
+      "viewer_promise": "Follow one transparently hypothetical housing closing to reveal who gets paid, why, and how fees and roles vary by market and contract.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-15",
+      "updated_at": "2026-10-15",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-15",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Initial House Money channel editorial setup. Unresearched hypothesis/working title; no episode commissioned, source claim verified, narrator/editor appointed or final title approved. Must differentiate against related Green Knight episodes."
+        }
+      ]
+    },
+    {
+      "id": "HM-I0008",
+      "channel": "house-money",
+      "title": "How Zillow Makes Money From Home Search",
+      "aliases": [],
+      "subject": "Real-estate portal and brokerage marketplace",
+      "mechanism": "Traffic monetization, advertising and referral economics, agent/industry relationships and historically distinct iBuying businesses",
+      "viewer_promise": "How does a free property-search experience create revenue, and how has the model changed over time?",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-15",
+      "updated_at": "2026-10-15",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-15",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Initial House Money channel editorial setup. Unresearched hypothesis/working title; no episode commissioned, source claim verified, narrator/editor appointed or final title approved. Must differentiate against related Green Knight episodes."
+        }
+      ]
+    },
+    {
+      "id": "HM-I0009",
+      "channel": "house-money",
+      "title": "Why Home Insurance Costs So Much in Some Places",
+      "aliases": [],
+      "subject": "Property insurance regional risk economics",
+      "mechanism": "Expected catastrophe/other claims, repair inflation, reinsurance, regulation and geographic selection",
+      "viewer_promise": "Why can two homeowners face very different premiums, and what is happening inside the insurance risk pool?",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-15",
+      "updated_at": "2026-10-15",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-15",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Initial House Money channel editorial setup. Unresearched hypothesis/working title; no episode commissioned, source claim verified, narrator/editor appointed or final title approved. Must differentiate against related Green Knight episodes."
+        }
+      ]
+    },
+    {
+      "id": "HM-I0010",
+      "channel": "house-money",
+      "title": "The Hidden Business of Homeowners Associations",
+      "aliases": [],
+      "subject": "HOA/common-interest community governance and expenses",
+      "mechanism": "HOA dues, reserve funds, common maintenance, insurance, assessments and third-party property management",
+      "viewer_promise": "Where do association dues go, what financial obligations do owners share, and what happens when reserves aren't enough?",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-15",
+      "updated_at": "2026-10-15",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-15",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Initial House Money channel editorial setup. Unresearched hypothesis/working title; no episode commissioned, source claim verified, narrator/editor appointed or final title approved. Must differentiate against related Green Knight episodes."
+        }
+      ]
+    },
+    {
+      "id": "HM-I0011",
+      "channel": "house-money",
+      "title": "Why So Many New Apartments Are Called Luxury",
+      "aliases": [],
+      "subject": "Multifamily new-construction economics",
+      "mechanism": "Land and unit economics, development financing, density and demand shaping the market tier new units target",
+      "viewer_promise": "Why does new apartment supply often appear upscale, and what would it take to make less expensive units feasible?",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-15",
+      "updated_at": "2026-10-15",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-15",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Initial House Money channel editorial setup. Unresearched hypothesis/working title; no episode commissioned, source claim verified, narrator/editor appointed or final title approved. Must differentiate against related Green Knight episodes."
+        }
+      ]
+    },
+    {
+      "id": "HM-I0012",
+      "channel": "house-money",
+      "title": "Why Building a Neighborhood Takes Years",
+      "aliases": [],
+      "subject": "Residential subdivision and lot-delivery economics",
+      "mechanism": "Entitlements, roads, drainage, utilities, finished-lot costs, financing and preconstruction sequence",
+      "viewer_promise": "What happens between buying raw land and delivering the first house, and why is residential lot production capital intensive?",
+      "status": "proposed",
+      "related_idea_ids": [
+        "HC-I0006"
+      ],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-15",
+      "updated_at": "2026-10-15",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-15",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Initial House Money channel editorial setup. Unresearched hypothesis/working title; no episode commissioned, source claim verified, narrator/editor appointed or final title approved. Must differentiate against related Green Knight episodes."
+        }
+      ]
+    },
+    {
+      "id": "HM-I0013",
+      "channel": "house-money",
+      "title": "Why Factory-Built Homes Haven't Taken Over America",
+      "aliases": [],
+      "subject": "Manufactured and modular housing business models",
+      "mechanism": "Factory utilization, labor, transport, on-site work, permitting, financing and adoption economics",
+      "viewer_promise": "Why has factory-based home construction not displaced traditional site-built approaches, despite apparent assembly-line efficiency?",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-15",
+      "updated_at": "2026-10-15",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-15",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Initial House Money channel editorial setup. Unresearched hypothesis/working title; no episode commissioned, source claim verified, narrator/editor appointed or final title approved. Must differentiate against related Green Knight episodes."
+        }
+      ]
+    },
+    {
+      "id": "HM-I0014",
+      "channel": "house-money",
+      "title": "Why Homebuilders Don't Always Own Their Land",
+      "aliases": [],
+      "subject": "Builder land control and capital structure",
+      "mechanism": "Land options/lot purchase agreements, capital recycling, developer-builder relationships and downside exposure",
+      "viewer_promise": "How can a homebuilder scale its housing deliveries without taking the full capital and development risk of owning every plot?",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-15",
+      "updated_at": "2026-10-15",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-15",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Initial House Money channel editorial setup. Unresearched hypothesis/working title; no episode commissioned, source claim verified, narrator/editor appointed or final title approved. Must differentiate against related Green Knight episodes."
         }
       ]
     }

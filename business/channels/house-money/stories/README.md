@@ -1,0 +1,2 @@
+# House Money stories
+No HM-V#### story has been selected or created. When the owner selects an HM-I#### proposal, reserve the next free HM-V ID and copy ../../../../templates/story/ into stories/HM-V####-short-slug, create real metadata and research artifacts, and update the global idea ledger atomically. Follow ../../../../WORKFLOW.md, source/evidence checks, approved narrator/visual profile and exactly-three-file editor-packet governance. A proposed idea is not an episode.
