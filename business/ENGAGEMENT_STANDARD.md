@@ -7,7 +7,7 @@ Our creative target is “Harvard MBA + Netflix”: accessible entertainment wit
 
 Apply this alongside the channel's SCRIPT_STANDARD.md, NARRATION_STANDARD.md, evidence requirements and 8–10 minute runtime. These techniques are editorial hypotheses to test, not algorithm secrets or guaranteed view multipliers. Evidence and intelligibility take priority over dramatic effect.
 
-## One viewing experience, eight story engines
+## One viewing experience, multiple story engines
 
 | Channel | Audience experience | What drives the next beat | Knowledge earned through the story |
 | --- | --- | --- | --- |
@@ -19,6 +19,9 @@ Apply this alongside the channel's SCRIPT_STANDARD.md, NARRATION_STANDARD.md, ev
 | Silver Spoon | Follow a family fortune and control saga | A transfer changes rights and incentives across people or generations | Ownership, voting control, inheritance and continuity |
 | First Billion | Follow a wealth-building engine from understandable beginnings to scale | Each step changes viable units, funding needs or who owns the value | Unit economics, scale, capital, ownership and milestone limits |
 | On the Map | Discover the economic logic underneath a place | A foothold changes incentives for others; accumulated advantages encounter constraints | Why here, why it stayed or changed, and who captured value |
+| Hard Costs | Discover what makes a physical construction project or industry economically possible | Project stakes expose financing, labor, procurement and risk constraints | Who gets paid, why construction decisions work or fail and how tangible projects become businesses |
+| Built to Scale | Follow a contractor's ambition to build a larger and stronger enterprise | Customers, hires, financing and expansion force difficult decisions as the firm scales | A rigorous, conditional growth mechanism applicable to trade-business operators |
+| House Money | Follow a familiar home, rent payment, mortgage or neighborhood through hidden money flows | Each newly revealed owner, lender, fee, institution or constraint changes who gains and who bears costs | Why the housing financial and business system works this way and for whom |
 
 Pretty Penny can be a narrative explanation without a single hero or chronological biography. Known endings can still be compelling: the mystery is how and why, not pretending the outcome is unknown. Do not force suspense, a villain or a redemption arc onto evidence that does not support it.
 
@@ -94,3 +97,6 @@ Use comments and voluntary pilot responses as qualitative evidence of understand
 ## Editor ownership
 
 Apply EDITOR_HANDOFF_STANDARD.md. Visual objects and techniques above are internal editorial possibilities, not supplied scene descriptions. Leave actual treatment to the editor; the default handoff contains script, audio guidance and concise research support.
+
+## House Money's two-viewer film test (2026-10-15)
+House Money gives a first-time renter, homebuyer or general viewer a concrete accessible story about the money behind housing. An informed lender, broker, developer, landlord or policy practitioner must gain a credible deeper causal model, not a reheated affordability headline. A house or family is the tangible anchor; precise ownership rights, revenue, loan and development diagrams deliver real discoveries. Treat regional housing economics and policy disputes with temporal, geographic and sourcing precision. See channels/house-money/CREATIVE_CONTRACT.md.

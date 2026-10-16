@@ -9,7 +9,7 @@ Read the business instructions, selected channel rules/narration.json, NARRATION
 
 ## 2. Ideate and select
 
-Use IDEATION.md and LANE_ROUTING.md. Search for exact and near duplicates across all eight lanes. A new title for the same explanation is a duplicate. A genuinely new mechanism, audience question or updated fact pattern can justify a revisit; explicitly reference the earlier ID and explain the difference.
+Use IDEATION.md and LANE_ROUTING.md. Search for exact and near duplicates across all configured channels. A new title for the same explanation is a duplicate. A genuinely new mechanism, audience question or updated fact pattern can justify a revisit; explicitly reference the earlier ID and explain the difference.
 
 Persist proposed ideas with stable IDs. The user chooses unless selection is delegated. On selection read the chosen channel.json, allocate the next ID using its story_prefix, copy templates/story/ to channels/<slug>/stories/<story-id>-short-slug/, set metadata.channel and the actual identifiers, fill metadata.json, and update the registry to selected. Pretty Penny uses PP-V####; Money Moves uses MM-V####; Fallen Angels uses FA-V####; Changing Hands uses DH-V####; Fool’s Gold uses FG-V####; Silver Spoon uses SS-V####; First Billion uses FB-V####; On the Map uses OTM-V####. No stock script or completed pilot is seeded.
 
@@ -96,3 +96,6 @@ All steps above apply to HC-I#### / HC-V####. Read channels/hard-costs/{README,C
 
 ## Built to Scale addition
 The full Green Knight workflow applies to BTS-I#### and BTS-V####. Read all channel-specific guides, channel.json and narration.json and the complete cross-channel idea ledger. Its initial proposals do not select an episode, approve an editor or allow near-duplicate uploads of Hard Costs scripts. All director-owned three-file editor-packet and actual audio/visual approval requirements remain binding. Earlier references to eight channels are historical, not exclusions.
+
+## House Money channel-specific lifecycle (2026-10-15)
+For housing-system topics, first read channels/house-money/CHANNEL.md, EDITORIAL_LANES.md, RESEARCH_STANDARD.md, CREATIVE_CONTRACT.md and PILOT_SLATE.md; verify claims about housing with dates and geography, and compare topic/mechanism against the entire shared idea registry. HM-I#### is for ideas, HM-V#### for owner-selected stories; housing home-price or mortgage news must not become unsourced financial advice. The eleven-channel workflow shares script, claim/evidence, narration and director gates. Do not declare a House Money editor, voice, YouTube account or pilot by virtue of registration.

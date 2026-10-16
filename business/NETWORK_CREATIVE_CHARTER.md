@@ -2,7 +2,7 @@
 
 **GOVERNING AUDIENCE PRIORITY (2026-10-11):** Read [POPCORN_STANDARD.md](POPCORN_STANDARD.md). Within truthful/evidence constraints, **earned engagement is the primary creative objective**, with **mandatory newcomer *and* already-expert viewer value**. A precise but dull lecture or generic business takeaway is not publishable. Story beats must deliver genuine changing stakes, revealing strategic mechanisms and desire for the next minute. Critical review must actually reject/rework weak middle sections and generic insights; no empty claims of 'engaging.'
 
-Version: 2026-10-11. Scope: the eight channels in business/. Complements ENGAGEMENT_STANDARD.md and all channel evidence and production rules. Does not modify existing scripts.
+Version: 2026-10-11; extended to House Money as the eleventh channel on 2026-10-15. Scope: all configured channels in business/. Complements ENGAGEMENT_STANDARD.md and all channel evidence and production rules. Does not modify existing scripts.
 
 ## The promise
 
