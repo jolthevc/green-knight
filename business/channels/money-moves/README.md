@@ -24,3 +24,6 @@ The two earlier IKEA and Emirates sample topics are logged as proposed and unres
 
 ## Current production and delivery rules
 An episode-creation request develops the research, script, full **working narration director**, and **working visual director** together. Review/revise checks all three and integration, releasing only the three final editor-packet files after approval. The selected narrator must be genuinely approved, not inferred from ElevenLabs prompt drafts. Completed video QA follows [network Delivery QA](../../DELIVERY_QA_STANDARD.md): MP4, thumbnail, clean narration, SEO title/description/tags/verified chapters, and synchronized SRT. Read [Operations Quickstart](../../OPERATIONS_QUICKSTART.md). The editor executes our visual narrative with reasonable production freedom.
+
+## Producer shortlist and current scripting model
+The [ranked 10-story Fiverr brief](PRODUCER_SHORTLIST_2026-10-17.md) retains the existing MM-I identifiers and requires owner approval of complete script and voice before full video production. Not a commissioned batch.

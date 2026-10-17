@@ -25,3 +25,6 @@ Price, cadence and finished visual sample remain open. Five earlier topics are i
 
 ## Current production and delivery rules
 An episode-creation request develops the research, script, full **working narration director**, and **working visual director** together. Review/revise checks all three and integration, releasing only the three final editor-packet files after approval. The selected narrator must be genuinely approved, not inferred from ElevenLabs prompt drafts. Completed video QA follows [network Delivery QA](../../DELIVERY_QA_STANDARD.md): MP4, thumbnail, clean narration, SEO title/description/tags/verified chapters, and synchronized SRT. Read [Operations Quickstart](../../OPERATIONS_QUICKSTART.md). The editor executes our visual narrative with reasonable production freedom.
+
+## DC Solar V2 working narration
+The [revised outside-source script](producer-drafts/2026-10-17-dc-solar-v2.txt) is mapped to FG-I0009, **proposed only**; it needs formal research/source checking, story-direction integration and owner/voice approval before production.

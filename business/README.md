@@ -1,5 +1,8 @@
 # Business channels
 
+**Fresh GPT or Fiverr script? [Start with continuity](CONTINUITY_HANDOFF.md), then the channel-specific standards and live registry.** Latest externally revised drafts are linked there, and [producer visual direction](PRODUCER_VISUAL_DIRECTION.md) records the hybrid references and script-writing workflow.
+
+
 Every channel in this business umbrella targets **8–10 minutes per finished episode**, including opening, narration, pauses, visual holds and closing.
 
 | Channel | Viewer promise | Workspace |

@@ -1,6 +1,6 @@
 # Green Knight Script Review and Revision Protocol
 
-Version 1.0. Applies to all eight business channels. This is the canonical instruction for a standalone review or review-plus-revision of an existing script. Read it together with business/AGENTS.md, EDITORIAL_REVIEW.md, ENGAGEMENT_STANDARD.md, NARRATION_STANDARD.md, YOUTUBE_GUIDANCE.md, EDITOR_HANDOFF_STANDARD.md, the selected channel guides and the story's evidence/synthesis/packaging. It adds an independent editorial pass; it does not replace source verification or production listening.
+Version 1.0. Applies to all configured business channels (currently eleven). This is the canonical instruction for a standalone review or review-plus-revision of an existing script. Read it together with business/AGENTS.md, EDITORIAL_REVIEW.md, ENGAGEMENT_STANDARD.md, NARRATION_STANDARD.md, YOUTUBE_GUIDANCE.md, EDITOR_HANDOFF_STANDARD.md, the selected channel guides and the story's evidence/synthesis/packaging. It adds an independent editorial pass; it does not replace source verification or production listening.
 
 ## Mission
 
@@ -127,7 +127,7 @@ Verdict:
 
 ## Required review output
 
-Save a version-specific Markdown report under the story's reviews/ directory when GitHub access is available, e.g. reviews/script-v2-review-2026-10-10.md. For uploaded scripts, provide the complete report without claiming it was saved.
+Save a version-specific Markdown report under the story's reviews/ directory when GitHub access is available, e.g. reviews/script-v2-review-2026-10-10.md. For uploaded scripts, provide the complete report without claiming it was saved unless a verified GitHub write occurs. When reviewing an external/Fiverr draft, check CONTINUITY_HANDOFF.md and channel producer-drafts; preserve source versions, clearly list unverified claims, and do not mistake a reviewed narration for a complete canonical story or production release.
 
 The report contains:
 1. Story ID/channel/title, review date, mode, script_version and exact script_sha256 (or "unavailable"), source access status, packaging supplied, and whether any actual audio was heard.

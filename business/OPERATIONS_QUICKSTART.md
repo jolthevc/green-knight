@@ -2,7 +2,7 @@
 
 **Highest creative bar:** [POPCORN_STANDARD.md](POPCORN_STANDARD.md), the two-viewer popcorn-good mandate. Episodes must be deeply entertaining AND reveal a non-obvious defensible business mechanism to viewers already familiar with the story. A script can pass evidence QA and still fail creative QA.
 
-These rules apply to all eight business channels. For details, follow AGENTS.md, WORKFLOW.md, EDITOR_HANDOFF_STANDARD.md, DIRECTOR_PACKET_REVIEW.md, and DELIVERY_QA_STANDARD.md.
+These rules apply to all configured business channels (currently eleven). For details, follow AGENTS.md, WORKFLOW.md, EDITOR_HANDOFF_STANDARD.md, DIRECTOR_PACKET_REVIEW.md, and DELIVERY_QA_STANDARD.md.
 
 ## Episode lifecycle
 
@@ -30,3 +30,6 @@ Narrator profiles remain unselected unless actually approved in the channel narr
 `Onboard a new editor for [CHANNEL]. Follow business/EDITOR_ONBOARDING_PLAYBOOK.md; prepare a concise first Fiverr message, an internal intake/terms checklist, pilot and milestone decisions, the three outgoing packet rules, and five required final files. Do not message, book or pay without my authorization.`
 
 For editor replies, use the same playbook to preserve confirmations and avoid repeating questions or introducing unsupported obligations. Maintain one evidence-backed editor-specific intake record where requested. A ten-video batch may be sent all at once when approved materials are ready, not as an invented date promise.
+
+## Fresh-chat and external-script entry (2026-10-17)
+Read [CONTINUITY_HANDOFF.md](CONTINUITY_HANDOFF.md) on handoff or Fiverr-script review, and [PRODUCER_VISUAL_DIRECTION.md](PRODUCER_VISUAL_DIRECTION.md) for the latest narrative/visual references and authorized producer-writing alternative. Version received submissions and rewrites without overwriting approved canonical video files. The full script and narrator must have owner approval **before** producing a full video under the producer-authored workflow. Preserve proposal statuses until real selection, research, director and production milestones occur.

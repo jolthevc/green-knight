@@ -73,3 +73,6 @@ HM-I#### / HM-V####. Its initial 14 episode ideas are all **proposed**, unresear
 
 ## House Money producer shortlist (2026-10-16)
 The ranked 10-topic Fiverr proposal is recorded at [channels/house-money/PRODUCER_SHORTLIST_2026-10-16.md](../channels/house-money/PRODUCER_SHORTLIST_2026-10-16.md). All are existing HM-I ideas with producer-facing title variants stored as aliases in this registry. **Deduplicate across the alias and central mechanism, not only canonical titles.** No additional HM-I IDs were minted and no stories selected.
+
+## Outside-producer drafts recorded 2026-10-17
+Five working Fallen Angels V2 scripts are preserved at [channel producer drafts](../channels/fallen-angels/producer-drafts/2026-10-17/README.md) against existing FA ideas, DC Solar V2 is mapped to **new proposed FG-I0009**, and the Money Moves ten-topic shortlist reuses ten proposed MM ideas: [producer brief](../channels/money-moves/PRODUCER_SHORTLIST_2026-10-17.md). A Hard Costs 60-second trial is mapped to HC-I0002. These files are not evidence of independently verified research, canonically selected episodes, approved narration or videos. See [continuity handoff](../CONTINUITY_HANDOFF.md).

@@ -2,7 +2,7 @@
 
 ## Read before doing work
 
-Read POPCORN_STANDARD.md first for the primary creative objective and dual-viewer test, including in fresh chats and review/revise.
+Read POPCORN_STANDARD.md first for the primary creative objective and dual-viewer test, including in fresh chats and review/revise. **On any fresh-context continuation or user-submitted/Fiverr script, then read CONTINUITY_HANDOFF.md and PRODUCER_VISUAL_DIRECTION.md.** Fetch live files and idea statuses; never infer that a producer-drafts V2 file is the canonical approved story.
 
 Read README.md, WORKFLOW.md, IDEATION.md, YOUTUBE_GUIDANCE.md, ideas/README.md and ideas/registry.json. For the selected channel also read channels/<slug>/{README,CHANNEL,STYLE,VOICE,SCRIPT_STANDARD}.md and channel.json. Read the configured idea/story prefixes; Pretty Penny uses PP, Money Moves uses MM, Fallen Angels uses FA, Changing Hands uses DH, Fool’s Gold uses FG, Silver Spoon uses SS; First Billion uses FB; On the Map uses OTM. Also read NARRATION_STANDARD.md, EDITORIAL_REVIEW.md and LANE_ROUTING.md, plus the selected channel's narration.json. Follow the story templates when creating an episode.
 
@@ -37,6 +37,10 @@ When the owner asks to find, contact, qualify, onboard or negotiate with an edit
 - If write access is missing, provide a concrete patch/artifacts and state that GitHub was not updated. Do not tell the user it was saved.
 - Do not send messages to editors or publish videos unless instructed.
 - End with the saved story/idea IDs, links, exact stage reached and any real unresolved gap. Avoid em dashes in prose.
+
+## Externally written scripts and producer collaboration
+
+Two working arrangements are allowed. (A) Green Knight authors researched and approved narration plus director packet; editor executes that direction. (B) The owner explicitly commissions the producer to research and write a first draft; Green Knight reviews/revises, and **the owner must explicitly approve the full final script and voice BEFORE full recording and editing/production**. Preserve the received draft and each revised text under a clearly versioned producer-drafts path while outside the canonical video workflow. An approved production packet is a later gate, not a prerequisite to paying a producer for a script. Read PRODUCER_VISUAL_DIRECTION.md and EDITOR_ONBOARDING_PLAYBOOK.md. A ten-topic shortlist is not ten contracted videos.
 
 ## Standalone script review and revision
 
