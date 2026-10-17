@@ -73,7 +73,7 @@ The narrator should sound like an informed, warm, confident guide telling a grea
 - Are stakes legible through a human goal, real cost, trade-off, conflict, risk, ambition, fairness or relatable behavior, rather than "billions" alone?
 - Is complexity made interesting through a concrete illustration, counterintuitive relationship, consequential choice or tested counterexplanation?
 - Check for sustained engagement without forced cliffhangers, fake villains, constant "but here's the crazy part" pivots, excessive questions or unsupported psychological motives.
-- Preserve individuality across episodes. One house style must not produce eight channels of interchangeable exposition.
+- Preserve individuality across episodes. One house style must not produce eleven channels of interchangeable exposition.
 
 ### F. Truth, insight and fair interpretation
 

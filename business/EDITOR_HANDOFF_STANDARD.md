@@ -1,6 +1,6 @@
 # Green Knight director-owned editor packet standard
 
-**This document supersedes every older editor-owned visual-treatment and multi-file handoff rule throughout business/, channel instructions, templates and reviews.** All eight channels apply it.
+**This document supersedes every older editor-owned visual-treatment and multi-file handoff rule throughout business/, channel instructions, templates and reviews.** All configured business channels apply it. For explicitly authorized producer-written pilots, the producer's first draft is an **input** to Green Knight's owner-approved final script and direction; the exact three-file director packet is the **final release**, not the initial paid research/scripting brief.
 
 ## Role division
 Green Knight owns researched truth, exact narration, dramatic movements, title/thumbnail/click promise, visually choreographed first frame and 20–35 second cold open, recurrent imagery, transformations, shot intentions, on-screen editorial text, sound/breathing points, and factual constraints. The editor produces illustrations/assets, animation, voice takes, compositing, music mix and final film within agreed economics. Encourage editor execution improvements, but do not delegate construction of the documentary's core visual argument.

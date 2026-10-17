@@ -39,11 +39,11 @@ Use channel-specific idea/video identifiers here (PP for Pretty Penny; MM for Mo
 
 Keep large media, source PDFs, recordings and editable project files in external storage; commit their stable links in story metadata. Do not commit passwords, API keys, private editor contact details or licensed source files.
 
-All eight channel workspaces are built. Voice selection, integrated visual pilots, editor scope/pricing and publication schedules remain pilot-stage decisions. Changing Hands remains a working name. Start with idea selection and a reviewable pilot before purchasing repeat batches.
+All eleven business channel workspaces are built. Voice selection, integrated visual pilots, editor scope/pricing and publication schedules remain pilot-stage decisions. Changing Hands remains a working name. Start with idea selection and a reviewable pilot before purchasing repeat batches.
 
 [Latest six-channel audit](AUDIT_2026-10-10.md) records gaps fixed, validation and decisions that require real pilots.
 
-[Standalone script review and revision](SCRIPT_REVIEW.md) defines a critical, audio-first YouTube story audit with anchored findings, prioritized fixes and a controlled revision process for all eight channels. Run it from a fresh chat after a full script is saved.
+[Standalone script review and revision](SCRIPT_REVIEW.md) defines a critical, audio-first YouTube story audit with anchored findings, prioritized fixes and a controlled revision process for all configured business channels. Run it from a fresh chat after a full script is saved.
 
 [Story-first engagement](ENGAGEMENT_STANDARD.md) defines the broad-audience learning experience, eight story engines and internal newcomer/skeptic review. Use it for ideation, outlines, scripts, production and learning.
 
@@ -51,7 +51,7 @@ All eight channel workspaces are built. Voice selection, integrated visual pilot
 
 ## Creative north star and October 11 audit
 
-[Network creative charter](NETWORK_CREATIVE_CHARTER.md) defines the viewing experience: premium, cinematic, accessible entertainment with rigorously earned insight. [Creative greenlight](CREATIVE_GREENLIGHT.md) raises the bar at concept, research, outline, script and actual production stages. Every channel now also has a `CREATIVE_CONTRACT.md` defining its unique narrative pleasure, hook types, story motor and rejection tests. [The October 11 creative audit](CREATIVE_AUDIT_2026-10-11.md) examines all eight lane definitions and six canonical scripted pilot episodes, with candid areas needing improvement. No existing script, story stage, narration selection or publishing state was changed by that audit.
+[Network creative charter](NETWORK_CREATIVE_CHARTER.md) defines the viewing experience: premium, cinematic, accessible entertainment with rigorously earned insight. [Creative greenlight](CREATIVE_GREENLIGHT.md) raises the bar at concept, research, outline, script and actual production stages. Every channel now also has a `CREATIVE_CONTRACT.md` defining its unique narrative pleasure, hook types, story motor and rejection tests. [The October 11 creative audit](CREATIVE_AUDIT_2026-10-11.md) examines the original eight lane definitions and six canonical scripted pilot episodes, with candid areas needing improvement. No existing script, story stage, narration selection or publishing state was changed by that audit.
 
 ## Director-owned three-file packet (current rule)
 The old editor-owned visual handoff summary above is superseded. Green Knight directs story, thumbnail, first frame, cinematic opening, performance and visual narrative; the editor executes. See EDITOR_HANDOFF_STANDARD.md and DIRECTOR_PACKET_REVIEW.md. Each fully revised, individually and jointly approved video delivers exactly three editor-facing files in story/editor-packet/: 01_SCRIPT.txt, 02_NARRATION_DIRECTOR.md and 03_VISUAL_DIRECTOR.md. Working evidence, research, packaging, QA and registry remain separate. Legacy scripted episodes must pass the new gate before editor packet release.
