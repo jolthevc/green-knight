@@ -34,3 +34,6 @@
 - Pretty Penny owns pure economics of an individual fee or purchase when the housing *industry* isn't the subject. House Money owns multi-party housing property finance/transaction mechanisms; don't duplicate a released consumer-fee film.
 
 **Story selection:** A full pitch needs a human hook, concrete object/home/money amount, public evidence, visual path, causal question, countercase and expert-viewer discovery. A proposed title with a provocative absolute (e.g., “haven't taken over”) must be qualified by actual historical/geographic evidence or rewritten.
+
+## 2026-10-16 ranked Fiverr-facing shortlist
+See [PRODUCER_SHORTLIST_2026-10-16.md](PRODUCER_SHORTLIST_2026-10-16.md) for the **exact 10 producer-facing titles and rank order**. These are aliases/curated ranking of existing HM-I0001–HM-I0014 ideas, **not ten new ideas**. Their status remains proposed; no script research, editor assignment or film production is implied.

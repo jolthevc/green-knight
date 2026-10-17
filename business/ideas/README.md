@@ -70,3 +70,6 @@ The original BTS-I0001–BTS-I0012 remain proposed for provenance, but the **cur
 
 ## House Money eleventh channel (2026-10-15)
 HM-I#### / HM-V####. Its initial 14 episode ideas are all **proposed**, unresearched and not yet selected or in production. The initial list covers the seven editorial pillars of the housing economy: homebuilding, mortgage finance, renting, home transactions, ownership costs, land/supply and new models. Read channels/house-money/PILOT_SLATE.md, CHANNEL.md and LANE_ROUTING.md before selecting. Cross-reference HC-I0006 land buildability, FA-I0033 developer collapse and other shared concepts; create a House Money episode only if the final economic question is independently distinctive.
+
+## House Money producer shortlist (2026-10-16)
+The ranked 10-topic Fiverr proposal is recorded at [channels/house-money/PRODUCER_SHORTLIST_2026-10-16.md](../channels/house-money/PRODUCER_SHORTLIST_2026-10-16.md). All are existing HM-I ideas with producer-facing title variants stored as aliases in this registry. **Deduplicate across the alias and central mechanism, not only canonical titles.** No additional HM-I IDs were minted and no stories selected.
