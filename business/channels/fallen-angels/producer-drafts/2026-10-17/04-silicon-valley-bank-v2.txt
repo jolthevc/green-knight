@@ -1,0 +1,63 @@
+TITLE: Silicon Valley Bank: Forty Hours to Collapse
+
+On Thursday, March ninth, 2023, customers pulled more than forty billion dollars out of Silicon Valley Bank. That was roughly a quarter of the bank's deposits.
+
+And by the next morning, management expected withdrawal requests for more than a hundred billion dollars more. Those were expected requests, not another hundred billion dollars that had already left.
+
+By Friday, California regulators had closed the bank.
+
+It was a stunning collapse for an institution that had spent decades serving some of America's fastest-growing technology companies. And the extraordinary speed matters. But it wasn't the whole problem.
+
+SVB had been vulnerable long before anyone touched the withdraw button.
+
+Start with its customers. For a startup, a fundraising round often ends with the proceeds sitting in a bank account. Silicon Valley Bank built a valuable business around that world: venture-backed technology and life-science companies, venture firms, and the people connected to them.
+
+The specialization made SVB remarkably useful. Its bankers understood venture financing, cash burn and a customer's need to move quickly. Relationships in that ecosystem brought more relationships. In a boom, more fundraising meant more money deposited with the bank.
+
+But one industry can move in one direction at the same time. When venture capital slowed, startups started spending down their cash. And their deposit balances were often much bigger than the federal insurance limit of two hundred fifty thousand dollars.
+
+At most banks, households and businesses withdraw money for different reasons. SVB's clients were linked by the same funding cycle and by the same network of investors. The strategy that had attracted deposits also made those deposits unusually correlated.
+
+Then came the second half of the problem: what SVB had done with the money.
+
+During the low-rate boom, deposits flooded in faster than the bank could lend them. SVB invested heavily in longer-term bonds and mortgage-backed securities. These assets were not necessarily risky because borrowers might fail to pay. Many were high-quality securities. Their risk was that their market price could drop sharply if interest rates rose.
+
+Think about owning a bond that pays a low fixed return. When new bonds begin paying much more, investors will only buy your old bond at a discount. If you can wait until maturity and receive the promised payments, that price decline may matter much less. If you suddenly need cash, you may have to sell at the lower price.
+
+Banks can carry certain bonds classified as held to maturity at their amortized cost rather than constantly revaluing them on the balance sheet. That does not mean the market-value losses were secret. SVB disclosed their estimated fair value in the notes to its public filings. But the losses did not flow through the reported carrying value of those securities in the same way as securities held for sale.
+
+By the end of 2022, the estimated market value of SVB's held-to-maturity portfolio was about fifteen billion dollars below its recorded cost. A large economic loss was sitting beside deposits that customers could withdraw on demand.
+
+Now put the two sides together. The money SVB owed depositors was available to leave immediately. Much of the money it had invested was tied up in securities that would only repay over years. In ordinary conditions, the bank could manage that mismatch. In a coordinated run, time disappeared.
+
+There was a deceptively important accounting choice here. Holding bonds to maturity is sensible when a bank has patient funding and little need to sell. It becomes dangerous when the same bank funds those assets with deposits from a concentrated community that might need cash simultaneously. SVB was effectively relying on depositors to wait while its investments matured. Depositors had made no such promise.
+
+And SVB had not managed the risk well. The Federal Reserve's later review found weaknesses in the bank's liquidity plans, interest-rate hedging and internal risk controls. Management adjusted risk assumptions as problems mounted. Supervisors had identified weaknesses but failed to push hard enough to get them fixed.
+
+Those failures mattered because the third part of the crisis was approaching. The Federal Reserve raised interest rates aggressively in 2022. Bond prices fell. Venture funding cooled. Startups needed more of their deposits to operate.
+
+By early March 2023, SVB was trying to make its position stronger. On Wednesday the eighth, it announced a sale of about twenty-one billion dollars of securities, recognizing an after-tax loss of roughly one point eight billion. It also sought to raise more than two billion dollars in new capital.
+
+A bank can sell an asset at a loss and raise new equity as part of responsible risk management. But those announcements can also tell customers that the bank needs money urgently. For uninsured depositors, that possibility changes the calculation.
+
+Federal deposit insurance ordinarily covers up to two hundred fifty thousand dollars per depositor at an insured bank, subject to ownership category rules. A venture-backed company with several million dollars on deposit could have most of its operating cash outside that protection. Customers had every reason to care about the difference between a loss on a bank's bonds and a loss on the cash they needed to make payroll.
+
+If you have millions of dollars in payroll cash at a bank and believe other customers are leaving, waiting carries a cost that leaving doesn't. You can withdraw your money even if you still think the bank will probably survive. If everyone does that at once, the collective result is a run.
+
+And SVB's customers could talk to each other almost instantly. Venture investors discussed the news with portfolio companies. Messages raced through a relatively small financial network. A bank built through relationships saw those same relationships accelerate withdrawals.
+
+On Thursday the ninth, the stock plunged. More than forty billion dollars in deposits left in a single day. The following morning, with a vastly larger wave of withdrawal requests expected, regulators took possession of the bank and placed the FDIC in charge.
+
+A traditional bank run is easy to picture: crowds on the pavement outside a branch. Here, many customers didn't need to visit a branch at all. Warnings passed through investors and founders. Withdrawal instructions moved electronically. The panic could travel through the same professional relationships that had once served as SVB's strongest source of new business.
+
+Those were the forty hours in the title. But the deciding forces had been building for years: concentrated funding, long-duration assets, poor risk management and supervision that hadn't forced adequate repairs.
+
+The aftermath was swift. Over the weekend, officials announced that all SVB depositors, including those with balances above the usual insurance cap, would have access to their money. Shareholders and certain other creditors were not similarly protected. The government also created emergency liquidity support aimed at preventing runs elsewhere.
+
+There is no single villain or single magic fix in this story. Rising rates exposed unrealized losses. The venture slowdown drained a specialized depositor base. Management and regulators missed or mishandled warnings. And networked customers turned a vulnerable balance sheet into an immediate liquidity crisis.
+
+The bank's deposits weren't simply numbers on a screen. For customers, they were payroll, rent and months of operating runway. The bank's investments weren't worthless. But when too many depositors demanded cash together, the price the market would pay for those investments suddenly mattered more than the value the bank expected to collect years later.
+
+SVB's strength was that its customers belonged to the same world. For years, that brought money in. In March 2023, it helped send money out.
+
+The bank did not fail because one bad Thursday created its problems. It failed because Thursday arrived before the problems could be solved.

@@ -1,0 +1,55 @@
+TITLE: WeWork: The Two Clocks That Broke a $47 Billion Dream
+
+WeWork promised something office tenants desperately wanted: flexibility. You could rent space without committing to a traditional long office lease. Grow your team, shrink it, or move somewhere else.
+
+But when the company tried to go public in 2019, its paperwork revealed a striking mismatch. Its U.S. leases with landlords averaged roughly fifteen years. Its customer membership agreements averaged a little over fifteen months of commitment. Some customers could leave far sooner; larger businesses increasingly signed longer deals. Still, the basic gap was enormous.
+
+Fifteen years on one side. Fifteen months on the other.
+
+WeWork made flexibility possible by taking the inflexibility onto its own balance sheet. And it did that on a massive scale.
+
+The story is usually told as the rise and fall of Adam Neumann, a charismatic founder who convinced investors that an office landlord was really a technology company. That part matters. But it doesn't explain why the business kept struggling even after he left.
+
+For that, follow the two clocks.
+
+The product itself wasn't complicated. WeWork leased entire floors and buildings, redesigned the interiors and divided the space into offices or desks. A customer who didn't want the trouble of a conventional lease could move into a furnished office with internet, common areas and services ready to go.
+
+That was a real benefit. The customer could avoid locking itself into space it might not need. The landlord received a large tenant. WeWork stood between them, hoping the money it collected from memberships exceeded the rent and cost of running its locations.
+
+Picture leasing a house for fifteen years, furnishing every room, and then renting the bedrooms to people who can leave much sooner. When the rooms are full, you have a business. When they empty, your landlord still expects payment.
+
+WeWork's advantage was its willingness to absorb that risk. Its weakness was also its willingness to absorb that risk.
+
+The company grew explosively. By 2018, annual revenue reached around one point eight billion dollars. Losses were even larger. To open new sites, it needed cash for renovations, staff and rent before the desks had enough paying customers. It was especially tempting because the company's revenue growth made every new location look like evidence the model was working. But filling a building today wasn't the same as guaranteeing it would be full five years from now. WeWork owned no magic right to lower its landlord's rent if customers changed their minds. Its ability to keep expanding depended on maintaining occupancy, getting favorable prices and finding capital willing to bridge the gap.
+
+In its 2019 IPO filing, WeWork disclosed about forty-seven billion dollars in future minimum lease payments, undiscounted. The accounting value of lease liabilities was much smaller, about eighteen billion dollars, because future payments were discounted. These are two measures of related obligations, not two debts to add together.
+
+On the customer side, its own measure of committed revenue backlog was about four billion dollars. The figures cover very different time horizons, so you cannot simply subtract one from the other and call it a hole. What they reveal is the asymmetry: years of contractual rent versus a much shorter pipeline of committed customer revenue.
+
+WeWork had an answer. Demand was growing. Larger companies were renting more of its space. Average customer commitments were getting longer. In a flexible-work world, the company argued, people might value its product even more.
+
+But how much was that argument worth? At the start of 2019, SoftBank's investment implied a WeWork valuation of roughly forty-seven billion dollars. When WeWork released its IPO filing that August, public investors saw the losses, the future rent obligations and Neumann's extraordinary control over the company.
+
+The optimism that worked in private fundraising didn't survive the same scrutiny in public. The expected valuation fell. Neumann stepped down in September. The company withdrew the IPO. Investors also questioned related-party transactions and governance. Those concerns were serious, but a company can change its founder and board much faster than it can unwind a lease signed years earlier. The news about the founder and the news about the rent were intertwined, but they were not the same problem.
+
+That wasn't merely embarrassing. A bank financing package worth billions was tied to a successful public offering. Without the IPO, a major source of planned funding disappeared. SoftBank stepped in with a rescue.
+
+Notice what had and hadn't changed. The founder was gone. The buildings remained. So did the leases.
+
+Then came 2020. Offices emptied, businesses reconsidered space, and a model built on keeping desks occupied faced an extraordinary test. WeWork renegotiated leases, cut spending and tried to extend its runway. In 2021, it finally reached public markets through a merger with a blank-check company. The crisis, however, wasn't solved by a ticker symbol. WeWork kept trying to improve the balance: attract larger enterprise customers with longer commitments while cutting costs and negotiating changes with building owners. The longer customer contracts helped reduce the mismatch. But a new contract signed today couldn't retroactively erase a decade of fixed rent promised yesterday.
+
+The important thing about a long lease is that the payment doesn't shrink simply because demand does. If membership revenue falls quickly while rent stays fixed, the operator has only a few options: fill the space, cut other costs, negotiate with landlords, raise fresh capital or exit the building. Each option takes time or money. That's the clock WeWork could never switch off.
+
+By 2023, the company was publicly pressing to renegotiate much of its lease portfolio. Its chief executive said lease costs accounted for more than two-thirds of operating expenses in one recent quarter. In November, WeWork filed for Chapter 11 bankruptcy protection.
+
+Bankruptcy didn't mean that nobody wanted flexible offices. WeWork sought to keep operating while reshaping the obligations beneath the business. It needed the legal ability to reject some leases and renegotiate others, something individual membership customers had always found much easier to do. This was not a pain-free fix. A rejected or renegotiated lease affected a property owner who had counted on years of tenant income, and potentially the lenders financing that building. The ability to shift risk was becoming part of the rescue, not proof that the risk had disappeared.
+
+WeWork emerged from Chapter 11 in June 2024 after reducing debt and cutting future lease commitments dramatically. It continued as a smaller, restructured office business. The bankruptcy had given the company a way to change the side of its model it had struggled to change for years.
+
+There is a fair alternative reading. A pandemic followed by a difficult commercial property market could strain almost any office operator. Some long-term customer contracts offered real revenue visibility. Not every location failed; not every lease was bad. And it is impossible to prove that a different financing plan or slower growth would have saved the earlier company.
+
+But the mismatch was visible before the pandemic. Every new long lease created obligations that could outlast the membership income meant to support them. Big valuations and new financing could defer that tension. They couldn't eliminate it.
+
+WeWork became famous by selling customers the freedom to leave. When the business itself got into trouble, it discovered just how valuable that freedom was.
+
+It took bankruptcy for WeWork to negotiate something closer to the flexibility it had spent years selling.

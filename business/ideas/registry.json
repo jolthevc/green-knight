@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-16",
+  "updated_at": "2026-10-17",
   "ideas": [
     {
       "id": "PP-I0001",
@@ -1624,7 +1624,9 @@
       "id": "FA-I0006",
       "channel": "fallen-angels",
       "title": "The Movie Store That Could Not Survive Movie Night",
-      "aliases": [],
+      "aliases": [
+        "Blockbuster: The Netflix Rival It Could Not Afford to Keep"
+      ],
       "subject": "Blockbuster and its 2010 bankruptcy",
       "mechanism": "High fixed store costs, late-fee economics, debt and a late mail/digital pivot",
       "viewer_promise": "Understand how the store economics and financing narrowed Blockbuster's available responses to changing movie rental habits.",
@@ -1633,7 +1635,7 @@
       "story_id": null,
       "story_path": null,
       "created_at": "2026-10-12",
-      "updated_at": "2026-10-12",
+      "updated_at": "2026-10-17",
       "rejection_or_block_reason": null,
       "published_url": null,
       "published_at": null,
@@ -1643,6 +1645,12 @@
           "status": "proposed",
           "note": "Vendor-pilot topic scouting. Unselected concept, not fully source-audited or scripted. Detailed creative brief and source leads prepared separately.",
           "actor": "ChatGPT"
+        },
+        {
+          "date": "2026-10-17",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "External producer script revised to complete working V2 narration and preserved at business/channels/fallen-angels/producer-drafts/2026-10-17/02-blockbuster-v2.txt; not completely source-audited, not FA-V selection or approved production."
         }
       ]
     },
@@ -1650,7 +1658,9 @@
       "id": "FA-I0007",
       "channel": "fallen-angels",
       "title": "WeWork Sold Flexibility. Its Leases Were Not Flexible.",
-      "aliases": [],
+      "aliases": [
+        "WeWork: The Two Clocks That Broke a $47 Billion Dream"
+      ],
       "subject": "WeWork's 2023 bankruptcy",
       "mechanism": "Long office leases versus short member commitments, occupancy exposure, financing and the post-2020 downturn",
       "viewer_promise": "Understand how WeWork's original flexible-office proposition embedded a dangerous long-term cash obligation.",
@@ -1659,7 +1669,7 @@
       "story_id": null,
       "story_path": null,
       "created_at": "2026-10-12",
-      "updated_at": "2026-10-12",
+      "updated_at": "2026-10-17",
       "rejection_or_block_reason": null,
       "published_url": null,
       "published_at": null,
@@ -1669,6 +1679,12 @@
           "status": "proposed",
           "note": "Vendor-pilot topic scouting. Unselected concept, not fully source-audited or scripted. Detailed creative brief and source leads prepared separately.",
           "actor": "ChatGPT"
+        },
+        {
+          "date": "2026-10-17",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "External producer script revised to complete working V2 narration and preserved at business/channels/fallen-angels/producer-drafts/2026-10-17/03-wework-v2.txt; not completely source-audited, not FA-V selection or approved production."
         }
       ]
     },
@@ -1676,7 +1692,9 @@
       "id": "FA-I0008",
       "channel": "fallen-angels",
       "title": "MoviePass Had a Problem With Its Best Customers",
-      "aliases": [],
+      "aliases": [
+        "MoviePass: The Customers Who Cost Too Much"
+      ],
       "subject": "MoviePass subscription model and collapse",
       "mechanism": "Heavy-user reimbursement exceeded subscription revenues, producing loss-making subscription economics",
       "viewer_promise": "Understand why customers loving the offer made the movie subscription model harder to sustain.",
@@ -1685,7 +1703,7 @@
       "story_id": null,
       "story_path": null,
       "created_at": "2026-10-12",
-      "updated_at": "2026-10-12",
+      "updated_at": "2026-10-17",
       "rejection_or_block_reason": null,
       "published_url": null,
       "published_at": null,
@@ -1695,6 +1713,12 @@
           "status": "proposed",
           "note": "Vendor-pilot topic scouting. Unselected concept, not fully source-audited or scripted. Detailed creative brief and source leads prepared separately.",
           "actor": "ChatGPT"
+        },
+        {
+          "date": "2026-10-17",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "External producer script revised to complete working V2 narration and preserved at business/channels/fallen-angels/producer-drafts/2026-10-17/01-moviepass-v2.txt; not completely source-audited, not FA-V selection or approved production."
         }
       ]
     },
@@ -1832,7 +1856,9 @@
       "id": "FA-I0014",
       "channel": "fallen-angels",
       "title": "Peloton Built for a Fitness Boom That Would Not Last",
-      "aliases": [],
+      "aliases": [
+        "Peloton: The Company That Grew Too Fast for Its Own Market"
+      ],
       "subject": "Peloton demand and valuation reversal",
       "mechanism": "Demand pull-forward, manufacturing commitments, inventory and subscriptions",
       "viewer_promise": "Distinguish post-pandemic demand normalization from operational errors that magnified the reversal.",
@@ -1841,7 +1867,7 @@
       "story_id": null,
       "story_path": null,
       "created_at": "2026-10-12",
-      "updated_at": "2026-10-12",
+      "updated_at": "2026-10-17",
       "rejection_or_block_reason": null,
       "published_url": null,
       "published_at": null,
@@ -1851,6 +1877,12 @@
           "status": "proposed",
           "note": "Vendor-pilot topic scouting. Unselected concept, not fully source-audited or scripted. Detailed creative brief and source leads prepared separately.",
           "actor": "ChatGPT"
+        },
+        {
+          "date": "2026-10-17",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "External producer script revised to complete working V2 narration and preserved at business/channels/fallen-angels/producer-drafts/2026-10-17/05-peloton-v2.txt; not completely source-audited, not FA-V selection or approved production."
         }
       ]
     },
@@ -2276,7 +2308,9 @@
       "id": "FA-I0031",
       "channel": "fallen-angels",
       "title": "Silicon Valley Bank Was the Bank of Startups. That Was the Problem.",
-      "aliases": [],
+      "aliases": [
+        "Silicon Valley Bank: Forty Hours to Collapse"
+      ],
       "subject": "Silicon Valley Bank's 2023 failure",
       "mechanism": "Concentrated uninsured deposits, interest-rate risk, securities losses and accelerated withdrawals",
       "viewer_promise": "Explain how a concentrated customer franchise amplified a banking failure when the funding cycle changed.",
@@ -2285,7 +2319,7 @@
       "story_id": null,
       "story_path": null,
       "created_at": "2026-10-12",
-      "updated_at": "2026-10-12",
+      "updated_at": "2026-10-17",
       "rejection_or_block_reason": null,
       "published_url": null,
       "published_at": null,
@@ -2295,6 +2329,12 @@
           "status": "proposed",
           "note": "Vendor-pilot topic scouting. Unselected concept, not fully source-audited or scripted. Detailed creative brief and source leads prepared separately.",
           "actor": "ChatGPT"
+        },
+        {
+          "date": "2026-10-17",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "External producer script revised to complete working V2 narration and preserved at business/channels/fallen-angels/producer-drafts/2026-10-17/04-silicon-valley-bank-v2.txt; not completely source-audited, not FA-V selection or approved production."
         }
       ]
     },
@@ -2406,7 +2446,9 @@
       "id": "MM-I0008",
       "channel": "money-moves",
       "title": "The Shipping Club Amazon Was Willing to Lose Money On",
-      "aliases": [],
+      "aliases": [
+        "Amazon’s Bet on Unlimited Shipping"
+      ],
       "subject": "Amazon Prime membership launch in 2005",
       "mechanism": "Upfront membership payment subsidizing shipping to reduce checkout friction and encourage frequency",
       "viewer_promise": "Why deliberately expensive fast shipping could alter Amazon shopping habits.",
@@ -2415,7 +2457,7 @@
       "story_id": null,
       "story_path": null,
       "created_at": "2026-10-12",
-      "updated_at": "2026-10-12",
+      "updated_at": "2026-10-17",
       "rejection_or_block_reason": null,
       "published_url": null,
       "published_at": null,
@@ -2425,6 +2467,12 @@
           "status": "proposed",
           "note": "Vendor-operated Money Moves topic scouting. Unselected hypothesis, not a fully researched or approved episode. Freelancer may change creative treatment within channel brief.",
           "actor": "ChatGPT"
+        },
+        {
+          "date": "2026-10-17",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Ranked #3 of 10 in producer-facing shortlist business/channels/money-moves/PRODUCER_SHORTLIST_2026-10-17.md; no new idea, editor commission, full research or production approval."
         }
       ]
     },
@@ -2467,7 +2515,7 @@
       "story_id": null,
       "story_path": null,
       "created_at": "2026-10-12",
-      "updated_at": "2026-10-12",
+      "updated_at": "2026-10-17",
       "rejection_or_block_reason": null,
       "published_url": null,
       "published_at": null,
@@ -2477,6 +2525,12 @@
           "status": "proposed",
           "note": "Vendor-operated Money Moves topic scouting. Unselected hypothesis, not a fully researched or approved episode. Freelancer may change creative treatment within channel brief.",
           "actor": "ChatGPT"
+        },
+        {
+          "date": "2026-10-17",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Ranked #2 of 10 in producer-facing shortlist business/channels/money-moves/PRODUCER_SHORTLIST_2026-10-17.md; no new idea, editor commission, full research or production approval."
         }
       ]
     },
@@ -2519,7 +2573,7 @@
       "story_id": null,
       "story_path": null,
       "created_at": "2026-10-12",
-      "updated_at": "2026-10-12",
+      "updated_at": "2026-10-17",
       "rejection_or_block_reason": null,
       "published_url": null,
       "published_at": null,
@@ -2529,6 +2583,12 @@
           "status": "proposed",
           "note": "Vendor-operated Money Moves topic scouting. Unselected hypothesis, not a fully researched or approved episode. Freelancer may change creative treatment within channel brief.",
           "actor": "ChatGPT"
+        },
+        {
+          "date": "2026-10-17",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Ranked #1 of 10 in producer-facing shortlist business/channels/money-moves/PRODUCER_SHORTLIST_2026-10-17.md; no new idea, editor commission, full research or production approval."
         }
       ]
     },
@@ -2545,7 +2605,7 @@
       "story_id": null,
       "story_path": null,
       "created_at": "2026-10-12",
-      "updated_at": "2026-10-12",
+      "updated_at": "2026-10-17",
       "rejection_or_block_reason": null,
       "published_url": null,
       "published_at": null,
@@ -2555,6 +2615,12 @@
           "status": "proposed",
           "note": "Vendor-operated Money Moves topic scouting. Unselected hypothesis, not a fully researched or approved episode. Freelancer may change creative treatment within channel brief.",
           "actor": "ChatGPT"
+        },
+        {
+          "date": "2026-10-17",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Ranked #5 of 10 in producer-facing shortlist business/channels/money-moves/PRODUCER_SHORTLIST_2026-10-17.md; no new idea, editor commission, full research or production approval."
         }
       ]
     },
@@ -2597,7 +2663,7 @@
       "story_id": null,
       "story_path": null,
       "created_at": "2026-10-12",
-      "updated_at": "2026-10-12",
+      "updated_at": "2026-10-17",
       "rejection_or_block_reason": null,
       "published_url": null,
       "published_at": null,
@@ -2607,6 +2673,12 @@
           "status": "proposed",
           "note": "Vendor-operated Money Moves topic scouting. Unselected hypothesis, not a fully researched or approved episode. Freelancer may change creative treatment within channel brief.",
           "actor": "ChatGPT"
+        },
+        {
+          "date": "2026-10-17",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Ranked #6 of 10 in producer-facing shortlist business/channels/money-moves/PRODUCER_SHORTLIST_2026-10-17.md; no new idea, editor commission, full research or production approval."
         }
       ]
     },
@@ -2675,7 +2747,7 @@
       "story_id": null,
       "story_path": null,
       "created_at": "2026-10-12",
-      "updated_at": "2026-10-12",
+      "updated_at": "2026-10-17",
       "rejection_or_block_reason": null,
       "published_url": null,
       "published_at": null,
@@ -2685,6 +2757,12 @@
           "status": "proposed",
           "note": "Vendor-operated Money Moves topic scouting. Unselected hypothesis, not a fully researched or approved episode. Freelancer may change creative treatment within channel brief.",
           "actor": "ChatGPT"
+        },
+        {
+          "date": "2026-10-17",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Ranked #9 of 10 in producer-facing shortlist business/channels/money-moves/PRODUCER_SHORTLIST_2026-10-17.md; no new idea, editor commission, full research or production approval."
         }
       ]
     },
@@ -2883,7 +2961,7 @@
       "story_id": null,
       "story_path": null,
       "created_at": "2026-10-12",
-      "updated_at": "2026-10-12",
+      "updated_at": "2026-10-17",
       "rejection_or_block_reason": null,
       "published_url": null,
       "published_at": null,
@@ -2893,6 +2971,12 @@
           "status": "proposed",
           "note": "Vendor-operated Money Moves topic scouting. Unselected hypothesis, not a fully researched or approved episode. Freelancer may change creative treatment within channel brief.",
           "actor": "ChatGPT"
+        },
+        {
+          "date": "2026-10-17",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Ranked #7 of 10 in producer-facing shortlist business/channels/money-moves/PRODUCER_SHORTLIST_2026-10-17.md; no new idea, editor commission, full research or production approval."
         }
       ]
     },
@@ -2935,7 +3019,7 @@
       "story_id": null,
       "story_path": null,
       "created_at": "2026-10-12",
-      "updated_at": "2026-10-12",
+      "updated_at": "2026-10-17",
       "rejection_or_block_reason": null,
       "published_url": null,
       "published_at": null,
@@ -2945,6 +3029,12 @@
           "status": "proposed",
           "note": "Vendor-operated Money Moves topic scouting. Unselected hypothesis, not a fully researched or approved episode. Freelancer may change creative treatment within channel brief.",
           "actor": "ChatGPT"
+        },
+        {
+          "date": "2026-10-17",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Ranked #4 of 10 in producer-facing shortlist business/channels/money-moves/PRODUCER_SHORTLIST_2026-10-17.md; no new idea, editor commission, full research or production approval."
         }
       ]
     },
@@ -3091,7 +3181,7 @@
       "story_id": null,
       "story_path": null,
       "created_at": "2026-10-12",
-      "updated_at": "2026-10-12",
+      "updated_at": "2026-10-17",
       "rejection_or_block_reason": null,
       "published_url": null,
       "published_at": null,
@@ -3101,6 +3191,12 @@
           "status": "proposed",
           "note": "Vendor-operated Money Moves topic scouting. Unselected hypothesis, not a fully researched or approved episode. Freelancer may change creative treatment within channel brief.",
           "actor": "ChatGPT"
+        },
+        {
+          "date": "2026-10-17",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Ranked #10 of 10 in producer-facing shortlist business/channels/money-moves/PRODUCER_SHORTLIST_2026-10-17.md; no new idea, editor commission, full research or production approval."
         }
       ]
     },
@@ -3143,7 +3239,7 @@
       "story_id": null,
       "story_path": null,
       "created_at": "2026-10-12",
-      "updated_at": "2026-10-12",
+      "updated_at": "2026-10-17",
       "rejection_or_block_reason": null,
       "published_url": null,
       "published_at": null,
@@ -3153,6 +3249,12 @@
           "status": "proposed",
           "note": "Vendor-operated Money Moves topic scouting. Unselected hypothesis, not a fully researched or approved episode. Freelancer may change creative treatment within channel brief.",
           "actor": "ChatGPT"
+        },
+        {
+          "date": "2026-10-17",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Ranked #8 of 10 in producer-facing shortlist business/channels/money-moves/PRODUCER_SHORTLIST_2026-10-17.md; no new idea, editor commission, full research or production approval."
         }
       ]
     },
@@ -4001,7 +4103,7 @@
       "story_id": null,
       "story_path": null,
       "created_at": "2026-10-14",
-      "updated_at": "2026-10-14",
+      "updated_at": "2026-10-17",
       "rejection_or_block_reason": null,
       "published_url": null,
       "published_at": null,
@@ -4011,6 +4113,12 @@
           "status": "proposed",
           "actor": "ChatGPT",
           "note": "Owner-discussed initial Hard Costs setup candidate; no research, selection, script, factual confirmation, editor commission or approval yet."
+        },
+        {
+          "date": "2026-10-17",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Working illustrative 60s profit-vs-cash narration preserved at business/channels/hard-costs/producer-drafts/2026-10-17-profit-vs-cash-60s.txt; no real company data or produced video."
         }
       ]
     },
@@ -5413,6 +5521,34 @@
           "status": "proposed",
           "actor": "ChatGPT",
           "note": "Initial House Money channel editorial setup. Unresearched hypothesis/working title; no episode commissioned, source claim verified, narrator/editor appointed or final title approved. Must differentiate against related Green Knight episodes."
+        }
+      ]
+    },
+    {
+      "id": "FG-I0009",
+      "channel": "fools-gold",
+      "title": "The Solar Company That Sold Machines That Didn’t Exist",
+      "aliases": [
+        "DC Solar: The Solar Company That Sold Machines That Didn't Exist"
+      ],
+      "subject": "DC Solar tax-equity sale/leaseback investments in trailer-mounted solar generators and the associated fraud",
+      "mechanism": "Fake rental payments, claimed inventory in excess of actual machines, manipulated inspection/identification records and GPS-location evidence created the appearance of real, verified equipment assets.",
+      "viewer_promise": "How real solar generators, payments, paper inspections and location information allowed claims about thousands of nonexistent machines to appear credible and how the deception was exposed.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-17",
+      "updated_at": "2026-10-17",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-17",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Preserved V2 DC Solar working narration at business/channels/fools-gold/producer-drafts/2026-10-17-dc-solar-v2.txt to prevent duplicate pitching. Requires complete verification and review; no selected FG-V ID or production approval."
         }
       ]
     }

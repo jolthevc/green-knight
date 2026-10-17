@@ -1,0 +1,71 @@
+TITLE: The Solar Company That Sold Machines That Didn’t Exist
+
+A solar generator can have a serial number. A lease agreement. Monthly payments. Even a dot on a GPS map showing exactly where it is.
+
+And still, that machine might not exist.
+
+That was the extraordinary problem at DC Solar, a California company that sold investors thousands of trailer-mounted generators. The business looked real because part of it was real. There was a factory. There were actual machines. There were customers and racecar sponsorships. But behind the solar panels was a financial system that paid investors with money from other investors, and eventually sold machines that had never been built.
+
+The mystery is how a nonexistent machine could pass through layer after layer of apparent verification.
+
+Start with the product. DC Solar, based in Benicia, California, manufactured mobile solar generators: trailers carrying solar panels and batteries, promoted for emergency power and lighting at events. Some were built and deployed. That mattered: investors weren't backing a machine that existed only in a presentation.
+
+They were buying a tangible asset that could earn rent. And federal tax incentives made it more attractive. Qualifying solar equipment could deliver an investment tax credit worth thirty percent of the purchase price, reducing tax liability. For a company with a big tax bill, the proposition was tantalizing: tax savings plus rental income.
+
+Here's how one version of the deal worked. Court records describe generators priced at around a hundred and fifty thousand dollars. An investor might put down roughly forty thousand dollars and finance the remainder through a promissory note arranged within the DC Solar structure. Then the investor leased the machine back to a DC Solar affiliate, which was supposed to rent it to outside customers.
+
+Those outside rentals were the whole economic engine. Real customers would pay to use the trailer. That revenue would help cover the investor's financing obligation and provide a return. Meanwhile, the investor could seek the tax benefit if the equipment and transaction actually qualified. Deal terms varied, but the pitch was the same: own the generator, let DC Solar operate it, collect the benefits.
+
+Investors rarely needed to handle a trailer. DC Solar sold it, controlled its deployment and reported its earnings. The answers about where a generator was and what it earned largely came from the companies that sold it.
+
+Now, there was a problem. According to the Justice Department, almost nobody wanted to rent these generators at the scale investors had been promised.
+
+That meant the system didn't have enough genuine customer revenue to pay investors what they expected. Rather than confront that failure, Jeff Carpoff, who ran DC Solar with his wife Paulette, and their co-conspirators concealed it.
+
+New investors paid DC Solar. Money moved between related accounts. Earlier investors received lease payments. The deposits were real; the explanation for where they came from wasn't.
+
+During the scheme, federal prosecutors said approximately ninety-four to ninety-five percent of the lease revenue recorded on the company's books was actually intercompany transfers disguising new investor money. The supposed outside customers provided only a small fraction of the claimed revenue.
+
+That's the first trick. A payment can arrive on schedule, in the right amount, from the right company, and still not be what it claims to be. The bank transfer proves money moved. It doesn't prove a customer rented a generator.
+
+But this created a second problem. Every new investment carried expectations of future rent. To keep paying earlier investors, DC Solar needed more money coming in. To attract that money, it needed more generators to sell.
+
+And then, according to federal prosecutors, the company stopped building generators altogether. It continued selling them anyway.
+
+Think about what the buyer received: a purchase agreement, a serial number, a lease, and documents indicating the asset had been inspected. The documents described a complete machine. But no machine had been built.
+
+So what happened when someone asked for proof?
+
+One answer was an inspection report. Joseph Bayliss, an electrician hired to pose as a licensed engineer, signed thousands of reports between 2016 and 2018 stating that newly built generators had been inspected and tested. Federal prosecutors said he knew those reports were false. Carpoff paid him approximately a million dollars.
+
+Even a physical inspection could be manipulated. Investigators described earlier generators being presented as different machines. Vehicle identification number stickers were removed and replaced. The same real generator could be represented as belonging to a different investor. In one inspection described by the Securities and Exchange Commission, trailers were moved to chosen sites to make it appear they were in use there.
+
+An inspector could see a real trailer and still be misled about what the investor actually owned.
+
+And then there was GPS. Some investors could be shown location information for their supposedly deployed equipment. A dot on a map seems stronger than a promise in a contract. It looks independent.
+
+But in a federal SEC complaint, investigators alleged that DC Solar employees buried GPS devices at certain locations to make it appear that generators were operating there. A tracker only reports where the tracker is. It cannot tell you whether a trailer is attached to it.
+
+That was the deeper illusion: every layer that appeared to verify the investment could be made to confirm another layer. The lease explained the payments. The inspection report confirmed the machine. The serial number identified it. The map placed it somewhere in the world. Yet the same scheme could manipulate all four.
+
+False financial statements and fake lease contracts added another layer. The documents existed. The supposed customers and equipment often did not.
+
+Federal investigators traced the money, lease claims and physical inventory. On December eighteenth, 2018, agents searched DC Solar properties and the Carpoffs’ home. Bankruptcy and criminal cases followed.
+
+What emerged was staggering. The company's transactions purported to involve roughly seventeen thousand generators. According to prosecutors, at least half never existed. One Justice Department account put the missing number at about nine thousand.
+
+Investors put in approximately seven hundred and fifty-nine million dollars. Another roughly one hundred and fifty-three million arrived through related transactions. More than nine hundred and twelve million dollars in all. The contracts described a much larger face value of equipment, but the face value wasn’t the same as cash invested or money lost.
+
+And the tax credits created a separate problem. Investors had claimed benefits based on the supposed ownership of qualifying equipment. If the equipment didn't exist, the claimed benefit could not be justified by that equipment. The scheme hurt private investors and put public tax revenues at risk. Even Berkshire Hathaway recorded a three-hundred-and-seventy-seven-million-dollar tax expense after determining that benefits from certain related tax-equity investments were likely invalid.
+
+Jeff and Paulette Carpoff pleaded guilty in January 2020. Jeff was sentenced in 2021 to thirty years in federal prison and ordered to pay more than seven hundred and ninety million dollars in restitution. Paulette was later sentenced to eleven years and three months. Prosecutors sought to recover money and assets, including luxury cars and properties. Recovering some assets, though, was not the same as replacing everything investors had lost.
+
+The product was real. That helped sell what wasn’t.
+
+A real trailer made a fake inventory plausible. A real bank payment made fabricated rent plausible. A signed inspection report made an unbuilt machine plausible. And a GPS dot could make an empty patch of ground look like an operating business.
+
+The extraordinary thing about DC Solar wasn't that nobody had any evidence. It was that so much of the evidence could be generated, circulated or manipulated by the very people whose claims it was supposed to verify.
+
+The machine had a price, a contract, a location and an income stream. The only thing missing was the machine.
+
+For more stories about what looked legitimate and what was happening underneath, subscribe to Fool's Gold.

@@ -1,0 +1,59 @@
+TITLE: MoviePass: The Customers Who Cost Too Much
+
+Imagine opening a gym that pays another gym full price every time one of your members works out.
+
+Now imagine your marketing campaign begs those members to come back every day.
+
+That was almost exactly the problem MoviePass built for itself. In 2017, it offered moviegoers a remarkable deal: about ten dollars a month to see a movie in theaters every day. Every time someone used the pass, MoviePass bought the ticket. The customer saw a bargain. MoviePass saw a bill.
+
+Within ten months, the service announced three million subscribers. And the more people loved the offer, the faster the company's finances deteriorated.
+
+The obvious question is why anyone thought that could work. But the more interesting question is why the people running MoviePass kept assuring investors that it would.
+
+MoviePass wasn't invented as a ten-dollar giveaway. Founded in 2011, it experimented with subscriptions at higher prices. Mitch Lowe, a veteran of Netflix and Redbox, became its chief executive in 2016. The company was small, and moviegoing had a familiar problem: people liked the theater, but they didn't always like paying for every visit.
+
+Subscriptions seemed to solve that. A gym gets paid when members don't visit. A music service gets paid whether you listen for five minutes or five hours. But MoviePass didn't own the theaters, and it couldn't send its customers into an empty seat at little cost. It paid for each visit.
+
+In August 2017, Helios and Matheson, a publicly traded analytics company, bought a majority stake. MoviePass dropped the unlimited price to nine ninety-five. Sign-ups exploded. By December, the service reported roughly a million subscribers. By February 2018, two million. By June, it announced three million. From the outside, this looked like the kind of growth investors dream about: a product that went from niche experiment to a name everybody at the movies had heard of. Inside the business, each extra visit still created another ticket purchase.
+
+Here is the math that mattered. Suppose a subscriber pays about ten dollars and watches three movies in a month. If MoviePass pays twelve dollars for each ticket, that member creates thirty-six dollars in ticket costs, before the company pays for staff, technology or anything else. Those are illustrative numbers, although theater chain AMC later publicly reported similar usage and ticket-price figures for MoviePass members.
+
+And the very people MoviePass attracted were the ones most likely to use it. A customer who hardly ever went to the movies was not the obvious target for an unlimited-movie deal. The enthusiasts were. MoviePass was selling its most expensive customers the biggest discount.
+
+But subscriptions don't have to make money on the subscription itself. Sometimes a company buys attention today to earn more tomorrow. MoviePass said it had a bigger plan.
+
+Data.
+
+Executives talked about understanding where people went, what they watched and how studios might pay to reach them. Helios and Matheson presented itself as a technology company. Its chairman and chief executive, Ted Farnsworth, pointed to businesses that had built fortunes by gathering audiences before monetizing them.
+
+There was a seductive possibility here. If MoviePass could influence millions of people to see one film instead of another, that audience might be worth something to studios and advertisers. But a possibility is not the same thing as a functioning revenue stream. And meanwhile, theater tickets had to be paid for in cash.
+
+By May 2018, according to company disclosures discussed at the time, Helios and Matheson held roughly fifteen and a half million dollars in cash. Lowe estimated that MoviePass was burning about twenty-one million dollars a month. The numbers weren't from identical accounting periods, but the comparison made the scale of the funding problem hard to miss.
+
+The company had grown a customer base it could not afford to serve without fresh money.
+
+And then it began to ration the product that had made it famous. Popular showtimes carried restrictions. Ticket verification increased. The service imposed limits on films and, eventually, on the number of visits. At the end of July 2018, MoviePass suffered a widely reported service outage amid a cash emergency and obtained a short-term loan.
+
+For a subscriber, this felt like a promise disappearing in real time. The product had been 'come as often as you like.' The rescue plan was, in effect, 'please come less often.'
+
+And notice how the solution threatened the whole promise. Each attempt to save ticket costs made the original offer less useful, particularly to the people who had told their friends about it. The company had paid heavily to acquire avid moviegoers, then discovered it needed those same people to become less avid. Growth and customer satisfaction, usually allies, were pulling in opposite directions.
+
+There was a useful comparison just down the street. AMC launched its own A-List subscription in 2018. It charged more and offered fewer movies. But AMC operated theaters. An otherwise empty seat could be filled without purchasing a full-price ticket from a competitor. That didn't make AMC's offer automatically profitable, but it changed the underlying economics.
+
+MoviePass was buying retail tickets. A theater chain was managing its own inventory. Same customer desire. Very different cost structure.
+
+The Federal Trade Commission separately challenged practices that impeded access to tickets, including allegations about subscribers' ability to use the service they had paid for. The company and former executives settled those FTC allegations in 2021. That settlement is separate from the later criminal admissions concerning false statements to investors.
+
+MoviePass eventually shut down service in September 2019, and Helios and Matheson filed for liquidation in January 2020. Those events were not simply evidence of a risky experiment that failed. Regulators and prosecutors later examined what executives had told investors while it was unraveling.
+
+In September 2024, Lowe pleaded guilty to conspiracy to commit securities fraud. In January 2025, Farnsworth pleaded guilty to securities fraud and conspiracy. The Justice Department said they had falsely presented the nine ninety-five plan as tested and sustainable, and made false claims about the company's ability to monetize subscriber data using technologies it did not possess as advertised.
+
+That is an important distinction. The idea that audience data could someday have value wasn't inherently absurd. The proven problem was the misleading claims about the economics and capabilities MoviePass actually had.
+
+The name did get another chance. Original co-founder Stacy Spikes acquired MoviePass out of bankruptcy and relaunched it in 2023, with plans built around credits rather than unlimited daily visits. You could still start at about ten dollars a month. You just couldn't buy a full-price movie ticket every night with it.
+
+What failed at MoviePass wasn't people's desire to go to the movies. That part worked brilliantly. The weakness was the distance between the price customers paid and the cost of giving them what they wanted, combined with promises to investors that future revenue would close a gap it had not closed.
+
+For a while, every new subscriber looked like evidence of success. But the more faithfully customers used the product, the more clearly they revealed the flaw.
+
+MoviePass didn't run out of people who wanted its deal. It ran out of ways to afford them.
