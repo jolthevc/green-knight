@@ -8,7 +8,7 @@ from episode_check import inspect_story, load_json, number, paragraph_ref, scrip
 
 ROOT = Path(__file__).resolve().parents[2]
 BUSINESS = ROOT / "business"
-CHANNELS = {"pretty-penny", "money-moves", "fallen-angels", "changing-hands", "fools-gold", "silver-spoon", "first-billion", "on-the-map", "hard-costs", "built-to-scale", "house-money"}
+CHANNELS = {"pretty-penny", "money-moves", "fallen-angels", "changing-hands", "fools-gold", "silver-spoon", "first-billion", "on-the-map", "hard-costs", "built-to-scale", "house-money", "fame-and-fortune"
 STATUSES = {"proposed", "selected", "researching", "researched", "scripted",
             "production_ready", "in_production", "published", "blocked", "rejected", "archived"}
 COMPLETE = {"scripted", "production_ready", "in_production", "published"}
@@ -212,7 +212,10 @@ def validate():
         for name in required_files:
             if not (folder / name).is_file():
                 errors.append(f"Missing channel file: {slug}/{name}")
-        if config.get("id") != slug or config.get("target_runtime_seconds") != {"min": 480, "target": 540, "max": 600}:
+        expected_runtime = ({"min": 600, "target": 900, "max": 1200}
+                            if slug == "fame-and-fortune" else
+                            {"min": 480, "target": 540, "max": 600})
+        if config.get("id") != slug or config.get("target_runtime_seconds") != expected_runtime:
             errors.append(f"Channel ID/runtime mismatch: {slug}")
         for key, suffix in (("idea_prefix", "-I"), ("story_prefix", "-V")):
             value = config.get(key)
@@ -317,7 +320,7 @@ def validate():
                 issues, report = inspect_story(path)
                 errors.extend(f"{ident}: {e}" for e in issues)
                 if report and not report["estimate_in_target"] and report["actual_video_seconds"] is None:
-                    errors.append(f"Script estimate outside 8–10 minutes: {ident}")
+                    errors.append(f"Script estimate outside channel runtime: {ident}")
             if (path / "evidence.json").is_file() and (path / "script.txt").is_file():
                 errors.extend(f"{ident}: {e}" for e in inspect_evidence(path, meta, True))
             editorial = meta.get("editorial", {})
@@ -357,7 +360,8 @@ def validate():
                 errors.append(f"Approved visual snapshot required: {ident}")
         if status == "published":
             actual = meta.get("runtime", {}).get("actual_video_seconds")
-            if not number(actual) or not 480 <= actual <= 600:
+            bounds = configs[slug]["target_runtime_seconds"]
+            if not number(actual) or not bounds["min"] <= actual <= bounds["max"]:
                 errors.append(f"Published runtime not verified: {ident}")
             for key in ("published_url", "published_at"):
                 valid = youtube_video(item.get(key)) if key == "published_url" else date(item.get(key))
@@ -400,7 +404,7 @@ if __name__ == "__main__":
             print("ERROR:", problem)
         if problems:
             sys.exit(1)
-        print("Eight-channel configuration, profiles, ledger, stage gates and script-linked artifacts validated.")
+        print(f"{len(CHANNELS)}-channel configuration, profiles, ledger, stage gates and script-linked artifacts validated.")
         print("Source truth, subjective quality and actual listening still require inspection.")
     except (OSError, ValueError, TypeError, KeyError, AttributeError) as exc:
         sys.exit(f"ERROR: invalid input: {exc}")
