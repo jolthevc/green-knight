@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-18",
+  "updated_at": "2026-10-19",
   "ideas": [
     {
       "id": "PP-I0001",
@@ -5607,17 +5607,20 @@
     {
       "id": "FF-I0003",
       "channel": "fame-and-fortune",
-      "title": "How Taylor Swift Fought for Control of Her Music",
-      "aliases": [],
+      "title": "They Bought Taylor Swift's Music. She Recorded It Again.",
+      "aliases": [
+        "Taylor Swift Spent Six Years Fighting for This",
+        "How Taylor Swift Fought for Control of Her Music"
+      ],
       "subject": "Taylor Swift",
       "mechanism": "Recorded-master ownership, rerecording rights, touring economics and bargaining power",
       "viewer_promise": "Why are music rights and creative control financially consequential, and what happened when Swift sought greater control?",
-      "status": "proposed",
+      "status": "selected",
       "related_idea_ids": [],
-      "story_id": null,
-      "story_path": null,
+      "story_id": "FF-V0002",
+      "story_path": "business/channels/fame-and-fortune/stories/FF-V0002-taylor-swift-masters",
       "created_at": "2026-10-18",
-      "updated_at": "2026-10-18",
+      "updated_at": "2026-10-19",
       "rejection_or_block_reason": null,
       "published_url": null,
       "published_at": null,
@@ -5627,6 +5630,12 @@
           "status": "proposed",
           "actor": "ChatGPT",
           "note": "Initial Fame & Fortune working pitch, not selected, researched, source-verified, scripted or commissioned. Provocative packaging must be substantiated before approval."
+        },
+        {
+          "date": "2026-10-19",
+          "status": "selected",
+          "actor": "ChatGPT",
+          "note": "Owner requested next Fame & Fortune story after Kylie. Completed a 1,398-word 8-10-minute Taylor Swift first-draft script, section map, working editor notes, PDF and sources; no approval for narration/full production yet."
         }
       ]
     },
