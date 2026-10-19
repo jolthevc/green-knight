@@ -3,7 +3,7 @@
 **Fresh GPT or Fiverr script? [Start with continuity](CONTINUITY_HANDOFF.md), then the channel-specific standards and live registry.** Latest externally revised drafts are linked there, and [producer visual direction](PRODUCER_VISUAL_DIRECTION.md) records the hybrid references and script-writing workflow.
 
 
-Every channel in this business umbrella targets **8–10 minutes per finished episode**, including opening, narration, pauses, visual holds and closing.
+Business channels normally target **8–10 minutes per finished episode**, including opening, narration, pauses, visual holds and closing. **Exception: Fame & Fortune targets 10–20 minutes, ideally 15 minutes (900 seconds).** Runtime is channel-configured and must be honored by scripting and validation.
 
 | Channel | Viewer promise | Workspace |
 | --- | --- | --- |
@@ -18,6 +18,7 @@ Every channel in this business umbrella targets **8–10 minutes per finished ep
 | Hard Costs | The economics, operators and extraordinary stories behind what gets built | [Built ninth](channels/hard-costs/README.md) |
 | Built to Scale | The growth playbook for construction/trade business owners and aspiring operators | [Built tenth](channels/built-to-scale/README.md) |
 | House Money | Discover the businesses, financing and money flows behind where we live | [Built eleventh](channels/house-money/README.md) |
+| Fame & Fortune | The surprising deals, ownership structures and fortunes behind famous entertainers and athletes | [Built twelfth](channels/fame-and-fortune/README.md) |
 
 Names do not justify duplicate lanes. A company can feature on several channels only when each episode answers a different central question.
 
@@ -39,7 +40,7 @@ Use channel-specific idea/video identifiers here (PP for Pretty Penny; MM for Mo
 
 Keep large media, source PDFs, recordings and editable project files in external storage; commit their stable links in story metadata. Do not commit passwords, API keys, private editor contact details or licensed source files.
 
-All eleven business channel workspaces are built. Voice selection, integrated visual pilots, editor scope/pricing and publication schedules remain pilot-stage decisions. Changing Hands remains a working name. Start with idea selection and a reviewable pilot before purchasing repeat batches.
+All twelve business channel workspaces are built. Voice selection, integrated visual pilots, editor scope/pricing and publication schedules remain pilot-stage decisions. Changing Hands remains a working name. Start with idea selection and a reviewable pilot before purchasing repeat batches.
 
 [Latest six-channel audit](AUDIT_2026-10-10.md) records gaps fixed, validation and decisions that require real pilots.
 
@@ -76,3 +77,6 @@ The revised channel emphasizes how to acquire customers, hire and delegate, fina
 
 ## House Money (eleventh channel, 2026-10-15)
 [House Money — The Business of Housing](channels/house-money/README.md) covers homebuilders, mortgages and servicing, renters/landlords, home transactions, ownership insurance/HOAs, land-to-housing supply and newer housing business models. Unlike Hard Costs' construction project/industry economics or Built to Scale's contractor growth playbooks, House Money tracks the economic machinery behind residential property and the people who live in it. See its [seven lanes](channels/house-money/EDITORIAL_LANES.md), [creative constitution](channels/house-money/CHANNEL.md), [initial slate](channels/house-money/PILOT_SLATE.md). Proposed seeds HM-I0001–HM-I0014; no approved narrator, editor, pilot or selected episode.
+
+## Fame & Fortune (twelfth channel, 2026-10-18)
+[Fame & Fortune](channels/fame-and-fortune/README.md) is the celebrity business-entertainment lane with FF-I#### and FF-V#### identifiers. Its channel-specific runtime is **600–1,200 seconds, targeting 900 seconds**. Its priority is exceptionally clickable but evidenced celebrity money stories, with a first-15-second impact, a concrete first-45-second payoff, and a clear non-spoken A-H segment map for a 15-minute documentary. Read [hook standard](channels/fame-and-fortune/CLICK_AND_HOOK_STANDARD.md) and [script segment template](channels/fame-and-fortune/SCRIPT_SEGMENT_TEMPLATE.md). Sixteen opening ideas are **proposed only**; no selected script, voice, editor, production or publication. Shared clean spoken script and exact three editor-director handoff files still apply.
