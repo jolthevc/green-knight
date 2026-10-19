@@ -10,7 +10,7 @@
 4. Review cold before consulting previous verdicts; critique hook, narration-by-ear, tension, weakest middle, genuine causal reversals, source claims, counterargument and expert reward. When revising, fix structure first, keep exceptional moments, version new copies, and clearly separate verified facts from hypotheses/claims needing checking.
 5. Use newest branch head and update record with expected-head check. Report exact IDs/status/links only after read-back verifies saving; no guessed Fiverr contracts, accepted pilots, narrator choice, video publication or research approval.
 
-## Eleven distinct channels
+## Twelve distinct channels
 
 | Channel | Central story question |
 | --- | --- |
@@ -25,6 +25,7 @@
 | Hard Costs | What are the economics and drama behind constructing/operating the physical built world? |
 | Built to Scale | How do contractors/trades actually acquire customers, fund growth and expand? |
 | House Money | Where does money go in the system of homes, mortgages, rentals and housing supply? |
+| Fame & Fortune | How did a recognizable star turn fame into contractual rights, ownership, businesses and real financial power? |
 
 Check central mechanism and related aliases across the **full registry**, not just titles or channel labels. No title/idea may be treated as selected merely because we created a shortlist or a sample narration.
 
@@ -55,3 +56,6 @@ Original Word/PDF layouts, audio, editing projects and licensing materials are N
 ## New-chat starter
 
 > Work from the current main branch at https://github.com/jolthevc/green-knight/tree/main/business. Read CONTINUITY_HANDOFF.md, POPCORN_STANDARD.md, AGENTS.md and the entire ideas/registry.json; then the selected channel's docs and SCRIPT_REVIEW.md. Locate the exact current script (canonical or producer-draft). Give an uncompromising review/revision that is gripping for newcomers and delivers an evidenced, non-obvious explanation for experts. Keep versions, links, statuses and source verification honest. When I ask to save, commit and verify the changed branch.
+
+## Fame & Fortune addition (2026-10-18)
+New channel: [business/channels/fame-and-fortune/README.md](channels/fame-and-fortune/README.md). Read CLICK_AND_HOOK_STANDARD, CREATIVE_CONTRACT, SCRIPT_STANDARD, SCRIPT_SEGMENT_TEMPLATE, STYLE, VISUAL_SYSTEM, VOICE, EDITOR_WORKFLOW, START_A_CHAT, channel.json and narration.json. FF-I0001–FF-I0016 are **proposed and unverified**, not selected or commissioned. FF-V#### is allocated only on selection. **Special runtime: 10-20 minutes, ideal 15**, overriding normal network 8-10. First 15s must be extraordinary, 45s must deliver a verified concrete reveal. Segment A-H boundaries, paragraph anchors, approximate timecodes, narrator cues and visual actions belong in non-spoken director materials; canonical 01_SCRIPT remains clean exact narration. Default documentary editing uses sourced photos, newspaper clippings and simple graphics. No known approval of name, voice, editor, script or film.
