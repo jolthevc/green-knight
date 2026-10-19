@@ -134,9 +134,11 @@
       "mechanism": "visual ambiguity, confidence and social sharing",
       "subject_type": "image",
       "working_title": "Why One Photo Made the Internet Disagree",
-      "status": "proposed",
-      "source_status": "not_researched",
-      "owner_selected": false
+      "status": "selected",
+      "source_status": "researched_first_pass",
+      "owner_selected": true,
+      "episode_id": "IF-V0001",
+      "script_status": "draft_unapproved"
     },
     {
       "id": "IF-I0017",
