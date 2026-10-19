@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-17",
+  "updated_at": "2026-10-18",
   "ideas": [
     {
       "id": "PP-I0001",
@@ -5549,6 +5549,422 @@
           "status": "proposed",
           "actor": "ChatGPT",
           "note": "Preserved V2 DC Solar working narration at business/channels/fools-gold/producer-drafts/2026-10-17-dc-solar-v2.txt to prevent duplicate pitching. Requires complete verification and review; no selected FG-V ID or production approval."
+        }
+      ]
+    },
+    {
+      "id": "FF-I0001",
+      "channel": "fame-and-fortune",
+      "title": "The Deals Behind Ryan Reynolds' Business Empire",
+      "aliases": [],
+      "subject": "Ryan Reynolds",
+      "mechanism": "Celebrity equity, creative marketing and brand exits",
+      "viewer_promise": "Which deals and rights contributed to Ryan Reynolds' business success, and how do exit headlines differ from owner proceeds?",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-18",
+      "updated_at": "2026-10-18",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-18",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Initial Fame & Fortune working pitch, not selected, researched, source-verified, scripted or commissioned. Provocative packaging must be substantiated before approval."
+        }
+      ]
+    },
+    {
+      "id": "FF-I0002",
+      "channel": "fame-and-fortune",
+      "title": "How Rihanna Turned Fenty Into a Beauty Business",
+      "aliases": [],
+      "subject": "Rihanna / Fenty Beauty",
+      "mechanism": "Celebrity-led product design, distribution partnership and ownership economics",
+      "viewer_promise": "What did Rihanna's fame contribute, and how much of the business engine came from manufacturing and distribution partners?",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-18",
+      "updated_at": "2026-10-18",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-18",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Initial Fame & Fortune working pitch, not selected, researched, source-verified, scripted or commissioned. Provocative packaging must be substantiated before approval."
+        }
+      ]
+    },
+    {
+      "id": "FF-I0003",
+      "channel": "fame-and-fortune",
+      "title": "How Taylor Swift Fought for Control of Her Music",
+      "aliases": [],
+      "subject": "Taylor Swift",
+      "mechanism": "Recorded-master ownership, rerecording rights, touring economics and bargaining power",
+      "viewer_promise": "Why are music rights and creative control financially consequential, and what happened when Swift sought greater control?",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-18",
+      "updated_at": "2026-10-18",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-18",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Initial Fame & Fortune working pitch, not selected, researched, source-verified, scripted or commissioned. Provocative packaging must be substantiated before approval."
+        }
+      ]
+    },
+    {
+      "id": "FF-I0004",
+      "channel": "fame-and-fortune",
+      "title": "Can MrBeast's Audience Build a Lasting Consumer Business?",
+      "aliases": [],
+      "subject": "MrBeast / Feastables",
+      "mechanism": "Creator distribution versus retail repeat purchase, manufacturing and marketing spend",
+      "viewer_promise": "How much does reach solve, and where does the hard economics of a packaged-goods brand begin?",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-18",
+      "updated_at": "2026-10-18",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-18",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Initial Fame & Fortune working pitch, not selected, researched, source-verified, scripted or commissioned. Provocative packaging must be substantiated before approval."
+        }
+      ]
+    },
+    {
+      "id": "FF-I0005",
+      "channel": "fame-and-fortune",
+      "title": "Why Michael Jordan's Nike Deal Became So Valuable",
+      "aliases": [],
+      "subject": "Michael Jordan / Nike",
+      "mechanism": "Athlete licensing rights, royalties, brand ownership and long-run demand",
+      "viewer_promise": "What deal economics turned a sports endorsement into an enduring licensing engine?",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-18",
+      "updated_at": "2026-10-18",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-18",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Initial Fame & Fortune working pitch, not selected, researched, source-verified, scripted or commissioned. Provocative packaging must be substantiated before approval."
+        }
+      ]
+    },
+    {
+      "id": "FF-I0006",
+      "channel": "fame-and-fortune",
+      "title": "Who Gets Rich From the SKIMS Business?",
+      "aliases": [],
+      "subject": "Kim Kardashian / SKIMS",
+      "mechanism": "Celebrity brand equity, investors, ownership stakes and apparel distribution",
+      "viewer_promise": "Who actually owns the business, where does the economic upside accumulate and what does reported valuation mean?",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-18",
+      "updated_at": "2026-10-18",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-18",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Initial Fame & Fortune working pitch, not selected, researched, source-verified, scripted or commissioned. Provocative packaging must be substantiated before approval."
+        }
+      ]
+    },
+    {
+      "id": "FF-I0007",
+      "channel": "fame-and-fortune",
+      "title": "The Real Economics of George Clooney's Tequila Exit",
+      "aliases": [],
+      "subject": "George Clooney / Casamigos",
+      "mechanism": "Celebrity-founded consumer spirits brand sale, consideration and ownership",
+      "viewer_promise": "What does the headline acquisition figure mean for founders and which commercial moves built buyer demand?",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-18",
+      "updated_at": "2026-10-18",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-18",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Initial Fame & Fortune working pitch, not selected, researched, source-verified, scripted or commissioned. Provocative packaging must be substantiated before approval."
+        }
+      ]
+    },
+    {
+      "id": "FF-I0008",
+      "channel": "fame-and-fortune",
+      "title": "How Rare Beauty Became More Than a Celebrity Brand",
+      "aliases": [],
+      "subject": "Selena Gomez / Rare Beauty",
+      "mechanism": "Founder brand positioning, unit sales, distribution, product margins and stake value",
+      "viewer_promise": "What sustainable consumer economics explain Rare Beauty beyond Selena Gomez's popularity?",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-18",
+      "updated_at": "2026-10-18",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-18",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Initial Fame & Fortune working pitch, not selected, researched, source-verified, scripted or commissioned. Provocative packaging must be substantiated before approval."
+        }
+      ]
+    },
+    {
+      "id": "FF-I0009",
+      "channel": "fame-and-fortune",
+      "title": "How Shaq Built a Business Life Beyond Basketball",
+      "aliases": [],
+      "subject": "Shaquille O'Neal",
+      "mechanism": "Franchise investments versus endorsements versus equity ownership",
+      "viewer_promise": "What different cash and ownership mechanisms sit behind Shaq's public investment portfolio?",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-18",
+      "updated_at": "2026-10-18",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-18",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Initial Fame & Fortune working pitch, not selected, researched, source-verified, scripted or commissioned. Provocative packaging must be substantiated before approval."
+        }
+      ]
+    },
+    {
+      "id": "FF-I0010",
+      "channel": "fame-and-fortune",
+      "title": "Dwayne Johnson's Big Bet on Tequila",
+      "aliases": [],
+      "subject": "Dwayne Johnson / Teremana",
+      "mechanism": "Celebrity-led brand distribution, partnerships, financing and brand durability",
+      "viewer_promise": "Which risks and commercial advantages determine whether a celebrity liquor brand lasts?",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-18",
+      "updated_at": "2026-10-18",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-18",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Initial Fame & Fortune working pitch, not selected, researched, source-verified, scripted or commissioned. Provocative packaging must be substantiated before approval."
+        }
+      ]
+    },
+    {
+      "id": "FF-I0011",
+      "channel": "fame-and-fortune",
+      "title": "What Happened to Jessica Alba's Big Business Bet?",
+      "aliases": [],
+      "subject": "Jessica Alba / Honest Company",
+      "mechanism": "Celebrity startup promotion versus post-IPO operating performance and stake economics",
+      "viewer_promise": "How did the economics and public-market expectations of The Honest Company evolve after launch?",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-18",
+      "updated_at": "2026-10-18",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-18",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Initial Fame & Fortune working pitch, not selected, researched, source-verified, scripted or commissioned. Provocative packaging must be substantiated before approval."
+        }
+      ]
+    },
+    {
+      "id": "FF-I0012",
+      "channel": "fame-and-fortune",
+      "title": "How Beats Turned Music Culture Into a Major Deal",
+      "aliases": [],
+      "subject": "Dr. Dre / Beats",
+      "mechanism": "Brand IP, hardware marketing, ownership and acquisition consideration",
+      "viewer_promise": "What commercial ingredients made Beats valuable and who captured the value?",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-18",
+      "updated_at": "2026-10-18",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-18",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Initial Fame & Fortune working pitch, not selected, researched, source-verified, scripted or commissioned. Provocative packaging must be substantiated before approval."
+        }
+      ]
+    },
+    {
+      "id": "FF-I0013",
+      "channel": "fame-and-fortune",
+      "title": "The Deal Behind Jay-Z's Tidal Bet",
+      "aliases": [],
+      "subject": "Jay-Z / Tidal",
+      "mechanism": "Artist ownership, streaming economics, strategic investment and ownership transfers",
+      "viewer_promise": "Why take on music streaming, what trade-offs did owners face, and what changed in later transactions?",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-18",
+      "updated_at": "2026-10-18",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-18",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Initial Fame & Fortune working pitch, not selected, researched, source-verified, scripted or commissioned. Provocative packaging must be substantiated before approval."
+        }
+      ]
+    },
+    {
+      "id": "FF-I0014",
+      "channel": "fame-and-fortune",
+      "title": "Was 50 Cent's Vitaminwater Deal Bigger Than an Endorsement?",
+      "aliases": [],
+      "subject": "50 Cent / Vitaminwater",
+      "mechanism": "Celebrity equity consideration versus cash endorsement terms and corporate exit",
+      "viewer_promise": "What is actually documented about the equity arrangement, and how does it differ from popular payout stories?",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-18",
+      "updated_at": "2026-10-18",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-18",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Initial Fame & Fortune working pitch, not selected, researched, source-verified, scripted or commissioned. Provocative packaging must be substantiated before approval."
+        }
+      ]
+    },
+    {
+      "id": "FF-I0015",
+      "channel": "fame-and-fortune",
+      "title": "What Was Kylie Cosmetics Really Worth?",
+      "aliases": [],
+      "subject": "Kylie Jenner / Kylie Cosmetics",
+      "mechanism": "Celebrity brand valuation, stake sales, revenue and implied enterprise valuation",
+      "viewer_promise": "What can sale disclosures establish about valuation and realized proceeds, versus conjecture?",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-18",
+      "updated_at": "2026-10-18",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-18",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Initial Fame & Fortune working pitch, not selected, researched, source-verified, scripted or commissioned. Provocative packaging must be substantiated before approval."
+        }
+      ]
+    },
+    {
+      "id": "FF-I0016",
+      "channel": "fame-and-fortune",
+      "title": "When Celebrity Influence Meets Equity Risk",
+      "aliases": [],
+      "subject": "Oprah Winfrey / WeightWatchers",
+      "mechanism": "Celebrity endorsement, stock ownership, brand turnaround and investment volatility",
+      "viewer_promise": "How did Oprah's business relationship combine public influence, equity ownership and changing firm economics?",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-18",
+      "updated_at": "2026-10-18",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-18",
+          "status": "proposed",
+          "actor": "ChatGPT",
+          "note": "Initial Fame & Fortune working pitch, not selected, researched, source-verified, scripted or commissioned. Provocative packaging must be substantiated before approval."
         }
       ]
     }
