@@ -128,8 +128,16 @@ def inspect_story(path):
     if not isinstance(runtime, dict):
         errors.append("Runtime must be an object")
         runtime = {}
-    if runtime.get("target_min_seconds") != 480 or runtime.get("target_max_seconds") != 600:
-        errors.append("Story target runtime must be 480–600 seconds")
+    channel_slug = meta.get("channel")
+    config_path = Path(__file__).resolve().parents[1] / "channels" / str(channel_slug) / "channel.json"
+    config = load_json(config_path) if config_path.is_file() else {}
+    bounds = config.get("target_runtime_seconds", {"min": 480, "max": 600})
+    lower, upper = bounds.get("min"), bounds.get("max")
+    if not number(lower, positive=True) or not number(upper, positive=True) or lower >= upper:
+        errors.append("Invalid configured channel runtime bounds")
+        lower, upper = 480, 600
+    if runtime.get("target_min_seconds") != lower or runtime.get("target_max_seconds") != upper:
+        errors.append(f"Story target runtime must be {lower}–{upper} seconds")
     for field, computed in (("word_count", words), ("extra_pause_seconds", pauses),
                             ("silent_hold_seconds", hold), ("assumed_or_observed_wpm", wpm)):
         saved = runtime.get(field)
@@ -139,13 +147,13 @@ def inspect_story(path):
     if not number(saved) or abs(saved - estimate) > 1:
         errors.append("Missing/stale runtime estimate")
     actual = runtime.get("actual_video_seconds")
-    if actual is not None and (not number(actual) or not 480 <= actual <= 600):
-        errors.append("Measured video runtime outside 480–600 seconds")
+    if actual is not None and (not number(actual) or not lower <= actual <= upper):
+        errors.append(f"Measured video runtime outside {lower}–{upper} seconds")
     return errors, {"title": info["title"], "script_sha256": info["sha256"], "approximate_words": words,
                     "paragraphs": len(paragraphs), "wpm": wpm,
                     "extra_pause_seconds": pauses, "silent_hold_seconds": hold,
                     "estimated_seconds": round(estimate, 1), "actual_video_seconds": actual,
-                    "estimate_in_target": 480 <= estimate <= 600}
+                    "estimate_in_target": lower <= estimate <= upper}
 
 
 if __name__ == "__main__":
@@ -157,7 +165,7 @@ if __name__ == "__main__":
         for problem in problems:
             print("ERROR:", problem)
         if report and not report["estimate_in_target"]:
-            print("REVIEW: provisional estimate is outside 8–10 minutes")
+            print("REVIEW: provisional estimate is outside the configured channel runtime")
         print("Word count/timing are approximate; final audio/video require actual inspection.")
         sys.exit(bool(problems))
     except (OSError, ValueError, TypeError, KeyError) as exc:
