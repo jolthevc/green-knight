@@ -12,7 +12,7 @@
 1. Read [CLICK_AND_HOOK_STANDARD.md](CLICK_AND_HOOK_STANDARD.md), [CREATIVE_CONTRACT.md](CREATIVE_CONTRACT.md), and [CHANNEL.md](CHANNEL.md) for story and packaging.
 2. Read [SCRIPT_STANDARD.md](SCRIPT_STANDARD.md) and [SCRIPT_SEGMENT_TEMPLATE.md](SCRIPT_SEGMENT_TEMPLATE.md) for narration architecture, paragraph IDs, segment boundaries, editor handoff, and timing.
 3. Read [STYLE.md](STYLE.md), [VISUAL_SYSTEM.md](VISUAL_SYSTEM.md), and [VOICE.md](VOICE.md). The default editing language is low-cost, premium newspaper/documentary: authentic photographs and reporting, licensed press and product imagery, filings and actual documents, simple money/ownership graphics, restrained motion.
-4. Read [EDITOR_WORKFLOW.md](EDITOR_WORKFLOW.md) before briefing a Fiverr producer and [START_A_CHAT.md](START_A_CHAT.md) to operate in a fresh chat.
+4. Read [EDITOR_WORKFLOW.md](EDITOR_WORKFLOW.md) and the [Fiverr-ready producer brief](FIVERR_PRODUCER_BRIEF.md) before working with an editor; use [START_A_CHAT.md](START_A_CHAT.md) in a fresh chat.
 5. Browse [PILOT_SLATE.md](PILOT_SLATE.md); proposed FF-I#### ideas are stored in the common [registry](../../ideas/registry.json), not yet selected or researched.
 
 **Outputs to an execution editor:** Exactly three files once fully sourced and owner-approved: 01_SCRIPT.txt, 02_NARRATION_DIRECTOR.md and 03_VISUAL_DIRECTOR.md. The first is clean spoken narration. The second and third carry unspoken named segments, paragraph ranges, approximate timestamps, dramatic objectives, performance notes, music, visual actions and transitions. An internal segmented read-through may assist drafting but is NOT a fourth editor-facing file.
