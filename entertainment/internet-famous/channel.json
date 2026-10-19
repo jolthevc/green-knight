@@ -1,0 +1,41 @@
+{
+  "channel": "Internet Famous",
+  "slug": "internet-famous",
+  "portfolio": "Green Knight",
+  "workspace": "entertainment",
+  "status": "editorial_specification_only",
+  "tagline": "Fame moves fast. Stories last.",
+  "promise": "The stories that explain how the internet works.",
+  "runtime_seconds": {
+    "min": 600,
+    "target": 900,
+    "max": 1200
+  },
+  "spoken_word_plan": {
+    "low": 2050,
+    "high": 2300,
+    "estimated_wpm_range": [
+      145,
+      165
+    ],
+    "note": "Provisional for target 15-min video. Measured narrator audio determines actual timing."
+  },
+  "audio": {
+    "voice_status": "unselected",
+    "approved_voice_id": null,
+    "reference_audio_url": null
+  },
+  "production": {
+    "owner_script_approval_required": true,
+    "final_editor_packet_files": [
+      "01_SCRIPT.txt",
+      "02_NARRATION_DIRECTOR.md",
+      "03_VISUAL_DIRECTOR.md"
+    ],
+    "final_packet_status": "not_released",
+    "pilot_commissioned": false
+  },
+  "idea_prefix": "IF-I",
+  "episode_prefix": "IF-V",
+  "created_on": "2026-10-18"
+}

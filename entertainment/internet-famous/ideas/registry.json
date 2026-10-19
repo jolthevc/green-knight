@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "channel": "internet-famous",
+  "updated": "2026-10-18",
+  "status_meanings": {
+    "proposed": "working idea requiring research and selection",
+    "selected": "owner chose topic, not yet scripted",
+    "scripted": "research and script exist, not automatically production-ready"
+  },
+  "ideas": [
+    {
+      "id": "IF-I0001",
+      "subject": "Rebecca Black and negative virality",
+      "mechanism": "negative virality versus fans",
+      "status": "proposed",
+      "source_status": "not_researched",
+      "owner_selected": false
+    },
+    {
+      "id": "IF-I0002",
+      "subject": "Dream face reveal",
+      "mechanism": "anonymity and projected identity",
+      "status": "proposed",
+      "source_status": "not_researched",
+      "owner_selected": false
+    },
+    {
+      "id": "IF-I0003",
+      "subject": "Vine's stars and collapse",
+      "mechanism": "creator portability and platform value capture",
+      "status": "proposed",
+      "source_status": "not_researched",
+      "owner_selected": false
+    },
+    {
+      "id": "IF-I0004",
+      "subject": "Alex from Target",
+      "mechanism": "viral spike and conversion",
+      "status": "proposed",
+      "source_status": "not_researched",
+      "owner_selected": false
+    },
+    {
+      "id": "IF-I0005",
+      "subject": "MrBeast as a new spectacle machine",
+      "mechanism": "reinvestment, format and creator scale",
+      "status": "proposed",
+      "source_status": "not_researched",
+      "owner_selected": false
+    },
+    {
+      "id": "IF-I0006",
+      "subject": "Jenna Marbles stepping back",
+      "mechanism": "fandom expectations and the cost of public identity",
+      "status": "proposed",
+      "source_status": "not_researched",
+      "owner_selected": false
+    },
+    {
+      "id": "IF-I0007",
+      "subject": "Lil Nas X and participatory distribution",
+      "mechanism": "memes and remixes",
+      "status": "proposed",
+      "source_status": "not_researched",
+      "owner_selected": false
+    },
+    {
+      "id": "IF-I0008",
+      "subject": "Addison Rae crossing entertainment formats",
+      "mechanism": "portability and reinvention",
+      "status": "proposed",
+      "source_status": "not_researched",
+      "owner_selected": false
+    },
+    {
+      "id": "IF-I0009",
+      "subject": "Charli D'Amelio platform timing",
+      "mechanism": "social proof and format fit",
+      "status": "proposed",
+      "source_status": "not_researched",
+      "owner_selected": false
+    },
+    {
+      "id": "IF-I0010",
+      "subject": "Early internet one-hit wonders",
+      "mechanism": "attention lifespan versus fan base",
+      "status": "proposed",
+      "source_status": "not_researched",
+      "owner_selected": false
+    },
+    {
+      "id": "IF-I0011",
+      "subject": "Who owns a viral meme?",
+      "mechanism": "distribution and ownership",
+      "status": "proposed",
+      "source_status": "not_researched",
+      "owner_selected": false
+    },
+    {
+      "id": "IF-I0012",
+      "subject": "When fandom reverses",
+      "mechanism": "parasocial conflict",
+      "status": "proposed",
+      "source_status": "not_researched",
+      "owner_selected": false
+    },
+    {
+      "id": "IF-I0013",
+      "subject": "The creator who outgrew the platform",
+      "mechanism": "platform-independent leverage",
+      "status": "proposed",
+      "source_status": "not_researched",
+      "owner_selected": false
+    },
+    {
+      "id": "IF-I0014",
+      "subject": "Growing a community without virality",
+      "mechanism": "audience depth over mass reach",
+      "status": "proposed",
+      "source_status": "not_researched",
+      "owner_selected": false
+    },
+    {
+      "id": "IF-I0015",
+      "subject": "The viral moment that wasn't a career",
+      "mechanism": "conversion failures",
+      "status": "proposed",
+      "source_status": "not_researched",
+      "owner_selected": false
+    }
+  ]
+}
