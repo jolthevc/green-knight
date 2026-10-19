@@ -3,6 +3,8 @@
 **GOVERNING AUDIENCE PRIORITY (2026-10-11):** Read [POPCORN_STANDARD.md](POPCORN_STANDARD.md). Within truthful/evidence constraints, **earned engagement is the primary creative objective**, with **mandatory newcomer *and* already-expert viewer value**. A precise but dull lecture or generic business takeaway is not publishable. Story beats must deliver genuine changing stakes, revealing strategic mechanisms and desire for the next minute. Critical review must actually reject/rework weak middle sections and generic insights; no empty claims of 'engaging.'
 
 
+**Runtime override:** The common 8-10 minute procedure applies to most channels; Fame & Fortune uses its configured **10-20 minute runtime, 15-minute target**. Its canonical narration stays clean, with separately mapped non-spoken A-H segment boundaries and editor-facing 02/03 direction. Read its CLICK_AND_HOOK_STANDARD and SCRIPT_SEGMENT_TEMPLATE before ideation or scripting.
+
 ## 1. Load context
 
 Read the business instructions, selected channel rules/narration.json, NARRATION_STANDARD.md, EDITORIAL_REVIEW.md, LANE_ROUTING.md and full registry. Fetch the current main branch, not a stale summary. State the lane and task briefly. The user can ask for ideas, choose an existing idea, resume research, revise a script or prepare a handoff.
