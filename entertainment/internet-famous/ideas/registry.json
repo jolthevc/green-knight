@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "channel": "internet-famous",
-  "updated": "2026-10-18",
+  "updated": "2026-10-19",
   "status_meanings": {
     "proposed": "working idea requiring research and selection",
     "selected": "owner chose topic, not yet scripted",
@@ -28,9 +28,11 @@
       "id": "IF-I0003",
       "subject": "Vine's stars and collapse",
       "mechanism": "creator portability and platform value capture",
-      "status": "proposed",
-      "source_status": "not_researched",
-      "owner_selected": false
+      "status": "selected",
+      "source_status": "researched_first_pass",
+      "owner_selected": true,
+      "episode_id": "IF-V0002",
+      "script_status": "draft_unapproved"
     },
     {
       "id": "IF-I0004",
