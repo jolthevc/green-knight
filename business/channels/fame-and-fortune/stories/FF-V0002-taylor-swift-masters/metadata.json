@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "idea_id": "FF-I0003",
+  "story_id": "FF-V0002",
+  "channel": "fame-and-fortune",
+  "title": "They Bought Taylor Swift's Music. She Recorded It Again.",
+  "status": "selected",
+  "script_version": 1,
+  "created_at": "2026-10-19",
+  "updated_at": "2026-10-19",
+  "research_as_of": "2026-10-19",
+  "runtime": {
+    "target_min_seconds": 480,
+    "target_max_seconds": 600,
+    "word_count": 1398,
+    "assumed_or_observed_wpm": 155,
+    "extra_pause_seconds": 12,
+    "silent_hold_seconds": 3,
+    "estimated_seconds": 556.16,
+    "actual_video_seconds": null
+  },
+  "runtime_exception_note": "Owner asked for next script matching latest 1200-1500 word, 8-10 minute format.",
+  "narration": {
+    "profile_id": "fame_fortune_narrator",
+    "profile_version": 0,
+    "audition_approved": false,
+    "provider": null,
+    "voice_id": null,
+    "settings": null
+  },
+  "visual": {
+    "direction": "Newspaper and rights-ownership documentary",
+    "approved": false,
+    "profile_version": 0
+  },
+  "draft_only": true,
+  "editorial": {
+    "passed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "reviewed_script_sha256": null,
+    "blocking_issues": [
+      "Owner approval and voice audition pending",
+      "Final three-file integrated review not yet complete"
+    ]
+  },
+  "revision_history": [
+    {
+      "date": "2026-10-19",
+      "version": 1,
+      "note": "Complete 1398-word first draft with A-H editor section mapping and research links; no owner or narrator approval."
+    }
+  ]
+}
