@@ -19,6 +19,9 @@ Do not tick a check that was not actually performed.
 [ ] First minute does not drag
 [ ] Clear 7-11 minute turning point and no padding
 [ ] Verified factual claims and accurate screen text
+[ ] No ridicule, hostile audience dogpiling, appearance jokes, insulting narration or manipulative reputation-damaging juxtapositions
+[ ] Person or phenomenon treated accurately, with relevant source context/response and no forced celebrity biography
+[ ] High-risk privacy/defamation legal/editorial review completed where triggered, not falsely assumed
 [ ] Original commentary/analysis, not a repetitive slideshow
 [ ] Narration matches approved 01 spoken text, no stage cues read aloud
 [ ] Exact voice continuity, pronunciation and natural performance

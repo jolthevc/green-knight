@@ -6,7 +6,7 @@ Chosen click promise: ____ | One insight: ____ | Target: 15:00 | Source map: ___
 **NON-SPOKEN INSTRUCTIONS:** All segment headings, timing notes, P### identifiers, fact IDs and edit suggestions in this working document are metadata. They must NOT enter TTS. When the full script is approved, create canonical script.txt with TITLE header and ONLY spoken paragraphs, in exact sequence.
 
 ## S00 COLD OPEN / THE HOOK | approx 0:00-0:30
-Dramatic job: strongest verified contradiction and audience question.
+Dramatic job: strongest verified contradiction and audience question about a person OR internet phenomenon, without humiliation or implied unverified misconduct.
 First visible frame:
 Exact thumbnail/title promise being paid:
 Narration intensity:
@@ -16,7 +16,7 @@ P002 (SPOKEN): [Continue, no false bait.]
 End-of-segment viewer question:
 
 ## S01 SETUP / WHY WE CARE | approx 0:30-1:45
-Dramatic job: newcomer orientation and stakes; avoid childhood biography unless indispensable.
+Dramatic job: newcomer orientation and stakes; person, meme, image, sound, game, challenge, behavior or platform feature. Avoid a forced biography.
 P003 (SPOKEN): [Write speech.]
 Required understanding and handoff question:
 

@@ -24,17 +24,22 @@ These are editorial targets, not forced chapter-card appearances or fabricated t
 
 **The THREE final editor documents:** 01_SCRIPT.txt = canonical clean script; 02_NARRATION_DIRECTOR.md = COMPLETE IDENTICAL spoken copy under clearly labeled S00-S07 segments plus NON-SPOKEN vocal direction; 03_VISUAL_DIRECTOR.md = segment-to-scene map, asset treatment, music, visual changes and time estimates. Thus an editor sees act boundaries and exact recording instructions without TTS reading production headings.
 
+## Story structure for NON-PERSON subjects
+S00-S07 still work, but the central character may be a meme, video, image, game, challenge, platform feature or internet ritual. In S01 introduce the recognizable object/behavior; in S02 trace the first documented appearance (or clearly acknowledge unknown origin); in S03 demonstrate spread and imitative participation; in S04 examine a surprising contradiction or cost; in S05 examine transformation or a competing explanation; in S06 deliver a generalizable mechanism. Do not invent a private emotional arc or force a human figurehead onto a collective phenomenon.
+
+**Humane storytelling:** If the topic involves a person, the author is analyzing the internet's behavior, not making a roast. Make documented challenges and choices clear while excluding derogatory adjectives, humiliation reenactments, unverified accusations and mocking voice/visual edits. Apply [PEOPLE_AND_FAIRNESS.md](PEOPLE_AND_FAIRNESS.md) before marking a script ready.
+
 ## Required script research card before drafting
 - Working title and thumbnail promise
 - One-sentence central paradox
 - What the viewer thinks at 0:00 versus what they learn at the end
-- Protagonist and human stakes
+- Protagonist (person, community, meme, image, app, product, format or other phenomenon) and meaningful human/cultural stakes
 - What actually went viral; who amplified it; what changed
 - 3-6 high-quality surprising facts, verified independently when possible
 - Causal mechanism and strongest alternative explanation
 - Conversion: views vs fans vs dollars vs influence, or why conversion failed
 - One earned midfilm reversal
-- Personal and social consequence, fairly treated
+- Consequences for people, communities or internet culture, fairly treated where real people are involved
 - Proof table: factual claim -> source URL -> evidence type -> caveat
 - Long-form runtime justification: why this needs 15 minutes
 
@@ -51,6 +56,7 @@ These are editorial targets, not forced chapter-card appearances or fabricated t
 2. First substantial payoff before 2 minutes.
 3. Genuine story engine at every S boundary, especially S04.
 4. Specific, sourced, non-obvious mechanism and credible alternative explanation.
+4a. No demeaning personal commentary or unreviewed reputation-damaging implications, including in thumbnail and music/visual editing.
 5. End delivers payoff and makes opening moment mean something new.
 6. Spoken words match 01, 02 and mapped 03.
 7. Evidence, audio, visual rights and owner script + narrator approvals verified before release.

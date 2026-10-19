@@ -5,6 +5,9 @@
 
 Think of the title as a contract. It should be almost impossible for a curious viewer to resist, but the script must fulfill its specific promise.
 
+## Respectful packaging rule
+Use **mystery, paradox, scale, contrast, social behavior and consequential turns**, not insults or unverified allegations. A thumbnail may never mock appearance, imply criminality or wrongdoing without strong support, weaponize an out-of-context emotional image, or republish harassment as its own punchline. Make the INTERNET's behavior the dramatic event, not the target's alleged defects. See [PEOPLE_AND_FAIRNESS.md](PEOPLE_AND_FAIRNESS.md).
+
 ## Title frameworks
 1. The Internet Made [Person] Famous for [Unexpected Reason]
 2. How [Creator] Turned [Apparently Small Thing] Into [Surprising Outcome]
@@ -14,6 +17,11 @@ Think of the title as a contract. It should be almost impossible for a curious v
 6. Why [Popular Internet Phenomenon] Actually Worked
 7. The [Documented, Unusual] Cost of Becoming Internet Famous
 8. The [Platform] Star Who [Unexpected Consequence]
+9. The [Picture/Sound/Video] That Made the Internet [Unexpected Action]
+10. How [Tiny Meme/Format] Became [Worldwide Ritual/Unexpected Cultural Effect]
+11. Why Everyone Started [Bizarre Online Behavior]
+12. The Viral Trend That [Surprising Documented Result]
+13. How a [Six-Second Clip/Single Photo/Repeated Phrase] Took Over the Internet
 
 They are starting shapes, not formulas that must be used. Replace generic phrases with accurate, vivid details.
 
@@ -28,7 +36,7 @@ They are starting shapes, not formulas that must be used. Replace generic phrase
 
 ## Opening hook formula, flexible
 **0:00-0:06:** the startling image or fact, without intro/branding.
-**0:06-0:18:** complicate it with a contradiction, humiliating cost, unexpected reward or reversal.
+**0:06-0:18:** complicate it with a contradiction, surprising scale, human cost, unexpected reward, conflict or reversal, never a demeaning punchline.
 **0:18-0:30:** give a real partial answer or evidence, crystallize the deeper mystery and promise the payoff.
 **0:30-0:60:** transition into the first concrete scene, not a lengthy thesis statement.
 
@@ -36,9 +44,9 @@ Alternate structure is allowed when it plays better; first 30 seconds must never
 
 ## Sample development language, NOT researched or approved narration
 Rebecca Black case:
-- Proposed title: 'The Internet Made Her Famous for Being Hated'
+- Proposed title: 'Why Millions Shared a Song They Said They Hated'
 - Thesis to test: hostile curiosity and peer sharing can create enormous reach without creating a loyal audience.
-- Rough hook shape: a teenage singer achieves worldwide recognition; the disturbing twist is that many people spread the video in ridicule, not admiration; ask what it means to be famous when the audience isn't rooting for you.
+- Rough hook shape: a teenage singer becomes widely recognized; online audiences share a performance while publicly deriding it; investigate *the audience's distribution behavior* and the difference between attention and admiration. Narration never mocks her or reenacts hostile commentary as entertainment.
 - IMPORTANT: verify precise age/date, scale, reception, harassment and eventual career before script lock; do not state an invented exact ratio of critics to fans.
 
 Vine case:
@@ -51,6 +59,12 @@ Dream case:
 - Thesis to test: anonymity creates collective imagination and identity expectations, making a reveal unusually consequential.
 - Define and prove what 'changed' or reject title.
 
+## Phenomenon-led packaging examples (working, unresearched)
+- 'Why One Photo Made the Entire Internet Disagree' (The Dress): the viral puzzle is collective interpretation, not a person.
+- 'How a Simple Challenge Took Over the Internet' (Ice Bucket Challenge): unpack participation, altruism and imitation; verify actual public impact.
+- 'The Video Format Everyone Copied' (Harlem Shake): explain replication and distribution; do not confuse one account's fame with the format's spread.
+- 'The Internet Joke That Refused to Die' (Rickrolling): why a participatory gag remains recognizable.
+
 ## No empty manipulation
 Forbidden devices: 'They never wanted you to know' without documented concealment; fabricated 'deleted tweets'; 'the shocking truth' with no specific insight; fake betrayals; unverified criminality or debt; implying an outcome before it happened; false allegations by juxtaposing unrelated images; delaying an answer the narrator already has through repetitive teases.
 
@@ -60,6 +74,7 @@ Rate 1-5 each:
 - Strong documented contradiction or stakes
 - Recognizable subject and visual hook
 - Accuracy of implication
+- Respectfulness, fairness and absence of reputational insinuation
 - Distinctiveness from prior coverage
 - First 30 seconds pay the promise
 - Final payoff rewards whole watch

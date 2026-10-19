@@ -37,5 +37,27 @@
   },
   "idea_prefix": "IF-I",
   "episode_prefix": "IF-V",
-  "created_on": "2026-10-18"
+  "created_on": "2026-10-18",
+  "scope": [
+    "people",
+    "viral_videos",
+    "memes",
+    "photos",
+    "sounds",
+    "platforms",
+    "formats",
+    "challenges",
+    "communities",
+    "games",
+    "internet_sensations",
+    "online_behaviors"
+  ],
+  "human_dignity_policy": "PEOPLE_AND_FAIRNESS.md",
+  "subject_scope_policy": "SCOPE_AND_STORY_TYPES.md",
+  "editorial_constraints": [
+    "no personal ridicule or dogpiling",
+    "no unsupported reputational allegations",
+    "accurate context and relevant responses",
+    "legal/editorial review for elevated risk"
+  ]
 }

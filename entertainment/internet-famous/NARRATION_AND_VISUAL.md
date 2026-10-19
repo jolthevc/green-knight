@@ -1,5 +1,8 @@
 # Sound, narration and visual identity
 
+## People and phenomena
+The central subject may be a person OR a viral phenomenon, meme, challenge, video, audio clip, community, game or platform behavior. Visualize the actual spread, remixing and consequences. Never use mockery of real subjects, humiliating reaction edits, insulting performance or misleading crime/controversy implications. [Human dignity and fairness](PEOPLE_AND_FAIRNESS.md) governs all scripts, performances and visuals.
+
 ## Narration direction
 Natural, confident, intimate, premium documentary storytelling. The voice should feel like a smart friend who knows something astonishing, not a synthetic movie trailer or an aggressive gossip commentator.
 
@@ -8,7 +11,7 @@ Dynamic profile:
 - Context: warm, transparent and accessible.
 - Escalation: shorter phrasing, rising tension and movement.
 - Mechanism/reveal: clear, deliberate and specific; allow the listener to understand before moving on.
-- Consequences: appropriate empathy, emotional restraint rather than melodramatic condemnation.
+- Consequences: appropriate empathy, emotional restraint rather than melodramatic condemnation. Never caricature the real subject's speech or suffering.
 - Reversal: sharpen contrast and leave room after the key fact.
 - Closing: satisfying, quiet conviction, no preachiness.
 

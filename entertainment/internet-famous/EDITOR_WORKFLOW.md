@@ -7,11 +7,16 @@ B. Fiverr producer researches and drafts the full first script; Green Knight rev
 
 Do not presume agreement with any editor or price, revision policy, timing, recording access or purchased batch.
 
+## Editorial conduct and expanded scope
+Internet Famous covers **people AND non-person phenomena**, including viral media, memes, sounds, short-form formats, challenges, online communities, games and patterns of online behavior. The producer must not turn every episode into a celebrity biography. See [SCOPE_AND_STORY_TYPES.md](SCOPE_AND_STORY_TYPES.md).
+
+Be dramatic, but never personally mean. Do not mock appearance, intelligence or personal vulnerabilities, amplify hostile comments for entertainment, invent motives or create defamatory impressions through juxtaposition. Attribute contested material carefully, preserve context and credible responses, and escalate risky legal/privacy issues before production. See [PEOPLE_AND_FAIRNESS.md](PEOPLE_AND_FAIRNESS.md).
+
 ## Commissioning steps
 1. Owner selects concept. Draft 8-12 title options internally, test first-30-second cold opens, one source-grounded angle, proposed thumbnail and 15-minute scope.
 2. Research and produce full internally segmented script with source ledger and claim map.
 3. Select ONE final title/thumbnail/hook, pending owner approval; write complete script, not just an opening sample.
-4. Create complete narrator and visual directors; independent script, voice, visual and integrated QA.
+4. Create complete narrator and visual directors; independent script, voice, visual, respectful-subject, reputational/privacy-risk and integrated QA, including any necessary qualified legal/editorial review.
 5. Owner expressly approves final script and actual narrator/voice audition.
 6. Release exactly three documents to editor in editor-packet/:
    - 01_SCRIPT.txt: clean, exact spoken script
@@ -41,6 +46,8 @@ Source links, rights/provenance records and editable project source files should
 - The words in 01 are fixed; any material rewrite returns to owner/editorial approval.
 - Do not voice 'TITLE:', act labels, timecodes, paragraph IDs or production notes.
 - Do not unilaterally introduce allegations, invented reactions, exaggerated stats or staged evidence.
+- No insulting reaction edits, disparaging sound effects, appearance jokes, mockery of subjects, or dramatic music under visuals that misleadingly implies guilt or shame.
+- For a phenomenon-led episode, focus visuals on the phenomenon's actual development, remixing, spread, communities and behavior rather than forcing face-driven creator coverage.
 - Editor can propose a simpler effect while preserving what needs to be communicated.
 
 ## Post-cut review

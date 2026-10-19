@@ -127,6 +127,127 @@
       "status": "proposed",
       "source_status": "not_researched",
       "owner_selected": false
+    },
+    {
+      "id": "IF-I0016",
+      "subject": "The Dress and viral disagreement",
+      "mechanism": "visual ambiguity, confidence and social sharing",
+      "subject_type": "image",
+      "working_title": "Why One Photo Made the Internet Disagree",
+      "status": "proposed",
+      "source_status": "not_researched",
+      "owner_selected": false
+    },
+    {
+      "id": "IF-I0017",
+      "subject": "Ice Bucket Challenge participation cascade",
+      "mechanism": "participatory challenges and public benefit",
+      "subject_type": "challenge",
+      "working_title": "The Challenge That Turned Watching Into Doing",
+      "status": "proposed",
+      "source_status": "not_researched",
+      "owner_selected": false
+    },
+    {
+      "id": "IF-I0018",
+      "subject": "Harlem Shake video replication",
+      "mechanism": "participatory meme templates",
+      "subject_type": "video_format",
+      "working_title": "How a Simple Video Format Took Over the Internet",
+      "status": "proposed",
+      "source_status": "not_researched",
+      "owner_selected": false
+    },
+    {
+      "id": "IF-I0019",
+      "subject": "Rickrolling as a durable joke",
+      "mechanism": "repeated ritual, trust and surprise",
+      "subject_type": "meme",
+      "working_title": "The Internet Joke That Refused to Die",
+      "status": "proposed",
+      "source_status": "not_researched",
+      "owner_selected": false
+    },
+    {
+      "id": "IF-I0020",
+      "subject": "Doge evolving meanings and audiences",
+      "mechanism": "meme remixing, community and meaning drift",
+      "subject_type": "meme",
+      "working_title": "How a Dog Photo Became an Internet Language",
+      "status": "proposed",
+      "source_status": "not_researched",
+      "owner_selected": false
+    },
+    {
+      "id": "IF-I0021",
+      "subject": "TikTok sound templates",
+      "mechanism": "audio reuse and participatory discovery",
+      "subject_type": "platform_feature",
+      "working_title": "Why One Sound Can Be Everywhere",
+      "status": "proposed",
+      "source_status": "not_researched",
+      "owner_selected": false
+    },
+    {
+      "id": "IF-I0022",
+      "subject": "The internet apology video as a format",
+      "mechanism": "platform-native ritual and audience expectations",
+      "subject_type": "online_behavior",
+      "working_title": "How the Internet Invented an Apology Format",
+      "status": "proposed",
+      "source_status": "not_researched",
+      "owner_selected": false
+    },
+    {
+      "id": "IF-I0023",
+      "subject": "Reaction GIFs and emoticons as language",
+      "mechanism": "nonverbal social expression at scale",
+      "subject_type": "media_format",
+      "working_title": "How Tiny Images Became a Universal Reaction",
+      "status": "proposed",
+      "source_status": "not_researched",
+      "owner_selected": false
+    },
+    {
+      "id": "IF-I0024",
+      "subject": "Viral face filters and challenges",
+      "mechanism": "low-friction identity play and participation",
+      "subject_type": "filter",
+      "working_title": "Why Everyone Tried the Same Filter",
+      "status": "proposed",
+      "source_status": "not_researched",
+      "owner_selected": false
+    },
+    {
+      "id": "IF-I0025",
+      "subject": "Fandom slang and insider rituals",
+      "mechanism": "community language and status",
+      "subject_type": "community",
+      "working_title": "How Internet Communities Invent Their Own Languages",
+      "status": "proposed",
+      "source_status": "not_researched",
+      "owner_selected": false
+    },
+    {
+      "id": "IF-I0026",
+      "subject": "The comment section as a meme generator",
+      "mechanism": "participatory reinterpretation and social proof",
+      "subject_type": "online_behavior",
+      "working_title": "How Comments Became Part of the Content",
+      "status": "proposed",
+      "source_status": "not_researched",
+      "owner_selected": false
+    },
+    {
+      "id": "IF-I0027",
+      "subject": "When a meme outlives its original platform",
+      "mechanism": "portable formats and collective memory",
+      "subject_type": "meme",
+      "working_title": "The Internet Trend That Wouldn't Disappear",
+      "status": "proposed",
+      "source_status": "not_researched",
+      "owner_selected": false
     }
-  ]
+  ],
+  "editorial_scope": "People AND non-person phenomena. Respect and fairness policy mandatory. All titles tentative."
 }

@@ -21,9 +21,10 @@ Payoff timestamp / how fully fulfilled:
 5. Thumbnail readability on phone:
 6. First 30s visibly fulfills click promise (MUST >= 4):
 7. Real satisfying final answer:
-8. Credible analysis beyond a biography:
+8. Credible analysis beyond a biography or trend recap:
+9. Respect for real people; no ridicule, decontextualized appearance, pile-on or unverifiable insinuation (MUST be 5):
 
-REVISE if hook only works by lying or fabricating private scandal, if the viewer receives no clear promise by 30s, or if the final film cannot meet the headline.
+REVISE if the hook only works by humiliating a real person, republishing dogpiling or planting a reputation-damaging insinuation. REVISE if hook only works by lying or fabricating private scandal, if the viewer receives no clear promise by 30s, or if the final film cannot meet the headline.
 
 ## Early retention check (editorial, NOT platform measurement)
 0-5s image/line:
