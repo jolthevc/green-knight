@@ -3,6 +3,7 @@
 Channel governance, editorial standards and production systems.
 
 - [Business channel workspace](business/README.md): the manual ChatGPT workflow, beginning with Pretty Penny.
+- [Fame & Fortune](business/channels/fame-and-fortune/README.md): a newly configured 15-minute-first celebrity business-entertainment channel, with hook and segmented editor-packet standards.
 - [Internet Famous entertainment channel](entertainment/internet-famous/README.md): 15-minute internet-culture case studies, editorial playbook, hooks and editor handoff.
 - [Existing channel definitions](channels/README.md): portfolio channels using the established automated system.
 - [Portfolio configuration](00_portfolio/PORTFOLIO_CONFIG.yaml)
