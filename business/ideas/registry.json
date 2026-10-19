@@ -5919,15 +5919,18 @@
     {
       "id": "FF-I0015",
       "channel": "fame-and-fortune",
-      "title": "What Was Kylie Cosmetics Really Worth?",
-      "aliases": [],
+      "title": "The $600 Million Deal That Made Forbes Take Back Kylie Jenner's Billionaire Title",
+      "aliases": [
+        "How Kylie Jenner's Billion-Dollar Empire Unraveled",
+        "The Kylie Jenner Billionaire Controversy"
+      ],
       "subject": "Kylie Jenner / Kylie Cosmetics",
       "mechanism": "Celebrity brand valuation, stake sales, revenue and implied enterprise valuation",
       "viewer_promise": "What can sale disclosures establish about valuation and realized proceeds, versus conjecture?",
-      "status": "proposed",
+      "status": "selected",
       "related_idea_ids": [],
-      "story_id": null,
-      "story_path": null,
+      "story_id": "FF-V0001",
+      "story_path": "business/channels/fame-and-fortune/stories/FF-V0001-kylie-billionaire-title",
       "created_at": "2026-10-18",
       "updated_at": "2026-10-18",
       "rejection_or_block_reason": null,
@@ -5939,6 +5942,12 @@
           "status": "proposed",
           "actor": "ChatGPT",
           "note": "Initial Fame & Fortune working pitch, not selected, researched, source-verified, scripted or commissioned. Provocative packaging must be substantiated before approval."
+        },
+        {
+          "date": "2026-10-18",
+          "status": "selected",
+          "actor": "ChatGPT",
+          "note": "Owner selected Kylie Jenner episode and requested full script. Working 2506-word narration and segmented read-through created as FF-V0001. Sourced but not independently production-reviewed or owner/voice-approved. No released editor packet."
         }
       ]
     },
