@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "idea_id": "FF-I0001",
+  "story_id": "FF-V0003",
+  "channel": "fame-and-fortune",
+  "title": "Ryan Reynolds' $1.35B Phone Deal",
+  "status": "selected",
+  "script_version": 1,
+  "created_at": "2026-10-19",
+  "updated_at": "2026-10-19",
+  "research_as_of": "2026-10-19",
+  "runtime": {
+    "target_min_seconds": 480,
+    "target_max_seconds": 600,
+    "word_count": 1347,
+    "assumed_or_observed_wpm": 145,
+    "extra_pause_seconds": 10,
+    "silent_hold_seconds": 0,
+    "estimated_seconds": 567.38,
+    "actual_video_seconds": null
+  },
+  "runtime_exception_note": "Owner's latest preference: 1200-1500 spoken words, 8-10 minute documentary instead of original 15-minute setup.",
+  "narration": {
+    "profile_id": "fame_fortune_narrator",
+    "profile_version": 0,
+    "audition_approved": false,
+    "provider": null,
+    "voice_id": null,
+    "settings": null
+  },
+  "visual": {
+    "direction": "Modern MBA style restrained photos with native screenshots and clean numeric overlays",
+    "approved": false,
+    "profile_version": 0
+  },
+  "draft_only": true,
+  "script_sha256": "868c55ec8346b4341693bed232a264731e99de2a5cbb19566ae0e7b1deb9ca3f",
+  "editorial": {
+    "passed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "reviewed_script_sha256": null,
+    "blocking_issues": [
+      "Owner has not yet approved first script",
+      "Voice audition and actual duration pending",
+      "Final three-file integrated director packet not released"
+    ]
+  },
+  "revision_history": [
+    {
+      "date": "2026-10-19",
+      "version": 1,
+      "note": "Ryan Reynolds 1347-word 8-10 minute working narration, eight editor sections, narrative claim controls, five-page PDF. No owner production approval or finished editor packet."
+    }
+  ]
+}
