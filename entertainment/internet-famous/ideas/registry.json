@@ -12,9 +12,12 @@
       "id": "IF-I0001",
       "subject": "Rebecca Black and negative virality",
       "mechanism": "negative virality versus fans",
-      "status": "proposed",
-      "source_status": "not_researched",
-      "owner_selected": false
+      "status": "selected",
+      "source_status": "researched_first_pass",
+      "owner_selected": true,
+      "episode_id": "IF-V0003",
+      "script_status": "draft_unapproved",
+      "working_title": "The Internet Loved to Hate 'Friday'"
     },
     {
       "id": "IF-I0002",
