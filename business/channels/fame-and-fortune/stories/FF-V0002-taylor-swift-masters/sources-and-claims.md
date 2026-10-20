@@ -11,3 +11,8 @@ This is source support for an owner-review draft, not a blanket legal, numerical
 **License warning:** Clips of released songs, performances, cover art, photographs, article screenshots and commercial music must be reviewed for usage rights. No fake letters, fake archival evidence, unsupported quoted dialogue or manufactured villains.
 
 **Claims:** 2019 transaction transferred Big Machine assets including masters; Swift's and Big Machine's perspectives disputed; subsequent negotiations documented; 2020 Shamrock purchase separate; Swift's 2021/2023 releases created alternative masters; Billboard 2023 chart data supports commercial launch; 2025 Swift/Shamrock sale confirmed and price undisclosed. Neither buyer's ultimate ROI nor re-recordings' effect on legacy catalog cash flow is established.
+
+## V3 click packaging clarification (2026-10-19)
+- Proposed title: **Taylor Swift's $300M Music War**.
+- The $300M+ figure is the reported price of Ithaca's acquisition of **Big Machine Label Group as a whole**, which included Swift's masters. It is NOT the price of only her six albums, nor the undisclosed 2025 acquisition price.
+- Thumbnail: **SHE RECORDED IT AGAIN**. Use licensed/rights-cleared visuals and avoid fabricated document screenshots.
