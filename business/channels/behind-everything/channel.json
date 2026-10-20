@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "workspace": "manual_business",
+  "id": "behind-everything",
+  "idea_prefix": "BE-I",
+  "story_prefix": "BE-V",
+  "name": "Behind Everything",
+  "language": "en",
+  "target_runtime_seconds": {
+    "min": 480,
+    "target": 540,
+    "max": 600
+  },
+  "publication_cadence": {
+    "target_per_month": 4,
+    "status": "proposed"
+  },
+  "editing_budget": {
+    "target_usd_per_video": 60,
+    "status": "planning_assumption_excludes_extras"
+  },
+  "production_status": "editorial_setup",
+  "branding_status": "owner_chosen_name_availability_unverified",
+  "narration": {
+    "profile": "warm premium curiosity documentary; natural, incisive, restrained",
+    "profile_id": "behind_everything_narrator",
+    "profile_path": "business/channels/behind-everything/narration.json"
+  },
+  "visual_direction_status": "director_owned_proposed",
+  "automated_portfolio_registration": false,
+  "visual_profile": {
+    "version": 0,
+    "status": "proposed",
+    "approved_by": null,
+    "approved_at": null,
+    "reference_urls": []
+  },
+  "editor_assignment_status": "unselected",
+  "positioning": "familiar_world_hidden_systems_entertainment",
+  "editorial_pillars": [
+    "hidden_transaction",
+    "designed_behavior",
+    "impossible_seeming_business",
+    "everyday_empires",
+    "cultural_economics",
+    "invisible_infrastructure"
+  ],
+  "episode_formats": [
+    "everyday_paradox",
+    "follow_the_object",
+    "why_it_works",
+    "unexpected_tradeoff",
+    "inside_the_system",
+    "normal_thing_strange_story"
+  ]
+}
