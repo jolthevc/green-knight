@@ -2,12 +2,13 @@
   "episode_id": "IF-V0003",
   "channel": "Internet Famous",
   "idea_id": "IF-I0001",
-  "title": "The Internet Loved to Hate 'Friday'",
-  "stage": "owner_review_draft",
-  "spoken_words": 2389,
+  "title": "Why Everyone Shared 'Friday'",
+  "stage": "revised_v2_owner_review",
+  "spoken_words": 2254,
   "target_minutes": 15,
   "voice_status": "unselected",
   "final_editor_packet_released": false,
   "owner_script_approved": false,
-  "created_on": "2026-10-19"
+  "created_on": "2026-10-19",
+  "script_version": "v2"
 }
