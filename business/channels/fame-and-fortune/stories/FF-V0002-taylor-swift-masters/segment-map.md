@@ -1,11 +1,11 @@
-# Taylor Swift | FF-V0002 | V2 director segment map
-**Script SHA256:** b651a8bd3c4b46d1033b884128e27d63c805cdbad8cf649027d2e94788479fe4
+# Taylor Swift | FF-V0002 | V3 short-title director segment map
+**Script SHA256:** 68990f39b88ad9c01e50fd8eba3612542f927761d4d8b98db133be169c7e6bd6
 Target 8–10 minutes for this episode at the owner's request, even though the channel's original shared setting is longer. Paragraph numbering applies to the exact V2 spoken script. All guidance below is non-spoken.
 
-**A | COLD OPEN | THE $300 MILLION PROBLEM | P001-P003**
+**A | COLD OPEN | THE $300M+ MUSIC DEAL | P001-P003**
 - Voice: Magnetic, direct. Let the first number land; deliberate quiet on the last question.
-- Visual: Start with original 1989 -> 1989 (Taylor's Version) -> 1.653 million first-week units; then ownership arrow and silence.
-- Spoken first anchor: "In 2019, investors bought control of Taylor Swift's original recordings. Four ye"
+- Visual: First frame: '$300M+ BIG MACHINE LABEL DEAL' (all label assets), then original 1989 -> Taylor's Version -> 1.653M verified album-equivalent units. Thumbnail: SHE RECORDED IT AGAIN.
+- Spoken first anchor: "In 2019, a record label sold of Taylor Swift's original recordings. Four ye"
 - Ending anchor: "inary part is what happened in between. How do you compete against the owner of your own music?"
 
 **B | THE PROMISE | ONE SONG, TWO OWNERS | P004-P006**
@@ -49,3 +49,8 @@ Target 8–10 minutes for this episode at the owner's request, even though the c
 - Visual: Old and Taylor's Version albums together. Final image: Swift's 2025 letter.
 - Spoken first anchor: "It's tempting to tell this as a story about defeating the people who owned her r"
 - Ending anchor: "at they couldn't buy was the only artist who could make those recordings famous all over again."
+
+## Final proposed title and thumbnail for V3
+- Title: **Taylor Swift's $300M Music War** (short, immediately legible; refers to 2019 Big Machine deal)
+- Thumbnail text: **SHE RECORDED IT AGAIN**
+- Strong editorial disclaimer: $300M+ is the reported price for all of Big Machine Label Group, NOT just Swift's six masters. This distinction must appear in the video and must not be contradicted by thumbnail artwork.
