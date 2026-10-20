@@ -1,14 +1,13 @@
-# Sources and claims | Taylor Swift | FF-V0002
+# Taylor Swift FF-V0002 | Evidence guide V2 | 2026-10-19
+This is source support for an owner-review draft, not a blanket legal, numerical, licensing or copyright clearance.
 
-Working research notes; not a final source audit.
+1. June 30, 2019 Ithaca acquisition announcement, encompassing ALL Big Machine business; the often-reported $300M+ value must never be captioned as a price only for the Swift masters: https://www.prnewswire.com/news-releases/scooter-brauns-ithaca-holdings-acquires-scott-borchettas-big-machine-label-group-300878263.html
+2. Music Business Worldwide, June 22 2023, examination of Swift representative/Braun side emails and 2019-2020 NDAs. There WERE possible sale negotiations; accounts of proposed contract terms differ. Attribute the reporting; do not imply the parties never spoke or were proven dishonest: https://www.musicbusinessworldwide.com/scooter-braun-wanted-sell-taylor-swift-masters/
+3. Billboard / Luminate, 1989 (Taylor's Version) U.S. opening week: 1.653M equivalent album units; 1.359M pure album sales vs original 1989's 1.287M pure album sales opening week. Do not mislabel 1.653M as paid copies sold: https://www.yahoo.com/entertainment/taylor-swift-1989-taylor-version-200005372.html
+4. Taylor Swift's official May 30 2025 statement: purchase from Shamrock, additional related film/video/art materials, four released re-recordings, completed debut remake, relatively little Reputation remake, acknowledgement of Shamrock and fan/Eras Tour support: https://www.taylorswift.com/read-my-letter/
+5. Reuters May 30/31 2025 report: purchase terms NOT disclosed. No invented purchase price, assumed owner losses, proven sale pressure or fabricated legal allegations: https://www.reuters.com/business/media-telecom/taylor-swift-says-she-has-gained-control-her-music-catalog-2025-05-30/
+6. AP May 30 2025, also corroborates acquisition and undisclosed amount: https://www.mprnews.org/story/2025/05/30/taylor-swift-has-regained-control-of-her-music-buys-back-first-6-albums
 
-- Taylor Swift primary ownership announcement (May 2025): https://www.taylorswift.com/read-my-letter/
-- AP confirmation of undisclosed 2025 financial terms: https://apnews.com/article/672dc24782f5b0f04c864a6fd86665d8
-- Axios on 2019 Big Machine acquisition (whole label, not Taylor-only): https://www.axios.com/2019/07/01/taylor-swift-big-machine-deal-scooter-braun
-- MBW on Scott Borchetta's position in disputed talks: https://www.musicbusinessworldwide.com/scott-borchetta-big-machine-offered-taylor-swift-the-chance-to-own-her-masters/
-- Guardian on Swift lawyer response and 2018 rights: https://www.theguardian.com/music/2019/jul/03/taylor-swift-lawyer-masters-scott-borchetta
-- LA Times on 2020 Shamrock sale: https://www.latimes.com/entertainment-arts/music/story/2020-11-16/taylor-swift-master-recordings-catalog-sold-scooter-braun
-- Billboard / Luminate on 1989 TV's 1.653m equivalent album units: https://www.yahoo.com/entertainment/taylor-swift-1989-taylor-version-200005372.html
-- TIME on 2025 buyback and undisclosed contract terms: https://time.com/7290192/taylor-swift-masters-rerecordings-net-worth/
+**License warning:** Clips of released songs, performances, cover art, photographs, article screenshots and commercial music must be reviewed for usage rights. No fake letters, fake archival evidence, unsupported quoted dialogue or manufactured villains.
 
-**Guardrails:** The 2019 price is for all Big Machine; 2025 price was undisclosed (around $360m is reported rather than official); no claim that Taylor's Versions erased the original catalog's value or forced Shamrock's sale. Both sides of 2019 negotiation are attributed and no criminal allegation is invented. Music/audio and celebrity imagery require rights review.
+**Claims:** 2019 transaction transferred Big Machine assets including masters; Swift's and Big Machine's perspectives disputed; subsequent negotiations documented; 2020 Shamrock purchase separate; Swift's 2021/2023 releases created alternative masters; Billboard 2023 chart data supports commercial launch; 2025 Swift/Shamrock sale confirmed and price undisclosed. Neither buyer's ultimate ROI nor re-recordings' effect on legacy catalog cash flow is established.
