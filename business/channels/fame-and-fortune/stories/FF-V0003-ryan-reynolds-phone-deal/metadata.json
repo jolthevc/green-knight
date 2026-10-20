@@ -5,18 +5,18 @@
   "channel": "fame-and-fortune",
   "title": "Ryan Reynolds' $1.35B Phone Deal",
   "status": "selected",
-  "script_version": 1,
+  "script_version": 2,
   "created_at": "2026-10-19",
   "updated_at": "2026-10-19",
   "research_as_of": "2026-10-19",
   "runtime": {
     "target_min_seconds": 480,
     "target_max_seconds": 600,
-    "word_count": 1347,
+    "word_count": 1274,
     "assumed_or_observed_wpm": 145,
     "extra_pause_seconds": 10,
     "silent_hold_seconds": 0,
-    "estimated_seconds": 567.38,
+    "estimated_seconds": 537.17,
     "actual_video_seconds": null
   },
   "runtime_exception_note": "Owner's latest preference: 1200-1500 spoken words, 8-10 minute documentary instead of original 15-minute setup.",
@@ -34,16 +34,16 @@
     "profile_version": 0
   },
   "draft_only": true,
-  "script_sha256": "868c55ec8346b4341693bed232a264731e99de2a5cbb19566ae0e7b1deb9ca3f",
+  "script_sha256": "6da543a64dd3d13e5dba7bff2a97744a863329651f25a7654019327be083021b",
   "editorial": {
     "passed": false,
     "reviewed_by": null,
     "reviewed_at": null,
     "reviewed_script_sha256": null,
     "blocking_issues": [
-      "Owner has not yet approved first script",
-      "Voice audition and actual duration pending",
-      "Final three-file integrated director packet not released"
+      "Owner has not approved V2 script",
+      "Narration audition, measured cut timing and audio check pending",
+      "Licensed visual/audio assets and final three-file editor packet review pending"
     ]
   },
   "revision_history": [
@@ -51,6 +51,11 @@
       "date": "2026-10-19",
       "version": 1,
       "note": "Ryan Reynolds 1347-word 8-10 minute working narration, eight editor sections, narrative claim controls, five-page PDF. No owner production approval or finished editor packet."
+    },
+    {
+      "date": "2026-10-19",
+      "version": 2,
+      "note": "Revised to 1274 narrated words, more compelling initial T-Mobile/Mint network paradox, substantive gin and Super Bowl scenes, stronger acquisition economics reveal, careful division of credit and personal payout distinction. Five-page PDF created; V1 backed up. Pending owner and voice approval."
     }
   ]
 }
