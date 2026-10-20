@@ -1,19 +1,19 @@
-# Taylor Swift | V2 segmented read-through | NOT FOR TTS AS-IS
+# Taylor Swift | V3 segmented read-through | NOT FOR TTS AS-IS
 
-**Word count: 1,280 spoken words.** Approximate 8–10 minutes plus visual holds. The headings and all VOICE and VISUAL instructions are non-spoken. Use the clean script.txt for voice generation. Owner has not yet approved a final editor packet.
+**Word count: 1,296 spoken words.** Approximate 8–10 minutes plus visual holds. The headings and all VOICE and VISUAL instructions are non-spoken. Use the clean script.txt for voice generation. Owner has not yet approved a final editor packet.
 
 
-## A / COLD OPEN | THE $300 MILLION PROBLEM | P001-P003 | NON-SPOKEN
+## A / COLD OPEN | THE $300M+ MUSIC DEAL | P001-P003 | NON-SPOKEN
 
 **VOICE [NOT SPOKEN]:** Magnetic, direct. Let the first number land; deliberate quiet on the last question.
 
-**VISUAL [NOT SPOKEN]:** Start with original 1989 -> 1989 (Taylor's Version) -> 1.653 million first-week units; then ownership arrow and silence.
+**VISUAL [NOT SPOKEN]:** First frame: $300M+ BIG MACHINE LABEL DEAL, visibly labeled as the entire label acquisition, NOT the sole price of Taylor Swift's masters. Then original 1989 -> 1989 (Taylor's Version) -> 1.653 million U.S. first-week equivalent units. Thumbnail: SHE RECORDED IT AGAIN.
 
 ### SPOKEN COPY
 
-In 2019, investors bought control of Taylor Swift's original recordings. Four years later, she released a competing version of one of those albums. It moved more than 1.6 million album-equivalent units in the United States in its first week.
+In 2019, a record label sold for more than three hundred million dollars, according to reports. The deal included Taylor Swift's original master recordings. Four years later, she made a competing version of one of those albums. It moved more than 1.6 million U.S. album-equivalent units in its first week.
 
-Think about that. Someone owned the hits that made her famous. And she found a way to make those hits into new products they didn't own.
+Think about that. Investors bought the label that owned the hits that made her famous. And she found a way to turn those hits into new products they didn't own.
 
 The story ends with Swift buying her original recordings back. But the truly extraordinary part is what happened in between. How do you compete against the owner of your own music?
 
