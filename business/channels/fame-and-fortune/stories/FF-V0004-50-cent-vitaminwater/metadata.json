@@ -5,19 +5,19 @@
   "channel": "fame-and-fortune",
   "title": "50 Cent's $100M Water Deal",
   "status": "selected",
-  "script_version": 1,
+  "script_version": 2,
   "created_at": "2026-10-19",
   "updated_at": "2026-10-19",
   "research_as_of": "2026-10-19",
-  "script_sha256": "03fe492525f50dfb546611d6601401a7541811a2d5798a289e04a95eb9534017",
+  "script_sha256": "9e16a56062df356e70b6127ec59e926e7b0eb6b4df188ce12cc02d3a123a7aa9",
   "runtime": {
     "target_min_seconds": 480,
     "target_max_seconds": 600,
-    "word_count": 1394,
+    "word_count": 1270,
     "assumed_or_observed_wpm": 150,
-    "extra_pause_seconds": 13,
-    "silent_hold_seconds": 0,
-    "estimated_seconds": 570.6,
+    "extra_pause_seconds": 12,
+    "silent_hold_seconds": 3,
+    "estimated_seconds": 523,
     "actual_video_seconds": null
   },
   "runtime_exception_note": "Latest owner preference is 1200-1500 spoken words, 8-10 minutes. Overrides original Fame & Fortune 15-minute default for this story.",
@@ -41,10 +41,9 @@
     "reviewed_at": null,
     "reviewed_script_sha256": null,
     "blocking_issues": [
-      "Owner topic-script approval pending",
-      "Narrator choice and audio runtime audition pending",
-      "Source-level visual footage/music rights review pending",
-      "Final integrated three-file editor packet not yet released"
+      "Owner approval of V2 is pending",
+      "Narrator audition and actual duration check pending",
+      "Licensed visual/music materials and final integrated editor packet pending"
     ]
   },
   "revision_history": [
@@ -52,6 +51,11 @@
       "date": "2026-10-19",
       "version": 1,
       "note": "Complete 1394-word 8-10 minute 50 Cent Vitaminwater first draft; 8 segments, narration and editorial cues, primary and contemporaneous source memo, six-page PDF. Distinguishes Forbes estimate ~$100M from Coca-Cola $4.1B whole-company buyout. Owner approval pending."
+    },
+    {
+      "date": "2026-10-19",
+      "version": 2,
+      "note": "V2 1,270-word retention-focused rewrite with first 15s $100M hook, historical Lighty/Oza contract scene, Formula 50 reveal, rumor-vs-Forbes $100M clarification and final callback. Earlier V1 archived. Source/claim memo and segmented cues synchronized, five-page V2 PDF generated. Approval still pending."
     }
   ]
 }
