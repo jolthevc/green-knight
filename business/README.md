@@ -3,7 +3,7 @@
 **Fresh GPT or Fiverr script? [Start with continuity](CONTINUITY_HANDOFF.md), then the channel-specific standards and live registry.** Latest externally revised drafts are linked there, and [producer visual direction](PRODUCER_VISUAL_DIRECTION.md) records the hybrid references and script-writing workflow.
 
 
-Business channels normally target **8–10 minutes per finished episode**, including opening, narration, pauses, visual holds and closing. **Exception: Fame & Fortune targets 10–20 minutes, ideally 15 minutes (900 seconds).** Runtime is channel-configured and must be honored by scripting and validation.
+Business channels normally target **8–10 minutes per finished episode**, including opening, narration, pauses, visual holds and closing. **Exceptions: Fame & Fortune targets 10–20 minutes, ideally 15 minutes. Behind Everything targets 8–10 minutes, ideally 9 minutes.** Runtime is channel-configured and must be honored by scripting and validation.
 
 | Channel | Viewer promise | Workspace |
 | --- | --- | --- |
@@ -19,6 +19,7 @@ Business channels normally target **8–10 minutes per finished episode**, inclu
 | Built to Scale | The growth playbook for construction/trade business owners and aspiring operators | [Built tenth](channels/built-to-scale/README.md) |
 | House Money | Discover the businesses, financing and money flows behind where we live | [Built eleventh](channels/house-money/README.md) |
 | Fame & Fortune | The surprising deals, ownership structures and fortunes behind famous entertainers and athletes | [Built twelfth](channels/fame-and-fortune/README.md) |
+| Behind Everything | Unexpected hidden stories behind familiar experiences and everyday systems | [Built thirteenth](channels/behind-everything/README.md) |
 
 Names do not justify duplicate lanes. A company can feature on several channels only when each episode answers a different central question.
 

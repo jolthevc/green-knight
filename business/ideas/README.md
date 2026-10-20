@@ -79,3 +79,7 @@ Five working Fallen Angels V2 scripts are preserved at [channel producer drafts]
 
 ## Fame & Fortune twelfth channel (2026-10-18)
 FF-I#### / FF-V####. Sixteen initial high-recognition celebrity deal/ownership episodes are **proposed only**. See [channel guide](../channels/fame-and-fortune/README.md), [proposed slate](../channels/fame-and-fortune/PILOT_SLATE.md), and [click and hook guide](../channels/fame-and-fortune/CLICK_AND_HOOK_STANDARD.md). They are unresearched working pitches, not fact-approved claims. All should be checked for mechanism duplication against Silver Spoon, Money Moves, Fool's Gold, Pretty Penny, and Fallen Angels. Allocate FF-V#### only after actual selection. Channel-specific runtime is 10-20 minutes with 15 ideal.
+
+
+## Behind Everything (2026-10-19)
+BE-I0001 through BE-I0030 are proposed, unselected editorial pitches, not completed researched or scripted stories. The launch priorities, thumbnail hypotheses and collision notes are in [../channels/behind-everything/PILOT_SLATE.md](../channels/behind-everything/PILOT_SLATE.md). BE-V is the story prefix once the owner selects a topic.

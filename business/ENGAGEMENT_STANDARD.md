@@ -22,6 +22,7 @@ Apply this alongside the channel's SCRIPT_STANDARD.md, NARRATION_STANDARD.md, ev
 | Hard Costs | Discover what makes a physical construction project or industry economically possible | Project stakes expose financing, labor, procurement and risk constraints | Who gets paid, why construction decisions work or fail and how tangible projects become businesses |
 | Built to Scale | Follow a contractor's ambition to build a larger and stronger enterprise | Customers, hires, financing and expansion force difficult decisions as the firm scales | A rigorous, conditional growth mechanism applicable to trade-business operators |
 | House Money | Follow a familiar home, rent payment, mortgage or neighborhood through hidden money flows | Each newly revealed owner, lender, fee, institution or constraint changes who gains and who bears costs | Why the housing financial and business system works this way and for whom |
+| Behind Everything | Familiar everyday experience suddenly seems strange | Each new constraint or incentive revises the original explanation | The specific system hiding behind something normal |
 
 Pretty Penny can be a narrative explanation without a single hero or chronological biography. Known endings can still be compelling: the mystery is how and why, not pretending the outcome is unknown. Do not force suspense, a villain or a redemption arc onto evidence that does not support it.
 

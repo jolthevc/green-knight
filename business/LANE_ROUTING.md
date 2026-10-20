@@ -15,6 +15,7 @@ Use this before reserving a story. The subject alone does not determine the chan
 | Hard Costs | This construction-specific project, company, deal or operator growth mechanism works or fails because of these money flows, decisions and physical constraints | Real asset/job/operating unit, contract/cash chain, labor/capital bottlenecks, changes with scale, replicable and nonreplicable lessons |
 | Built to Scale | This specific operator choice or organizational process helps explain how a business grows, works better or fails and what others can learn conditionally | Source-led operating dilemma, real options and their cost, comparable outcomes, causal mechanism and limits on transfer |
 | House Money | This is how the housing system pays, finances, builds, rents, transfers or manages homes and why this changes what people pay and who profits | Resident/home entry, residential asset and rights map, parties and cash flows, financing/cost constraints, evidence and countercase |
+| Behind Everything | The familiar everyday experience changes meaning once a surprising real-world system is exposed | Universal object/experience, concrete paradox, choices/incentives, deepening discovery and evidence-based resolution |
 
 ## Resolve overlaps
 
@@ -43,3 +44,7 @@ Treat Built to Scale as the **growth playbook for owners/aspiring owners/operato
 
 ## House Money versus Hard Costs, Built to Scale and the rest
 **House Money** asks how a *residential housing* financial/operating ecosystem works for a buyer, resident, builder, landlord, lender or insurer. **Hard Costs** asks about the construction of physical projects, company supply chains and contractor economics. **Built to Scale** owns how trade contractors expand. A residential subdivision may fit House Money for land control, mortgage rate buydowns, homebuilder inventory and affordability; it fits Hard Costs when physical construction contracts, specialty subcontractors and material logistics are the core explanation. HC-I0006's generic buildable-land puzzle must not be copied as a House Money housing-supply film. **Pretty Penny** owns familiar consumer-price mechanism when there is no structural housing system to explain. **On the Map** owns geography-specific economic clustering, **Money Moves** a single company's strategy, **Fallen Angels** a company's failure (FA-I0033 Evergrande), **Changing Hands** a discrete financial transfer. Source and central answered question determine the lane, not the fact a house appears in the title. See channels/house-money/CHANNEL.md.
+
+
+## Behind Everything overlap rule
+Route by the final viewer question, not the familiar company/brand. Pretty Penny owns narrow transaction money splits; Money Moves owns a specific strategic decision; Fame & Fortune owns a celebrity-finance mechanism; Internet Famous owns virality. Behind Everything owns surprising systems behind mainstream familiar experiences, but must be materially different from an existing idea. See its PILOT_SLATE.md and linked related_idea_ids.
