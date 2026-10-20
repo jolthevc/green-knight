@@ -5607,10 +5607,11 @@
     {
       "id": "FF-I0003",
       "channel": "fame-and-fortune",
-      "title": "They Bought Taylor Swift's Music. She Recorded It Again.",
+      "title": "Taylor Swift's $300M Music War",
       "aliases": [
         "Taylor Swift Spent Six Years Fighting for This",
-        "How Taylor Swift Fought for Control of Her Music"
+        "How Taylor Swift Fought for Control of Her Music",
+        "They Bought Taylor Swift's Music. She Recorded It Again."
       ],
       "subject": "Taylor Swift",
       "mechanism": "Recorded-master ownership, rerecording rights, touring economics and bargaining power",
@@ -5636,6 +5637,12 @@
           "status": "selected",
           "actor": "ChatGPT",
           "note": "Owner requested next Fame & Fortune story after Kylie. Completed a 1,398-word 8-10-minute Taylor Swift first-draft script, section map, working editor notes, PDF and sources; no approval for narration/full production yet."
+        },
+        {
+          "date": "2026-10-19",
+          "status": "selected",
+          "actor": "ChatGPT",
+          "note": "Updated video title/thumbnail packaging to 5-word '$300M Music War'; revised narrated opening and PDF to V3 (1296 words), taking care that $300M+ refers to the wider 2019 Big Machine label deal, not Swift-only masters."
         }
       ]
     },
