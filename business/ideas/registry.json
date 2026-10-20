@@ -5555,17 +5555,20 @@
     {
       "id": "FF-I0001",
       "channel": "fame-and-fortune",
-      "title": "The Deals Behind Ryan Reynolds' Business Empire",
-      "aliases": [],
+      "title": "Ryan Reynolds' $1.35B Phone Deal",
+      "aliases": [
+        "The Deals Behind Ryan Reynolds' Business Empire",
+        "Ryan Reynolds' Billion-Dollar Side Hustle"
+      ],
       "subject": "Ryan Reynolds",
       "mechanism": "Celebrity equity, creative marketing and brand exits",
       "viewer_promise": "Which deals and rights contributed to Ryan Reynolds' business success, and how do exit headlines differ from owner proceeds?",
-      "status": "proposed",
+      "status": "selected",
       "related_idea_ids": [],
-      "story_id": null,
-      "story_path": null,
+      "story_id": "FF-V0003",
+      "story_path": "business/channels/fame-and-fortune/stories/FF-V0003-ryan-reynolds-phone-deal",
       "created_at": "2026-10-18",
-      "updated_at": "2026-10-18",
+      "updated_at": "2026-10-19",
       "rejection_or_block_reason": null,
       "published_url": null,
       "published_at": null,
@@ -5575,6 +5578,12 @@
           "status": "proposed",
           "actor": "ChatGPT",
           "note": "Initial Fame & Fortune working pitch, not selected, researched, source-verified, scripted or commissioned. Provocative packaging must be substantiated before approval."
+        },
+        {
+          "date": "2026-10-19",
+          "actor": "ChatGPT",
+          "status": "selected",
+          "note": "Next Fame & Fortune episode selected after Kylie/Taylor. Drafted 1347-word 8-10 minute Ryan Reynolds documentary with source appendix and separate editor section cues; owner approval pending."
         }
       ]
     },
