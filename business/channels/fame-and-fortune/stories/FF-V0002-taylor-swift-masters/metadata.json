@@ -5,18 +5,18 @@
   "channel": "fame-and-fortune",
   "title": "They Bought Taylor Swift's Music. She Recorded It Again.",
   "status": "selected",
-  "script_version": 1,
+  "script_version": 2,
   "created_at": "2026-10-19",
   "updated_at": "2026-10-19",
   "research_as_of": "2026-10-19",
   "runtime": {
     "target_min_seconds": 480,
     "target_max_seconds": 600,
-    "word_count": 1398,
-    "assumed_or_observed_wpm": 155,
+    "word_count": 1280,
+    "assumed_or_observed_wpm": 145,
     "extra_pause_seconds": 12,
-    "silent_hold_seconds": 3,
-    "estimated_seconds": 556.16,
+    "silent_hold_seconds": 1,
+    "estimated_seconds": 542.66,
     "actual_video_seconds": null
   },
   "runtime_exception_note": "Owner asked for next script matching latest 1200-1500 word, 8-10 minute format.",
@@ -40,8 +40,9 @@
     "reviewed_at": null,
     "reviewed_script_sha256": null,
     "blocking_issues": [
-      "Owner approval and voice audition pending",
-      "Final three-file integrated review not yet complete"
+      "Owner has not yet approved V2 wording",
+      "Voice audition and runtime inspection not completed",
+      "Full final three-file director packet not released"
     ]
   },
   "revision_history": [
@@ -49,7 +50,12 @@
       "date": "2026-10-19",
       "version": 1,
       "note": "Complete 1398-word first draft with A-H editor section mapping and research links; no owner or narrator approval."
+    },
+    {
+      "date": "2026-10-19",
+      "version": 2,
+      "note": "V2 1,280-word polished script; stronger first 15s, adds nuance from documented 2019-2020 negotiation reporting; improved 1989 sales reveal and 2025 owner-acquisition payoff. Rechecked source distinctions; owner and voice approval still pending."
     }
   ],
-  "script_sha256": "f17705781c84434f939984a90d3aed129ce58832518c40f3ed514cbc116ae23e"
+  "script_sha256": "b651a8bd3c4b46d1033b884128e27d63c805cdbad8cf649027d2e94788479fe4"
 }
