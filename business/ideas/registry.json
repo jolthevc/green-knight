@@ -5918,17 +5918,20 @@
     {
       "id": "FF-I0014",
       "channel": "fame-and-fortune",
-      "title": "Was 50 Cent's Vitaminwater Deal Bigger Than an Endorsement?",
-      "aliases": [],
+      "title": "50 Cent's $100M Water Deal",
+      "aliases": [
+        "Was 50 Cent's Vitaminwater Deal Bigger Than an Endorsement?",
+        "How 50 Cent Got Rich Selling Water"
+      ],
       "subject": "50 Cent / Vitaminwater",
       "mechanism": "Celebrity equity consideration versus cash endorsement terms and corporate exit",
       "viewer_promise": "What is actually documented about the equity arrangement, and how does it differ from popular payout stories?",
-      "status": "proposed",
+      "status": "selected",
       "related_idea_ids": [],
-      "story_id": null,
-      "story_path": null,
+      "story_id": "FF-V0004",
+      "story_path": "business/channels/fame-and-fortune/stories/FF-V0004-50-cent-vitaminwater",
       "created_at": "2026-10-18",
-      "updated_at": "2026-10-18",
+      "updated_at": "2026-10-19",
       "rejection_or_block_reason": null,
       "published_url": null,
       "published_at": null,
@@ -5938,6 +5941,12 @@
           "status": "proposed",
           "actor": "ChatGPT",
           "note": "Initial Fame & Fortune working pitch, not selected, researched, source-verified, scripted or commissioned. Provocative packaging must be substantiated before approval."
+        },
+        {
+          "date": "2026-10-19",
+          "status": "selected",
+          "actor": "ChatGPT",
+          "note": "Owner requested next Fame & Fortune episode, 50 Cent/Glaceau after Ryan Reynolds. Complete 1394-word 8-10 minute first-draft script and PDF, with source and financial caveats; owner/voice approval pending."
         }
       ]
     },
