@@ -1,30 +1,51 @@
-# Taylor Swift | FF-V0002 | director segment map
+# Taylor Swift | FF-V0002 | V2 director segment map
+**Script SHA256:** b651a8bd3c4b46d1033b884128e27d63c805cdbad8cf649027d2e94788479fe4
+Target 8–10 minutes for this episode at the owner's request, even though the channel's original shared setting is longer. Paragraph numbering applies to the exact V2 spoken script. All guidance below is non-spoken.
 
-**8-10 minute episode-specific draft override.** Actual cut duration must be tested. Section labels are NOT spoken.
+**A | COLD OPEN | THE $300 MILLION PROBLEM | P001-P003**
+- Voice: Magnetic, direct. Let the first number land; deliberate quiet on the last question.
+- Visual: Start with original 1989 -> 1989 (Taylor's Version) -> 1.653 million first-week units; then ownership arrow and silence.
+- Spoken first anchor: "In 2019, investors bought control of Taylor Swift's original recordings. Four ye"
+- Ending anchor: "inary part is what happened in between. How do you compete against the owner of your own music?"
 
-- **A COLD OPEN | THE BUYERS HAD A PROBLEM | 00:00–00:40 | P001-P003**
-  - Voice: Immediate, incredulous, intimate. Hold after the question.
-  - Visual: Taylor; six original covers; 2019 Big Machine acquisition; Taylor's Version competing; 2025 announcement.
-- **B THE PROMISE | TWO VERSIONS OF ONE SONG | 00:40–01:30 | P004-P006**
-  - Voice: Accessible and brisk, reveal the two types of ownership.
-  - Visual: Sheet music divides into composition and master recording; two waveform tracks.
-- **C ACT I | THE DEAL SHE SIGNED AS A TEENAGER | 01:30–02:40 | P007-P010**
-  - Voice: Warm and fair to label and artist.
-  - Visual: Big Machine, debut images, label investment, 2018 Republic deal.
-- **D ACT II | THE SALE THAT IGNITED THE FIGHT | 02:40–03:50 | P011-P015**
-  - Voice: Controlled escalation, distinguish Big Machine price from master catalog.
-  - Visual: 2019 Ithaca acquires Big Machine; 2020 Shamrock buys Swift masters; separate arrows.
-- **E ACT III | THE WORKAROUND THAT WAS NOT A LOOPHOLE | 03:50–05:15 | P016-P020**
-  - Voice: Aha moment; articulate two distinct recordings and rights.
-  - Visual: Original master and Taylor-owned master compete for fans/licensing without destroying original royalties.
-- **F ACT IV | SHE SOLD THE SAME MUSIC AGAIN | 05:15–06:40 | P021-P026**
-  - Voice: Upbeat momentum, quiet emphasis on 1.653m number.
-  - Visual: Four Taylor's Version records, Billboard/Luminate 1.653m first-week equivalent units, vaulted songs.
-- **G ACT V | THE DEAL THAT CHANGED THE ENDING | 06:40–08:20 | P027-P031**
-  - Voice: Measured, respectful of Shamrock; moving on Swift's 2025 statement.
-  - Visual: Swift's May 2025 handwritten letter, Shamrock to Swift ownership arrow, terms undisclosed.
-- **H CLOSER | WHAT SHE REALLY WON | 08:20–09:20 | P032-P035**
-  - Voice: Reflective, confident, breathe on final line.
-  - Visual: Original and Taylor's Version covers both now controlled; final title card about ownership.
+**B | THE PROMISE | ONE SONG, TWO OWNERS | P004-P006**
+- Voice: Explain like a friend revealing a secret; no legal lecture.
+- Visual: Split SONG (melody and lyrics) from MASTER (specific recording); show duplicated track with separate ownership.
+- Spoken first anchor: "Here's the secret hiding in almost every song you hear. The song itself, its mel"
+- Ending anchor: "riously have to worry about: the star making a rival version, and millions of fans choosing it."
 
-**Important:** no fake archival documents, no unfounded private deal consideration, no alleged financial destruction presented as fact. Owner/narrator/editor approval gates still apply.
+**C | ACT I | THE RIGHTS SHE DID NOT OWN | P007-P010**
+- Voice: Humanize artist and label. Build steadily toward 2018.
+- Visual: Six-album timeline, Big Machine label, investment/rights, and 2018 new masters now owned by Swift.
+- Spoken first anchor: "Back in 2005, Swift signed with a new record label, Big Machine. It helped bring"
+- Ending anchor: "And then the company that owned them was sold."
+
+**D | ACT II | THE DEAL THAT SET EVERYTHING OFF | P011-P014**
+- Voice: Controlled escalation without villain casting; distinguish deal prices.
+- Visual: 2019 Ithaca acquires entire Big Machine Label Group; 2020 Shamrock later acquires Swift masters in separate transaction.
+- Spoken first anchor: "In June 2019, Scooter Braun's Ithaca Holdings acquired Big Machine in a deal wid"
+- Ending anchor: "ding of her own history. And for the moment, the two sides couldn't agree on who should own it."
+
+**E | ACT III | THE MOVE NO ONE COULD COPY | P015-P019**
+- Voice: Big aha. Slow down on the two recording/right types.
+- Visual: Two recording assets with independent earning streams; streaming choice and potential film license subject to composition permissions.
+- Spoken first anchor: "So Swift built an alternative instead of waiting for the original owners to sell"
+- Ending anchor: ": an audience personally invested in the outcome. That audience, however, still had to show up."
+
+**F | ACT IV | THE TEST THAT CHANGED EVERYTHING | P020-P024**
+- Voice: Momentum; meaningful pause at chart reveal.
+- Visual: Four Taylor's Version albums; authentic 2023 Billboard/Luminate sales graphics; mark 1.653M units vs 1.359M sales and 1.287M original sales.
+- Spoken first anchor: "In 2021 came Fearless (Taylor's Version), then Red. In 2023 came Speak Now and 1"
+- Ending anchor: "ist was that she would not have to choose between those recordings and the originals after all."
+
+**G | ACT V | THE UNEXPECTED LAST DEAL | P025-P028**
+- Voice: Soften the tension. Emotional but not sentimental; respectful of Shamrock and Swift.
+- Visual: Original May 30 2025 letter; Shamrock-to-Swift rights transfer; videos, album art, concert films and unreleased songs.
+- Spoken first anchor: "On May thirtieth, 2025, Swift announced that she had purchased the original mast"
+- Ending anchor: "sses finally met in one place. Swift owned the new versions. And she had acquired the old ones."
+
+**H | CLOSER | WHAT WAS REALLY WORTH OWNING | P029-P033**
+- Voice: Measured, uplifting but not triumphalist; give the last line space.
+- Visual: Old and Taylor's Version albums together. Final image: Swift's 2025 letter.
+- Spoken first anchor: "It's tempting to tell this as a story about defeating the people who owned her r"
+- Ending anchor: "at they couldn't buy was the only artist who could make those recordings famous all over again."
