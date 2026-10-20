@@ -6010,6 +6010,800 @@
           "note": "Initial Fame & Fortune working pitch, not selected, researched, source-verified, scripted or commissioned. Provocative packaging must be substantiated before approval."
         }
       ]
+    },
+    {
+      "id": "BE-I0001",
+      "channel": "behind-everything",
+      "title": "Where Your Returned Clothes Really Go",
+      "aliases": [],
+      "subject": "Apparel returns",
+      "mechanism": "Inspection, restocking, liquidation and disposal economics",
+      "viewer_promise": "Find out the surprising real-world system behind apparel returns through an evidence-based, accessible story.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-19",
+      "updated_at": "2026-10-19",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-19",
+          "status": "proposed",
+          "note": "Audience-first concept, unresearched and owner-unselected. No factual headline, narrator, editor or video has been approved.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "BE-I0002",
+      "channel": "behind-everything",
+      "title": "The Cruise Ship Isn't Just Selling You a Vacation",
+      "aliases": [],
+      "subject": "Cruise vacations",
+      "mechanism": "Fare economics, vessel utilization and onboard spending",
+      "viewer_promise": "Find out the surprising real-world system behind cruise vacations through an evidence-based, accessible story.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-19",
+      "updated_at": "2026-10-19",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-19",
+          "status": "proposed",
+          "note": "Audience-first concept, unresearched and owner-unselected. No factual headline, narrator, editor or video has been approved.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "BE-I0003",
+      "channel": "behind-everything",
+      "title": "Why IKEA Makes You Walk Through Everything",
+      "aliases": [],
+      "subject": "IKEA customer journey",
+      "mechanism": "Large-format store navigation and merchandising",
+      "viewer_promise": "Find out the surprising real-world system behind ikea customer journey through an evidence-based, accessible story.",
+      "status": "proposed",
+      "related_idea_ids": [
+        "MM-I0001"
+      ],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-19",
+      "updated_at": "2026-10-19",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-19",
+          "status": "proposed",
+          "note": "Audience-first concept, unresearched and owner-unselected. No factual headline, narrator, editor or video has been approved.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "BE-I0004",
+      "channel": "behind-everything",
+      "title": "Why Every City Is Starting to Look the Same",
+      "aliases": [],
+      "subject": "Retail strips and chain stores",
+      "mechanism": "Commercial leasing, chain expansion and standardized development",
+      "viewer_promise": "Find out the surprising real-world system behind retail strips and chain stores through an evidence-based, accessible story.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-19",
+      "updated_at": "2026-10-19",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-19",
+          "status": "proposed",
+          "note": "Audience-first concept, unresearched and owner-unselected. No factual headline, narrator, editor or video has been approved.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "BE-I0005",
+      "channel": "behind-everything",
+      "title": "Why Weddings Became So Expensive",
+      "aliases": [],
+      "subject": "Modern weddings",
+      "mechanism": "Vendor capacity, demand, labor and event pricing",
+      "viewer_promise": "Find out the surprising real-world system behind modern weddings through an evidence-based, accessible story.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-19",
+      "updated_at": "2026-10-19",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-19",
+          "status": "proposed",
+          "note": "Audience-first concept, unresearched and owner-unselected. No factual headline, narrator, editor or video has been approved.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "BE-I0006",
+      "channel": "behind-everything",
+      "title": "The Strange Business of Timeshares",
+      "aliases": [],
+      "subject": "Timeshare vacations",
+      "mechanism": "Long-term ownership-like contracts, dues and resale incentives",
+      "viewer_promise": "Find out the surprising real-world system behind timeshare vacations through an evidence-based, accessible story.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-19",
+      "updated_at": "2026-10-19",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-19",
+          "status": "proposed",
+          "note": "Audience-first concept, unresearched and owner-unselected. No factual headline, narrator, editor or video has been approved.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "BE-I0007",
+      "channel": "behind-everything",
+      "title": "Why Luxury Handbags Cost So Much",
+      "aliases": [],
+      "subject": "Luxury handbags",
+      "mechanism": "Brand prestige, distribution and supply/pricing constraints",
+      "viewer_promise": "Find out the surprising real-world system behind luxury handbags through an evidence-based, accessible story.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-19",
+      "updated_at": "2026-10-19",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-19",
+          "status": "proposed",
+          "note": "Audience-first concept, unresearched and owner-unselected. No factual headline, narrator, editor or video has been approved.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "BE-I0008",
+      "channel": "behind-everything",
+      "title": "Why Car Dealerships Still Exist",
+      "aliases": [],
+      "subject": "Auto dealerships",
+      "mechanism": "Manufacturer-dealer franchise structure and regulation",
+      "viewer_promise": "Find out the surprising real-world system behind auto dealerships through an evidence-based, accessible story.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-19",
+      "updated_at": "2026-10-19",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-19",
+          "status": "proposed",
+          "note": "Audience-first concept, unresearched and owner-unselected. No factual headline, narrator, editor or video has been approved.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "BE-I0009",
+      "channel": "behind-everything",
+      "title": "Why Your Hotel Room Has a Different Price Every Night",
+      "aliases": [],
+      "subject": "Hotel room pricing",
+      "mechanism": "Perishable inventory and revenue management",
+      "viewer_promise": "Find out the surprising real-world system behind hotel room pricing through an evidence-based, accessible story.",
+      "status": "proposed",
+      "related_idea_ids": [
+        "PP-I0020"
+      ],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-19",
+      "updated_at": "2026-10-19",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-19",
+          "status": "proposed",
+          "note": "Audience-first concept, unresearched and owner-unselected. No factual headline, narrator, editor or video has been approved.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "BE-I0010",
+      "channel": "behind-everything",
+      "title": "Why America Has So Many Storage Units",
+      "aliases": [],
+      "subject": "Self-storage facilities",
+      "mechanism": "Storage demand, land and facility economics",
+      "viewer_promise": "Find out the surprising real-world system behind self-storage facilities through an evidence-based, accessible story.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-19",
+      "updated_at": "2026-10-19",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-19",
+          "status": "proposed",
+          "note": "Audience-first concept, unresearched and owner-unselected. No factual headline, narrator, editor or video has been approved.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "BE-I0011",
+      "channel": "behind-everything",
+      "title": "Why People Pay to Skip the Line",
+      "aliases": [],
+      "subject": "Premium queues",
+      "mechanism": "Time pricing, scarcity and queue access",
+      "viewer_promise": "Find out the surprising real-world system behind premium queues through an evidence-based, accessible story.",
+      "status": "proposed",
+      "related_idea_ids": [
+        "MM-I0028"
+      ],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-19",
+      "updated_at": "2026-10-19",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-19",
+          "status": "proposed",
+          "note": "Audience-first concept, unresearched and owner-unselected. No factual headline, narrator, editor or video has been approved.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "BE-I0012",
+      "channel": "behind-everything",
+      "title": "What Happens to Clothes That Never Sell",
+      "aliases": [],
+      "subject": "Unsold fashion",
+      "mechanism": "Markdowns, off-price liquidation and excess inventory",
+      "viewer_promise": "Find out the surprising real-world system behind unsold fashion through an evidence-based, accessible story.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-19",
+      "updated_at": "2026-10-19",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-19",
+          "status": "proposed",
+          "note": "Audience-first concept, unresearched and owner-unselected. No factual headline, narrator, editor or video has been approved.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "BE-I0013",
+      "channel": "behind-everything",
+      "title": "Why Grocery Stores Make Their Own Brands",
+      "aliases": [],
+      "subject": "Grocery private labels",
+      "mechanism": "Retailer-owned product sourcing and channel competition",
+      "viewer_promise": "Find out the surprising real-world system behind grocery private labels through an evidence-based, accessible story.",
+      "status": "proposed",
+      "related_idea_ids": [
+        "PP-I0017"
+      ],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-19",
+      "updated_at": "2026-10-19",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-19",
+          "status": "proposed",
+          "note": "Audience-first concept, unresearched and owner-unselected. No factual headline, narrator, editor or video has been approved.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "BE-I0014",
+      "channel": "behind-everything",
+      "title": "How Bottled Water Became a Luxury Product",
+      "aliases": [],
+      "subject": "Premium bottled water",
+      "mechanism": "Brand premiums, packaging and distribution",
+      "viewer_promise": "Find out the surprising real-world system behind premium bottled water through an evidence-based, accessible story.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-19",
+      "updated_at": "2026-10-19",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-19",
+          "status": "proposed",
+          "note": "Audience-first concept, unresearched and owner-unselected. No factual headline, narrator, editor or video has been approved.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "BE-I0015",
+      "channel": "behind-everything",
+      "title": "Why Every Store Wants Your Phone Number",
+      "aliases": [],
+      "subject": "Checkout loyalty",
+      "mechanism": "Retail customer identification and promotions",
+      "viewer_promise": "Find out the surprising real-world system behind checkout loyalty through an evidence-based, accessible story.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-19",
+      "updated_at": "2026-10-19",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-19",
+          "status": "proposed",
+          "note": "Audience-first concept, unresearched and owner-unselected. No factual headline, narrator, editor or video has been approved.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "BE-I0016",
+      "channel": "behind-everything",
+      "title": "How Stadiums Make Money When Nobody's Playing",
+      "aliases": [],
+      "subject": "Professional stadiums",
+      "mechanism": "Venue utilization, events, sponsorship and fixed costs",
+      "viewer_promise": "Find out the surprising real-world system behind professional stadiums through an evidence-based, accessible story.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-19",
+      "updated_at": "2026-10-19",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-19",
+          "status": "proposed",
+          "note": "Audience-first concept, unresearched and owner-unselected. No factual headline, narrator, editor or video has been approved.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "BE-I0017",
+      "channel": "behind-everything",
+      "title": "Why Outlet Stores Aren't Always Selling Leftovers",
+      "aliases": [],
+      "subject": "Outlet retail",
+      "mechanism": "Made-for-outlet inventory and brand segmentation",
+      "viewer_promise": "Find out the surprising real-world system behind outlet retail through an evidence-based, accessible story.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-19",
+      "updated_at": "2026-10-19",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-19",
+          "status": "proposed",
+          "note": "Audience-first concept, unresearched and owner-unselected. No factual headline, narrator, editor or video has been approved.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "BE-I0018",
+      "channel": "behind-everything",
+      "title": "Why Airports Look More Like Shopping Malls",
+      "aliases": [],
+      "subject": "Airports as retail venues",
+      "mechanism": "Concession economics and passenger traffic",
+      "viewer_promise": "Find out the surprising real-world system behind airports as retail venues through an evidence-based, accessible story.",
+      "status": "proposed",
+      "related_idea_ids": [
+        "PP-I0029"
+      ],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-19",
+      "updated_at": "2026-10-19",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-19",
+          "status": "proposed",
+          "note": "Audience-first concept, unresearched and owner-unselected. No factual headline, narrator, editor or video has been approved.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "BE-I0019",
+      "channel": "behind-everything",
+      "title": "Why Cities Pay to Host Formula 1",
+      "aliases": [],
+      "subject": "Formula 1 Grand Prix hosting",
+      "mechanism": "Host fees, events, tourism claims and local costs",
+      "viewer_promise": "Find out the surprising real-world system behind formula 1 grand prix hosting through an evidence-based, accessible story.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-19",
+      "updated_at": "2026-10-19",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-19",
+          "status": "proposed",
+          "note": "Audience-first concept, unresearched and owner-unselected. No factual headline, narrator, editor or video has been approved.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "BE-I0020",
+      "channel": "behind-everything",
+      "title": "How Free Shipping Changed Shopping",
+      "aliases": [],
+      "subject": "Ecommerce delivery",
+      "mechanism": "Retail fulfillment costs, conversion and basket incentives",
+      "viewer_promise": "Find out the surprising real-world system behind ecommerce delivery through an evidence-based, accessible story.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-19",
+      "updated_at": "2026-10-19",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-19",
+          "status": "proposed",
+          "note": "Audience-first concept, unresearched and owner-unselected. No factual headline, narrator, editor or video has been approved.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "BE-I0021",
+      "channel": "behind-everything",
+      "title": "Why Companies Spend So Much on Super Bowl Ads",
+      "aliases": [],
+      "subject": "Super Bowl advertising",
+      "mechanism": "High-value live ad inventory and advertiser return uncertainty",
+      "viewer_promise": "Find out the surprising real-world system behind super bowl advertising through an evidence-based, accessible story.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-19",
+      "updated_at": "2026-10-19",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-19",
+          "status": "proposed",
+          "note": "Audience-first concept, unresearched and owner-unselected. No factual headline, narrator, editor or video has been approved.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "BE-I0022",
+      "channel": "behind-everything",
+      "title": "How Concerts Became a Luxury Purchase",
+      "aliases": [],
+      "subject": "Concert experiences",
+      "mechanism": "Live music demand, touring costs and premium segmentation",
+      "viewer_promise": "Find out the surprising real-world system behind concert experiences through an evidence-based, accessible story.",
+      "status": "proposed",
+      "related_idea_ids": [
+        "PP-I0004"
+      ],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-19",
+      "updated_at": "2026-10-19",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-19",
+          "status": "proposed",
+          "note": "Audience-first concept, unresearched and owner-unselected. No factual headline, narrator, editor or video has been approved.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "BE-I0023",
+      "channel": "behind-everything",
+      "title": "Why Retailers Love Gift Cards",
+      "aliases": [],
+      "subject": "Gift cards",
+      "mechanism": "Prepayment, redemption timing and breakage treatment",
+      "viewer_promise": "Find out the surprising real-world system behind gift cards through an evidence-based, accessible story.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-19",
+      "updated_at": "2026-10-19",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-19",
+          "status": "proposed",
+          "note": "Audience-first concept, unresearched and owner-unselected. No factual headline, narrator, editor or video has been approved.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "BE-I0024",
+      "channel": "behind-everything",
+      "title": "Why Gas Stations Sell So Much More Than Gas",
+      "aliases": [],
+      "subject": "Fuel stations",
+      "mechanism": "Fuel versus in-store convenience economics",
+      "viewer_promise": "Find out the surprising real-world system behind fuel stations through an evidence-based, accessible story.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-19",
+      "updated_at": "2026-10-19",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-19",
+          "status": "proposed",
+          "note": "Audience-first concept, unresearched and owner-unselected. No factual headline, narrator, editor or video has been approved.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "BE-I0025",
+      "channel": "behind-everything",
+      "title": "The Theme Park Isn't Just Selling You a Ticket",
+      "aliases": [],
+      "subject": "Theme-park day",
+      "mechanism": "Capacity and multiple in-park purchases",
+      "viewer_promise": "Find out the surprising real-world system behind theme-park day through an evidence-based, accessible story.",
+      "status": "proposed",
+      "related_idea_ids": [
+        "MM-I0028"
+      ],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-19",
+      "updated_at": "2026-10-19",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-19",
+          "status": "proposed",
+          "note": "Audience-first concept, unresearched and owner-unselected. No factual headline, narrator, editor or video has been approved.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "BE-I0026",
+      "channel": "behind-everything",
+      "title": "What Really Happens When Your Luggage Gets Lost",
+      "aliases": [],
+      "subject": "Checked luggage",
+      "mechanism": "Baggage transfer, tracking and recovery",
+      "viewer_promise": "Find out the surprising real-world system behind checked luggage through an evidence-based, accessible story.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-19",
+      "updated_at": "2026-10-19",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-19",
+          "status": "proposed",
+          "note": "Audience-first concept, unresearched and owner-unselected. No factual headline, narrator, editor or video has been approved.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "BE-I0027",
+      "channel": "behind-everything",
+      "title": "Why Streaming Keeps Rebuilding Cable",
+      "aliases": [],
+      "subject": "Streaming bundles",
+      "mechanism": "Subscription fragmentation, churn and content distribution",
+      "viewer_promise": "Find out the surprising real-world system behind streaming bundles through an evidence-based, accessible story.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-19",
+      "updated_at": "2026-10-19",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-19",
+          "status": "proposed",
+          "note": "Audience-first concept, unresearched and owner-unselected. No factual headline, narrator, editor or video has been approved.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "BE-I0028",
+      "channel": "behind-everything",
+      "title": "Why Airlines Sell More Tickets Than Seats",
+      "aliases": [],
+      "subject": "Airline overbooking",
+      "mechanism": "No-show forecasts, seat inventory and compensation",
+      "viewer_promise": "Find out the surprising real-world system behind airline overbooking through an evidence-based, accessible story.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-19",
+      "updated_at": "2026-10-19",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-19",
+          "status": "proposed",
+          "note": "Audience-first concept, unresearched and owner-unselected. No factual headline, narrator, editor or video has been approved.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "BE-I0029",
+      "channel": "behind-everything",
+      "title": "What Happens to Your Old Phone When You Trade It In",
+      "aliases": [],
+      "subject": "Phone trade-ins",
+      "mechanism": "Device grading, refurbishment, resale and recycling",
+      "viewer_promise": "Find out the surprising real-world system behind phone trade-ins through an evidence-based, accessible story.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-19",
+      "updated_at": "2026-10-19",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-19",
+          "status": "proposed",
+          "note": "Audience-first concept, unresearched and owner-unselected. No factual headline, narrator, editor or video has been approved.",
+          "actor": "ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "BE-I0030",
+      "channel": "behind-everything",
+      "title": "Why Restaurants Push Combo Meals",
+      "aliases": [],
+      "subject": "Restaurant combo meals",
+      "mechanism": "Bundling, ordering behavior and operating economics",
+      "viewer_promise": "Find out the surprising real-world system behind restaurant combo meals through an evidence-based, accessible story.",
+      "status": "proposed",
+      "related_idea_ids": [],
+      "story_id": null,
+      "story_path": null,
+      "created_at": "2026-10-19",
+      "updated_at": "2026-10-19",
+      "rejection_or_block_reason": null,
+      "published_url": null,
+      "published_at": null,
+      "history": [
+        {
+          "date": "2026-10-19",
+          "status": "proposed",
+          "note": "Audience-first concept, unresearched and owner-unselected. No factual headline, narrator, editor or video has been approved.",
+          "actor": "ChatGPT"
+        }
+      ]
     }
   ]
 }
