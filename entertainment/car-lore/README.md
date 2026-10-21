@@ -11,7 +11,7 @@
 ## Status and operating assumptions
 - Editorial identity: approved in principle by owner 2026-10-20; this documentation codifies the brief.
 - New standalone Green Knight entertainment workspace; **no YouTube channel creation, editor engagement, narrator approval, commissioning, video publication, automation enrollment or asset clearance is implied**.
-- Default long-form film: **10 minutes target; 8-12 minutes acceptable when story warrants**, subject to revision after actual narrator timing and pilot feedback.
+- Default long-form film: **15 minutes preferred; 10-20 minutes accepted when the story warrants**, subject to revision after actual narrator timing and pilot feedback.
 - Global and English-speaking mainstream audience: automotive enthusiasts **and** curious casual viewers.
 - Lean, faceless, high-production-value research and narration documentaries. No requirement to own, drive, film or modify vehicles.
 - Working channel title: **Car Lore**; brand availability/trademark clearance not established.

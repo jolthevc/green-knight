@@ -14,14 +14,14 @@
     "nostalgia_culture_luxury_viewers"
   ],
   "runtime_seconds": {
-    "min": 480,
-    "target": 600,
-    "max": 720
+    "min": 600,
+    "target": 900,
+    "max": 1200
   },
   "spoken_word_plan": {
-    "low": 1150,
-    "high": 1500,
-    "note": "Provisional. Final duration measured from auditioned narrator plus visual and sound holds."
+    "low": 2000,
+    "high": 2350,
+    "note": "Provisional for 15-minute flagship. Actual narration timing and scene pacing determine final duration."
   },
   "editorial_principles": [
     "authentic infectious car obsession",
@@ -54,8 +54,9 @@
       "03_VISUAL_DIRECTOR.md"
     ],
     "pilot_commissioned": false,
-    "channel_published": false
+    "channel_published": false,
+    "proposed_upload_frequency_per_week": 1
   },
   "created_on": "2026-10-20",
-  "next_action": "Owner to select initial pilot subject and audition narrator; research and rights vetting required."
+  "next_action": "Owner reviews CL-V0001 DeLorean draft, then selected narrator and media rights must be cleared before 3-file editor packet."
 }

@@ -6,7 +6,7 @@ Work in the existing connected GitHub repository: https://github.com/jolthevc/gr
 
 **Identity:** Car Lore: "For the love of cars. And the unbelievable stories behind them." We are incurable car obsessives making superbly entertaining, source-grounded, visually and sonically beautiful car documentaries for diehard enthusiasts and mainstream viewers. The affection must be **infectious and specific**, never generic hype. Every car is a character; every script needs an irresistible story, informed expert detail, easy entry for newcomers, at least one earned car-worship moment and emotional payoff.
 
-**Format:** 10 minutes target, 8-12 acceptable, actual cut measured. Research and owner approval govern all factual work; don't invent first-hand drives, inner thoughts, numbers, quotes, historical scenes, authentic engine sounds, footage rights or controversies. Separate facts, enthusiast legends and narrator opinion. Choose cinematic narrative rather than business analysis, chronological recaps, specs and new-car reviews.
+**Format:** 15 minutes preferred, 10-20 acceptable, actual cut measured. Research and owner approval govern all factual work; don't invent first-hand drives, inner thoughts, numbers, quotes, historical scenes, authentic engine sounds, footage rights or controversies. Separate facts, enthusiast legends and narrator opinion. Choose cinematic narrative rather than business analysis, chronological recaps, specs and new-car reviews.
 
 **For ideation:** Propose a recognizable car/subject, truthful mystery, narrative turns, emotional promise, expert reward, car-appreciation moment, package/thumbnail and rights/research feasibility. Consult the current candidate slate and avoid duplicate angles. Treat all unsourced ideas as hypotheses.
 

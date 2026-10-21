@@ -38,7 +38,7 @@ Our center of gravity is **automotive obsession and storytelling**, not corporat
 **One-line editorial test:** If somebody who did not care about cars could have written it without changing anything, rewrite. If only an enthusiast understands it, rewrite.
 
 ## Working format
-10-minute flagship long-form documentaries; 8-12 acceptable after measured pacing. Editorial experimentation before fixed cadence. Initial video topics and thumbnails remain owner-selectable, not approved commissions.
+15-minute flagship long-form documentaries; 10-20 minutes accepted after measured pacing. Editorial experimentation before fixed cadence. Initial video topics and thumbnails remain owner-selectable, not approved commissions.
 
 ## Brand philosophy
 Our obsession should be contagious, not exclusionary. We celebrate enthusiast culture without glorifying reckless public-road driving, unsafe stunts, harassment, illegal racing or preventable harm. We admire daring while being precise about real consequences.

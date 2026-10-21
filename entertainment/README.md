@@ -8,4 +8,4 @@ Current channel workspaces:
 
 This is a distinct manual editorial workspace. It lives within the existing Green Knight GitHub repository. It has not been enrolled in the legacy automated channel registry or publishing system. Do not claim that a new standalone GitHub repository, producer engagement, voice audition or video release exists.
 
-General governing principles from [Green Knight's popcorn standard](../business/POPCORN_STANDARD.md) apply: entertainment earns the next minute, newcomers can follow, informed viewers learn a real mechanism, and facts are non-negotiable. Each channel's own documented runtime, voice and scope override general business templates. Internet Famous targets 15 minutes; Car Lore targets 10 minutes.
+General governing principles from [Green Knight's popcorn standard](../business/POPCORN_STANDARD.md) apply: entertainment earns the next minute, newcomers can follow, informed viewers learn a real mechanism, and facts are non-negotiable. Each channel's own documented runtime, voice and scope override general business templates. Internet Famous targets 15 minutes; Car Lore targets 15 minutes.

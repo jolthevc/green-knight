@@ -11,7 +11,7 @@ B. Producer proposes idea/script; Green Knight verifies research, revises into t
 1. Owner picks a subject and episode angle from **unresearched candidates**.
 2. Research vehicle specifications, people, dates, period responses, disputes, anecdotes and likely visuals, with a claim/source record. Flag unreliable lore.
 3. Create 8+ truthful title candidates, three thumbnail concepts and one internally recommended package.
-4. Write dramatic beat map and complete **8-12 minute** spoken script, target roughly 10 minutes, with verified enthusiast specifics and car appreciation.
+4. Write dramatic beat map and complete **10-20 minute** spoken script, target roughly 15 minutes, with verified enthusiast specifics and car appreciation.
 5. Independent editorial check for excitement, authentic car love, nonfan comprehension, technical accuracy, fair treatment of real people and source integrity.
 6. Produce exact narration director and precise paragraph-anchored visual director, including shot-by-shot first 30 seconds and asset/rights plans.
 7. Owner expressly approves final script, package direction and auditioned narrator before full production.
