@@ -1,10 +1,10 @@
 # Car Lore / CL-V0001 / DeLorean
 
-**Status: FULL SCRIPT DRAFT, NOT OWNER-APPROVED OR PRODUCTION READY.**
+**Status: V2 SCRIPT DRAFT, NOT OWNER-APPROVED OR PRODUCTION READY.**
 
-Working title: **The DeLorean Failed. Then It Became Immortal.**
+Working title: **The DeLorean Failed. Then Hollywood Made It Immortal.**
 
-Spoken length: **2453 words**. Target final run time **15 minutes**; validate with auditioned narration plus picture/sound holds. The script is written for a vivid, affectionate car fanatic, not a neutral announcer.
+Spoken length: **2385 words**. Target final run time **15 minutes**; validate with auditioned narration plus picture/sound holds. This revised script is written for a vivid, affectionate car fanatic, not a neutral announcer.
 
 ## Central idea
 *Back to the Future* did not rescue DeLorean's original company. It immortalized the dramatic design choices that helped make the car difficult to produce profitably.
@@ -17,3 +17,6 @@ Car hero image with raised gullwing doors plus closed Belfast factory / archival
 
 ## Next gates
 Research/source QA; owner review and exact script approval; audition narrator; clear all media; only then create approved 01_SCRIPT.txt, exact full 02_NARRATION_DIRECTOR.md, 03_VISUAL_DIRECTOR.md. No edit, voice, commissioning or publication implied.
+
+## V2 revision notes
+See [V2 editorial review](revisions/V2_EDITORIAL_REVIEW.md) and [archived V1 script](revisions/v1-script.txt). The new hook focuses on genuine early manufacturing problems. The middle adds a sourced quality-improvement reversal. The ending foregrounds physical enthusiast preservation. Title is provisional, not owner approved.

@@ -2,13 +2,17 @@
   "channel": "Car Lore",
   "episode_id": "CL-V0001",
   "idea_id": "CL-I0001",
-  "working_title": "The DeLorean Failed. Then It Became Immortal.",
-  "status": "draft_owner_review",
-  "spoken_words": 2453,
+  "working_title": "The DeLorean Failed. Then Hollywood Made It Immortal.",
+  "status": "v2_draft_owner_review",
+  "spoken_words": 2385,
   "preferred_runtime_seconds": 900,
   "owner_approved": false,
   "voice_approved": false,
   "editor_packet_released": false,
   "media_rights_cleared": false,
-  "created": "2026-10-21"
+  "created": "2026-10-21",
+  "revision": 2,
+  "revision_notes": "revisions/V2_EDITORIAL_REVIEW.md",
+  "v1_archive": "revisions/v1-script.txt",
+  "updated": "2026-10-21"
 }
