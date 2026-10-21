@@ -1,0 +1,61 @@
+{
+  "channel": "Car Lore",
+  "slug": "car-lore",
+  "portfolio": "Green Knight",
+  "workspace": "entertainment",
+  "status": "editorial_specification_only",
+  "tagline": "For the love of cars. And the unbelievable stories behind them.",
+  "vision": "Make car lovers feel understood, and everyone else wish they were one.",
+  "promise": "Obsessively passionate, extraordinarily entertaining, rigorously sourced stories behind iconic cars, their people and cultures.",
+  "genre": "automotive_entertainment_documentary",
+  "audience": [
+    "automotive_enthusiasts",
+    "curious_mainstream_viewers",
+    "nostalgia_culture_luxury_viewers"
+  ],
+  "runtime_seconds": {
+    "min": 480,
+    "target": 600,
+    "max": 720
+  },
+  "spoken_word_plan": {
+    "low": 1150,
+    "high": 1500,
+    "note": "Provisional. Final duration measured from auditioned narrator plus visual and sound holds."
+  },
+  "editorial_principles": [
+    "authentic infectious car obsession",
+    "car as a character",
+    "newcomer accessibility",
+    "enthusiast credibility",
+    "premium popcorn storytelling",
+    "honest source-based reporting",
+    "vehicle sensory appreciation",
+    "respectful treatment of real people"
+  ],
+  "idea_prefix": "CL-I",
+  "episode_prefix": "CL-V",
+  "automation_registry_enrolled": false,
+  "permanent_ch_id": null,
+  "voice": {
+    "status": "unselected",
+    "approved_voice_id": null,
+    "provider": null,
+    "reference_audio_url": null
+  },
+  "production": {
+    "owner_approval_required_for_topic": true,
+    "owner_approval_required_for_final_script": true,
+    "owner_approval_required_for_narrator": true,
+    "editor_packet_released": false,
+    "editor_packet_files": [
+      "01_SCRIPT.txt",
+      "02_NARRATION_DIRECTOR.md",
+      "03_VISUAL_DIRECTOR.md"
+    ],
+    "pilot_commissioned": false,
+    "channel_published": false
+  },
+  "created_on": "2026-10-20",
+  "next_action": "Owner to select initial pilot subject and audition narrator; research and rights vetting required."
+}

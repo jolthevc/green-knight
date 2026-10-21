@@ -1,5 +1,12 @@
 # Instructions for AI agents working in entertainment/
 
+## Route to the correct channel
+This folder contains **independent manual editorial workspaces**, not one shared channel identity. If working on **Car Lore**, first read `entertainment/car-lore/AGENTS.md` and that channel's linked standards. Car Lore's automotive subject scope, impassioned narrator and 10-minute target override Internet Famous instructions. Do not assume Car Lore is in the automated portfolio registry.
+
+The instructions below specifically govern **Internet Famous**.
+
+## Internet Famous-specific instructions
+
 ## Required reading order
 1. entertainment/internet-famous/START_A_CHAT.md
 2. entertainment/internet-famous/README.md and CHANNEL.md
