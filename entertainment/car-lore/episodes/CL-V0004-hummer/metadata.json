@@ -4,8 +4,8 @@
   "idea_id": "CL-I0004",
   "slug": "hummer",
   "working_title": "How the Hummer Became the SUV America Loved to Hate",
-  "status": "v1_draft_owner_review",
-  "spoken_words": 2280,
+  "status": "v2_draft_owner_review",
+  "spoken_words": 2137,
   "preferred_runtime_seconds": 900,
   "owner_approved": false,
   "narrator_approved": false,
@@ -14,5 +14,7 @@
   "created_on": "2026-10-21",
   "script_file": "script.txt",
   "brief_file": "BRIEF.md",
-  "sources_file": "SOURCES_AND_CLAIMS.md"
+  "sources_file": "SOURCES_AND_CLAIMS.md",
+  "revision": 2,
+  "v1_archive": "revisions/v1-script.txt"
 }
