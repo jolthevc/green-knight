@@ -4,7 +4,7 @@
 
 **Status:** Revised V2 draft, pending owner script/title/voice approval and production rights review.
 
-**Length:** 2343 spoken words; target ~15 minutes, verify by recorded delivery and sound/design holds.
+**Length:** 2306 spoken words; target ~15 minutes, verify by recorded delivery and sound/design holds.
 
 **Central promise:** A niche, expensive 1993 Toyota sports car vanished from U.S. showrooms before global pop culture turned it into an obsession. We explain why the mechanics, tuner community, video games, cinema and later collectibility reinforced each other.
 
