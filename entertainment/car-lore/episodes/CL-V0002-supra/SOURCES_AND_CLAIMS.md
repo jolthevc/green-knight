@@ -63,3 +63,17 @@
 - Gaming, enthusiast tuning and the Fast films are mutually reinforcing cultural forces; **do not imply one singular definitive cause** or quantified causal sales effect.
 - Avoid illegal street-racing glamorization and respect safety. All film clips, game play clips, catalogs, advertisements and car photography require rights/provenance check.
 - Fan reaction to 2019 BMW collaboration is nuanced, not a verified single consensus. Attribute differences of opinion.
+
+## V2 additional source verification (2026-10-21)
+- Toyota original 1993 launch: https://global.toyota/en/detail/7868203 : Isao Tsuzuki, lighter structure, hollow fibers, brakes, turbo lineup, >100kg weight improvement under Toyota's comparison basis. **Different from Car and Driver's stated 124-pound comparison**, so V2 attributes and distinguishes the two instead of reconciling them.
+- Car and Driver March 1993: https://www.caranddriver.com/reviews/a15142755/toyota-supra-turbo-instrumented-test/ : 950 meetings, hollow carpet, 124lb, 4.6sec; source-specific figures.
+- Car and Driver September 1993: https://www.caranddriver.com/reviews/comparison-test/a32405949/comparison-test-1993-toyota-supra-vs-the-best-sports-cars-of-the-early-1990s/ : overall top ranking of six; Turbo base $40,890.
+- Toyota official historical profile: https://pressroom.toyota.com/toyota-supra-icon-half-century-in-making/ : just over 11,200 American A80s; movie followed existing tuner culture; do not assert ordinary 2021 Supra costs $550k.
+- Toyota chronology: https://pressroom.toyota.com/supra-chronology/ : market exit 1998 and effects of state emissions rules; Japan ended 2002 per https://global.toyota/en/newsroom/toyota/26144480.html .
+- Official Gran Turismo (1997): https://www.gran-turismo.com/us/products/gt/ : real-car / tuning-game context.
+- Original Craig Lieberman first-person in Toyota Podcast 37: https://pressroom.toyota.com/podcast/37-fast-famous-cinemas-most-recognizable-supra/ : yellow car, Redline encounter, car culture participation and casting; **do not identify specific 2021 Barrett-Jackson lot as Craig's personal VIN without proof**.
+- Barrett-Jackson 2021 official lot 744: https://barrettjacksoncdn.azureedge.net/staging/Content/Pages/InventoryDetails/247854.html : 1994 Supra, factory Turbo 2JZ-GTE, four-speed automatic, used in 2001 and 2003 films. $550k from official auction video: https://www.youtube.com/watch?v=zGR-dq2Jmmw .
+- Akio Toyoda 2019 firsthand speech: https://global.toyota/en/newsroom/toyota/26144610.html : personally loved old Supra; Nürburgring anecdotes; 17-year global gap.
+- Toyota official manual-transmission release: https://pressroom.toyota.com/toyota-gr-supra-adds-manual-transmission-and-enhanced-drive-dynamics-for-2023/ : added MY2023 manual option, not originally on 2019 relaunch.
+- 2JZ extreme power is **modified** not stock: example https://www.motortrend.com/features/toyota-supra-2jzgte-a90-engine-swap documents a 1,060 whp heavily rebuilt powerplant.
+- Claims about enthusiasm, childhood memories, and fan identity are **interpretive narration**, not quantitative measurement.

@@ -2,9 +2,9 @@
 
 **Working title:** How the Toyota Supra Became an Obsession
 
-**Status:** Full first editorial draft, pending owner script/title/voice approval and production rights review.
+**Status:** Revised V2 draft, pending owner script/title/voice approval and production rights review.
 
-**Length:** 2,395 spoken words; target ~15 minutes, verify by recorded delivery and sound/design holds.
+**Length:** 2343 spoken words; target ~15 minutes, verify by recorded delivery and sound/design holds.
 
 **Central promise:** A niche, expensive 1993 Toyota sports car vanished from U.S. showrooms before global pop culture turned it into an obsession. We explain why the mechanics, tuner community, video games, cinema and later collectibility reinforced each other.
 
@@ -23,3 +23,6 @@
 **Editorial self-check:** First 30 seconds has shock, fact, contradiction, emotional question. Middle has engineering detail, test payoff and declining-sales reversal. Late act contains movie production provenance and automatics twist. Closing preserves fanatic car-love. Risks: 2019 return becomes overly brief or fan-polarizing; make it a short thematic payoff rather than a new documentary.
 
 **Required before editor packet:** Owner approval, independent fact pass, actual 15-minute voice run-through, scene-specific third-party-rights assessment, exact narrator/visual director files.
+
+## V2 editorial handoff
+Read [V2 editorial review](revisions/V2_EDITORIAL_REVIEW.md) and the [archived V1 script](revisions/v1-script.txt). The owner has not approved V2. The governing central question is why Toyota's remarkably engineered low-volume U.S. sports car became an enduring enthusiast obsession.

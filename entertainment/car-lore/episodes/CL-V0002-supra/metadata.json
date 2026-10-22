@@ -4,8 +4,8 @@
   "idea_id": "CL-I0002",
   "slug": "toyota-supra",
   "working_title": "How the Toyota Supra Became an Obsession",
-  "status": "v1_draft_owner_review",
-  "spoken_words": 2395,
+  "status": "v2_draft_owner_review",
+  "spoken_words": 2343,
   "target_runtime_seconds": 900,
   "owner_approved": false,
   "narrator_approved": false,
@@ -23,5 +23,9 @@
     "BRIEF.md",
     "SOURCES_AND_CLAIMS.md",
     "metadata.json"
-  ]
+  ],
+  "revision": 2,
+  "revised_on": "2026-10-21",
+  "v1_archive": "revisions/v1-script.txt",
+  "editorial_review": "revisions/V2_EDITORIAL_REVIEW.md"
 }
