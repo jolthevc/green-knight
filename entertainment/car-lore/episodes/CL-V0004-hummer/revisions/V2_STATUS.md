@@ -1,0 +1,1 @@
+V2 script has been revised for stronger engagement. PDF generated locally. Final 2,137 spoken words. See current review in chat.
