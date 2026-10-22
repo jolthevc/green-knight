@@ -2,7 +2,7 @@
 **Status:** V2 draft for owner review, not editor-packet-approved.
 **Previous V1:** `revisions/v1-script.txt`.
 **Revised title:** How the Toyota Supra Became an Obsession
-**V2 word count:** 2343 spoken words. Target approximately 15 minutes, contingent on auditioned narrator pace and editorial sound/visual holds.
+**V2 word count:** 2306 spoken words. Target approximately 15 minutes, contingent on auditioned narrator pace and editorial sound/visual holds.
 
 ## Nonfan retention verdict
 **V1:** The car-and-$550k hook worked, but the next several minutes became a sequential history-and-spec tour. At minutes 5-9, the tuning and game material became descriptive exposition. The auction payoff simply restated a fact revealed in the first 30 seconds, with limited new interpretation.
