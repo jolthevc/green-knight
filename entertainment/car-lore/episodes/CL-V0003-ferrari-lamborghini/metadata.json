@@ -3,9 +3,9 @@
   "episode_id": "CL-V0003",
   "idea_id": "CL-I0003",
   "slug": "ferrari-lamborghini",
-  "working_title": "How a Tractor Maker Challenged Ferrari",
-  "status": "v1_draft_owner_review",
-  "spoken_words": 2341,
+  "working_title": "The Tractor Maker Who Took On Ferrari",
+  "status": "v2_draft_owner_review",
+  "spoken_words": 2383,
   "preferred_runtime_seconds": 900,
   "owner_approved": false,
   "narrator_approved": false,
@@ -14,5 +14,9 @@
   "created_on": "2026-10-21",
   "script_file": "script.txt",
   "brief_file": "BRIEF.md",
-  "sources_file": "SOURCES_AND_CLAIMS.md"
+  "sources_file": "SOURCES_AND_CLAIMS.md",
+  "revision": 2,
+  "updated_on": "2026-10-21",
+  "v1_archive": "revisions/v1-script.txt",
+  "editorial_review": "revisions/V2_EDITORIAL_REVIEW.md"
 }
