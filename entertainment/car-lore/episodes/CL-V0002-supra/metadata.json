@@ -1,0 +1,27 @@
+{
+  "channel": "Car Lore",
+  "episode_id": "CL-V0002",
+  "idea_id": "CL-I0002",
+  "slug": "toyota-supra",
+  "working_title": "How the Toyota Supra Became an Obsession",
+  "status": "v1_draft_owner_review",
+  "spoken_words": 2395,
+  "target_runtime_seconds": 900,
+  "owner_approved": false,
+  "narrator_approved": false,
+  "media_rights_cleared": false,
+  "editor_packet_released": false,
+  "created_on": "2026-10-21",
+  "updated_on": "2026-10-21",
+  "editor_packet_files": [
+    "01_SCRIPT.txt",
+    "02_NARRATION_DIRECTOR.md",
+    "03_VISUAL_DIRECTOR.md"
+  ],
+  "files": [
+    "script.txt",
+    "BRIEF.md",
+    "SOURCES_AND_CLAIMS.md",
+    "metadata.json"
+  ]
+}
