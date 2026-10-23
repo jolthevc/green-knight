@@ -1,0 +1,76 @@
+{
+  "channel": "Studio Confidential",
+  "slug": "studio-confidential",
+  "portfolio": "Green Knight",
+  "workspace": "entertainment",
+  "status": "editorial_specification_only",
+  "tagline": "The extraordinary stories behind the movies and television we love.",
+  "promise": "Cinematic, entertaining, rigorously sourced stories behind films, TV, creative people, productions, Hollywood choices and cultural phenomena.",
+  "genre": "film_and_television_entertainment_documentary",
+  "scope": [
+    "movies",
+    "television",
+    "streaming",
+    "animation",
+    "productions",
+    "creative_breakthroughs",
+    "hollywood_and_international_film",
+    "industry_economics_when_story_relevant",
+    "fandom_and_cultural_history"
+  ],
+  "exclusions": [
+    "generic_reviews",
+    "plot_recaps",
+    "rankings",
+    "compulsory_business_analysis",
+    "unverified_insider_claims"
+  ],
+  "runtime_seconds": {
+    "min": 600,
+    "target": 750,
+    "max": 900,
+    "no_padding": true
+  },
+  "spoken_word_plan": {
+    "low": 1350,
+    "high": 2150,
+    "note": "Provisional. Actual narrator pace, clips and final edit determine length; never pad."
+  },
+  "publishing": {
+    "planned_episodes_per_month": 4,
+    "committed_episodes": 0,
+    "channel_launched": false
+  },
+  "identity": {
+    "film_and_tv_affection": true,
+    "industry_economics_optional": true,
+    "mainstream_accessibility": true,
+    "fan_specificity": true,
+    "brand_name_selected": true,
+    "brand_legal_clearance": "pending",
+    "youtube_handle_available": "unverified",
+    "known_similar_use": "Existing visual-arts podcast called Studio Confidential"
+  },
+  "production": {
+    "voice_status": "unselected",
+    "approved_voice_id": null,
+    "editor_status": "not_commissioned",
+    "first_pilot": "not_selected",
+    "editor_packet_files": [
+      "01_SCRIPT.txt",
+      "02_NARRATION_DIRECTOR.md",
+      "03_VISUAL_DIRECTOR.md"
+    ],
+    "owner_topic_approval_required": true,
+    "owner_final_script_approval_required": true,
+    "owner_voice_approval_required": true,
+    "assets_cleared": false,
+    "pilot_commissioned": false,
+    "video_published": false
+  },
+  "idea_prefix": "SC-I",
+  "episode_prefix": "SC-V",
+  "automation_registry_enrolled": false,
+  "permanent_ch_id": null,
+  "created_on": "2026-10-22"
+}
