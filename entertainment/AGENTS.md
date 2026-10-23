@@ -1,7 +1,13 @@
 # Instructions for AI agents working in entertainment/
 
 ## Route to the correct channel
-This folder contains **independent manual editorial workspaces**, not one shared channel identity. If working on **Car Lore**, first read `entertainment/car-lore/AGENTS.md` and that channel's linked standards. Car Lore's automotive subject scope, impassioned narrator and 10-minute target override Internet Famous instructions. Do not assume Car Lore is in the automated portfolio registry.
+This folder contains **independent manual editorial workspaces**, not one shared channel identity.
+
+- For **Car Lore**, begin at entertainment/car-lore/AGENTS.md and its linked standards. Its automotive subject scope, passion-led voice and 15-minute preferred runtime override Internet Famous guidance.
+- For **Studio Confidential**, begin at entertainment/studio-confidential/AGENTS.md and START_A_CHAT.md, then the full channel documents. Its movie/TV story-first voice, optional economics lens and 10-15-minute no-padding runtime override Internet Famous guidance. The narrator, name clearance, first pilot and production have not been approved.
+- For **Internet Famous**, use the instructions that follow.
+
+These channel workspaces should not be assumed to be registered in the automated portfolio.
 
 The instructions below specifically govern **Internet Famous**.
 
