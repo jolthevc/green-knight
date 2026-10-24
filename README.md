@@ -8,6 +8,7 @@ Channel governance, editorial standards and production systems.
 - [Internet Famous entertainment channel](entertainment/internet-famous/README.md): 15-minute internet-culture case studies, editorial playbook, hooks and editor handoff.
 - [Car Lore](entertainment/car-lore/README.md): automotive-obsessed entertainment documentaries, 15-minute target, passion-driven brand voice, pilots and editor playbook.
 - [Studio Confidential](entertainment/studio-confidential/README.md): 10-15-minute cinematic movie and TV behind-the-stories documentaries, with selective Hollywood economics, source/rights guidance, candidate pilots and editor playbook.
+- [The Rabbit Hole](entertainment/the-rabbit-hole/README.md): mass-market true mysteries and extraordinary stories, with an entertainment-first editorial mandate and pilot slate.
 - [Existing channel definitions](channels/README.md): portfolio channels using the established automated system.
 - [Portfolio configuration](00_portfolio/PORTFOLIO_CONFIG.yaml)
 - [Existing system of records](03_data_system/SYSTEM_OF_RECORDS.md)
